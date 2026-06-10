@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin_habib",
+    "password_hash": "Yasmine938388",
+    "is_admin": true,
+    "links_claimed": 0
+  },
+  {
+    "username": "employee_one",
+    "password_hash": "user_key_123",
+    "is_admin": false,
+    "links_claimed": 3
+  }
+]
