@@ -1,0 +1,46 @@
+name: Automated Token Verification Engine
+
+on:
+  schedule:
+    # This is a cron schedule. '*/30 * * * *' means "Every 30 minutes"
+    # You can change the '30' to any number of minutes you want (e.g., */60 for hourly)
+    - cron: '*/30 * * * *'
+  
+  # This allows you to manually click a "Run workflow" button in GitHub to test it anytime
+  workflow_dispatch:
+
+jobs:
+  run-engine:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python Environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install Project Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests urllib3
+
+    - name: Run Verification Engine
+      run: python main.py
+
+    - name: Commit and Push Database Changes
+      run: |
+        git config --global user.name "Automated Engine"
+        git config --global user.email "actions@github.com"
+        
+        # Check if DB2 changed, or if files were deleted from DB1
+        git add DB2_Verified.json DB1_Raw/
+        
+        if git diff --staged --quiet; then
+          echo "No changes detected in databases. Skipping commit."
+        else
+          git commit -m "Automated database sync: Updated verified list & removed invalid raws [skip ci]"
+          git push
+        fi
