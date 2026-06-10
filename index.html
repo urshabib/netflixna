@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enterprise Portal</title>
+    <style>
+        :root {
+            --primary: #0284c7;
+            --success: #22c55e;
+            --dark: #0f172a;
+            --light: #f8fafc;
+            --border: #e2e8f0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--light);
+            color: var(--dark);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+            width: 100%;
+            max-width: 450px;
+            transition: max-width 0.3s ease;
+        }
+        .container.admin-mode {
+            max-width: 800px;
+        }
+        h2 { margin-top: 0; color: var(--dark); }
+        .form-group { margin-bottom: 15px; }
+        label { display: block; margin-bottom: 5px; font-weight: 500; }
+        input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            box-sizing: border-box;
+        }
+        button {
+            width: 100%;
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 12px;
+            border-radius: 6px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        button:hover { opacity: 0.9; }
+        .hidden { display: none !important; }
+        
+        /* Admin Dashboard Layout styling */
+        .stat-box {
+            background-color: #f0fdf4;
+            border: 2px solid var(--success);
+            color: #166534;
+            padding: 20px;
+            border-radius: 8px;
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .user-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        .user-table th, .user-table td {
+            border: 1px solid var(--border);
+            padding: 10px;
+            text-align: left;
+        }
+        .user-table th { background-color: #f1f5f9; }
+        .admin-actions {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .btn-small { width: auto; padding: 8px 15px; }
+    </style>
+</head>
+<body>
+
+<div class="container" id="portalContainer">
+    <div id="loginView">
+        <h2>Enterprise Login</h2>
+        <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" id="username" placeholder="Enter username">
+        </div>
+        <div class="form-group">
+            <label for="password">Access Key</label>
+            <input type="password" id="password" placeholder="Enter access key">
+        </div>
+        <button onclick="handleLogin()">Sign In</button>
+    </div>
+
+    <div id="userDashboard" class="hidden">
+        <h2>User Dashboard</h2>
+        <p>Welcome, <span id="portalUser">User</span>!</p>
+        <button style="background-color: var(--success);" onclick="claimLink()">Get Fresh Link</button>
+        <div id="linkResult" style="margin-top: 15px; word-break: break-all; font-weight: bold;"></div>
+        
+        <button id="adminPortalBtn" class="hidden" style="margin-top: 20px; background-color: var(--dark);" onclick="switchView('adminDashboard')">Open Admin Panel</button>
+    </div>
+
+    <div id="adminDashboard" class="hidden">
+        <h2>System Administration</h2>
+        
+        <div class="stat-box">
+            Remaining Raw Files (DB1): <span id="rawCount">0</span>
+        </div>
+
+        <h3>Registered System Users</h3>
+        <table class="user-table">
+            <thead>
+                <tr>
+                    <th>Username</th>
+                    <th>Role</th>
+                    <th>Links Claimed</th>
+                </tr>
+            </thead>
+            <tbody id="userTableBody">
+                </tbody>
+        </table>
+
+        <div class="admin-actions">
+            <button class="btn-small" style="background-color: #64748b;" onclick="switchView('userDashboard')">Back to Dashboard</button>
+            <button class="btn-small" onclick="createNewUser()">+ Create New User</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Simulated Client-Side State for Layout Testing
+    function handleLogin() {
+        const user = document.getElementById('username').value;
+        
+        document.getElementById('loginView').classList.add('hidden');
+        document.getElementById('userDashboard').classList.remove('hidden');
+        document.getElementById('portalUser').innerText = user;
+
+        // Visual simulation check: If username typed is admin, unveil the admin button
+        if (user.toLowerCase() === 'admin') {
+            document.getElementById('adminPortalBtn').classList.remove('hidden');
+        }
+    }
+
+    function switchView(viewId) {
+        const container = document.getElementById('portalContainer');
+        if (viewId === 'adminDashboard') {
+            container.classList.add('admin-mode');
+            document.getElementById('userDashboard').classList.add('hidden');
+            document.getElementById('adminDashboard').classList.remove('hidden');
+            
+            // Mock visual metrics for demonstration
+            document.getElementById('rawCount').innerText = "342";
+            document.getElementById('userTableBody').innerHTML = `
+                <tr><td>admin</td><td>Administrator</td><td>0</td></tr>
+                <tr><td>agent_01</td><td>User</td><td>42</td></tr>
+            `;
+        } else {
+            container.classList.remove('admin-mode');
+            document.getElementById('adminDashboard').classList.add('hidden');
+            document.getElementById('userDashboard').classList.remove('hidden');
+        }
+    }
+
+    function claimLink() {
+        document.getElementById('linkResult').innerText = "Fetching clean asset link...";
+        // Connection loop to Cloudflare Worker will sit here
+    }
+
+    function createNewUser() {
+        const name = prompt("Enter username for the new account:");
+        if (name) {
+            alert("User account structure initialized for: " + name);
+            // Secure call to Cloudflare Worker to write to users.json will sit here
+        }
+    }
+</script>
+</body>
+</html>
