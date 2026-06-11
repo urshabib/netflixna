@@ -277,7 +277,8 @@ def main():
         return
 
     # 2. Load the current working links
-    db2_data = load_db2()
+    # 2. Start with a fresh, empty database every time
+    db2_data = []
     
     # 3. Loop through every file in the folder
     files_processed = 0
