@@ -12,7 +12,7 @@
     </div>
 
     <header class="main-header hidden" id="mainHeader">
-        <div class="logo">ENTERPRISE</div>
+        <img src="src/logo.png" alt="Enterprise Logo" class="logo-img" onerror="this.style.display='none';">
         <button class="btn-logout" onclick="handleLogout()">Sign Out</button>
     </header>
 
@@ -50,6 +50,8 @@
                 <div id="countdownBox" class="countdown-notice hidden">
                     Access locked. Resets in: <span id="timerClock">00:00:00</span>
                 </div>
+
+                <button class="btn-secondary" style="width: 100%; margin-top: 15px;" onclick="window.location.href='tutorial.html'">Watch Tutorial</button>
             </div>
 
             <div id="linkResult" class="hidden"></div>
@@ -85,10 +87,11 @@
                             <th>Privilege</th>
                             <th>Total Claimed</th>
                             <th>24H Limit Rule</th>
+                            <th>Actions</th>
                         </tr>
                     </thead>
                     <tbody id="userTableBody">
-                        </tbody>
+                    </tbody>
                 </table>
             </div>
         </section>
@@ -120,6 +123,8 @@
             </div>
         </div>
     </div>
+
+    <div class="footer-glow">Made with love by Habib & Tysr</div>
 
     <script src="app.js"></script>
 </body>
