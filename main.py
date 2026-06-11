@@ -231,7 +231,7 @@ def process_single_file(filepath, filename, db2_data):
     """
     print(f"\n--- Checking: {filename} ---")
     # --- NEW LAYER: Check for zero payments ---
-    if "[0 payments]" in filename  or  "[Basic]" in filename  :
+    if "[0 payments]" in filename  or  "[Basic]" in filename  or  "[Standard with ads]" in filename  :
         print(f"File rejected: Contains [0 payments] in the name.")
         try:
             os.remove(filepath)
