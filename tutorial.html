@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Use the Portal</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Tutorial Specific Styles */
+        .tutorial-card { text-align: center; max-width: 650px; }
+        .tutorial-img-container {
+            width: 100%; height: 350px; background: #1f1f1f;
+            border: 1px solid var(--border-color); border-radius: 8px;
+            margin: 20px 0; display: flex; justify-content: center; align-items: center;
+            overflow: hidden;
+        }
+        .tutorial-img-container img { max-width: 100%; max-height: 100%; object-fit: contain; }
+        .tutorial-text { font-size: 16px; color: var(--text-white); margin-bottom: 30px; min-height: 40px; }
+        .tutorial-controls { display: flex; justify-content: space-between; gap: 10px; }
+        .tutorial-controls button { flex: 1; margin-top: 0; }
+        .step-indicator { margin-bottom: 10px; color: var(--netflix-red); font-weight: bold; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
+    </style>
+</head>
+<body>
+    <div class="auth-bg">
+        <img src="src/bg.jpg" alt="" onerror="this.style.display='none';">
+    </div>
+
+    <main class="portal-wrapper">
+        <section class="card tutorial-card">
+            <h2>System Tutorial</h2>
+            <div class="step-indicator" id="stepIndicator">Step 1 of 3</div>
+            
+            <div class="tutorial-img-container">
+                <img id="tutImage" src="src/tutorial-1.png" alt="Tutorial Image" onerror="this.src=''; this.alt='[Add tutorial-1.png to src folder]';">
+            </div>
+            
+            <p class="tutorial-text" id="tutText">Welcome to the portal. Type your assigned Username and Access Key to sign in securely.</p>
+            
+            <div class="tutorial-controls">
+                <button class="btn-secondary" id="btnPrev" onclick="changeSlide(-1)" disabled>Previous</button>
+                <button class="btn-primary" id="btnNext" onclick="changeSlide(1)">Next</button>
+            </div>
+        </section>
+    </main>
+
+    <div class="footer-glow">Made with love by User</div>
+
+    <script>
+        // Tutorial Slide Data
+        const slides = [
+            { img: "src/tutorial-1.png", text: "Welcome to the portal. Type your assigned Username and Access Key to sign in securely." },
+            { img: "src/tutorial-2.png", text: "Click the red 'Get Fresh Link' button. The system will securely provision a verified account for you." },
+            { img: "src/tutorial-3.png", text: "Click 'Copy Link' to save it, or 'Open Account' to launch it directly in a new tab." }
+        ];
+
+        let currentIndex = 0;
+
+        function updateSlide() {
+            document.getElementById('tutImage').src = slides[currentIndex].img;
+            document.getElementById('tutText').innerText = slides[currentIndex].text;
+            document.getElementById('stepIndicator').innerText = `Step ${currentIndex + 1} of ${slides.length}`;
+            
+            document.getElementById('btnPrev').disabled = (currentIndex === 0);
+            
+            const btnNext = document.getElementById('btnNext');
+            if (currentIndex === slides.length - 1) {
+                btnNext.innerText = "Done";
+                btnNext.style.backgroundColor = "#22c55e"; // Green finish button
+            } else {
+                btnNext.innerText = "Next";
+                btnNext.style.backgroundColor = "var(--netflix-red)";
+            }
+        }
+
+        function changeSlide(direction) {
+            if (currentIndex === slides.length - 1 && direction === 1) {
+                window.location.href = "index.html"; // Redirect back to main app
+                return;
+            }
+            currentIndex += direction;
+            updateSlide();
+        }
+    </script>
+</body>
+</html>
