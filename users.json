@@ -27,8 +27,8 @@
     "username": "a",
     "password_hash": "a",
     "is_admin": false,
-    "links_claimed": 6,
+    "links_claimed": 7,
     "has_limit": false,
-    "last_claimed_at": "2026-06-11T16:30:31.420Z"
+    "last_claimed_at": "2026-06-11T16:31:02.376Z"
   }
 ]
