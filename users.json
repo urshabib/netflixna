@@ -20,13 +20,5 @@
     "password_hash": "user_key_123",
     "is_admin": false,
     "links_claimed": 3
-  },
-  {
-    "username": "zebi",
-    "password_hash": "a",
-    "is_admin": false,
-    "links_claimed": 9,
-    "has_limit": false,
-    "last_claimed_at": "2026-06-11T11:56:05.422Z"
   }
 ]
