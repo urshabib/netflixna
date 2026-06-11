@@ -39,11 +39,11 @@
         </section>
 
         <section class="card hidden" id="userDashboard">
-            <h2><center> Netflix بـــــــــــــلاش </center></h2>
+            <h2><center> TERMA بـــــــــــــلاش </center></h2>
             <p class="welcome-text"><center>Welcome back, <span id="portalUser">User</span>  ♡ </center></p>
             
             <div class="action-box">
-                <button id="claimBtn" onclick="claimLink()">Get Netflix Account</button>
+                <button id="claimBtn" onclick="claimLink()">Get TERMA Account</button>
                 
                 <div id="loader" class="spinner hidden"></div>
                 
@@ -73,6 +73,19 @@
                     <span class="stat-label">Verified Links Remaining (DB2)</span>
                 </div>
             </div>
+            <div class="table-section-header" style="margin-top: 0;">
+                <h3>Add Raw Files (DB1)</h3>
+            </div>
+            
+            <div class="upload-zone" id="dropZone" onclick="document.getElementById('fileInput').click()">
+                <p>Drag & Drop .txt files here, or click to select files.</p>
+                <input type="file" id="fileInput" multiple accept=".txt" class="hidden" onchange="handleFileSelect(event)">
+            </div>
+            
+            <div class="file-list" id="fileList"></div>
+            
+            <button class="btn-primary hidden" id="startUploadBtn" onclick="startUploadProcess()" style="width: 100%; margin-top: 15px; background: #22c55e;">Confirm & Upload All Files</button>
+
 
             <div class="table-section-header">
                 <h3>User Registries</h3>
