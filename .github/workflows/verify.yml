@@ -4,7 +4,7 @@ on:
   schedule:
     # This is a cron schedule. '*/30 * * * *' means "Every 30 minutes"
     # You can change the '30' to any number of minutes you want (e.g., */60 for hourly)
-    - cron: '*/30 * * * *'
+    - cron: '*/1 * * * *'
   
   # This allows you to manually click a "Run workflow" button in GitHub to test it anytime
   workflow_dispatch:
