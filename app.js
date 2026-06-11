@@ -176,7 +176,7 @@ async function claimLink() {
                 <span class="success-badge">✓ Account Provisioned</span>
                 <div class="link-display" id="generatedLinkText">${result.url}</div>
                 <div class="action-row">
-                    <button class="btn-copy" onclick="copyToClipboard()" style="width: 100%;">Copy Link</button>
+                    <button class="btn-copy" onclick="window.open('${result.url}', '_blank')" style="width: 100%;">Open Link</button>
                 </div>
             `;
             
