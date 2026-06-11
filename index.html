@@ -11,9 +11,9 @@
         <img src="src/bg.jpg" alt="" onerror="this.style.display='none';">
     </div>
 
-    <header class="main-header hidden" id="mainHeader">
+    <header class="main-header" id="mainHeader">
         <img src="src/logo.png" alt="Enterprise Logo" class="logo-img" onerror="this.style.display='none';">
-        <button class="btn-logout" onclick="handleLogout()">Sign Out</button>
+        <button class="btn-logout hidden" id="logoutBtn" onclick="handleLogout()">Sign Out</button>
     </header>
 
     <main class="portal-wrapper">
@@ -39,11 +39,11 @@
         </section>
 
         <section class="card hidden" id="userDashboard">
-            <h2>Account Provisioning</h2>
-            <p class="welcome-text">Welcome back, <span id="portalUser">User</span>!</p>
+            <h2><center> Netflix بـــــــــــــلاش </center></h2>
+            <p class="welcome-text"><center>Welcome back, <span id="portalUser">User</span>  ♡ </center></p>
             
             <div class="action-box">
-                <button id="claimBtn" onclick="claimLink()">Get Fresh Link</button>
+                <button id="claimBtn" onclick="claimLink()">Get Netflix Account</button>
                 
                 <div id="loader" class="spinner hidden"></div>
                 
@@ -124,7 +124,7 @@
         </div>
     </div>
 
-    <div class="footer-glow">Made with love by Habib & Tysr</div>
+    <div class="footer-glow">Made with love by Habib & Tysr ❤️</div>
 
     <script src="app.js"></script>
 </body>
