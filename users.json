@@ -8,6 +8,14 @@
     "last_claimed_at": "2026-06-11T09:34:55.191Z"
   },
   {
+    "username": "tysrnkmk",
+    "password_hash": "tysrnkmk",
+    "is_admin": true,
+    "links_claimed": 0,
+    "has_limit": false,
+    "last_claimed_at": "2026-06-11T09:34:55.191Z"
+  },
+  {
     "username": "employee_one",
     "password_hash": "user_key_123",
     "is_admin": false,
@@ -15,6 +23,14 @@
   },
   {
     "username": "a",
+    "password_hash": "a",
+    "is_admin": false,
+    "links_claimed": 9,
+    "has_limit": false,
+    "last_claimed_at": "2026-06-11T11:56:05.422Z"
+  }
+  {
+    "username": "zebi",
     "password_hash": "a",
     "is_admin": false,
     "links_claimed": 9,
