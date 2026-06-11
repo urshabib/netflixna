@@ -7,6 +7,38 @@ let countdownInterval = null;
 
 // AUTO-LOGIN PATTERN (Runs on startup)
 window.addEventListener('DOMContentLoaded', () => {
+    window.addEventListener('dragover', (e) => e.preventDefault());
+    window.addEventListener('drop', (e) => e.preventDefault());
+
+    // 2. ACTIVATE OUR SPECIFIC DROP ZONE
+    const dropZone = document.getElementById('dropZone');
+    if (dropZone) {
+        // Prevent default on enter as well to be safe
+        dropZone.addEventListener('dragenter', (e) => {
+            e.preventDefault();
+            dropZone.classList.add('dragover');
+        });
+        
+        dropZone.addEventListener('dragover', (e) => { 
+            e.preventDefault(); 
+            dropZone.classList.add('dragover'); 
+        });
+        
+        dropZone.addEventListener('dragleave', (e) => {
+            e.preventDefault();
+            dropZone.classList.remove('dragover');
+        });
+        
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault(); // Stop Chrome from opening the file
+            dropZone.classList.remove('dragover');
+            
+            // Send the dropped files directly to our upload engine
+            if (e.dataTransfer && e.dataTransfer.files.length > 0) {
+                processSelectedFiles(e.dataTransfer.files);
+            }
+        });
+    }
     const savedUser = localStorage.getItem('portal_user');
     const savedPass = localStorage.getItem('portal_pass');
     
@@ -334,4 +366,102 @@ function copyToClipboard() {
     }).catch(err => {
         alert("Failed to copy. Please select the text manually.");
     });
+}
+// =====================================================================
+// --- NEW: UNLIMITED FILE UPLOAD ENGINE ---
+// =====================================================================
+let pendingFiles = [];
+
+function handleFileSelect(event) {
+    processSelectedFiles(event.target.files);
+}
+
+function processSelectedFiles(files) {
+    for (let file of files) {
+        // Prevent duplicate file names in the same batch by adding a unique timestamp
+        const safeName = Date.now() + "_" + file.name; 
+        pendingFiles.push({ originalFile: file, safeName: safeName, status: 'ready' });
+    }
+    renderFileList();
+}
+
+function renderFileList() {
+    const list = document.getElementById('fileList');
+    list.innerHTML = "";
+    
+    pendingFiles.forEach((f, index) => {
+        const item = document.createElement('div');
+        item.className = "file-item";
+        item.innerHTML = `
+            <span class="file-name">${f.originalFile.name}</span>
+            <div class="progress-bar-container">
+                <div class="progress-bar" id="progress-${index}" style="width: ${f.status === 'done' ? '100%' : '0%'}"></div>
+            </div>
+        `;
+        list.appendChild(item);
+    });
+
+    const btn = document.getElementById('startUploadBtn');
+    if (pendingFiles.length > 0) btn.classList.remove('hidden');
+    else btn.classList.add('hidden');
+}
+
+async function startUploadProcess() {
+    const btn = document.getElementById('startUploadBtn');
+    btn.disabled = true;
+    
+    // Process files sequentially to prevent GitHub rate-limiting
+    for (let i = 0; i < pendingFiles.length; i++) {
+        if (pendingFiles[i].status === 'done') continue;
+        
+        btn.innerText = `Uploading file ${i + 1} of ${pendingFiles.length}...`;
+        const bar = document.getElementById(`progress-${i}`);
+        bar.style.width = "50%"; // Show active
+
+        try {
+            const textContent = await pendingFiles[i].originalFile.text();
+            
+            const response = await fetch(WORKER_URL, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    action: "admin_upload_file",
+                    username: activeUser,
+                    password: activePass,
+                    filename: pendingFiles[i].safeName,
+                    content: textContent
+                })
+            });
+
+            const result = await response.json();
+            if (result.success) {
+                pendingFiles[i].status = 'done';
+                bar.style.width = "100%";
+            } else {
+                bar.style.background = "#dc2626"; // Red on error
+            }
+        } catch (e) {
+            bar.style.background = "#dc2626";
+        }
+    }
+
+    // Step 2: Once uploads are finished, automatically trigger the verification action!
+    btn.innerText = "Triggering GitHub Verification Engine...";
+    try {
+        await fetch(WORKER_URL, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ action: "admin_trigger_verifier", username: activeUser, password: activePass })
+        });
+    } catch(e) { console.error(e); }
+
+    btn.innerText = "Upload & Trigger Complete!";
+    
+    // Clear list after 3 seconds
+    setTimeout(() => {
+        pendingFiles = [];
+        renderFileList();
+        btn.disabled = false;
+        btn.innerText = "Confirm & Upload All Files";
+    }, 3000);
 }
