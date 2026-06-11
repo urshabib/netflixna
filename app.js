@@ -48,7 +48,7 @@ async function handleLogin(isAuto = false) {
 
             // UI Interface Transitions
             document.getElementById('loginView').classList.add('hidden');
-            document.getElementById('mainHeader').classList.remove('hidden');
+            document.getElementById('logoutBtn').classList.remove('hidden'); // Reveal Sign Out button
             document.getElementById('userDashboard').classList.remove('hidden');
             document.getElementById('portalUser').innerText = activeUser;
 
@@ -80,7 +80,7 @@ function handleLogout() {
     activePass = "";
     clearInterval(countdownInterval);
     
-    document.getElementById('mainHeader').classList.add('hidden');
+    document.getElementById('logoutBtn').classList.add('hidden'); // Hide Sign Out button
     document.getElementById('userDashboard').classList.add('hidden');
     document.getElementById('adminDashboard').classList.add('hidden');
     document.getElementById('loginView').classList.remove('hidden');
@@ -139,13 +139,12 @@ async function claimLink() {
         const result = await response.json();
 
         if (result.success) {
-            // Build the beautiful Success Card UI
+            // Build the beautiful Success Card UI (Open Account button removed)
             resultBox.innerHTML = `
                 <span class="success-badge">✓ Account Provisioned</span>
                 <div class="link-display" id="generatedLinkText">${result.url}</div>
                 <div class="action-row">
-                    <button class="btn-copy" onclick="copyToClipboard()">Copy Link</button>
-                    <button class="btn-primary" onclick="window.open('${result.url}', '_blank')">Open Account</button>
+                    <button class="btn-copy" onclick="copyToClipboard()" style="width: 100%;">Copy Link</button>
                 </div>
             `;
             
