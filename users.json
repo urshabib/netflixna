@@ -27,13 +27,5 @@
     "is_admin": false,
     "links_claimed": 0,
     "has_limit": false
-  },
-  {
-    "username": "b",
-    "password_hash": "b",
-    "is_admin": false,
-    "links_claimed": 1,
-    "has_limit": false,
-    "last_claimed_at": "2026-06-11T08:39:35.400Z"
   }
 ]
