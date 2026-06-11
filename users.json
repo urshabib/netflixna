@@ -11,5 +11,12 @@
     "password_hash": "user_key_123",
     "is_admin": false,
     "links_claimed": 3
+  },
+  {
+    "username": "a",
+    "password_hash": "a",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": true
   }
 ]
