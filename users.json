@@ -26,5 +26,12 @@
     "is_admin": false,
     "links_claimed": 0,
     "has_limit": true
+  },
+  {
+    "username": "b",
+    "password_hash": "b",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": true
   }
 ]
