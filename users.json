@@ -14,5 +14,12 @@
     "links_claimed": 0,
     "has_limit": false,
     "last_claimed_at": "2026-06-11T09:34:55.191Z"
+  },
+  {
+    "username": "habib",
+    "password_hash": "EFUJDFDF",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": true
   }
 ]
