@@ -1,20 +1,19 @@
 // Point this to your live Cloudflare API deployment
-
 const WORKER_URL = "https://portal-api.urshabib.workers.dev/";
 
 let activeUser = "";
 let activePass = "";
 let countdownInterval = null;
 
-// AUTO-LOGIN PATTERN (Runs on startup)
+// AUTO-LOGIN PATTERN & DRAG-DROP INITIALIZATION
 window.addEventListener('DOMContentLoaded', () => {
+    // 1. STOP CHROME'S DEFAULT BEHAVIOR GLOBALLY
     window.addEventListener('dragover', (e) => e.preventDefault());
     window.addEventListener('drop', (e) => e.preventDefault());
 
     // 2. ACTIVATE OUR SPECIFIC DROP ZONE
     const dropZone = document.getElementById('dropZone');
     if (dropZone) {
-        // Prevent default on enter as well to be safe
         dropZone.addEventListener('dragenter', (e) => {
             e.preventDefault();
             dropZone.classList.add('dragover');
@@ -40,6 +39,7 @@ window.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
+
     const savedUser = localStorage.getItem('portal_user');
     const savedPass = localStorage.getItem('portal_pass');
     
@@ -73,15 +73,13 @@ async function handleLogin(isAuto = false) {
             activeUser = user;
             activePass = pass;
 
-            // Handle Local Session Cache Persistence
             if (document.getElementById('rememberMe').checked) {
                 localStorage.setItem('portal_user', user);
                 localStorage.setItem('portal_pass', pass);
             }
 
-            // UI Interface Transitions
             document.getElementById('loginView').classList.add('hidden');
-            document.getElementById('logoutBtn').classList.remove('hidden'); // Reveal Sign Out button
+            document.getElementById('logoutBtn').classList.remove('hidden'); 
             document.getElementById('userDashboard').classList.remove('hidden');
             document.getElementById('portalUser').innerText = activeUser;
 
@@ -89,7 +87,6 @@ async function handleLogin(isAuto = false) {
                 document.getElementById('adminPortalBtn').classList.remove('hidden');
             }
 
-            // Evaluate if user is currently locked by a 24-Hour Cooldown restriction
             if (result.last_claimed_at && result.has_limit) {
                 evaluateCooldown(result.last_claimed_at);
             }
@@ -113,7 +110,7 @@ function handleLogout() {
     activePass = "";
     clearInterval(countdownInterval);
     
-    document.getElementById('logoutBtn').classList.add('hidden'); // Hide Sign Out button
+    document.getElementById('logoutBtn').classList.add('hidden'); 
     document.getElementById('userDashboard').classList.add('hidden');
     document.getElementById('adminDashboard').classList.add('hidden');
     document.getElementById('loginView').classList.remove('hidden');
@@ -128,7 +125,7 @@ function evaluateCooldown(lastClaimedIso) {
     clearInterval(countdownInterval);
 
     const lastClaimTime = new Date(lastClaimedIso).getTime();
-    const lockDuration = 24 * 60 * 60 * 1000; // 24 Hours in Milliseconds
+    const lockDuration = 24 * 60 * 60 * 1000; 
 
     countdownInterval = setInterval(() => {
         const now = new Date().getTime();
@@ -143,7 +140,6 @@ function evaluateCooldown(lastClaimedIso) {
             claimBtn.disabled = true;
             countdownBox.classList.remove('hidden');
             
-            // Format time delta to 00:00:00 structural display
             const hrs = Math.floor((timeRemaining % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
             const mins = Math.floor((timeRemaining % (1000 * 60 * 60)) / (1000 * 60));
             const secs = Math.floor((timeRemaining % (1000 * 60)) / 1000);
@@ -172,19 +168,18 @@ async function claimLink() {
         const result = await response.json();
 
         if (result.success) {
-            // Build the beautiful Success Card UI (Open Account button removed)
+            // ---> THIS IS THE FIXED BUTTON BLOCK <---
             resultBox.innerHTML = `
                 <span class="success-badge">✓ Account Provisioned</span>
                 <div class="link-display" id="generatedLinkText">${result.url}</div>
                 <div class="action-row">
-                    <button class="btn-copy" onclick="copyToClipboard()" style="width: 100%;">Copy Link</button>
+                    <button class="btn-copy" onclick="copyToClipboard()">Copy Link</button>
                     <button class="btn-primary" onclick="window.open('${result.url}', '_blank')">Open Account</button>
                 </div>
             `;
             
             resultBox.classList.remove('hidden');
             
-            // If the user profile returned contains limitation tracking constraints, trigger lock
             if (result.last_claimed_at && result.has_limit) {
                 evaluateCooldown(result.last_claimed_at);
             }
@@ -307,7 +302,7 @@ async function submitNewUser() {
 
         if (result.success) {
             toggleModal(false);
-            await loadAdminMetrics(); // Refresh panel lists
+            await loadAdminMetrics(); 
             document.getElementById('newUsername').value = "";
             document.getElementById('newPassword').value = "";
         } else {
@@ -329,7 +324,7 @@ async function resetUserTimer(targetUser) {
         const result = await response.json();
         if (result.success) {
             alert(`Timer reset for ${targetUser}. They can claim a link immediately.`);
-            await loadAdminMetrics(); // Refresh table
+            await loadAdminMetrics(); 
         } else alert("Error: " + result.message);
     } catch (e) { alert("Failed to contact server."); }
 }
@@ -344,7 +339,7 @@ async function deleteUser(targetUser) {
         });
         const result = await response.json();
         if (result.success) {
-            await loadAdminMetrics(); // Refresh table
+            await loadAdminMetrics(); 
         } else alert("Error: " + result.message);
     } catch (e) { alert("Failed to contact server."); }
 }
@@ -353,7 +348,6 @@ async function deleteUser(targetUser) {
 function copyToClipboard() {
     const linkText = document.getElementById('generatedLinkText').innerText;
     navigator.clipboard.writeText(linkText).then(() => {
-        // Change button text temporarily to show success
         const copyBtn = document.querySelector('.btn-copy');
         const originalText = copyBtn.innerText;
         copyBtn.innerText = "Copied! ✓";
@@ -369,6 +363,7 @@ function copyToClipboard() {
         alert("Failed to copy. Please select the text manually.");
     });
 }
+
 // =====================================================================
 // --- NEW: UNLIMITED FILE UPLOAD ENGINE ---
 // =====================================================================
@@ -380,7 +375,6 @@ function handleFileSelect(event) {
 
 function processSelectedFiles(files) {
     for (let file of files) {
-        // Prevent duplicate file names in the same batch by adding a unique timestamp
         const safeName = Date.now() + "_" + file.name; 
         pendingFiles.push({ originalFile: file, safeName: safeName, status: 'ready' });
     }
@@ -412,13 +406,12 @@ async function startUploadProcess() {
     const btn = document.getElementById('startUploadBtn');
     btn.disabled = true;
     
-    // Process files sequentially to prevent GitHub rate-limiting
     for (let i = 0; i < pendingFiles.length; i++) {
         if (pendingFiles[i].status === 'done') continue;
         
         btn.innerText = `Uploading file ${i + 1} of ${pendingFiles.length}...`;
         const bar = document.getElementById(`progress-${i}`);
-        bar.style.width = "50%"; // Show active
+        bar.style.width = "50%"; 
 
         try {
             const textContent = await pendingFiles[i].originalFile.text();
@@ -440,14 +433,13 @@ async function startUploadProcess() {
                 pendingFiles[i].status = 'done';
                 bar.style.width = "100%";
             } else {
-                bar.style.background = "#dc2626"; // Red on error
+                bar.style.background = "#dc2626"; 
             }
         } catch (e) {
             bar.style.background = "#dc2626";
         }
     }
 
-    // Step 2: Once uploads are finished, automatically trigger the verification action!
     btn.innerText = "Triggering GitHub Verification Engine...";
     try {
         await fetch(WORKER_URL, {
@@ -459,7 +451,6 @@ async function startUploadProcess() {
 
     btn.innerText = "Upload & Trigger Complete!";
     
-    // Clear list after 3 seconds
     setTimeout(() => {
         pendingFiles = [];
         renderFileList();
