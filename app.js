@@ -1,5 +1,5 @@
 // Point this to your live Cloudflare API deployment
-const WORKER_URL = "https://netflixna.urshabib.workers.dev/";
+const WORKER_URL = "https://portal-api.urshabib.workers.dev/";
 
 let activeUser = "";
 let activePass = "";
@@ -139,7 +139,16 @@ async function claimLink() {
         const result = await response.json();
 
         if (result.success) {
-            resultBox.innerText = result.url;
+            // Build the beautiful Success Card UI
+            resultBox.innerHTML = `
+                <span class="success-badge">✓ Account Provisioned</span>
+                <div class="link-display" id="generatedLinkText">${result.url}</div>
+                <div class="action-row">
+                    <button class="btn-copy" onclick="copyToClipboard()">Copy Link</button>
+                    <button class="btn-primary" onclick="window.open('${result.url}', '_blank')">Open Account</button>
+                </div>
+            `;
+            
             resultBox.classList.remove('hidden');
             
             // If the user profile returned contains limitation tracking constraints, trigger lock
@@ -200,6 +209,12 @@ async function loadAdminMetrics() {
                             <input type="checkbox" ${user.has_limit ? 'checked' : ''} onchange="toggleUserLimit('${user.username}', this.checked)">
                             <span class="slider"></span>
                         </label>
+                        `}
+                    </td>
+                    <td>
+                        ${user.is_admin ? '' : `
+                        <button class="btn-secondary" style="padding: 6px 10px; font-size: 12px; margin-right: 5px;" onclick="resetUserTimer('${user.username}')">Reset Timer</button>
+                        <button style="background-color: #dc2626; padding: 6px 10px; font-size: 12px;" onclick="deleteUser('${user.username}')">Delete</button>
                         `}
                     </td>
                 `;
@@ -268,4 +283,56 @@ async function submitNewUser() {
     } catch (e) {
         alert("Failed to commit new system user structure.");
     }
+}
+
+async function resetUserTimer(targetUser) {
+    if (!confirm(`Clear the 24-hour waiting period for ${targetUser}?`)) return;
+    try {
+        const response = await fetch(WORKER_URL, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ action: "admin_reset_limit", username: activeUser, password: activePass, target_user: targetUser })
+        });
+        const result = await response.json();
+        if (result.success) {
+            alert(`Timer reset for ${targetUser}. They can claim a link immediately.`);
+            await loadAdminMetrics(); // Refresh table
+        } else alert("Error: " + result.message);
+    } catch (e) { alert("Failed to contact server."); }
+}
+
+async function deleteUser(targetUser) {
+    if (!confirm(`CRITICAL WARNING: Are you absolutely sure you want to completely delete ${targetUser}? This cannot be undone.`)) return;
+    try {
+        const response = await fetch(WORKER_URL, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ action: "admin_delete_user", username: activeUser, password: activePass, target_user: targetUser })
+        });
+        const result = await response.json();
+        if (result.success) {
+            await loadAdminMetrics(); // Refresh table
+        } else alert("Error: " + result.message);
+    } catch (e) { alert("Failed to contact server."); }
+}
+
+// --- UTILITY FUNCTIONS ---
+function copyToClipboard() {
+    const linkText = document.getElementById('generatedLinkText').innerText;
+    navigator.clipboard.writeText(linkText).then(() => {
+        // Change button text temporarily to show success
+        const copyBtn = document.querySelector('.btn-copy');
+        const originalText = copyBtn.innerText;
+        copyBtn.innerText = "Copied! ✓";
+        copyBtn.style.background = "#22c55e";
+        copyBtn.style.borderColor = "#22c55e";
+        
+        setTimeout(() => {
+            copyBtn.innerText = originalText;
+            copyBtn.style.background = "#333";
+            copyBtn.style.borderColor = "#555";
+        }, 2000);
+    }).catch(err => {
+        alert("Failed to copy. Please select the text manually.");
+    });
 }
