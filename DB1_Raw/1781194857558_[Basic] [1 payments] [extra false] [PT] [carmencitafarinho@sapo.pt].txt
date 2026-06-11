@@ -1,0 +1,25 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: carmencitafarinho@sapo.pt
+– Verified: false
+– Profile: Carmencita
+– Plan: Basic
+– Next billing: 13 de junho de 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (VISA 5958)
+– Cookies: Admin @logslead
+
+.netflix.com	TRUE	/	FALSE	1783709036	dsca	customer
+.netflix.com	TRUE	/	FALSE	1783709036	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1783709036	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783709036	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783709036	nfvdid	BQFmAAEBECV4bwd3KYJd-Fkah8cttElgzgLuG7vh_L9WNdoXGiEf9XbcpHM_cjZtgsAMSBw_bdufjsVB8srbVSUJ_bLfzDaea4rVyfhJDNUABYAsVOXSwjC-s647f_EMv-86iyvZX95JQVsA0P4bgUI16CvQDwDu
+.netflix.com	TRUE	/	FALSE	1783709036	OptanonAlertBoxClosed	2025-09-03T09:13:14.256Z
+.netflix.com	TRUE	/	FALSE	1783709036	flwssn	18996cd6-ed46-4601-9404-e2ab564add59
+.netflix.com	TRUE	/	TRUE	4221515630	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTyg1PhvCFt7G24mmRhZjcL0fe2eVmpSpE.%26dt%3D1767981850786
+.netflix.com	TRUE	/	TRUE	4221515630	NetflixId	ct%3DBgjHlOvcAxLeA5KBNUWwsLTAyWaOs-jxLvThwbDdoeItny1EsyhJiLtc8MmCFJwaOvw9zlSw6h0i61wnfc7G93rvRqyV_yUdvKC1WbHY2tv-4A1wJlSrXr5fEE4b7h9u789JnQXF1PWIMTjtNWs5ispg7EcjjjH81fvZzIwh3_I62P7RUJt6Vg1rFGkCBxRsJzfo0CLnZpDBEcWO9sFSXLARAkbrzjjjoonzgZnPmHfy60G47pczzjQ8-xzXrvhRzwn4p9ILvgLV_3DVk66bCwRsN3MqI8JJXUnJE3BDK48PMCTlBEQ0jaBEXFxPo8WpS_3y14SJfyQLKoQSMzzNM2fnoeJOqfBLolvLTZF72xUNEI6XNQjCv4XZvPGM_aZ_SleJeu2XNEitIqqqFtCY-Ywmb8YCvYFR_TOeCQIM_rNshLNlMkjpsTgk-6TZNV8udJndW9Iu8kiqDL655xsPI1pxFewSBISkPjZ_nkD-kUbDdyAmI12z32NUHkOlvmWGz9K029pLR7-Uv84FoqE5y4e5rC1qijtBGnxiY4-UUAZYpuQnQGZ7pUSqgH_cgQ90l10M2ZTFuXTROpDnyRksq6qcineVE7IuaeNgw6oa8aFPLOdQS_F9NZaeByyUtdL-XckSYoVEnSoYBiIOCgxrXjWrM7nMLg05hac.%26ch%3DAQEAEAABABTnEQU8APfMr0-rC5BbuSNnUh6DxqZya0E.%26v%3D3%26pg%3D3Q4ZISRDPZDN5GNEXTVKNF3VBQ
+.netflix.com	TRUE	/	TRUE	2836687702	gsid	83289a6d-d787-4470-b793-8f00a00336a3
+.netflix.com	TRUE	/	FALSE	4221517272	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+18%3A04%3A07+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=ad9bb53a-4d79-496e-b90e-1692dcb1b595&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=PT%3B14&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	FALSE	2764166877	profilesNewSession	0
