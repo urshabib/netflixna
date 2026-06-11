@@ -36,7 +36,7 @@ jobs:
         git config --global user.email "actions@github.com"
         
         # Check if DB2 changed, or if files were deleted from DB1
-        git add DB2_Verified.json DB1_Raw/
+        git add -A
         
         if git diff --staged --quiet; then
           echo "No changes detected in databases. Skipping commit."
