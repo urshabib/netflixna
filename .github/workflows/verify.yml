@@ -2,11 +2,8 @@ name: Automated Token Verification Engine
 
 on:
   schedule:
-    # This is a cron schedule. '*/30 * * * *' means "Every 30 minutes"
-    # You can change the '30' to any number of minutes you want (e.g., */60 for hourly)
     - cron: '*/5 * * * *'
   
-  # This allows you to manually click a "Run workflow" button in GitHub to test it anytime
   workflow_dispatch:
 
 jobs:
@@ -16,6 +13,8 @@ jobs:
     steps:
     - name: Checkout Repository Code
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # <-- CRITICAL FIX: Downloads full history so merging works
 
     - name: Set up Python Environment
       uses: actions/setup-python@v5
@@ -35,7 +34,6 @@ jobs:
         git config --global user.name "Automated Engine"
         git config --global user.email "actions@github.com"
         
-        # Check if DB2 changed, or if files were deleted from DB1
         git add -A
         
         if git diff --staged --quiet; then
@@ -43,8 +41,15 @@ jobs:
         else
           git commit -m "Automated database sync: Updated verified list & removed invalid raws [skip ci]"
           
-          # --- THE FIX: Download last-second website changes before pushing ---
-          git pull --rebase origin main
-          
-          git push
+          # --- THE BULLETPROOF RETRY LOOP ---
+          # Tries to push. If blocked by a website user, it waits, pulls their data, and retries.
+          n=0
+          until [ "$n" -ge 5 ]
+          do
+             git pull --rebase origin main || true
+             git push && break
+             n=$((n+1))
+             echo "Race condition detected. Retrying push $n of 5..."
+             sleep 5
+          done
         fi
