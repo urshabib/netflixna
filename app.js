@@ -1,5 +1,5 @@
 // Point this to your live Cloudflare API deployment
-const WORKER_URL = "https://portal-api.hazemthm.workers.dev/";
+const WORKER_URL = "https://netflixna.urshabib.workers.dev/";
 
 let activeUser = "";
 let activePass = "";
