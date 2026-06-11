@@ -25,9 +25,9 @@
     "username": "a",
     "password_hash": "a",
     "is_admin": false,
-    "links_claimed": 12,
+    "links_claimed": 13,
     "has_limit": false,
-    "last_claimed_at": "2026-06-11T14:17:22.107Z"
+    "last_claimed_at": "2026-06-11T14:19:12.555Z"
   },
   {
     "username": "zebi",
