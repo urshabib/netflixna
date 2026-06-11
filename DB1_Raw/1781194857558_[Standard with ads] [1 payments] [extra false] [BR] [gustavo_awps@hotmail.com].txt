@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: gustavo_awps@hotmail.com
+– Verified: false
+– Profile: Gustavo
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | MERCADO_LIBRE_B_BILLED ( )
+– Cookies: Admin @logslead
+
+.netflix.com	TRUE	/	FALSE	1798540547	OptanonAlertBoxClosed	2025-12-29T10:35:47.779Z
+.netflix.com	TRUE	/	FALSE	1798540584	nfvdid	BQFmAAEBEFu0N6BzgO4QnCJHFCGQQg5gk4auD0JrjK9fFOJ-GEnvR74hpl68y7_owCWSM7R8kZx7Qv_qDChf6lSGjeq4-NK5Tq8Lmqo-AxjIztdkTUm_gzd9FGVka3ylQm6aYgX1N5uxwfyE36hU_J731OO-vkQX
+.netflix.com	TRUE	/	TRUE	1801564781	dsca	true
+.netflix.com	TRUE	/	FALSE	1783709036	flwssn	37071efc-c55e-4e91-9bd0-f20180027e0a
+.netflix.com	TRUE	/	TRUE	1783709036	gsid	e7bc9c40-3c19-4e0d-ac5d-32149756c2ec
+.netflix.com	TRUE	/	TRUE	1798540823	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AgnwB32YknPfb5VNpT_EdO0xs6gDlncKjLlyeaJ6ix57b2F6FMjjT9QrkVeGzs5LZXpsZEoOEoe_PwWQPGLNM2Cx76g56IGqOzus91HVzMjN3xsWQObGu1UsOTIjwzU4VAnWgAmI0KH1CLqVlBQpeFgsKCn632wgBN7ZX-EqtZjWhOg_pCqjShKD6GrNz9q6q6vxcV4gRSKtddWDHjiUCWfY3BHt25_lc9kQ6ElH_J9vHofUlFlvU5tIlpBJHlbYpJMfltks00Bir0dGKMjQ87GKNEKWruAIpqUbyLfuUeLv-It6PJLSizkKEmy_BxoNeATQSPrC7Om3Z-mKoACr7pWKtfCeUHvcMtKsxjmMdj9fP958zkd5uV_Q5KWLA0vwSpD11ie9xGMC4EEG0SWI8ZJaRL_GiuYbcl7YRjyXKyIYE9E38DJ7jZortgjiUCWFeOiS7SEkX5_43UOzvI9QI_Yaat4wvxfXv5_3kECt5ktTea2Ni7BxlRB4GAYiDgoMI8SVtoueYUgWa9Jc%26pg%3DEJYN7XO2G5FMJBF6TUMQKWYVRI%26ch%3DAQEAEAABABRxr2pvW8MEum-G-Gkw2hP3WqHtdywNpF0.
+.netflix.com	TRUE	/	FALSE	1798540825	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+29+2025+07%3A40%3A25+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=460888d7-736b-40c6-ae02-90ee2f369091&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BGO&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798540823	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRFxwnbI9jZWJiM6drULSvRhRMQUc1rr2I.%26dt%3D1767004823666
+.netflix.com	TRUE	/	FALSE	1783709036	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783709036	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783709036	profilesNewSession	0
