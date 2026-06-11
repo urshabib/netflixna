@@ -1,6 +1,6 @@
 :root {
     --bg-main: #141414;
-    --card-bg: rgba(0, 0, 0, 0.85);
+    --card-bg: #0a0a0a; /* FIX: Changed to 100% solid color to block inner light bleed */
     --netflix-red: #E50914;
     --text-white: #FFFFFF;
     --text-muted: #8C8C8C;
@@ -41,7 +41,7 @@ body {
     z-index: 10;
 }
 .logo-img {
-    height: 45px; /* Adjust this to change logo size */
+    height: 45px;
     object-fit: contain;
 }
 
@@ -64,25 +64,26 @@ body {
     box-sizing: border-box;
     animation: fadeIn 0.4s ease-out forwards;
     z-index: 1;
-    overflow: hidden; /* Clips the animated border to the rounded corners */
+    overflow: hidden; 
 }
 
 /* The spinning light beam */
 .card::before {
     content: '';
     position: absolute;
-    top: -50%; left: -50%; width: 200%; height: 200%;
-    background: conic-gradient(transparent, transparent, transparent, var(--netflix-red));
-    animation: rotateGlow 4s linear infinite;
+    top: -100%; left: -100%; width: 300%; height: 300%;
+    /* Tightened the gradient so the light trail is shorter and sharper */
+    background: conic-gradient(from 0deg, transparent 70%, var(--netflix-red) 100%);
+    animation: rotateGlow 3s linear infinite;
     z-index: -2;
 }
 
-/* The solid card background that hides the middle of the beam */
+/* The solid card background that blocks the middle completely */
 .card::after {
     content: '';
     position: absolute;
-    inset: 2px; /* This creates the 2px thickness of the light trail */
-    background: var(--card-bg);
+    inset: 2px; /* 2px gap creates the border trail */
+    background: var(--card-bg); /* This is now solid, blocking the light */
     border-radius: 8px;
     z-index: -1;
 }
@@ -92,7 +93,6 @@ body {
     100% { transform: rotate(360deg); }
 }
 
-/* All text inside the card needs relative positioning to stay above the pseudo-background */
 .card > * {
     position: relative;
     z-index: 5;
