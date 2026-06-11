@@ -14,11 +14,5 @@
     "links_claimed": 0,
     "has_limit": false,
     "last_claimed_at": "2026-06-11T09:34:55.191Z"
-  },
-  {
-    "username": "employee_one",
-    "password_hash": "user_key_123",
-    "is_admin": false,
-    "links_claimed": 3
   }
 ]
