@@ -22,14 +22,6 @@
     "links_claimed": 3
   },
   {
-    "username": "a",
-    "password_hash": "a",
-    "is_admin": false,
-    "links_claimed": 14,
-    "has_limit": false,
-    "last_claimed_at": "2026-06-11T14:21:21.931Z"
-  },
-  {
     "username": "zebi",
     "password_hash": "a",
     "is_admin": false,
