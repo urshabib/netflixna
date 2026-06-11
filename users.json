@@ -4,7 +4,7 @@
     "password_hash": "1",
     "is_admin": true,
     "links_claimed": 1,
-    "has_limit": false,
+    "last_claimed_at": "2026-06-11T08:30:16.425Z"
   },
   {
     "username": "employee_one",
