@@ -3,156 +3,124 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enterprise Portal</title>
-    <style>
-        :root { --primary: #0284c7; --success: #22c55e; --dark: #0f172a; --light: #f8fafc; --border: #e2e8f0; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background-color: var(--light); color: var(--dark); margin: 0; padding: 20px; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
-        .container { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); width: 100%; max-width: 450px; transition: max-width 0.3s ease; }
-        .container.admin-mode { max-width: 800px; }
-        h2 { margin-top: 0; color: var(--dark); }
-        .form-group { margin-bottom: 15px; }
-        label { display: block; margin-bottom: 5px; font-weight: 500; }
-        input { width: 100%; padding: 10px; border: 1px solid var(--border); border-radius: 6px; box-sizing: border-box; }
-        button { width: 100%; background-color: var(--primary); color: white; border: none; padding: 12px; border-radius: 6px; font-weight: 600; cursor: pointer; }
-        button:hover { opacity: 0.9; }
-        button:disabled { background-color: #94a3b8; cursor: not-allowed; }
-        .hidden { display: none !important; }
-        #linkResult { margin-top: 15px; padding: 15px; border-radius: 6px; word-break: break-all; font-weight: bold; background-color: #f1f5f9; text-align: center; }
-        
-        .stat-box { background-color: #f0fdf4; border: 2px solid var(--success); color: #166534; padding: 20px; border-radius: 8px; font-size: 24px; font-weight: bold; text-align: center; margin-bottom: 20px; }
-        .user-table { width: 100%; border-collapse: collapse; margin-top: 15px; }
-        .user-table th, .user-table td { border: 1px solid var(--border); padding: 10px; text-align: left; }
-        .user-table th { background-color: #f1f5f9; }
-        .admin-actions { display: flex; justify-content: space-between; align-items: center; margin-top: 20px; }
-        .btn-small { width: auto; padding: 8px 15px; }
-    </style>
+    <title>Enterprise Access Portal</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-<div class="container" id="portalContainer">
-    <div id="loginView">
-        <h2>Enterprise Login</h2>
-        <div class="form-group">
-            <label for="username">Username</label>
-            <input type="text" id="username" placeholder="Enter username">
-        </div>
-        <div class="form-group">
-            <label for="password">Access Key</label>
-            <input type="password" id="password" placeholder="Enter access key">
-        </div>
-        <button id="loginBtn" onclick="handleLogin()">Sign In</button>
+    <div class="auth-bg">
+        <img src="src/bg.jpg" alt="" onerror="this.style.display='none';">
     </div>
 
-    <div id="userDashboard" class="hidden">
-        <h2>User Dashboard</h2>
-        <p>Welcome, <span id="portalUser">User</span>!</p>
-        <button id="claimBtn" style="background-color: var(--success);" onclick="claimLink()">Get Fresh Link</button>
-        <div id="linkResult" class="hidden"></div>
+    <header class="main-header hidden" id="mainHeader">
+        <div class="logo">ENTERPRISE</div>
+        <button class="btn-logout" onclick="handleLogout()">Sign Out</button>
+    </header>
+
+    <main class="portal-wrapper">
         
-        <button id="adminPortalBtn" class="hidden" style="margin-top: 20px; background-color: var(--dark);" onclick="switchView('adminDashboard')">Open Admin Panel</button>
-    </div>
+        <section class="card" id="loginView">
+            <h2>Sign In</h2>
+            <div class="form-group">
+                <input type="text" id="username" required placeholder=" ">
+                <label for="username">Username</label>
+            </div>
+            <div class="form-group">
+                <input type="password" id="password" required placeholder=" ">
+                <label for="password">Access Key</label>
+            </div>
+            <button id="loginBtn" onclick="handleLogin()">Sign In</button>
+            
+            <div class="login-help">
+                <label class="remember-me">
+                    <input type="checkbox" id="rememberMe" checked>
+                    <span>Remember me</span>
+                </label>
+            </div>
+        </section>
 
-    <div id="adminDashboard" class="hidden">
-        <h2>System Administration</h2>
-        <div class="stat-box">Remaining Raw Files (DB1): <span id="rawCount">--</span></div>
-        <div class="admin-actions">
-            <button class="btn-small" style="background-color: #64748b;" onclick="switchView('userDashboard')">Back to Dashboard</button>
-            <button class="btn-small" onclick="alert('User creation logic coming next!')">+ Create New User</button>
+        <section class="card hidden" id="userDashboard">
+            <h2>Account Provisioning</h2>
+            <p class="welcome-text">Welcome back, <span id="portalUser">User</span>!</p>
+            
+            <div class="action-box">
+                <button id="claimBtn" onclick="claimLink()">Get Fresh Link</button>
+                
+                <div id="loader" class="spinner hidden"></div>
+                
+                <div id="countdownBox" class="countdown-notice hidden">
+                    Access locked. Resets in: <span id="timerClock">00:00:00</span>
+                </div>
+            </div>
+
+            <div id="linkResult" class="hidden"></div>
+            
+            <button id="adminPortalBtn" class="btn-admin-nav hidden" onclick="switchView('adminDashboard')">
+                Open Admin Control Panel
+            </button>
+        </section>
+
+        <section class="card admin-card hidden" id="adminDashboard">
+            <div class="admin-header">
+                <h2>System Administration</h2>
+                <button class="btn-secondary" onclick="switchView('userDashboard')">Back to App</button>
+            </div>
+            
+            <div class="metric-container">
+                <div class="stat-box">
+                    <span class="stat-num" id="rawCount">--</span>
+                    <span class="stat-label">Verified Links Remaining (DB2)</span>
+                </div>
+            </div>
+
+            <div class="table-section-header">
+                <h3>User Registries</h3>
+                <button class="btn-primary" onclick="toggleModal(true)">+ Add New User</button>
+            </div>
+
+            <div class="table-wrapper">
+                <table class="user-table">
+                    <thead>
+                        <tr>
+                            <th>Username</th>
+                            <th>Privilege</th>
+                            <th>Total Claimed</th>
+                            <th>24H Limit Rule</th>
+                        </tr>
+                    </thead>
+                    <tbody id="userTableBody">
+                        </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <div class="modal-overlay hidden" id="userModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Create New User Profile</h3>
+                <button class="close-modal" onclick="toggleModal(false)">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <input type="text" id="newUsername" required placeholder=" ">
+                    <label for="newUsername">Target Username</label>
+                </div>
+                <div class="form-group">
+                    <input type="text" id="newPassword" required placeholder=" ">
+                    <label for="newPassword">Assigned Password / Key</label>
+                </div>
+                <div class="toggle-group">
+                    <span>Enforce 24-Hour Claims Limit</span>
+                    <label class="switch">
+                        <input type="checkbox" id="newHasLimit" checked>
+                        <span class="slider"></span>
+                    </label>
+                </div>
+                <button class="btn-primary" onclick="submitNewUser()">Provision Account</button>
+            </div>
         </div>
     </div>
-</div>
 
-<script>
-    // Your live Cloudflare API
-    const WORKER_URL = "https://portal-api.hazemthm.workers.dev/";
-
-    // We store credentials in memory so the user doesn't have to re-type them to get a link
-    let activeUser = "";
-    let activePass = "";
-
-    async function handleLogin() {
-        activeUser = document.getElementById('username').value;
-        activePass = document.getElementById('password').value;
-        const btn = document.getElementById('loginBtn');
-
-        btn.innerText = "Verifying...";
-        btn.disabled = true;
-
-        try {
-            const response = await fetch(WORKER_URL, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ action: "login", username: activeUser, password: activePass })
-            });
-
-            const result = await response.json();
-
-            if (result.success) {
-                document.getElementById('loginView').classList.add('hidden');
-                document.getElementById('userDashboard').classList.remove('hidden');
-                document.getElementById('portalUser').innerText = activeUser;
-
-                if (result.is_admin) {
-                    document.getElementById('adminPortalBtn').classList.remove('hidden');
-                }
-            } else {
-                alert("Login Failed: " + result.message);
-                btn.innerText = "Sign In";
-                btn.disabled = false;
-            }
-        } catch (error) {
-            alert("Network error. Could not reach server.");
-            btn.innerText = "Sign In";
-            btn.disabled = false;
-        }
-    }
-
-    async function claimLink() {
-        const btn = document.getElementById('claimBtn');
-        const resultBox = document.getElementById('linkResult');
-        
-        btn.innerText = "Fetching Account...";
-        btn.disabled = true;
-        resultBox.classList.add('hidden');
-
-        try {
-            const response = await fetch(WORKER_URL, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ action: "claim_link", username: activeUser, password: activePass })
-            });
-
-            const result = await response.json();
-
-            if (result.success) {
-                resultBox.innerText = result.url;
-                resultBox.classList.remove('hidden');
-                btn.innerText = "Get Another Link";
-                btn.disabled = false;
-            } else {
-                alert("Error: " + result.message);
-                btn.innerText = "Get Fresh Link";
-                btn.disabled = false;
-            }
-        } catch (error) {
-            alert("Network error. Try again.");
-            btn.innerText = "Get Fresh Link";
-            btn.disabled = false;
-        }
-    }
-
-    function switchView(viewId) {
-        const container = document.getElementById('portalContainer');
-        if (viewId === 'adminDashboard') {
-            container.classList.add('admin-mode');
-            document.getElementById('userDashboard').classList.add('hidden');
-            document.getElementById('adminDashboard').classList.remove('hidden');
-        } else {
-            container.classList.remove('admin-mode');
-            document.getElementById('adminDashboard').classList.add('hidden');
-            document.getElementById('userDashboard').classList.remove('hidden');
-        }
-    }
-</script>
+    <script src="app.js"></script>
 </body>
 </html>
