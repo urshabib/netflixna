@@ -42,5 +42,9 @@ jobs:
           echo "No changes detected in databases. Skipping commit."
         else
           git commit -m "Automated database sync: Updated verified list & removed invalid raws [skip ci]"
+          
+          # --- THE FIX: Download last-second website changes before pushing ---
+          git pull --rebase origin main
+          
           git push
         fi
