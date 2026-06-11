@@ -3,9 +3,9 @@
     "username": "admin_habib",
     "password_hash": "1",
     "is_admin": true,
-    "links_claimed": 3,
+    "links_claimed": 4,
     "has_limit": false,
-    "last_claimed_at": "2026-06-11T09:18:23.008Z"
+    "last_claimed_at": "2026-06-11T09:27:20.280Z"
   },
   {
     "username": "employee_one",
