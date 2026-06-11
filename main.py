@@ -230,7 +230,16 @@ def process_single_file(filepath, filename, db2_data):
     deletions and save the working links directly into DB2.
     """
     print(f"\n--- Checking: {filename} ---")
-    
+    # --- NEW LAYER: Check for zero payments ---
+    if "[0 payments]" in filename:
+        print(f"File rejected: Contains [0 payments] in the name.")
+        try:
+            os.remove(filepath)
+            print(f"Deleted {filename} from raw folder.")
+        except OSError as e:
+            pass
+        return
+    # ------------------------------------------
     # We pass the specific filepath into your reader
     raw_cookie = ensure_input_file(filepath)
     if raw_cookie is None:
