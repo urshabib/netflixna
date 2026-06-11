@@ -20,7 +20,7 @@
     "password_hash": "EFUJDFDF",
     "is_admin": false,
     "links_claimed": 1,
-    "has_limit": true,
+    "has_limit": false,
     "last_claimed_at": "2026-06-11T15:13:59.677Z"
   },
   {
