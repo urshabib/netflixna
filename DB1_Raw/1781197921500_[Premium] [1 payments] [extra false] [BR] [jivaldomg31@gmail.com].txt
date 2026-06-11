@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1783709036	OptanonAlertBoxClosed	2025-02-23T02:32:07.081Z
+.netflix.com	TRUE	/	FALSE	1783709036	nfvdid	BQFmAAEBEKix336NlsjnDg_1et9OduRgP8TKoiiwVts7qkcZ4h3LAYPJXqvwsG-Gw2eJbJXDYtRQ8WSKYOGcGjb5dDYotwtyQFSolJaiqgAIj24P3IpquFbeuS4TwwiU66JZ8Eh0k6Hy6oBJJ-aylTQTqbCtjOmy
+.netflix.com	TRUE	/	FALSE	1799090788	dsca	customer
+.netflix.com	TRUE	/	TRUE	1800375675	NetflixId	ct%3DBgjHlOvcAxLnA-Cj1RodWr_D92mkFnkjMP3CHvFt2pKbkTBXiXN355vfEdBXVDcy1Eu7zSFUxKRCoWfzHBpTtCR4sQ6RJDYm8FUXAeLvNX1rvDmmsoOxV0mmBHUCmnbRFIXbxhO7c9ZryIBW2Vlm6PGU_tkPr4bVUAbe6I-I4euKMFW84NOizK1q_1_FPfq1nOdk7MePW5bRM7BldstsE_LCLJoxGi2ViN1cmJe1CCqge0XeDlgomlc0ZbHhzjhTT9wihFnr0Zv4lB-ytKKxLiSnAp6VhL4MaSIMfC1ugACgBF1VBozWOvU_PejNDWUkwOsUSpuxwcoEnQDxgj5HexwB2x89LXUIE4qtbL2kYSV_k0pEkg5zN5xYFRwAcyYmDq4p3x8fHMtBAsfPQBV_26NEvY1oIHPg_frs0VJurvvp2zP58dyHmRbgYnKfX9TxCb5J6KaYsXKh2_fVwMoFRTefDq4nd8wYzBJyrIt_mNgM5jytBEDYTtw6gTBc0hkIdPHIgHY8hjdVqctWgxB5tgnI606Tj8QzMHq1iEmjonXzgKc7sm75TyCCH973QWYZTR2PGAckrM3uA1eONJ9fYVnSOBFG6xW_lMvJk36xu6o0QADa9E0fAWq7eOKZwxfnz8xhLu-ppvoUDoYwJtQuyFsYBiIOCgycEtmaDrH9A9hs5tg.%26ch%3DAQEAEAABABSYw4sZlbu_XhIL_NZroGgpPwotbhWMrSc.%26v%3D3%26pg%3DL435UQJIXJETTIPYP4SNY7P2RI
+.netflix.com	TRUE	/	TRUE	1800375675	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSVbXpvb4gjnO-PdqlXYDpI_KQX20hMHXo.%26dt%3D1768839675355
+.netflix.com	TRUE	/	TRUE	1783709036	gsid	776faa96-ec89-4718-bcaf-c3654b9da27a
+.netflix.com	TRUE	/	FALSE	1800378809	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+19+2026+14%3A13%3A29+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bc0fdd80-aed4-4b7d-b861-a829a8a768e7&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA
+.netflix.com	TRUE	/	FALSE	1783709036	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783709036	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783709036	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
