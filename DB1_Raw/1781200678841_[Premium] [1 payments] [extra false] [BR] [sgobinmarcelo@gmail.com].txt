@@ -1,0 +1,26 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: sgobinmarcelo@gmail.com
+– Verified: false
+– Profile: Gustão
+– Plan: Premium
+– Next billing: 24 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 1508)
+– Cookies: Admin @logslead
+
+.netflix.com	TRUE	/	FALSE	1790215504	OptanonAlertBoxClosed	2025-09-24T02:05:04.899Z
+.netflix.com	TRUE	/	FALSE	1790215506	nfvdid	BQFmAAEBECr3g7_b4RdTHKcoHfqAPZpgzvjLeAEok0jjERtcTMYMLzgarUN8AARgOxtSjyUPaL0SSzdQyfKIxSflSR6ooBfOWh6W7zAYU_J3ebfsDeOyXX12Q_923YK4IBrTVMZKYQrLadNKJ-QbRqHFRrelTC_s
+.netflix.com	TRUE	/br-en/title	TRUE	1810004648	dsca	true
+.netflix.com	TRUE	/	FALSE	1786231540	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786231540	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786231540	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/br/title	TRUE	1813241187	dsca	true
+.netflix.com	TRUE	/	TRUE	1810350878	NetflixId	ct%3DBgjHlOvcAxLfA9MsPJLChoyo564q1NqBADZKrxjtHJY9zPymd-OTCfyAmzZsg4HYNBNvMhFGcG-Rof0iSHU1XltkbSddal4KI9TuoMeoqR9nImdxAk4A97dCB589sklN9-GgZNUN-SlIWZgHGqV5tEQmkkU1dFIsLs7ypGuzO4J1406Kl0zxfEPlIym2La3ffSr0_PXxQiCvakali3TdoOhryicDep80IRkmyvbxHDhj0Sdi6Jg4jcv-mNWlB8PE25cPH2I1SI2PmFM0J2zAQXHf-wSeblOfmcOKK4acghfcD1TWTvgRPPodlshrVlqkfQBQJN2-SpFoxrMxRZQPuvbJWTwLqyX9fLBzK0uhcUCQF5ptzGbym4riU_KPgWRbMkvOKXd4uzlYDu3cJgBlw2k7GfltOqnA9dYKpWyZmtawhWpZcs1HHTuguqS0sJt3UNVU8-3MG8X-2dL6vkR2R7afu3nhdlzjQypIA7MQj3-4rpUGnKFQRGFVbr6h2bkzTOZBQEtp9lrg2dC0gBi5ZZBKMt85bLrCJ2KZdZuHOB4HLX30oISk2kvpygyN5--ig9iOm5cE6mWvRVwrQIByHd6lhwAmrNtgoQ7O1W_EOlKPNUyEAz0Gk67NV4Vwr-MROPYt1gu26V52GAYiDgoMtwXUpOEf3z13eakF%26ch%3DAQEAEAABABQdrJVLzfFcPGEIYUXfppVPqHtDDp-euZ0.%26v%3D3%26pg%3D3VFGYV2WIJEIJLKJPYQFHDINB4
+.netflix.com	TRUE	/	FALSE	1810350812	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+00%3A13%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a3f7ba48-92d6-44c7-a96c-34f5e853a525&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810350878	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJBeyfOUi2-kl-atD07mZL9EnjnVnX6Jo.%26dt%3D1778814878461
+.netflix.com	TRUE	/	TRUE	1813374811	dsca	true
+.netflix.com	TRUE	/pt/title	TRUE	1813374810	dsca	true
+.netflix.com	TRUE	/title	TRUE	1813374810	dsca	true
