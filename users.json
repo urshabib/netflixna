@@ -35,8 +35,8 @@
     "username": "Mrabet",
     "password_hash": "aaa",
     "is_admin": false,
-    "links_claimed": 1,
+    "links_claimed": 2,
     "has_limit": false,
-    "last_claimed_at": "2026-06-12T02:58:03.091Z"
+    "last_claimed_at": "2026-06-12T03:01:15.938Z"
   }
 ]
