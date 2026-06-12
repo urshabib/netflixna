@@ -30,5 +30,12 @@
     "links_claimed": 9,
     "has_limit": false,
     "last_claimed_at": "2026-06-12T02:53:16.756Z"
+  },
+  {
+    "username": "Mrabet",
+    "password_hash": "aaa",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
