@@ -54,5 +54,12 @@
     "links_claimed": 1,
     "has_limit": false,
     "last_claimed_at": "2026-06-12T13:36:01.624Z"
+  },
+  {
+    "username": "swayah",
+    "password_hash": "swayah",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
