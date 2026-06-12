@@ -62,5 +62,12 @@
     "links_claimed": 2,
     "has_limit": false,
     "last_claimed_at": "2026-06-12T16:49:09.679Z"
+  },
+  {
+    "username": "fatma",
+    "password_hash": "1234",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
