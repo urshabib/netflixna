@@ -171,7 +171,6 @@ async function claimLink() {
             // ---> THIS IS THE FIXED BUTTON BLOCK <---
             resultBox.innerHTML = `
                 <span class="success-badge">✓ Account Provisioned</span>
-                <div class="link-display" id="generatedLinkText">${result.url}</div>
                 <div class="action-row">
                     <button class="btn-copy" onclick="copyToClipboard()">Copy Link</button>
                     <button class="btn-primary" onclick="
