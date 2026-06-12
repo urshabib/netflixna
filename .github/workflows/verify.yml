@@ -14,7 +14,7 @@ jobs:
     - name: Checkout Repository Code
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # <-- CRITICAL FIX: Downloads full history so merging works
+        fetch-depth: 0  # Downloads full history so merging works
 
     - name: Set up Python Environment
       uses: actions/setup-python@v5
@@ -26,8 +26,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests urllib3
 
-    - name: Run Verification Engine
-      run: python main.py
+    - name: Wipe Database and Run Verification Engine
+      run: |
+        # --- CRITICAL FIX: Empty DB2 completely before the script runs ---
+        echo "[]" > DB2_Verified.json
+        
+        # Now run the Python script to fill it with ONLY the fresh, working links
+        python main.py
 
     - name: Commit and Push Database Changes
       run: |
@@ -42,11 +47,11 @@ jobs:
           git commit -m "Automated database sync: Updated verified list & removed invalid raws [skip ci]"
           
           # --- THE BULLETPROOF RETRY LOOP ---
-          # Tries to push. If blocked by a website user, it waits, pulls their data, and retries.
           n=0
           until [ "$n" -ge 5 ]
           do
-             git pull --rebase origin main || true
+             # The '-X theirs' flag forces Git to overwrite the remote database with your fresh one
+             git pull --rebase -X theirs origin main || true
              git push && break
              n=$((n+1))
              echo "Race condition detected. Retrying push $n of 5..."
