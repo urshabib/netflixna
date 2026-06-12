@@ -43,8 +43,9 @@
     "username": "doudou",
     "password_hash": "doudou",
     "is_admin": false,
-    "links_claimed": 0,
-    "has_limit": false
+    "links_claimed": 1,
+    "has_limit": false,
+    "last_claimed_at": "2026-06-12T16:06:35.612Z"
   },
   {
     "username": "isra",
