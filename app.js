@@ -174,7 +174,10 @@ async function claimLink() {
                 <div class="link-display" id="generatedLinkText">${result.url}</div>
                 <div class="action-row">
                     <button class="btn-copy" onclick="copyToClipboard()">Copy Link</button>
-                    <button class="btn-primary" onclick="window.open('${result.url}', '_blank')">Open Account</button>
+                    <button class="btn-primary" onclick="
+                        const newTab = window.open('about:blank', '_blank');
+                        newTab.location.href = '${result.url}';
+                    ">Open Account</button>
                 </div>
             `;
             
