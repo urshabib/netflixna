@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: said.alexandre@yahoo.com.br
+– Verified: false
+– Profile: Parasita\x20Lin2
+– Plan: Premium
+– Next billing: 5 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 4217)
+– Cookies: Admin @logslead
+
+.netflix.com	TRUE	/	FALSE	1800554137	OptanonAlertBoxClosed	2026-01-21T17:55:37.280Z
+.netflix.com	TRUE	/	TRUE	1803578244	dsca	true
+.netflix.com	TRUE	/	FALSE	1800554243	nfvdid	BQFmAAEBECHFhPveWlapCcy33Wl9KoFgv259DC4Rd-2zcZb6_Ukj6T5BVsVaNNWG0nkGwbBexkQVNv0KsqThy4DYkmnq4og1-unmIoaMNn2bzS0t5Pe3MfnbPElhGh50tbPgJu-2Gp5kYrXNwpfpadbiQ2LFXQH2
+.netflix.com	TRUE	/	TRUE	1808095512	NetflixId	ct%3DBgjHlOvcAxK7A25v1Pbtn8Lc0uZsrEmwyFRw-scmTGNRsFm-FipatU84iXoUTrTZNjuu89dF8qz_MHO37JVLJ4XZA_sCKw809PvdhUQj3or7OnUZbWYGqnYmuw8bFANRd2Rdj1iUUbXYVSiZ0FaWpxZlmRlDqFu_HFx6LR6f5e_HzP1pL6589FAq5mcA4NjJ8P-UkfdB4sAeZcnPcR5-klpCf7RxQDlOWJFE718JpgimU6E9b4Nf6GjS1OPBhxMHoRQ3H7Rdxo_TdPyjABcVytbmffZaAFmR9q-i-0QhxJIxDE2UVb6n3CCzulj_AfMDKBSVk9nUewsgl_fWVsld32UD8pDiufh66MuTst1yahpDI52coqZKRXF2-gcKDdq6pA1XsBaHvTqw0wkERCcbBmVChHrZCQe_TGcfXV3SYKib2iaohkXu1V8aFJx1O4_UNNOUjQfbATTDzmRRPFvaNzj-T_6b0Gd663IVpnEbcCMdxQyM0km3skL9jKwiqmMwsXDdilOCY_F3n4n8RQaqrmfAZHWr9sTSMlSKlcQ41RfrVHcVznS6hopPoygbxSLTbinffRykuWMfNs8lL42FjrSMm50lGAYiDgoM0Wp66V1eK22fywIk%26ch%3DAQEAEAABABROjdH9x1MSpPLg8dBQAlTW33kukvv-vUM.%26v%3D3%26pg%3DKDFRPEYQWFF3ZDPUSHKW2XCMOI
+.netflix.com	TRUE	/	FALSE	1808095513	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+21%3A45%3A13+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1b4c4999-db79-437f-b6c7-c0af08499a29&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769018093228&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808095512	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSCZcpowsBKdc4ci2l3ExSprmOWc2yPdh8.%26dt%3D1776559513631
+.netflix.com	TRUE	/	TRUE	1783792315	gsid	397f5229-ba4b-4f4b-83c5-b52017afae46
+.netflix.com	TRUE	/	FALSE	1784335513	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784335513	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783792315	profilesNewSession	0
