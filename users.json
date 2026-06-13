@@ -94,5 +94,12 @@
     "links_claimed": 2,
     "has_limit": false,
     "last_claimed_at": "2026-06-13T21:55:06.371Z"
+  },
+  {
+    "username": "sahnouna",
+    "password_hash": "123",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
