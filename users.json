@@ -70,5 +70,12 @@
     "links_claimed": 13,
     "has_limit": false,
     "last_claimed_at": "2026-06-13T14:51:19.222Z"
+  },
+  {
+    "username": "omarmarzouki",
+    "password_hash": "omarmarzouki",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": true
   }
 ]
