@@ -85,5 +85,12 @@
     "is_admin": false,
     "links_claimed": 0,
     "has_limit": false
+  },
+  {
+    "username": "sirryahya",
+    "password_hash": "sirryahya",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": true
   }
 ]
