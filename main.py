@@ -23,6 +23,38 @@ def load_db2():
 def save_db2(data):
     with open(DB2_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
+# ==========
+
+def check_link_redirect(generated_link):
+    # --- LEAVE YOUR TWO WORDS HERE ---
+    valid_word_1 = "browse"
+    valid_word_2 = "unsupported"
+    
+    # We disguise the Python script as a standard Windows PC Google Chrome browser
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    
+    try:
+        # Visit the link and follow all redirects to the very end
+        response = requests.get(generated_link, headers=headers, allow_redirects=True, timeout=10)
+        final_url = response.url
+        
+        # Check if either of your words exists anywhere in that final URL
+        if valid_word_1 in final_url or valid_word_2 in final_url:
+            return True
+        else:
+            print(f"Failed Redirect Layer: Ended up at {final_url}")
+            return False
+            
+    except requests.exceptions.RequestException as e:
+        print(f"Connection error during redirect check: {e}")
+        return False
+
+
+
+
+
 
 # ==========================================
 API_URL = "https://ios.prod.ftl.netflix.com/iosui/user/15.48"
@@ -257,16 +289,20 @@ def process_single_file(filepath, filename, db2_data):
         login_url = build_nftoken_link(token)
         print("Login URL: " + login_url)
         
-        # <--- SAVE TO DB2 (You requested we put it in the database here)
-        new_record = {
-            "source_file": filename, 
-            "url": login_url,
-            "generated_on": datetime.now().isoformat()
-        }
-        db2_data.append(new_record)
-        
-        
-        print(f"Success! Saved to DB2 from {filename}.")
+        if check_link_redirect(login_url):
+            # <--- SAVE TO DB2 if it passes
+            new_record = {
+                "source_file": filename, 
+                "url": login_url,
+                "generated_on": datetime.now().isoformat()
+            }
+            db2_data.append(new_record)
+            print(f"Success! Saved to DB2 from {filename}.")
+        else:
+            # <--- DELETE DEAD FILE if it fails redirect
+            os.remove(filepath) 
+            print(f"Deleted {filename} because it failed the redirect check.")
+            
 
     except requests.RequestException as exc:
         print("Request failed: " + str(exc))
