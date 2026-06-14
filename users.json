@@ -102,5 +102,12 @@
     "links_claimed": 1,
     "has_limit": false,
     "last_claimed_at": "2026-06-13T22:45:31.571Z"
+  },
+  {
+    "username": "aminechniti",
+    "password_hash": "aminechniti",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
