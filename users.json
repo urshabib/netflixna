@@ -136,8 +136,8 @@
     "username": "douday",
     "password_hash": "1234",
     "is_admin": false,
-    "links_claimed": 2,
+    "links_claimed": 3,
     "has_limit": false,
-    "last_claimed_at": "2026-06-15T20:05:59.843Z"
+    "last_claimed_at": "2026-06-15T20:06:30.413Z"
   }
 ]
