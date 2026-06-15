@@ -131,5 +131,12 @@
     "is_admin": false,
     "links_claimed": 0,
     "has_limit": false
+  },
+  {
+    "username": "douday",
+    "password_hash": "1234",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
