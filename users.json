@@ -121,8 +121,9 @@
     "username": "ayoubagerbi",
     "password_hash": "ayoubagerbi",
     "is_admin": false,
-    "links_claimed": 0,
-    "has_limit": false
+    "links_claimed": 1,
+    "has_limit": false,
+    "last_claimed_at": "2026-06-15T15:29:28.779Z"
   },
   {
     "username": "ammouna",
