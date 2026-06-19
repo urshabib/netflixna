@@ -67,9 +67,9 @@
     "username": "fatma",
     "password_hash": "1234",
     "is_admin": false,
-    "links_claimed": 13,
+    "links_claimed": 14,
     "has_limit": false,
-    "last_claimed_at": "2026-06-13T14:51:19.222Z"
+    "last_claimed_at": "2026-06-19T19:59:02.908Z"
   },
   {
     "username": "omarmarzouki",
