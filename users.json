@@ -153,8 +153,8 @@
     "username": "swayah",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 5,
+    "links_claimed": 6,
     "has_limit": false,
-    "last_claimed_at": "2026-06-20T02:33:50.201Z"
+    "last_claimed_at": "2026-06-20T02:37:58.384Z"
   }
 ]
