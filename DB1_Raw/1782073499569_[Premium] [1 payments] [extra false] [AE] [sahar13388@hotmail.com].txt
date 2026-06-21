@@ -1,0 +1,20 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: sahar13388@hotmail.com
+– Verified: false
+– Profile: AA
+– Plan: Premium
+– Next billing: 29 يونيو 2026
+– Extra members: false
+– Country: AE
+– Payments: 1 | CC (VISA 1201)
+– Cookies: Z:\Logs_20 June\AE[G0TVGAJSI27JSSAEPJ2RBI6SOCDTR4ANTT][2026-06-20T7_56_30]\Cookies\Cookies_Brave-Browser_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1784042216	nfvdid	BQFmAAEBEIiBZHBiH66JGnG1K5taMbBgc-osOvdGODdwp74AUmJjRA_Atn-SUNOi3DzMSsr_i4kkEA-XN3ArYsmPtJmM8ytMYbwgM4ISxv6TgstWmJf4NRg_QWi7uuK3pFSI-P2far_lTEOYbarhhaK2GJt2KZJH
+.netflix.com	TRUE	/	TRUE	1787280320	NetflixId	ct%3DBgjHlOvcAxLjA9oRxxlI2uAKF3WsSadftfC9tNEyaLi37zPW6JnrzuSMvPsG_T1qB56v9DVTWB27_K25xccFAlic7nlklIjH8YWfOQ9P0rJNnEFpgVjbxswEQQ-zfhrGNAIe3Wk6nvoYjkbzy_6woiWvU50q25H5QkedTzqea4oiXWczI0nRWM6pcbHBLOxvUAbrHro2nN_157bhVBVvVui1IDxgkxVFoTaUYBVuFuypS4rzfn7Aq_GCJG2loaVOksRCaa_KfhnlUnTnBecR0nIkYXUh9O0ZUnB18YcMozSJl2dX4PnU35DqTCw-z-AciRASlffUf92IKDqXdvIK8Ohb1m68MrzdJwMNDV3z1ur1JMW4dB4bUHbA8e_5fGq0-pc5gT0_3B70DJfwxq9F2yJ8DysuT8e0SSOyhl8QV9CDCO90l5u4lP1ROgL7l_c0BHXk7XQNa5jYLLOxhPuO51nzR-oxvUkwJh5LBWmq4RHZr6LQOI3pEm8h2VpC3tuqKhGrubYZnb4tMeJFb-7Sv1bWnBmSoFzamTPC0uaDFqG0sL-_1JJdttvTM9F1FzrtNI85zK4St_r7ftt64w-Z5RgIh1NuDF_6nZpncccKSvUwtTJqj7TFOd09nSFMYQH9ef0zmeVHjiURJs4m4BgGIg4KDMTH9paHYOs0oXYcdA..%26ch%3DAQEAEAABABSMUSraz7PHdsElnvep9FT6wdMdO-BFLG4.%26v%3D3%26pg%3DF7BBTASLTZHQNDCM43BZ6W262Q
+.netflix.com	TRUE	/	TRUE	1787280320	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTg15S90MBOyyG_9CgtDJDwYbsBnCSo3nM.%26dt%3D1771728318988
+.netflix.com	TRUE	/	TRUE	1784596991	gsid	3cf3dc2a-c4e7-487f-9254-3aefc5534acf
+.netflix.com	TRUE	/	FALSE	1784596991	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784596991	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784596991	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
