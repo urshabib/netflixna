@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: janikbarg@gmail.com
+– Verified: false
+– Profile: nebel
+– Plan: Standard
+– Next billing: 19. Juli 2026
+– Extra members: false
+– Country: DE
+– Payments: 1 | EU_DIRECT_DEBIT ( **5731)
+– Cookies: Z:\DE[7Z728HDGFZPGM090AY372RTWDS6MXR78DK][2026-06-18T33_18_13]\Cookies\Google Chrome_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1786820857	nfvdid	BQFmAAEBEEjvpAkcvdvtlGqPV8kyuk1gzPtNu7O976EGcguTLgeaVROjMFxevQqsmRAGf6cOWXoQXxPrjMTJoHSEKojTPcJJhnE8EjNxL6wqnQFv7lYX9MXt9Y8VH_j7MWS6uj4lyPpS1GhOjfFTtMPQ5MCkJsXO
+.netflix.com	TRUE	/	FALSE	1786820863	OptanonAlertBoxClosed	2025-08-15T19:07:43.955Z
+.netflix.com	TRUE	/	TRUE	1808568068	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcAwo0Qmvdzjg2hONxUj6LQmb2YDAZcT03gx3TzfVhs861ajBpTruKYKa3WAaVIjKjwUUvhp8i9apCzEBFxRNxe-2XvSPVsHppeHOwzPvmBDftu5YiVZWiErn_ryOaRPQ5EPeUyMB-oztjq32ZCNzohkWHVUAJTohC6nZGWwKZGhhmwyTjNZSt06MiKnrFMCdHfp6bYfArHugz6A1S8624qZJ4VyfFnX2x8yrhUaWs1ezIiH0kgVHK5LYcRfW3oSURj_OLbAPWRynhK__L_EdGHyTd-NQ-PYwYS9HC-wWzcWJ2BTaCP_gDhh8fcU5HmSI-h3_qRyPYNNYnagcWids_y1eaX58fiQbESlLDNoXabWuqzTE3IQ2DsnRY2JwezGaICN4MEeSrbbyOVQ0RFFj6BW27pEt_bmn10FcVG6FpTf1sV7_WvWy1U7YBQ6bTiQIBshT93hbidHWvRjFn_AI5iKJovT1GDVJ7Jop7KQud4B1vrHFMB3O1Wph6psWceB3Wei_bRjqVlbkq0gRX3VbkwGF73N2KO-ij18mkUewYBiIOCgxUtZTraYNE2beK_Os.%26pg%3D6JGUL6OCJFAZPMBWIBUPMSYLUY%26ch%3DAQEAEAABABQHXLeIgw9lO_iDFBVRKHrUOcRInawj-mA.
+.netflix.com	TRUE	/	FALSE	1808568083	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+14%3A01%3A23+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=dc364cb7-5877-498b-b9e8-e19cb36e81f0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=DE%3BNW&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808568068	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScbQmXSmDrP1qt92cFt9z4gCgi7GulKZk.%26dt%3D1777032069027
+.netflix.com	TRUE	/	FALSE	1784808082	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784808082	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784808082	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1784522578	profilesNewSession	0
