@@ -1,0 +1,19 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: pakiherrera25@hotmail.com
+– Verified: false
+– Profile: Paqui
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: ES
+– Payments: 1 | MASMOVIL_BILLED ( )
+– Cookies: Z:\ES[2B7GXA6V4BK52YLWOA1J779FK0ZY1UUR59][2026-06-18T12_5_46]\Cookies\Google Chrome_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1798318245	nfvdid	BQFmAAEBENV34HO8yHf3tsotADD7mfNgBtR5zhFUdM7CdXs4_NLVsgYW4j9CR9qvHWaenKs8_8i2PK4GgpOmGnCSa96UA0-h_8Y0ZSsHi5IA-IAnulE3GezdaNbBqZB9nxVfgV8vu1l441D49fQenubA54CyFM3R
+.netflix.com	TRUE	/	FALSE	1798318269	OptanonAlertBoxClosed	2025-12-26T20:51:09.332Z
+.netflix.com	TRUE	/	TRUE	1801500284	NetflixId	ct%3DBgjHlOvcAxKfA3toLssYoIaTk0-ADn_NdMJKk2OhSMgTW7ju-MDxS5TRfHlyhETuQ8DZV1LXlqSNBM3rkYTtf2lAh2nvO_INsn5YlHuAVd3bhQ8OCvVj2_OvSFortOgIJPt-JwBt9xn7xck0-gHgVfkWuT7whi9ut8_x-WeujHpYbf7ejCPApoTc0qCAzu0w_rw9hDsTNovutCRhcENxbT8efmi4sCNDNPSUC_7DjGzFbQCx3FGJdSplMDEU8Pp6jksPLHRO9HNoVkLhL8XzF1cF9MiMNFzpC4M0uLzyoFezk427CLJQXe3GAKwGo4mRdZP-LUpXVx-Z4bcUgwPaM7y0NzUMdiXS4XqiexRQ_6jwGFxI98L2zWKVhJXNeS9sYPPcJQtNdXkRBHHDEuTr269U_tx7GRsJhtGmEKXe_v0RCSK7DUnOHg6eTsicZkgq3QnABn9q1RieRUAtJnHR3W7Sm6z_XKg68jWurpythSWq2XkAIXKo0t6aVxSCFZZVLGddQnifp69kvShuDKFqjF3j3QhBR1_dvXUxggzdbF0QBOTsZrhh5GcYBiIOCgyIDudkeHAo3kUMrRQ.%26ch%3DAQEAEAABABQ1nQ7oTnimb7bDtzidKbOc90a2kUczGLo.%26v%3D3%26pg%3D2DK3JSYJZVE3RFECVXBD6SB2KQ
+.netflix.com	TRUE	/	TRUE	1801500284	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTiNCWnRU0Q0AsorbrlCSADI87UqeLuACQ.%26dt%3D1769964284812
+.netflix.com	TRUE	/	FALSE	1801500283	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+17%3A44%3A43+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a6d5d60c-9f7c-42b6-8ec5-f9ceb6666f25&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=ES%3BCT
+.netflix.com	TRUE	/	TRUE	1804524283	dsca	true
