@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: oskawilim@gmail.com
+– Verified: false
+– Profile: 4
+– Plan: Premium
+– Next billing: July 2, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (GOPAY ********7110)
+– Cookies: Z:\ID[FF5D6LNZFFRQ8CI4ATKT60ZOZDARZQAA2L][2026-06-18T68_35_51]\Cookies\Google Chrome_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1812111851	nfvdid	BQFmAAEBEMVgkK4iHHXg8bNcr-Tpq3pgiUOo7D1TytFKk6SXyURteJ_FvjCxRKAoajLC-hvBKWMjxMAg7Na9dYaSVaPWW7rKiLnN51yEiqCZQ7mNV7WtrnLMBawC_-2tQrAJkfPINbZ3ucE1eaccx20XijhpC8pi
+.netflix.com	TRUE	/	TRUE	1812736702	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSiEciwuHp8F6JatBDclYbmHz4EnhscPH8.%26dt%3D1781200701174
+.netflix.com	TRUE	/	TRUE	1784522578	gsid	771c964f-841d-4d91-a2bc-796b0200e92f
+.netflix.com	TRUE	/	FALSE	1788976702	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1812736704	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+12+2026+00%3A58%3A24+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=719db00c-100e-4bd4-a0cb-35046f7d85a5&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780575798602&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1788976702	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1812736702	NetflixId	ct%3DBgjHlOvcAxKvA97YP0gqaPHrIeeqlAzuKUeibHgjTMGgUk0fR76SPRoy16Yj_5gfo4c54ahQ0p5_oRfEn_QEVXYRFtU10aMeE9UkN4YTyzBHkp-My0EXIPRZozY2dJN5-nfBik-CczMpQlVJxRN86HIZUAHDJV1UkAp9XS80WYhTYRpgQprhQdHrSoQ2V7Pq2hqujLEGzr-tlIbot8C90iGXHA38l1F4H4dQrvchvfAnidyF8dCe8ldgH-yTB2sj_aQujRX3fFD-q0BdiYgFzjYpAGVW7rGt5j8DeBfcLdUSsjg7Y4bJntAQvJOivazRAMgEOIDLNWhisQL_TLt_Cti2oN5j5JkqGMOSME2u5xYNf-hfgH1SkAb3cVn_fb0HQKiiP1RAstIt4gQ7Wz6oOcRGqpnSaf1MV37xzYuSJZ-uTdZi3Xv8yVAShP4ARXS8c3RIdCSbfz1gGdIhxOlw0RpGVU0pF942eKT2XoueThMoMubPfvCYcDAdzDMYv0WVZQ6kKO_9MFv_FgeAxAoUh8QQRv1qJeCrW6-gt2Oz6WR6bSggvMTQrbFNJIb_G4eZFzPFT89NpoxwGAYiDgoM79EtCnZSnka-uom0%26ch%3DAQEAEAABABQ___cAAqad9fODlYAxwAWM_uG8cStlPn4.%26v%3D3%26pg%3D3ZQIN2ZR5VGMZJKADEKIPORD3Y
+.netflix.com	TRUE	/	FALSE	1788976702	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
