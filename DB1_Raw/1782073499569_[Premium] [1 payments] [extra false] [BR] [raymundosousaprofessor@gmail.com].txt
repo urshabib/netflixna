@@ -1,0 +1,25 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: raymundosousaprofessor@gmail.com
+– Verified: false
+– Profile: Denilson
+– Plan: Premium
+– Next billing: 30 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 6411)
+– Cookies: Z:\BR[COVZYAU7GHU8MXDGIML992NIC07HXWW0SY][2026-06-18T26_13_23]\Cookies\Cookies_Edge_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1812233555	OptanonAlertBoxClosed	2026-06-05T22:12:35.186Z
+.netflix.com	TRUE	/	FALSE	1784522578	flwssn	d08f70d7-efb3-49e3-b1cb-4ff1f7548fbc
+.netflix.com	TRUE	/	TRUE	1784522578	gsid	3c0bcaef-fcc5-43b1-a2fa-150751e7243d
+.netflix.com	TRUE	/	TRUE	1784522578	netflix-mfa-nonce	Bgj7uevcAxKVAWW8ZdGQo55AbOPvsMx2KHCc3cQloiWX-_QhcL4TeEkqpuQBRMxoM-HouYJ4qZ_WJecTjZqefom_6-vt5YLt7nZv_MllsHowGmisCA2C-nI_dA4TducwEOIWWILM1OhWEq6dyUPg5Sep6m-ICGxymAqEGOU7zYHXM8CTzSjDSI1U1GspiCrLpFtitwp_XwCy_RTEPSqwGAYiDgoM9eToemOXPCeoJn_T
+.netflix.com	TRUE	/	TRUE	1812233662	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXAwjmcGwS3wiuMyRsQjNrjca_RkebGbVxdp7tkNaUhy8RRO2HYoUA3s_1CxlHiCY9AN7Q9QcVtRRs9rM_y0eG_8gmC9CCI5Jw5cLs4_cdi9ExrH9sTi_qhsnAWaIELwOPYSGf4X3NbCK3Z_9RKTyZp_nrxg0vPc-LwaGWeeNIvWm5__GpOR8wkQYRtdahVAtWOzdB2UfVzhcc_ThF4BlHIvyL59wRbATbHHeMB50M-4PhjYw_c56-rBhSFWdM6y0vxIA3K3o8Zz98yB4p1d_gzBxdA2vvlAwBY9ZcIYaevySjpPs2mtFVKt8gNnMt3T1L8QDDujYsKJc16PpZWR72gDcOj-Ctx-xxbP_R2b5JwQxdn-AppO2uOVyhs2pQ4Qth9aSGmfB-0vBiKkyLIrhcgjKx9D0g_2_lXxFBABYOlBd_Q5WjqyOeHYMSR_ca0wXQabRUvGJfX7njLKGeeHyW_SVXHyhVVn7W3aEd6pL-4DGDQ9P0zhNLOsk97Y2El885_0gCwb7uAqw16bKULWBkShzFzJj2lb3oGAYiDgoM2ile9RriXligQEvo%26pg%3DD634UAT3PNC5FKJRCHPTZZ7FA4%26ch%3DAQEAEAABABRzpp53bpqU-e-P1MHck1OHIzy42LPu0lY.
+.netflix.com	TRUE	/	TRUE	1812233662	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSM9lkTcp8EKdd3mrmaur8GfDvaWg8N8rw.%26dt%3D1780697668355
+.netflix.com	TRUE	/	FALSE	1812233657	nfvdid	BQFmAAEBEKmYjAmkXzbPoLNMNZXlTeBg4o-NROYwIMJdpMOlxh1BhCpuctaI0LwthYkXKADXxCDLbjwX5EPC_Q1qpOfiae10lH8jgbhmEikXFHWx10ePZXC6S1k62v1qbFmU2Ym35J9sN5XMFTuXQw56TkbltMIR
+.netflix.com	TRUE	/	FALSE	1812234111	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+05+2026+19%3A21%3A51+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8b9f7199-5140-47dc-9df2-4574eb057d63&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1780697555809&geolocation=BR%3BMA
+.netflix.com	TRUE	/	FALSE	1788474111	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788474111	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788474111	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1784522578	profilesNewSession	0
