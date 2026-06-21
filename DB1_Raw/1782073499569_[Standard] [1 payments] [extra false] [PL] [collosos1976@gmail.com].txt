@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: collosos1976@gmail.com
+– Verified: false
+– Profile: Niko
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: PL
+– Payments: 1 | CP_PL_BILLED ( )
+– Cookies: Z:\GB[OZMNM584FIQS173I64VR3U4DHR25PDVKZH][2026-06-18T37_22_45]\Cookies\Opera GX_Default.txt
+
+.netflix.com	TRUE	/	TRUE	1784522578	gsid	5f9c04c5-6c85-4ba4-9269-812df1f073ec
+.netflix.com	TRUE	/	FALSE	1810052180	OptanonAlertBoxClosed	2026-05-11T16:16:20.184Z
+.netflix.com	TRUE	/	FALSE	1810052197	nfvdid	BQFmAAEBEDLrj6GnbEJKnPDL5JDrhtRgZpH03yDOx8u9psxW1m0hxFn-uhsAjz-CD3SQ2ycOeQAjRPq9Ip4I2NhC2xtawpQlQjwVA34ZXimQ4dxDYDUJmiRvjNt_GCgrNR2rDbm_P_e9SoXry-ZNufc9vWw1uGp-
+.netflix.com	TRUE	/	TRUE	1813076197	dsca	true
+.netflix.com	TRUE	/	TRUE	1810100110	NetflixId	ct%3DBgjHlOvcAxK0A2BfBEFo3uiNpcHOcji3_1CWVx5p6FIlEwZUElFzextzJHysl0vu-QEqK2GK7-LTChyKHCv2A3-LuooXnARqMxvKl2BTcwg31yZa2drIM_kn6NDrbypHDt2Wwxg2RVzUGLGE6RuGheX7DuqyYGenydI4sUWhzqAeg_RkiTsCiUMKTP9B6BTNtm_9rmHdmMC7KpjS4rbI4em5KlC0Ljqn7O12m8WA4So2IBJkel1XNwALcI05WIRkPldj_uJgfzJejotfwqsgwxawrsuBRx3V-S2DkBVZEI49m1HTf37WlI5wPVxWRH5QC2zityWEwfIKL9erMow0gLkDyxdIM_yRWjgT_KTmgY3Hi7QdA2-NpGOIWZS1VZ2czz7LAKBepKVN1JblOVRg-bkFXziteTcBuI1SmN37Opb8U1ma9buy0Id6RTSUUIPhXeVXHPReZb6HyBgwHZVpufYsR0h4Uf9856eEDQG1kC9dXeiMGHZ2GDX6BZ04VdLnWu2F-Ica6oQo3-XhgwWEk_FrJZpq8B_wQllxO6S6KKKbEDeWNdeKBMZHoZF04Y6TrFPMQ8KoGU3MyVaauCUYBiIOCgxxR2IJPhePDUjROCc.%26ch%3DAQEAEAABABQn4bccHRClj4JAwSa693G6CymHx3Sm8dY.%26v%3D3%26pg%3D6E7WVD5HU5ETZONWERHTTVG6SU
+.netflix.com	TRUE	/	TRUE	1810100110	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQJbso13PZC13kkARDQo0S02cbIMGb2eq4.%26dt%3D1778564111363
+.netflix.com	TRUE	/	FALSE	1810132362	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+15%3A32%3A42+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=771bf1c8-2c62-4427-9fdf-761fb323dd1c&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1778516180553&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786372360	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786372360	netflix-sans-normal-3-loaded	true
