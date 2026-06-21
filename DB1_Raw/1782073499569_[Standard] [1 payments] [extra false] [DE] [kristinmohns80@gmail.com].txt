@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: kristinmohns80@gmail.com
+– Verified: false
+– Profile: Janne
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: DE
+– Payments: 1 | DT_GERMANY_BILLED ( )
+– Cookies: Z:\DE[Q7XBU226327NWT2MURA74AAOZNEQKX8AH8][2026-06-18T80_14_3]\Cookies\Microsoft Edge_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1784522578	OptanonAlertBoxClosed	2024-09-28T13:26:35.898Z
+.netflix.com	TRUE	/	FALSE	1784522578	nfvdid	BQFmAAEBELN16FcKv_UBwfFyV60TAjVgE6AStF3GSjLi0jiJ263uwhxQTzrZCvHffHbR0LwR41y9vY_YkkKl2DVuj6OXcDhvOKAlpQgBfRrgRjuVU3l4C4PVKewGsSN8IbxtgT1l7_J_6nttwogQ8gcTI5WC_Tr5
+.netflix.com	TRUE	/	FALSE	1787314418	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+21+2025+14%3A13%3A38+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=964a00a3-6bb0-4bf2-bd72-37c322a580a2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DE%3BBW&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1787314414	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQrL9G1CwdgA58ztoTF0lQvzxnUSj2KhxE.%26dt%3D1755778413231
+.netflix.com	TRUE	/	TRUE	1784522578	gsid	cc618903-5450-4dd7-9107-16ac05cc3bdf
+.netflix.com	TRUE	/	FALSE	1784522578	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1787314414	NetflixId	ct%3DBgjHlOvcAxLfAyLb2PzX48PSOgJaRQvQb3jjd7hNvtB6luIRTITs9qJXzx6sgLcu7877BmZqDNlKbk0iQ_0lhSBN8auL7DjOd47SKhOnKB8XAeiez4WzntX50foKXf-eod6XK4KmbKb5na5VhNfXdr-7qsDFfeuaBbmbm2XSTQZtwbCdxeta_S_d6TTF3dB4SUg5IEItNzSmXF7WIpm7AVLMAC_UvNRK6kZbnMRtZNoUIdeOltOtLW-_WsaB3py9c5T8U8lzEgNK5IWGFqHdC_kqnjqcgA78ikKvOOTQAv3KUkrZaHwygG460f7L4ydCuq9yxVdEqQADKRtrM3RomWAXcXs-pDx-7C1nj9Os4f3hGdOnBUOD2HoysGAni_reDWj1sy7i7X-7gxf-3xESs4PVmpkVS-e4tY8hLWTUqqN0cj3Id0aXvuIic2cnsTni20uBBEGoJrlxwg2lwkUy9eKcGjh2Zs9QSfzrBZYqdsG2jjvnkm6Sx8ea0jmPCf1B14HvyviJXaFwRXVDNQAPGQk2EnJ3rhpZ-vDkcVYycnEsjEQeEO9eEJJgHp24Gx5RQOFd56rG7VYENP7nGE9Akazl34Hp4IlU3hk8OBNSjmIqLEO1zZREzpEOFAQjL5Xc0aIwdGInRjEJGAYiDgoMs_wa2__IAhN6qVaJ%26ch%3DAQEAEAABABTQg1dloXpYrQ8Eh8yRncBWKjcRf7_Ditw.%26v%3D3%26pg%3DEMNQQ4XCSJDDLJU6FJS2VGSOAE
+.netflix.com	TRUE	/	FALSE	1784522578	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1784522578	netflix-sans-normal-3-loaded	true
