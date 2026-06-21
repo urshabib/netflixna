@@ -1,0 +1,18 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: davidpeters2008@icloud.com
+– Verified: false
+– Profile: david\x21\x202
+– Plan: Standard
+– Next billing: 24. Juni 2026
+– Extra members: false
+– Country: DE
+– Payments: 1 | CC (MASTERCARD 5487)
+– Cookies: Z:\Logs_20 June\DE[FOO9VJ5LNGNPPISY9BWA10FFEKPZM1XNDU][2026-06-20T9_18_39]\Browser\Cookies\Edge_Default_[8D65].txt
+
+.netflix.com	TRUE	/	FALSE	1784382337	OptanonAlertBoxClosed	2025-07-18T13:45:37.348Z
+.netflix.com	TRUE	/	FALSE	1784382468	nfvdid	BQFmAAEBEBJq1wzqV1TEaxd-4o7qKCdgv0DcoA85lNnHoZq6N3bauUIDs9Hn4IQhuAEr2P83z0JR5uQKAtGIL-YhBxa4xQACfgTGRQ22wU1vazbZwYk37ZcTVh6uvNqGMfumzr-vw88g_IWIysqxuaiCkzTDHGhc
+.netflix.com	TRUE	/	TRUE	1789393717	NetflixId	ct%3DBgjHlOvcAxLiA9P3bydnD5JxthNEMWLDfbf69_3tTdHoDd6wMlGdoBQdDE3PFq5h-d2Gl6-ebhSdMzFGsvujXPU-eU5qMwNfv_rrI_r_xV4jAXos7M_4UK58IaSkqkmnTYuTyfiM57E2MnMpt4IqCtNND0AQrJxGl6cNGGolPKGNbfo6xyuILxvwwqAyICw3Sz8U3rLvH1OJQnofZtI7kojeuu0Pyvw7zIG3zke3PPfrtvIwJhIb09lLecQW_Sdp8nM8j05MTpof_FvPVa81Uf4aftm7IjynApaC3Yp_hOL0iD0xXnmPsyJlJ9K0kgWjYrQdGl6UJgG6maUnpLd8dUS0Mx1FR4-FT2Dd8wnpk6tBqYfSJi97_oJZuIlJTuZlza6xmyg2FEcmXfCx4nKjs_yMNf1-yPFawUgVvJ6xHTZ5sqAS8XjNNCzRuonYWz9c0KtEmjz7AajLz83D8J9K74hi04cIaSPMDOtarYQ-Ie2znbqwaRALxjEuGLItN8HuE-xgZzxk89tOJ3nkNbjcs4FA9OTXsymv6R5b87OOmqCdUFCRL8xWyVzy_XlP1RX9UrJwnMOm4eUCsacw1-gC3CLGAOEkL6FgRn25A7smQOPNeOJb5pJK2o3l1jSl5dcpNQvOrk82x4vLdkm0GAYiDgoMpbuLfhYrJCuq09hS%26ch%3DAQEAEAABABTCF2kQDWvp7f_97M5RC3UwBYPNiDkX1xA.%26v%3D3%26pg%3DSHJ4Q3ISLVELPNXQRLPTLVR7RE
+.netflix.com	TRUE	/	TRUE	1789393717	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwayAMJpRExyGMa4luj2DU4l2PObLqgec.%26dt%3D1757857742469
+.netflix.com	TRUE	/	FALSE	1789393723	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+14+2025+15%3A48%3A43+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=358b1543-f9ac-4649-b3d1-b0b7f4fd3cfc&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DE%3BNW&AwaitingReconsent=false
