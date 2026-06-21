@@ -1,0 +1,23 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: dd50mm27@gmail.com
+– Verified: false
+– Profile: Kauã
+– Plan: Premium
+– Next billing: July 10, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 0783)
+– Cookies: Z:\BR[OQS9OSXSXUH031CCU87CD0TAFWD3Q1UJJV][2026-06-18T47_55_51]\Cookies\Google Chrome_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1809912852	OptanonAlertBoxClosed	2026-05-10T01:34:12.939Z
+.netflix.com	TRUE	/	FALSE	1810580778	nfvdid	BQFmAAEBEJWZ8E8sGlQ3jBD5TAVzfURgbXhAn7b9EMhi2TDb--WqDbPU7BxQu5sBfldG6wFfIdTu9d8f2jVKGC_I-XauLE5UFFaoYBGS3vHjiqtRFu3S0xzBZYy3hgj7nbHP5PsilIN8qHFRPIL8RKou8GgfZV9W
+.netflix.com	TRUE	/	FALSE	1812235303	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+05+2026+19%3A41%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=33f8fe9a-6adb-4623-91ba-90d2eaa5b9d1&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778376853404&isDntEnabled=0&intType=3&geolocation=BR%3BES&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812235303	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABThHT9JKKUewlLZIi3kd-GNeRZQUKVO-ik.%26dt%3D1780699300191
+.netflix.com	TRUE	/	TRUE	1784522578	gsid	d51a4306-7f96-4bb7-a67e-f202bb88baa2
+.netflix.com	TRUE	/	TRUE	1812235303	NetflixId	ct%3DBgjHlOvcAxKDBMkUH19UN9QlBS_8HKFoJCLtBdXzJoUSsRiydosRxaGwhbZZb37wLafdyKGZWIdJJRtFMewjp_vXSN947PKiDSNN1EnyqZvitHEePN8hLYznEGJSmDuAr69DQImHUPwce4tZGdiCc0u4h6rF_DLpVSk6KWSgFD9XPzbQ8mAVZz1690Cgjk6r9Hb74zpWVrMm4tWYbFeqEKn0VStfIdacYrDqU9zx6Pbf-dpdCmT5KfIj2LtCKtmtg9MYYLRGhZPFUJS6FuhfVYB1_rf6R6MRcAht_bB57pTwX8IbyK_9523Bo-0nqV325-hNvSDBPYJfdl1gOvP6lKQlr0kzw34SSNYzV6c6ec7nShz2693KcPwyHp-l-jKiMut8qWRf45rrNywLM1UmxfD405EAw0gsOAeUbQlkAsRVkDvM7Sm5fG9VOm9xJFAEseK1SSZ8aUQmzxsQqIJ311gxrfxO6RoWBPz_t5yoCN810m_3ud6j_qvDKGtRpXDavylqu9YadgLYaAgSjBtFaDFupxWJQdC0zQhVmW7Ux0dMqamBOAfqtzFwhNXgZ9VlWq0vB8P2WUmPWgYjqozdXUMzbM2rwEFqeOdr0WcftK5jP7wl3Y3w3HqZ6fEkA0cG-LRERd24_Q_pPy-DeTF08uy7yqRRmRwSynka6jPs8rDm9ca3vwzMjHeJ7hXBGAYiDgoMpa46zaOQxy5emA99%26ch%3DAQEAEAABABSBR262zEWQDYqCnYzUnFr5egOH52KhrRc.%26v%3D3%26pg%3DNPMOMEPJNFFPZP6XRIPXBDYMBQ
+.netflix.com	TRUE	/	FALSE	1788475303	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788475303	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788475307	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1784522578	profilesNewSession	0
