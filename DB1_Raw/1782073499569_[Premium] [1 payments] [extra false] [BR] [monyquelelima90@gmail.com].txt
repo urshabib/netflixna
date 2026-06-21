@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: monyquelelima90@gmail.com
+– Verified: false
+– Profile: Samuel
+– Plan: Premium
+– Next billing: 14 Juli 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0410)
+– Cookies: Z:\BR[7KHHIRTXT8BKXB66HWDKOGYST3YTBD90JP][2026-06-18T1_55_5]\Cookies\Cookies_Opera GX_Default.txt
+
+.netflix.com	TRUE	/	TRUE	1784522578	gsid	09c2a76f-9825-4276-8bb7-593981d3700c
+.netflix.com	TRUE	/	FALSE	1812138476	OptanonAlertBoxClosed	2026-06-04T19:47:56.063Z
+.netflix.com	TRUE	/	FALSE	1812138528	nfvdid	BQFmAAEBEHDGjok7inH2iU3QcUeZ9LVgwPXSOhT2ldi7hv23Cmpb5g7vMYZh9TVgEjybkv1Lba9bA7NkF3cSzrdo1J1CAwINGKHMl6jtDZ4BoF0xCtcu-nS0l8r2Hy8TC38vZNOTFvMpnChRes7_Xnn4-ttr9rCM
+.netflix.com	TRUE	/	TRUE	1812138534	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaAzRLKGyZ_VaLDZWB6WGvvr92DdHd713OO2TPCXo8Hj8sPbwrIPt2Ar_hnmlq_bPM0DxVRmexOfLvshJqmqD09nwfrULSX6wJhXXbFCCdrUZarQ16PAIpDNQdQjbvgqEiqcNM3n_phE8mCpD5eBTnuxUVMS9WpvcHZjnPI-Trk-bqkcYXFl3HTeSFdomXrjXhPfsiglJFIRPO_G4o6eAVh46wrCVt8zSsbWN5g0QmvAm6oZcQYIfv-qfoHVyKuoetQVHwOAJcFqkgT8aLlmBoH3FzP327_E-NXIUneGmfvlDEZH5mRuhcEL53O-yX9SzZkzpgF2I1QzYNoXaUPCDIY6jfbipwAR79iYF6wGIyro-AfPQYWYySCob9-uUGu7fIyQof62YR6pklz3kW_f-Q4ypXv1Eo0vB4ffQmuYNA4gv9cRhbY0bR8ia-xb7rp8DbM9k8AvzfDpmkHINK7w3RBHkFX0euKFDzoPuTRk3E27GQPAtvc6rsjLE2aag0kkqL4nuTLZPtQPvS3F5jUM10iXgTWpPh37RVF-ReGAYiDgoMa5qZApNKbgcAf0x_%26pg%3D7HX62HLLFRCQLMG7LGUW7MZVUI%26ch%3DAQEAEAABABQo2cRBdiBxQ6e20oQy91MZ8B5mvDBOIO0.
+.netflix.com	TRUE	/	FALSE	1812138535	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+16%3A48%3A55+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=128fdac5-5996-4721-bc0b-85deb059452b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1780602476934&geolocation=BR%3BSE
+.netflix.com	TRUE	/	TRUE	1812138534	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS3etReaoZbpDYvS0bntiheXvq272ZpidY.%26dt%3D1780602533667
+.netflix.com	TRUE	/	FALSE	1788378536	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788378536	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784522578	profilesNewSession	0
