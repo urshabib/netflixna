@@ -1,0 +1,23 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: zahraisa@hotmail.co.uk
+– Verified: false
+– Profile: adamozi
+– Plan: Standard
+– Next billing: 15 July 2026
+– Extra members: false
+– Country: GB
+– Payments: 1 | CC (MASTERCARD 7146)
+– Cookies: Z:\GB[YF4826LX57L5NQUUTHEK9FXAT0G58W32EL][2026-06-18T38_11_30]\Cookies\Microsoft Edge_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1812313655	OptanonAlertBoxClosed	2026-06-06T20:27:35.238Z
+.netflix.com	TRUE	/	TRUE	1815337832	dsca	true
+.netflix.com	TRUE	/	FALSE	1812313831	nfvdid	BQFmAAEBEOfsu1Q68KfSv_YFnsqFsNJgoAyjfALQsPMqfVugi4bgi9JxM-2NpJyEV96WcXckFBvF_bRbOBhEQ6emVM2kFP1gdWqMncCn2lgOwxGCH52BePUGoemu4OYugRY3KqalaIb1BWj5_HtX5UEKvULjkzOW
+.netflix.com	TRUE	/	TRUE	1812975391	NetflixId	ct%3DBgjHlOvcAxK3A1TCmKQ_4Aq5Fpa3ZMv6EH2h-90TG2WpnPB-gXYa24ZRNRdJzg4Yfs9IwQj4HNCwgQ577WJpvhvH20vHHLIqkmUKjAD1h_-wn8avtA6P93xzlszVkIhs0mj-H1BnoTLgbeVW_qKZWJxLIdmAVglFmi1PcjGcPtZlHUkm1LF9KIZsbRUsiLhlHVyNWucCUFAxMRM43jB71sryxXVB4bdfuR4JWuyGyLW5sZ23bZN8oS29DjNGit5YPIPPQyk_lypkaooA8gTdYZmkonHsaaRsKVDG9-yvSuJvFggsypxSZ7MDPSefUdM7hFTFeTc57GT_lN6eAXSLR9eeyWJ4yraDIqOSkZxwxcSdh9XK8WSWNIdQdjvZEB5DIT3YmbWrfCQdemFSw7BCpwhsLy-9E5MkO7pefIK4apdcCzz34ddAp8IxQ_qPQOO_JkL55QicJl0jUzOESyWXW5hiDgaV5klq2xDSFNlbPsg7UETn0SpSBsIApx_hwt9M8U5UPrWNA4IjZTL6zKAfdQMi-nvlk---Qv_qM3wpL-I7_HjznxS3YgVq_4kdo2wcKEnc2HneC-YQCdF5nO-Br0MYBiIOCgwuXvIYyNlMcumD0Ic.%26ch%3DAQEAEAABABTTAXVMNwQDvDOgWUmR9wLjdsKfi1HWan8.%26v%3D3%26pg%3DFS4TW3KE3BH6BLOJ4D6PTJK7O4
+.netflix.com	TRUE	/	FALSE	1812975393	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+13%3A16%3A33+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=91609e9d-75f0-4a78-a44e-a0d44f5039b8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1780777655777&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812975391	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRO_TRPhNUliOq25FH58x7KI7x-38t1bbw.%26dt%3D1781439400179
+.netflix.com	TRUE	/	TRUE	1784522578	gsid	d867aed4-848c-4ef9-97d7-375b4306fac0
+.netflix.com	TRUE	/	FALSE	1789215392	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789215392	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789215392	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
