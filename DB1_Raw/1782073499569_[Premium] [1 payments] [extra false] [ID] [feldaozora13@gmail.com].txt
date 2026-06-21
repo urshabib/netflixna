@@ -1,0 +1,23 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: feldaozora13@gmail.com
+– Verified: false
+– Profile: zoorr
+– Plan: Premium
+– Next billing: 23 Juni 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (SHOPEEPAY *********5725)
+– Cookies: Z:\ID[TQWERG74HCUZQPFV3UXWEZG566NUSSUAXF][2026-06-18T72_31_52]\Chrome\Profile 13\Cookies.txt
+
+.netflix.com	TRUE	/	TRUE	1784522578	gsid	65259aff-1c6a-4aa9-9832-99e75e063a2b
+.netflix.com	TRUE	/	TRUE	1812729087	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA-nnnBPE2oBuEumO9t2boFwDFZr9wu7mF2ar_lJunnsn8sY9_5W3XJn3PcFfqGw-ttLqVLhshPbQ0wXvdTjNJOTjQgjfYOf7b050BLAc_hVMzgDMc0ioUjpjc2wF1mIjKhR_AZ_KkkY8QbISnBBtdTO71Rj708llq2wrg-UG90Dp24SvlwBRz3vynPCr4lwgTj8JVcPK9NfC7Ez5Upnj842V_dkDFVAj65JhofbBoILX34enJygzmtN6mP1EhyaJVE2cZQP5Q9EXjX9xlLR8DvyUZC9hcesorbTEJx0ZDdvB4keSL6K8lQKIf65YyNYBG_WDsDDfzGmn7JiEGh7LcwfCFtjo7yuVtt1hBzEN2ope7FoOg4VI8KiksyKQy00DKirvIbdjnDQPzIVvKTqCKkAihrRX1u2knx7tDGou84u84NsdGllJkZ0JySlNYwWs4mL_Ivzjz5uCz_UGFjpFkvI5mbaPgjY2ebYH4W6tdCNvlYLz_fjLkaJhDzVyYW5EHc3jJLUGT8VDO-YXR8RxcCkulvF6XgeLrCtPN4FcJBgGIg4KDI7Ng_1ws5oPQ296jw..%26pg%3DOLQCFCTYV5BCXJTSZ77X4HYPY4%26ch%3DAQEAEAABABRhFMjptAhiB0LWkYQf9xS7NL2-kQf_fvw.
+.netflix.com	TRUE	/	TRUE	1812729087	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSu6Pa0UW2A7bJrjGus_2vLwm2FhHD3Hm0.%26dt%3D1781193087219
+.netflix.com	TRUE	/	FALSE	1812729087	nfvdid	BQFmAAEBECW5q_ibEW1xnXWIUnAU9QFgi657MWt5ZcQm9XGHcB4Hye15Jb5TV0omezhCa4Xc9tjH2RuOdltPNwY8UcaDC-3-gbi8lO9ALoOs4uZeLX74KflkO2JMYkO__qytm8zFKGQtyk5__mka45kSy4d-KKGM
+.netflix.com	TRUE	/	FALSE	1812729334	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+11+2026+22%3A55%3A34+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1d7b8199-6dc3-4f38-a7ed-3e3baa96c32e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781192489578&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1784522578	flwssn	7de27583-3c98-4c2a-9d05-cd47801bb41d
+.netflix.com	TRUE	/	FALSE	1788969335	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788969335	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788969335	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1784522578	profilesNewSession	0
