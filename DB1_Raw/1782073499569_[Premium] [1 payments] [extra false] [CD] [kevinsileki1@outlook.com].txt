@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: kevinsileki1@outlook.com
+– Verified: false
+– Profile: Jonathan
+– Plan: Premium
+– Next billing: 7 juillet 2026
+– Extra members: false
+– Country: CD
+– Payments: 1 | CC (VISA 8961)
+– Cookies: Z:\19-20 JUNE - 13100PCS\[CD - NEW @kir3info]_frlichq7pkpz9n78rh5yfpn1\Cookies\Microsoft Edge_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1811752631	nfvdid	BQFmAAEBEF3ov--9XtT-A92puOZnfApg5Mwtvxl468_7L_VeBJ3tV8_DMMcIX25fkrhfToZVHOeewkX_M_1JS2SAcqkpyfXiUGBgSA32zqKfRe-C5rMWiNJTuBLVp1rer8v-swCBorLjjftT2GOBPUNXEGnYEG_h
+.netflix.com	TRUE	/	TRUE	1813319234	NetflixId	ct%3DBgjHlOvcAxKGBDzXpQThS-coXAb5Gj3nyBoUygXbgXm-sahtO_4LQdjaJ853uGfqq80IVMBgIwniWJSMQj1h_O9nKnIiH5z9sB1MAojnZ2v2R3zo--ExH8jxMBXnobfubna5c9iMO3OEELzd9a17_evWSteZfVrjQsXMei4fJUfhgR4ODkh8m_kxyhXuPeyMJ8HP9fjt79AcZuFOI39uwVO3JSUVZf1hb29J9FYlFaTXwZtVrnmJcNmYpPWno0XZ6BVNNj9UATU-AnPFVHQkHeBzhtCypSvT974UYfmuY1BNKu_nYdsCt22HlDFN2HXSyVrLNUBKHDd2oeWYXqm5X3CRWW33CsORc7aNDksKrP_wuFyLKTW56aZk5LY-pLkSycvrgM21qRRvLeAUxL4G61QSUuRFjZgGcUT7lUchhRSp3DeGsCaqwtw67a2Ir6bImnDIQSgoGmKs4Dnkc4qhGi_avRPx8hKBknWwStvV5bpv0IJWMr_T4mb5d8zaxNiyvNbnbdEpN30QaOof5zs3B37GJgHGvwRNWaHAMApmtPTZPLeHKM7hKRpKy2IvrAp4sZCzBW7ypc6vLb68XtKahnyfDtuZMrGXnp9KSQjOBdSQlz3yU_BKdueL-CIVx5M5Da2qvAXwmD8Xjb2ZZ02Z7uZ9uwtk8JRsfSr36RkEb-6ReJMh3GXf-GxNn8acI5P_GAYiDgoMsPzCazddETBZvWkj%26ch%3DAQEAEAABABRP5Za4vpTAifvfcUuGhAoolFq8v7Cn5Ks.%26v%3D3%26pg%3DPKMPFKN5AFF45PP5XDG4P6GAPA
+.netflix.com	TRUE	/	FALSE	1813319236	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+18+2026+13%3A47%3A16+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4aa890a6-60ad-4d7f-a7e8-6eb8a92c149b&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	TRUE	1784664854	gsid	8343f14e-9b58-436a-b7be-32836e8b1c9a
+.netflix.com	TRUE	/	FALSE	1789559236	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789559236	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789559236	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1784664854	profilesNewSession	0
