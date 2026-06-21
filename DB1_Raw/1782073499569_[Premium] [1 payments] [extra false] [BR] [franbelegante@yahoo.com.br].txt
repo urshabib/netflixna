@@ -1,0 +1,23 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: franbelegante@yahoo.com.br
+– Verified: false
+– Profile: Viny\x20❤️
+– Plan: Premium
+– Next billing: 9 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8820)
+– Cookies: Z:\Logs_19 June\BR[GZCMOMTTEATCX3TOGU2KD0HLII4MN7LMR3][2026-06-19T40_54_51]\Cookies\Microsoft Edge_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1804355023	nfvdid	BQFmAAEBEFADPhqjachh8B6QBBuhnNNgA3OzhPwJPU_2ApNIX-GQBgt7GlsoY7w7hB2IezckYsSuJQSzi4Mek9S4ENQWZ2tMvW3G6J4tbpG9sHjqsPDHCZpiatdttdgwAOckUH--KUKaE91FemDUR02zQBIh2oqh
+.netflix.com	TRUE	/	FALSE	1808162742	OptanonAlertBoxClosed	2026-04-19T19:25:42.036Z
+.netflix.com	TRUE	/	TRUE	1812950248	NetflixId	ct%3DBgjHlOvcAxKFBIA7-QlF8JbEqRHygswQvOvjiXD8DnDwI3qkteRM0vppBCL7cxAeJ7hpfz3Y4LZihQgFlHideDLpV17JDrmisVQU42O7aCrLKOYZC2PWZa1KAFqYPR2LLLyi1wZL7xXMrSZFZ6zw48xAGUol--DkcYFFj_74ZoRZm2ugt2ir_eDOGzoerHFslenA7ejFmoOOCgqEZJJh2nXezwSKjG4LEO5SHc1W2VgjW5VbxYQ6v95LIUyJ1gLCRyr6zJqjkEaT0VfXlxJnvBuRNxoKujZjT28c1lbnaB65TW3Lsk3RCdk4sSiXN5zP54d_nSSrra8B0KG38wCJY-huo44_d5nabCPoGWmQQVmVJG2q6j3cfa2qFBInNvk15c6j2E487Qxi9wXiho4LnoC6nRqLJfqMQZYJ4CwZLDWa-O8jQJ9CSa8nPPC3oEruFd4lgGw6gCxwYXq1n5ENackJLh_4pJFX3PAuKAXfhQuCjQkQS61k6SknP_Z_UL027o-rVcr8YEIZ46QZvclb7bh97D-465LTk50HFHK-M8v2bSkpmIttgZ6lVPJxv4nlw8e5uXO7R-NRXZYCGrrCyp8gN0UeBEA3ouDWJEd0MF4mLQ29zDw5t0CTFc-IcrKUkuY4kKWWFimTGYneW3rBRdAgMBxmgnTknfbSyLXmRu-LioSuhrGMY3m0mxI8EcQYBiIOCgwFgEIe0E1RuHuBWKI.%26ch%3DAQEAEAABABRMBYOU1l8tAYRenxZpd8CUnRkfHCgSlF8.%26v%3D3%26pg%3DZIXBZAB4J5HUZP2P3524OCFNO4
+.netflix.com	TRUE	/	TRUE	1812950248	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQpZ-6kb0_Hpxf8l3A7a-6qH56_B1j7Xs0.%26dt%3D1781414249984
+.netflix.com	TRUE	/	TRUE	1784516443	gsid	c6e6d9a2-8706-4f10-840a-fcdcee25133f
+.netflix.com	TRUE	/	FALSE	1812984691	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+11%3A51%3A31+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=53ca4216-b4b1-4c60-ab64-af11ba687572&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1776626742482&geolocation=BR%3BSC&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1789224691	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789224691	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789224691	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1784516443	profilesNewSession	0
