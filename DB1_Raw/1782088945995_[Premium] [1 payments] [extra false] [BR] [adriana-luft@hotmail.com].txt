@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: adriana-luft@hotmail.com
+– Verified: false
+– Profile: Gregory
+– Plan: Premium
+– Next billing: 3 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 5303)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1797294333	OptanonAlertBoxClosed	2025-12-15T00:25:33.491Z
+.netflix.com	TRUE	/	FALSE	1797294336	nfvdid	BQFmAAEBEM1x_oDfvZectrio2vziEtNg7qJjJjyLQ0HUZQxxIpc9UNYXLdvH2l2N9kZ1xjK0wXbfHfmAofsFKivSO2HGVBOjJWMz4Ovn8HAdSJY-FjK8jCDsP9xs9rdZ271hDQBPJoH1rv9qQpbpd0KnfyaavAbX
+.netflix.com	TRUE	/	TRUE	1784679582	gsid	aab36454-c9f0-4071-b909-ebf4f9d14831
+.netflix.com	TRUE	/	FALSE	1810526947	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+01%3A09%3A07+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=35322a92-c087-4e67-b30c-8a94d9aa6efd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786766948	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786766948	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784679582	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1810583344	NetflixId	ct%3DBgjHlOvcAxKFBAtjuME7zHW2b1ausbTfB6zaucJ5qQFj4A6qvaIkI-kVTHlsEjq9Kv-A98S6kpWf7dpCYn4bbHoHXSVsw1MB77fKCWh1N4VPfeUHXlZFXWR-skStUld-tmIJq9e7vBVXMaI2Qg6VocEYDDLdkkfecRWBHe0JQOTzOXWGhaZEeejP99fB_scsVEpqCQEf2YJdBkpugtiLsAjTNCKgvhQcJ-g0Weqz3nX35WwnthPLlSVfmKgYZzSwZiAFuU4-fNNF7ACDMKw0wJsyfMvWHE3dsc91TxA2W66VNsWJAJJpAZynJvYufCp-0R5Zb38pOcOjg6IDhXo-ds8eOfYDgsOFD7Z7ZS2Qcwc3r5KQGu9zNDbthKkxqta6oz-vpyl9LZux_k0jLgFz7wfGBLWGnN1i-UpAvzE7CooXHskRY28IUn1Bb9bKRlE06CtzTcGc9DX1-dXD_79Mf_HCBjvI4h-gTV9JMs_9PY5kHn44XvdCAA_P1ucJY16gZaKOUKgxQoC_JsLYtkCIvOQGUk0wbbaFVPNbe1E-JJSl_zLbDobVHYIIrpKfjNns-qX_gTaG1idyElgXzt4GHKjO_uDzEd6_R1jiicyGJaziq9XS3zFAJSz8LkcgZT1yPRkIXm0Oyk69Zfase_JDvzDYRZfQxIuXsBxngXCB7XLHv2p98sWLLEMaEDuJUGkYBiIOCgyAizIn5eZcphR6QCQ.%26ch%3DAQEAEAABABRcMdKii_pXn4kFdYMOhu_43SdVXXqE16k.%26v%3D3%26pg%3DWC2VIVTRI5BTHHKIJBSYS5SKDQ
+.netflix.com	TRUE	/	TRUE	1810583344	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTMWdoAoscyQhQyLnv8J41GImqZDdpn74g.%26dt%3D1779047343414
+.netflix.com	TRUE	/	FALSE	1784679582	profilesNewSession	0
