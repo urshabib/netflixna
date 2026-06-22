@@ -1,0 +1,19 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: vilsonpereira921@gmail.com
+– Verified: false
+– Profile: Vilson
+– Plan: Premium
+– Next billing: 25 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 4663)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1836926892	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+17+2026+14%3A28%3A12+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1ad5a18b-b8f1-44b9-ab27-3bd922862e04&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=BR%3BBA&AwaitingReconsent=false&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	TRUE	1836913644	NetflixId	ct%3DBgjHlOvcAxL9A0oeJJLNtJ7ol775H0ViHL_HYFCJ4B4K6R-YkGXgPV5_M4af_grDWce85iTZKI5O6Jf2ZqbQRPaO6w4bn3x5SYWZjymxvLaA-ghSkoeuBL_sVW3FchwGomsxxm3P2SRKm2CuOAXHFJXH15g-BSk7TQKj2uq5xuJrRg5S6xP3ryRINITr6HSSVl9hrJY3o3ityZzDiEjwGQiz1xMttOtxaLdXXI7FGJJxMwLTRe2-m1EDCjlqIt_hVLzYPuY4n1DwLzS_o1XEvbwvtAeRWtj05035hhycsWbjVi0Euu9Xo0LnuDbF86-7WhYnWwodFdlGmbxjyNa68eL8pCSX9mAXxtiuze3D1eZlyRdQ1sb2enbbOAdK0voV45BxKIi2tYDOGsoTgY5CUHMp7sikzMttBAY5BENEIedqBKUgRtAaLoN-SQ7XQUxuCU3-EOnQkmDP4nafAR8Ohv7vzpWRAUoX9Bryu5kCrcJGKGgOdpoxckxToEzekdMs8I4NIniPlr--fFr0hT7BZSJC6Yaob48dX9xY7V5G-V3PxZGUfx9k1aItR5eBk06L1WUKxFp0NlUYshOHyAqiiVbXc7P9-P9014qL-k8X1e18AV8B0CCMxp0G__Z1lGopOrZo4msyhLWCKwoTBA67A_cBzpOo_X1ZSIoE8x8y70H2dDpJP8Z-GAYiDgoMWfgrmG7RAgM20Hcf%26ch%3DAQEAEAABABTVSN7PAT6kse0EeQaa_6224yq9Rf7n_j4.%26v%3D3%26pg%3DCUXPBM2GV5FWVPBJH57DCPF2MQ
+.netflix.com	TRUE	/	TRUE	1836913644	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQJRNHzhPyfOOaXQu_RUGTBgw8OHUEw5Ck.%26dt%3D1773755244617
+.netflix.com	TRUE	/	FALSE	1836580305	nfvdid	BQFmAAEBEA5b0NqN1Cz6VI4AOTzOXEpgpDKbe2SFodVRTkeSqzel4-gFw54iFzj64nN7B6aSFaZkWzntZdeYYXuLo9WJz7EpYAjL28_TKvy1_X1QYO9XVjl27H65OGEIJwoF3mIVSlEHoplWjK1Ck-_RIdp_X249
+.netflix.com	TRUE	/	FALSE	1813166892	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1813166892	netflix-sans-normal-3-loaded	true
