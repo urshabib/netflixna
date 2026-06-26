@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	TRUE	1785005133	gsid	c5412e88-4935-4977-8562-f92268cf71f2
+.netflix.com	TRUE	/	TRUE	1811650590	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlA5RT6zdfrL5bFcn8XSaCRHMT1j10MBQZJSYRFBI2Z_FyiowoTAf1glzXJ6RIBmpPDoHOlaPbXD7nAMMib0s7Lzrx0FaDOMzwHQyde3vgkBeDVB0eY8dQr1OZktorWjVMIxmj6Ba0t6RrAk9sIUHV9gMTgjYpQNadjPkN5DIBmuOIYLpfrSuXHUmb1FwF2MfGakanxhm2TooTE-VgFCfMhNIBl9hZH4G1JoqS7_9ABRG7sn5oLgvnI2luKHPHhY6iXJbCINCPxt2-iZohpjtruCqpKBtLydL0gS-LDQutdfiSq01ImRUWGwVi7hL2VA7Q2_oUiw2Zj6SupsPcMplRMBddHRTWZDcfJjQ294FAR-eltaesshXsuhAXOBGiSQbNyoPBU308hx3DojnGW1kUlXG9f4mfDb_Rb8xwNF5QfKR3GhwyhkdrS_DYuInBBEo3OWnOYxbJiachhvgusuXJBU6BStz7h21euU4wqbRGdWia-Q0_3-QFBCIlvaXnQwEOh4OfSmQ19GjdkwesVsJfidKfexvuB5-exVgyM0oj3YVAxGQqEYQYBiIOCgyCf61vCiCg_nQ0Ezk.%26pg%3D6FVAR3JHJVCKLBDKHF3Z6EZTPY%26ch%3DAQEAEAABABSoiIgkk-AMhwyfUlcvtOUDOyW21gbzYQc.
+.netflix.com	TRUE	/	TRUE	1811650590	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR_tdmuJl6mX8upLvVA6cA7Mmh7x6DT8Oc.%26dt%3D1780114458028
+.netflix.com	TRUE	/	FALSE	1811650590	nfvdid	BQFmAAEBEPQToa6jRdcNcNOoKcYqFT1ghB7XLe_kRxM-V24zkpmd5wGKKFj5lno6mHIYy6uvYRpxJi3jnxyJFuz8_AkXYzAN65rJ0fx27EOsWl23-8jzyS72lkVu9LkpJCI4t2DOh29MPlDcb6ZC9qGAp3nTYUfp
+.netflix.com	TRUE	/	FALSE	1811656786	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+12%3A59%3A46+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a9802627-1155-4e4c-baef-9b0962da03fb&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1780114569137&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	FALSE	1785005133	flwssn	b777d2c5-6961-45e5-b07d-a4e8e6858b39
+.netflix.com	TRUE	/	FALSE	1787896786	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1787896786	graphik-normal-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1787896786	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787896786	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785005133	profilesNewSession	0
