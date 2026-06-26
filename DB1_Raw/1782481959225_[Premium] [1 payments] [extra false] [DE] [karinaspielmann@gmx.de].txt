@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1785005133	OptanonAlertBoxClosed	2025-12-26T18:31:34.816Z
+.netflix.com	TRUE	/	FALSE	1785005133	nfvdid	BQFmAAEBECWivZyCb7VE2YyyCHoYC05gWBj8YuqIGDOLm9lZNvZihFsU13XQb5N6sDHVh9hn2ExcuI4Kz-Qugn6btBU_CzQ_GHV1kHx1AZGsDGPOOf0hLrusMJhSach-UFsNOl6G2gd00R9_-pIiJ7BuHNnGm2zV
+.netflix.com	TRUE	/	FALSE	1785005133	dsca	customer
+.netflix.com	TRUE	/	FALSE	1785005133	gsid	d272f8b6-3df3-44d0-831d-8d4fb5797d58
+.netflix.com	TRUE	/	FALSE	1785005133	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA_Q9l5X2wtWodFeEyby2y_SG_j9OlKL96aNlzKJRhWI5vOeDtHzIZCSti2gTxyWViM2uix9WxcYfnWqeNv8NGafR6gXp0WaQYH7EPBpwCzOOxknLq2MaqUhIz0GI1NfwPmOXNaqYo0Sn8rXvuhSxLTed9j37gzGhhf_jgdiGIY9GMQ0ZtMfr4dXgfvgOfybZ8W5id8ee_m9pGNx3TAqDGkBPHpB01aSuMdU_sLIxk-A1rVgFRkly0QqXjklACnD_x0F9tHzFrVscApyyfIHG-beEu0Q4C3SsWMQP9mbHUkYBz0RMZqBQLRAYzDyQZJsqPqGo3uD3tBS4HLWOC7kJQTVMLFHv6R1pZ-KsCbkLUREJ41DnTf4dYXqdfvgETOWXa8rfWy9gT4SSSB3Cj8fAFSb0bTevnaGSWI7eA9B991a_hOLEydNzg5L_C8sw-xcTkpzsmrktGX6k9Y0V4cNyc5YPfu8-zaVwK_0CX6T8rY3PNvMqzovtJLNrpXMYadS4wH9djHV8ra-Fol0cAIIBmiBSVxyfuxZv3xbzGAYiDgoMxuCuOvAHGzyOU6qQ%26pg%3DMAFGQA5OMBGKDHYTGTAYS2N4ZA%26ch%3DAQEAEAABABRwZ3qrdAMHC9182SgJSA113ueOOAKBXNI.
+.netflix.com	TRUE	/	FALSE	1785005133	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSEAMgxXzTBaxWGDzj0S-Lvcg1RI-T-Cbc.%26dt%3D1781388144608
+.netflix.com	TRUE	/	FALSE	1785005133	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+09%3A44%3A50+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1c093a92-1b97-441e-9371-3274925e9fe3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=DE%3BNW&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785005133	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785005133	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785005133	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1785005133	profilesNewSession	0
