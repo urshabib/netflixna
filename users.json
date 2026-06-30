@@ -164,5 +164,12 @@
     "links_claimed": 7,
     "has_limit": false,
     "last_claimed_at": "2026-06-29T23:24:19.265Z"
+  },
+  {
+    "username": "maycoumchethezlbac",
+    "password_hash": "maycoumchethezlbac",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
