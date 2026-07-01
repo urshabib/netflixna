@@ -16,14 +16,6 @@
     "last_claimed_at": "2026-06-28T23:46:29.484Z"
   },
   {
-    "username": "Mrabet",
-    "password_hash": "aaa",
-    "is_admin": false,
-    "links_claimed": 97,
-    "has_limit": false,
-    "last_claimed_at": "2026-07-01T16:06:14.301Z"
-  },
-  {
     "username": "doudou",
     "password_hash": "doudou",
     "is_admin": false,
