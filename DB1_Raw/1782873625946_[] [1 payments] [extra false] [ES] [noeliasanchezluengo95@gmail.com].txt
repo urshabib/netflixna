@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1798849855	OptanonAlertBoxClosed	2026-01-02T00:30:55.515Z
-.netflix.com	TRUE	/	TRUE	1799111573	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEA3LUMl3ipJzpVcMpMxwaJ_L9HwjJm6i-2EHW-AJaQzcdNljRdt5FegmcjM0gwd0s7NXEs6G7-cy5h_xb_L1cBddOz8gbKdhFKz4-u9DdRrewK9nFlIwqTWB4CczVMAx09Z7rdUtSrtltBRn8moTLqfJ1JRCwXIEF-g0RyTRXdoY-yY9QXr0AnznZcNU5ONs15U6GiSnRudsvoB1EMG4M6NAJ7YARhcFLZOkLSNi_8HfGiBZYKKZ6f8bcmhhEEhiaw9Cg4MpYcBQm4l6U1zdNF__P4mtWAgdw13mjKQMEBhXn9ong5Z00JPB0XNSUJs7yAgV7FQ73XGLHy40PrH-AQZBtRg2TPGucphheq9ippZYjnviqTz-l7b8EisMhD7uS_w6xgs_m_CdRk10zfmYWNX672G8w6nCAhKIv1QdTiVowWEa69nnXIt7w19_N9Dye-RaaSXFWEfrklYF8SV7GiQV73zfoQPbDRUp5hgeWLqJQHjqPlAqy6IO27EymPPVfPVOmNf0YBiIOCgxNdIOv5sjch0AR9y0.%26pg%3DH3CFPB32NVE5ZOZED45HR4KHUY%26ch%3DAQEAEAABABRnpQsxz-9YIz5RkME_RELMLBI9Z3VLgCQ.
-.netflix.com	TRUE	/	FALSE	1799111575	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+05+2026+02%3A12%3A55+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=233e2ccd-6dfe-4600-90e7-ebb42438ca03&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BMD&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1783357154	flwssn	ceb96cdb-aaf8-4104-b2ae-df0f27a74ea7
-.netflix.com	TRUE	/	TRUE	1783357154	gsid	902a47c1-b1b2-46c5-acfe-6226f6f6bdc8
-.netflix.com	TRUE	/	FALSE	1783357154	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783357154	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1799111573	nfvdid	BQFmAAEBEDllfoQluJTx1WyTh9c3UYVgm3fqM3ujruN7LGkFG3bJxNuq6i9ypGJSvPbSO5K7bhSLKe8IhxKmALCOzkGYmqAP5QM-uLoKC6AfYh8CgVAZ37qSbSbXxLWkV5PrwPCgDSd6p_LjswXHClTRwuQo4BgQ
-.netflix.com	TRUE	/	FALSE	1783357154	profilesNewSession	0
