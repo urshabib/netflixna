@@ -40,14 +40,6 @@
     "last_claimed_at": "2026-07-01T12:59:24.828Z"
   },
   {
-    "username": "omarmarzouki",
-    "password_hash": "omarmarzouki",
-    "is_admin": false,
-    "links_claimed": 45,
-    "has_limit": false,
-    "last_claimed_at": "2026-06-29T22:21:52.159Z"
-  },
-  {
     "username": "sirryahya",
     "password_hash": "sirryahya",
     "is_admin": false,
