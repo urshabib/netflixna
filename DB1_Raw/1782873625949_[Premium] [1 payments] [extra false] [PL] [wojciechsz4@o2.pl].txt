@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1785090229	gsid	8c7b0416-b4d2-4604-aeb8-7c353e912eac
+.netflix.com	TRUE	/	FALSE	1785090229	OptanonAlertBoxClosed	2026-05-30T15:23:50.135Z
+.netflix.com	TRUE	/	FALSE	1785090229	flwssn	da0d2638-ae43-4621-9a76-bcc189f8df1b
+.netflix.com	TRUE	/	FALSE	1785090229	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA1fFEiiJggST3k9OxsgqvFwZwtRcOgCKLsva9R7c93n6lW662zepzF5adxRuvAcpdwDB6JtQnnoTcsZni9HnCYURxa7P9jr8DTDDOI5uKHM8hdx2I5Z-BDGtDdc0PlKhRegV_2sBBfukvyn1YzlftrlOA27JrO3i9YqEO13N9Jai_sgriPKlw0tQZD0B94cc8jZmCVHXf9s0pPndfPflEwCdpyt_-qUPzO_bArK0HvDp3sezKhuWlP-9pxKXiyADa8GEPOAPqegfnzdYGrmI5jy1PWHpH_ibo_XLkdhAzQbcotayWM2KrY9jcsuH5fUlSHF9TvxS4GTbZAiI8zevs2t8S74L2gRuexsLZQ5O_ovMGyHXL9CwpQTj4f37_34TTrwGGgPSG7xdKvkpZXHsKy8cgkK6CJV07SieJhv49A1lLnh18xIi66faL8VS3VSlBOdXEyzGD4oITHD-OpeZKcIIgk8MdXk3KygEW_FbVgZ5bt6hczeZ2m2znN5YIFiHn6cgTWyOlR44B1HjSQHaj-OCPwz4nN3XvQ5XhpxlnRgGIg4KDCbQ_UmeAy4ksIg__w..%26pg%3DX4ZMXFATXJDF5FZ7S7LJK66W7Q%26ch%3DAQEAEAABABSM4dfhC7f79_kUoDxqSV5EH_RKc_2pPB8.
+.netflix.com	TRUE	/	FALSE	1785090229	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+17%3A27%3A14+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=73ed18a9-7972-463b-9b59-eafbcac16f69&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=1&crTime=1780154630511&geolocation=PL%3B14
+.netflix.com	TRUE	/	FALSE	1785090229	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIFZwGh37KvsuSqEkjJPEdOH79Jc4CV1o.%26dt%3D1780154832121
+.netflix.com	TRUE	/	FALSE	1785090229	dsca	true
+.netflix.com	TRUE	/	FALSE	1785090229	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785090229	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785090229	nfvdid	BQFmAAEBEB7a-z5yUbcLoeHhWqMtbYNgRrErRzq7nHzyqFwwOxfLrRxbIw8Dgomf9ygaTB_7rl-Odozty_4prl43Hs5tqFb-8-HBr5mvNMsidCoxVxqPmmSLV0ZctD0YJo3f2J_SDaw7qCb24moCRy-w1A-K9yCJ
+.netflix.com	TRUE	/	FALSE	1785090229	profilesNewSession	0
