@@ -1,0 +1,15 @@
+.netflix.com	TRUE	/	FALSE	1785090228	dsca	customer
+.netflix.com	TRUE	/	FALSE	2354878968	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1785090228	memclid	7c9296c9-c903-4d6e-abd9-53f010860502
+.netflix.com	TRUE	/	FALSE	3973876376	firstLolomoAfterOnRamp	true
+.netflix.com	TRUE	/	FALSE	3415742896	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	3415742896	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785090228	nfvdid	BQFmAAEBEFwXADoxolf6mWhsYuEbQzlgW7WcFLPoCcJBbYnrJznXxkStcVxeguK12VG3jyugEeSLueYh5YT9LYUps2TXsfcJgW9iROuZ7NQ6zGiQoF2JAA_lBeietRR3DDbevU1IrBB4bEB0BtTMgRJmc_k20lZC
+.netflix.com	TRUE	/	TRUE	1785090228	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9hNH159iellUBwYszDcpsrXAnHZvADWQ.%26dt%3D1752338589768
+.netflix.com	TRUE	/	TRUE	1785090228	NetflixId	ct%3DBgjHlOvcAxLnA76WsDyr5Xeb5cAx62ghYmE3zYgHPlffyibVOQxLsVIbs94sOJN0ooG1uifVcPDIMth2MhotLwZ54NI-4UZBeEtmRJ-J0-hwfNtridxOjld-7T6-6mxlnxMltJC-q7Ll8OEr2-470DZTnrJyiJd00MiF9lseaj4wtXPiZBYkfwR0fASs_gIwE9hdy7fI6IcLWN7Zs_JdPBj7X5TPs8BDUS_MuiH_6xAt1Ji7aMhjf73Ya1Ul_5PXWPmVl1QCdefx4DSyOfrlTX71pzat878KJ8xL_CN4uvhAWeVv8yesaYiXLTMiNQqWREuUrjeMZL2fbXNIzRFhU6BhAAa9NcWuEuv2QFM_ShrKjdWUOrE9AzqEnCx1NBuzjUntWEdX-UG7_HgPCjx8hV01KI-jHo2UAy3w7UP-Mj_sfHdoI4Gv6TCP39r7WRtiNTsOVYJNzFrmI8yTLqrqp9rRGNZXwybfIpwPs2yNaPeK34SuCrKTv4lF5VK1iZpzK0rCEPrfxv3x-VNMEXGICAMUAc7q_WzpZmKI7pD4eWW3g5tN2dUpjFK8IkoXpsXO0MynIh4kSTT7bwG3RZmLEqRwlYj2bPByCd6YXt4VK6AcYHszQjPZipuUl6v4RuMxB3wiMf3txilnCMMFcGHzB9UYBiIOCgyPtlrkXjxXXQN6gVg.%26ch%3DAQEAEAABABRbPrOShaZhqWRCmmddvcKF_12yhX__vts.%26v%3D3%26pg%3DDASGV7NLZ5DGBJSJRWGIFOH6OY
+.netflix.com	TRUE	/	TRUE	1785090228	gsid	3c52064c-c36d-4640-9d07-8c55222b0edb
+.netflix.com	TRUE	/	FALSE	1785090228	OptanonAlertBoxClosed	2025-07-12T17:41:17.318Z
+.netflix.com	TRUE	/	FALSE	1785090228	flwssn	425a1165-044c-4c6a-89a2-f1314a4448a7
+.netflix.com	TRUE	/	FALSE	1785090228	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jul+12+2025+19%3A45%3A57+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202505.2.0&consentId=4e9f366a-b577-46f4-881a-26bea72b4b39&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=FR%3BOCC&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	FALSE	1785090228	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	3516041336	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A10445.9%2C%22throughputNiqr%22%3A0.6133440013851711%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A10445.9%2C%22throughputNiqr%22%3A0.6133440013851711%7D%7D
