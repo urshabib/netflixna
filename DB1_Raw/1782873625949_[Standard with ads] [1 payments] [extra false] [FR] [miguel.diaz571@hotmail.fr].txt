@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/watch	TRUE	1793842439	dsca	true
+.netflix.com	TRUE	/	FALSE	1797465717	OptanonAlertBoxClosed	2025-12-17T00:01:57.176Z
+.netflix.com	TRUE	/fr/title	TRUE	1800489722	dsca	true
+.netflix.com	TRUE	/title	TRUE	1800489722	dsca	true
+.netflix.com	TRUE	/	FALSE	1797465722	nfvdid	BQFmAAEBEPb2DezWS-psTAh-rEQmdhJgICkLueJA8bRe3JjCjQWKgsEdB7bJroar5Nw-w1Mq3F1eM9UuhA4EfhdkwzsSZEQ3nL01zyhyc6QZjaUlWTLWmqPeqmENR9SspkDpDOitkdfj3QcvYZGWYEg7hU34ECyI
+.netflix.com	TRUE	/	TRUE	1800890316	dsca	true
+.netflix.com	TRUE	/	FALSE	1813061053	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+15+2026+14%3A04%3A13+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=463e225f-2abf-4146-b648-63f42aae3e4e&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1789301053	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789301053	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789301053	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1813107310	NetflixId	ct%3DBgjHlOvcAxL9A5cHCAT4lnV7Py6XDECKmHo7hGR40A33e6HdvV_75V_8YC8WdpUAudyivkj9GlstwvGkGjAo3xnpLikUBDodOUtWBn-5-W_H1kHolzNaqRRF6aXsTewdtlWs1ncIUFZ_tqHLbflOxctp1tz8h2m4qIo3l7OsWrT5QLGqhyTJsixsNSn8okeCw5wFg65zGXhxEVFxW4CIVxf0jdf6lY38HDTaN3v4IvJ8i_KsRP957VG2GSkSmopUsyHDdQUYkYJAi6qy1lR_AZucbcVCEzonHqMdn0vJtXjIEj6EF36uUSZcJc52-M_TgNIvGpGNBRoCkzduQJqKcvhPffgMpo7SXH3sQRM1cMVV9DkvBoSeS6TMKgPVfMSpGCHY-qs-vjf8LqClPtf_ed3bP_2EIu6Tw0m_B97hu7z1SGKV6_4OZkAKHFCHAOx5FuqpCUEpEDtVVLYAremdA6AaGcgcSmyK-h2cou8CEOm39YfgpxLlgDG685c63OQHOZdoUefMudjxVfNPfFaEwsyoQxzbsjY1pcYWkIkACw6x_P_-_L_ZNtd5rp1iDsGEG2c6dgaL8uRBaMnl-QzYP2KGLm8j_KuEc3HFZzf72ymc1lHuZQAxQ1b1bxRH9bgvaGY1tGNCFvNDOVtyeYMNGjv6YLnYyxuzH1CMqi1aLn-ws2Wu3hvjGAYiDgoMXfJeSU1Sl6iPi7rM%26ch%3DAQEAEAABABR3vH3v3CVoLJrnOgSlb1RIFV9zQNJ7LLo.%26v%3D3%26pg%3DTGUG4Z2QMZDUDIADFZPZEEHXJE
+.netflix.com	TRUE	/	TRUE	1813107310	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRYQdyTZhYJgLS_UljyJmP-1vgB37k_81A.%26dt%3D1781571310096
