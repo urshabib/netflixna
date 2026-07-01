@@ -169,7 +169,8 @@
     "username": "maycoumchethezlbac",
     "password_hash": "maycoumchethezlbac",
     "is_admin": false,
-    "links_claimed": 0,
-    "has_limit": false
+    "links_claimed": 1,
+    "has_limit": false,
+    "last_claimed_at": "2026-07-01T11:16:31.795Z"
   }
 ]
