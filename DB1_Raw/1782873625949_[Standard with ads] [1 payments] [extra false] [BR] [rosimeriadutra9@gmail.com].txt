@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1810427151	OptanonAlertBoxClosed	2026-05-16T00:25:51.053Z
+.netflix.com	TRUE	/	FALSE	1810427359	nfvdid	BQFmAAEBEF2RTkIrHLYvIkD5KpbLzjZgp879ePSQFo1bE8duvA11KQIFEyz0mWyR2vzkESwbWwgpru7HvbCCI0Z7bfJ09HBl4yLnyov5nI0mo025ylQtHjRjAtqfzo1M_ngneWqDSmUbT9S-r3ccOE46D9Hh5ynP
+.netflix.com	TRUE	/	TRUE	1785071952	gsid	7a907618-59d0-4a51-9251-277d0a231d5f
+.netflix.com	TRUE	/	TRUE	1815102240	nap	BgjduevcAxJJHXSsNkuxZ_lTURPd_sDcqvMevnyLuYA0zEiv8H3BWBXsIioUD_8QrifVjA0__EzbbWFX82Jr7wFlVpa1AyBpxt8nX-g6JvuIYhgGIg4KDBR6P9qbDS7svl7biw..
+.netflix.com	TRUE	/	TRUE	1812127342	NetflixId	ct%3DBgjHlOvcAxKNBB0KMypzaTzFyz-9t37bSuquPIWxXSdWNjaOXUd1kegursA0nB5B-fr3sUg5PPai2aGfsjk-vLLi5a9PTaxkPpSmbvwges5zjouc-G_zBIuxVvnNU_qz0IAp1UcNDGxqO-ApMmiggHB3sKU8x4kBUvvPtdIx5GGNjRKozUJkttM2qCcRK9CmI-l3oeC2jTY_qJDiDkWiq4K4Xau2es1uEfamubu7ilusQpW6FiJ2VJk-42_3Lf3etn8nzXYnBzZdh6nZtquewh3IU99ZjlnS0Y6cloM7n7R_O7_hNPWtpnNjIe8ke6LzH-clyDHlc1GLZQDCbHgmRxGZIc4aLfJs0b6E6rX04E490g997Q9cJTkAG_GVhyLRPPJ1M_4X_2l-uaKmrxeArNh-VE27XgEtNPBj2qrP8NH_LFwFTMHZ0AKE-Pw2_6UzVCjIOq70ijLF4Rqres1db-Gc2QPnUkI-IHHkyUrQTzps9RgkUVRvpBnPZ-g3IGDGDE_S7nKaoy7ZqTZKeX1X-pCaRK1JbejrLSd-ZA2LahDltWau-DGcgeKbUr76ZVX5-DZ_PLUpLmCUlv-Y8Q0X0JoaV18DGTQDglYFkaictCO7ovelVJVfakOQpjwxPzFHpLv9MDtf1UfbeJYNpUSZw0OoSuSaO4vvf5Z528IpGtaLhFT0MvxTQwXnT9eHAfyHgbgdvIKHrxgGIg4KDAe6ykdO4uuydRkl3g..%26ch%3DAQEAEAABABTuVSjXayvJ7SvFXRM9kXSD3vAXOU9SOmM.%26v%3D3%26pg%3DOER6VKC47BBW7N3JMRU3WFQDVY
+.netflix.com	TRUE	/	FALSE	1812127340	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+13%3A42%3A20+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a808e9d6-1020-464d-aa8b-a349444caf5d&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778891151483&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BSC
+.netflix.com	TRUE	/	TRUE	1812127342	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQbW-TC5tOvFL11nrLCB7yLu1XJStv4fj0.%26dt%3D1780591344092
+.netflix.com	TRUE	/	FALSE	1788367339	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788367339	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788367339	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1812150778	profilesNewSession	0
