@@ -22,13 +22,5 @@
     "links_claimed": 4,
     "has_limit": false,
     "last_claimed_at": "2026-06-23T22:44:08.330Z"
-  },
-  {
-    "username": "ayoubagerbi",
-    "password_hash": "ayoubagerbi",
-    "is_admin": false,
-    "links_claimed": 2,
-    "has_limit": false,
-    "last_claimed_at": "2026-06-15T16:07:57.754Z"
   }
 ]
