@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1811716559	OptanonAlertBoxClosed	2026-05-30T22:35:59.196Z
+.netflix.com	TRUE	/	FALSE	1811716671	nfvdid	BQFmAAEBEMD_KO1FnEs9LamPPYT7OdlgKBok7i5eTCa8VCkQkLZl-rT9UgqO0zP239d7C5Wn2Mhi-4kGyOX0Ap5Mwci7Ol9AlqkEz3kqoh6wkOM4VsPFBU4tcMGtmreTl2v-mev9_K7NUymQIOLSF284KoQPIz5U
+.netflix.com	TRUE	/	FALSE	1811764462	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+13%3A54%3A22+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=bced90e7-7604-423e-aeac-d6f63a8402cb&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780180559537&AwaitingReconsent=false&fclco=&intType=1&geolocation=FR%3BPAC
+.netflix.com	TRUE	/	FALSE	1814788462	dsca	customer
+.netflix.com	TRUE	/	FALSE	1788004462	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788004462	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785071952	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1811966274	NetflixId	ct%3DBgjHlOvcAxLHA8RjRnEodBNNxBt2YTYPtr22y1Au6qP4vKoXJYr9najImT6fAEjeA1znLN0F9gPoWlWUK3xCWlb8OrpZ5HGRevKSBNqD5vO25KmHN05P77SSbGj2xH0tgZi7x_zdSgqo-5clTEv94cNktzKLrJuUxN_YOJjNIiFooopnwjlwJSmC5_ZgcdxTVplEPstSmmuXKHNMLaHg824C5Bq-OL3X9j78_y3JjtQhQQgHdFQHpi721FGtSKbcvUC5qF7YhH6QRxqKwNliBYsin2kOZLpzBOfQco6pxm-UMfQ7SMsg_HpKpDsvrh5gQcD_CLdjetKEfxd8JA53Teo-bTFM972BSCCxJZOCcRG6ichkZmv0UKteJwOrmtRC51A65WQc6QLU2RUDoD2_wwk3WmGyjxWNDnnS7PMhouVjWzCwQ7DCILqRLvz_Q5n9k6jB3bQWGPq6_yTqnb8JPzgq7_iWhN7YE3cT8U9AvVAl-uF9UQ4Xv5fU9_Ju7MFPRB_aQkFaute882EO5C5JsJQV7imHhKWZfQXXVCc3-g19JIjSebcC8peCZaHd-WBmla8mFXZrbmc__XTcEE_rdPmpnBos5FeqxqJlk0mJ5MiDGAYiDgoMJ7KLxacMHPtVCX12%26ch%3DAQEAEAABABSYGgtn69hLuxTFNSNNXYRMxPtMFftTchU.%26v%3D3%26pg%3DTFQCI2ASMVEYVK27TM5M5RBD2M
+.netflix.com	TRUE	/	TRUE	1811966274	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQR31ckmB1sy0Kin6gupNebLWYwlHy8LdI.%26dt%3D1780430275747
+.netflix.com	TRUE	/	TRUE	1815001010	nap	BgjduevcAxJJ8ftQh_QHXE078KiryXjS62qW9LGmEbbjbbOcaAPfspsVRwT60qZ8W2ZJ9DNS1GiAbP1R6Af_1TS5MifaXZ4tTCU1elzzpAiEPRgGIg4KDPvfdBICeDN_B6sHyQ..
+.netflix.com	TRUE	/	FALSE	1785071952	profilesNewSession	0
