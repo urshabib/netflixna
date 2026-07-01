@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1785071952	nfvdid	BQFmAAEBEE-8_-TN6kz4J3x9zZGfOpBg6pt7cGaWkkh66YFI71qsIHrB77z_KHiQbKTS0s-H6gBhlqP4dBF3uc6pQhykiNIfHnjF6fg3_-tCMQKbcf0w9mvRj4kvr1f4fLCa6YIRW8iietJCdxA-3JtoOlNn3B3X
+.netflix.com	TRUE	/	FALSE	1785071952	OptanonAlertBoxClosed	2025-08-23T21:37:03.005Z
+.netflix.com	TRUE	/title	TRUE	2823035246	dsca	true
+.netflix.com	TRUE	/	FALSE	2802380407	flwssn	305c3d19-3ec2-4231-8d01-85bb9cc58bc0
+.netflix.com	TRUE	/	TRUE	2991842983	dsca	true
+.netflix.com	TRUE	/	FALSE	2839527534	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	3019609353	gsid	f92fa52d-cf84-45d1-88c2-46f355bb842a
+.netflix.com	TRUE	/	TRUE	1785071952	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSU8_LpPwmH8Cyk6vixLKndjZChK--qzv4.%26dt%3D1768164771313
+.netflix.com	TRUE	/	TRUE	1785071952	NetflixId	ct%3DBgjHlOvcAxLlAw15Tm8r7Nj2dUGvDraZpPZCzs5jEsYliGpfKfF-GG2UsYMyLfzip3rmvwn8-iNskDCZUbt0G6lqY_M-S_sNleAtjO5WQ6kOOO5tLgASANNCxW3D8hsyzkhketcv2ycAfnjGfCGbjkok5UsgmO0JgOWL2tt-DSRZXlU_I5aMIX8sm3fTh4rfxT7FqQErd3gSX09MpwDb8_qi2nu_gP0ZSchckWczvgadHhOfH7XbXSTig6mVkEG3MTB1mCa0IXWSzEjOZlQzoaOw7wPRt5Sm3orEBcyKUozLsJEP7N6qmlchhj2PE5bV9RqVLZJqEZLU5UtiOwJRxzEJ_1yN_N-AnyEox173O_mPi1-wDNRHf4gCrPIuxRw2Q9sSRMnmogvSuHvhi1wCvfannbW5U2uj1dVjWr_DA6z0xXP2jbDpG6jfgnUZsLWHE2fEM6jOFSFSOhwg3bLgr2Q8I0FmpwO1UhwFwfp3DAuVSvWZ2-x_ApSdQZlNm-ANAfQtvPhT3_iJD8qFdkxxsgimSQzYQCDT8h1BWwFffrm2rXMh25Wwwjq3SwtqpvuLmzMsxIRiMGZZoINejhweADvVKA-7uYhsDfeWkAsYlJN-x3iif-OZ0YS4E6n4lfiKkNh11l2OCEPTTPUn_Ed1GAYiDgoMKNJ13c2G-UNCUQjE%26ch%3DAQEAEAABABR-0_RtbxkeTqv4MJ2PxVrPOypcfWLlPIU.%26v%3D3%26pg%3DIEXPPRV5NVFFHG7SIVO4VOPD64
+.netflix.com	TRUE	/	FALSE	2119275712	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1785071952	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+11+2026+20%3A52%3A49+GMT%2B0000+(hora+est%C3%A1ndar+de+Europa+occidental)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c74f5c03-862b-45e5-b2bd-ed696a217f78&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=ES%3BCN&AwaitingReconsent=false
