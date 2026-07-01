@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1785090229	OptanonAlertBoxClosed	2026-05-28T18:44:54.121Z
+.netflix.com	TRUE	/	FALSE	1785090229	gsid	3dde90fe-64a7-42d9-b27d-614703b6e975
+.netflix.com	TRUE	/	FALSE	1785090229	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA8pAXfFOdYEw9TGFWWU5CmPXGnKIlIPgdlBAj68bUyiPU2GMWOFugCGoZtwAot5QYmtIefVsDwSHC_rlunu-fWQvjUJX6Eaw8slDVBq0rDtcxgv0VYITtH_Ll3QckSsurnhujodsWpXT3mjZlJdBNEs7uG2r2r9CruSorqAF4BV4oh5ueQM8AsIeJVnTROM0qTQqSxzMI3r6HVxGJjmVRLvFc2X6R_YiqZuzQgghr80dPr2mfV9O6dmDjTmlLmN1djj3sbl-RvHIZPI1FhcfrYaElyizyGiBw4N3fs0XkXM39qG3hIcsd74BirI1ZMFCcmY-I9QpJmOJgv_okHJ76XMyIMdLTYz6jsQkSP-5HyjX5sUnjasmY-a9LG6_SqmyHbijxcw1RlvYlRf4uy0cezIXj3htzAScIkJsTtQQQpBhtaErcDfNKbW574S1Fcg9evgsucTPdEPuuutD0ayBLZ77vj7GWhkPOjida5FaoqJqQV7T5OOvhPVydUuvhcao3s1CqnVTkrKRvBaAF_SqBVOHMoLvK8PSibR7NBgGIg4KDOz4KyWS5sqmXdDZ9g..%26pg%3DLO27TVB5ZBD6ZD5UJ46FVHKRR4%26ch%3DAQEAEAABABQpCDNgFUF-6B0jd5uxygNa1kBaxZSgWAA.
+.netflix.com	TRUE	/	FALSE	1785090229	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+20%3A47%3A52+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=76b9791c-6195-496c-9f2d-e3a9a178dd9b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=3&crTime=1779993894731&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1785090229	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTC_PkCyxVsgTQhC5c7QYEa6DWhRbucFgU.%26dt%3D1779994075312
+.netflix.com	TRUE	/	FALSE	1785090229	dsca	true
+.netflix.com	TRUE	/	FALSE	1785090229	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785090229	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785090229	nfvdid	BQFmAAEBEPvPeV3mR-Na6aZ7gqJf2nFgLH4gXJUw1Owh5npoafMD-WBBnaRNk9RryPIOp8weM5R161On1Dd2wpF2mz5FfizG846DBUzlgF3Htka7aXUyZ__3m90puPCEIFN7IjdvWxyX3cJgoH8eHJ4ChS2F77eP
+.netflix.com	TRUE	/	FALSE	1785090229	profilesNewSession	0
