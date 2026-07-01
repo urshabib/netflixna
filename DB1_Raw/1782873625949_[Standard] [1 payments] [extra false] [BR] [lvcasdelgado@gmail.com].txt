@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1810597369	OptanonAlertBoxClosed	2026-05-17T23:42:49.331Z
+.netflix.com	TRUE	/	TRUE	1813621366	dsca	true
+.netflix.com	TRUE	/	FALSE	1810597365	nfvdid	BQFmAAEBEFePDdlF096CyigXal_uuuZgibop1Nc0dcwcR_OKuqr-SxHa-oKE3oa4fZ7G4oGVuDmNtbE9Idn97TTpk3zuNjziau_OVaNT8s6XsDD0qVZuFl091KzZachomfCk1cj3aJheD6LRSu4mv03GOyzWr8kp
+.netflix.com	TRUE	/	TRUE	1811947937	gsid	538b7e8d-a619-4ae9-bbf9-0ea40a175c39
+.netflix.com	TRUE	/	TRUE	1811538115	NetflixId	ct%3DBgjHlOvcAxKNBG0nk7JLJDRE3EAv9-N0HLwcikPPbby7e_aZY5ghcFAXJODHXY3LTi0klzTMSklrWVaUDIpWnSw7MO1lzyNgvw6o0AuSu5b_EdLrxirrmiD1puSKQUlih9WZGh9XKcr9baBogJDykOVfOmD6KrQ8CDzXhmwvmBkbXn_zLtB4igOD1o43txBfVhIm9eNzvpW1Nvhg6dHRpbmTn7Wy1vEXkDlsBlfx4ZkAr7WOWLoj4PEH7-6HbgPbsAH0d50RcgcdZVafZ0U-enMXpja7fXVac_E6cW8tNbxEELTPpefPkMn20uzjBzGXnmiCiDxAKbU-MIxSB9UlMe8HNAQqhBeLqP8HHUt08JakRcxBqXBdd6Y3zQSlZFKSsoV3pRzag5RGUPFhhZF0cirL5FWsAsV7mT1B5rdvtYS99x_AQw_XsNV9QDhJpLYK5Vd5XkZs7vmoEWEV_6MK5FBTxUVPEyOZUCL6vSB76PCHS44Jzs5Q64tEFv0Qoa6SqtEAumqRJJN6GOoP7UdsAlXEzyl5fAUIoYQbH9bChz9UYelujy6vGXNmwG8NHNzP33erb5jRKMgsSJQLXrJITTqOF_bJsmubUC37tAfz1QPMQpJZ5DxBXpqxYHvKHV_js4HhAcA6chmMddOoGqWJGh0Mk4_BIzZnC_8-0udFzrvtVNZ3WHpmtzSDfnYuGnagegRcvFmufxgGIg4KDNZt0CSzTLCvD2e2EQ..%26ch%3DAQEAEAABABTl_ub2oYvFGjsYlEc7I8TxuZ4D9RG4spg.%26v%3D3%26pg%3DWXSY2KWWQZH3XHRMLDFJWQU4MQ
+.netflix.com	TRUE	/	FALSE	1811538116	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+18%3A01%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=72e82b2f-7581-41a9-9c1d-ca0aaffd574d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1779061369710&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1811538115	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwOweSVr5BA-YXzDhJhaVAsqwDmGR95Bc.%26dt%3D1780002114221
+.netflix.com	TRUE	/	FALSE	1787778115	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787778115	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787778115	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
