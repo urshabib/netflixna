@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1797228366	OptanonAlertBoxClosed	2025-12-14T06:06:06.046Z
+.netflix.com	TRUE	/	FALSE	1797228370	nfvdid	BQFmAAEBEAYaKWC0-DqJ-rscVXq65txgCYLud6eWVI9RZ3m6l22Swfs2ktKvpWCMakhcN60Orju4xVdWlABN66p1iE-MRljuXmrKKCRIkx_pdzIJGoy4hZ8h9wfR3h_o2TW2aB9N7WRLoK9zrbIRKukWUraIgrdL
+.netflix.com	TRUE	/	FALSE	1785071952	flwssn	b3a23e08-8c44-47a4-bd26-2b7437b740bf
+.netflix.com	TRUE	/	TRUE	1800732451	dsca	true
+.netflix.com	TRUE	/browse/genre	TRUE	1801249405	dsca	true
+.netflix.com	TRUE	/	FALSE	1785071952	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785071952	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1801926152	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8hpqt1C30cQPe05g_DUb4GLA3J_BSZg8.%26dt%3D1770390152610
+.netflix.com	TRUE	/	TRUE	1801926152	NetflixId	ct%3DBgjHlOvcAxLyAzI7p5Tm-pm6z8Cdc1-s71HaX0yI6Pu_Inl2yniFJ5Jrov41TckJOltgmjjGIWAwzHqspXUX5BDXUZzont2PaSJsOwLS2HAmfh7wtTqNVx9EjN2FqAxuIyb_JMGbqvNPcMLB08dPStoAINHA6Lg96FFSQTYoJXYzR9AG4n29Ik6H97_WnsB5kHpBihpxQFlSMPDmKiZR8CFCX-fS7PPesdsdVkRPWCPoX15_QANWKynJkYaIjIvmJznmGQx9cmKsMhhS8JwVWxtxkkfYyawNM_kJHBUkJAyLMR6hFTMbgP5FFAUa3L51kpzDW0y9BQmPTc9ZYA-acsK4Ic1fOTZXhmiy0OD9HfxGOjfUkncSNI2asQIJ2xIrI-WtIeQ1_xotHurCMmDrWQ_FfZMlevzcq1oCzfU-tZtiSmtxWzwnDHGEdPWk0Sj2Bz-oraFkQ8YnuiU_KzlYoVdTBlUvq9voyyT4ceqJkUX9zuojDsjcufsCOBfwhAibfpUzorno06aMbcSogdZPEq3EQlSAqLy6jJPmBRa_dxFGEa1ijxgMTuNDYRDgCACZt95MdGxMo1R94_U2P9fmHJrMWzijh8PNFBgDkUkScUkCF6F3035PaBXu6k6kP2lZoJbSZUddY1QsjdKry556EQxpUStYBIGhKI0fRBgGIg4KDIv-kIoEkKsAJTkIsg..%26ch%3DAQEAEAABABQ5Tr9HVbWZ7rMWLKldj2bjZ7ULJSVO9Bo.%26v%3D3%26pg%3DPYXEPH2KRJAS7HBKOQUCPJ5IDI
+.netflix.com	TRUE	/	TRUE	1785071952	gsid	53bca55e-0335-4e26-a316-af3b73b79aa3
+.netflix.com	TRUE	/	FALSE	1801926153	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+06+2026+16%3A02%3A33+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=3d991a38-8d55-4fc4-8739-81436aa6d984&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=BE%3BBRU
+.netflix.com	TRUE	/	FALSE	1785071952	profilesNewSession	0
