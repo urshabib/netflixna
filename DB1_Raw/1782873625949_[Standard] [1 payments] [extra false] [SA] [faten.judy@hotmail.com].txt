@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	TRUE	1813046960	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA_d9u_0xNjGOp8Fl8IMjgUE68S6YkEDMH2l99i-Kk2-MLw2r3Dg01V6vvj1Onb6vVAz6gKk_yDz4d2oAbWlp5w9YtqCrcaAwM99OFn-9_oLjvsBBZwDG9xaRWvVHYum_hNByAFREm7WSa_2ChYllTO5l2uN1UR9cset0q79CT2lNtVL7yRRmSN1gz0e1qlg1bRM7sERXDbzf21Q5oD7SuNuMUQlJYJ-Bk_a2MR9nseNOFElB3y1x_sAEQJPgxP0MvkXkHRGGXURq4AxSLBE5CFiOUZIp99uYYpyiTHBRambnq75Ph6twUDGwKiCTjOCLOg-fZesttQ3vlzMDLxb5kCV4fSylaAYuirw6azs0hbpHNINpgpiti39LcTXVrNJCS8aK3ocfWYhIx_mozaUl4tU9SEmxznDSuU1gJ5w-00cb9KsIv-N9yGaNIRcQ5rcF89YLRla3KwstTbvZeFD6Mh9Nnyi7scJJEo7jT4ccMlCzpIcWmU2bT_oK9EXFRGu9v0FlLCSECsvzkLyTUgrdTp7m49wYBiIOCgzvG3XNHpzLwSHsfSg.%26pg%3DN7ONGYBWC5CPBJTNVUADBKZJBQ%26ch%3DAQEAEAABABRGEU1GmYryDBWnTtl7s6xkYKk3oIfDJtM.
+.netflix.com	TRUE	/	TRUE	1813046960	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4xfvBNuFyYDNEnTlqu3mSsCfc3Tuh134.%26dt%3D1781510952301
+.netflix.com	TRUE	/	FALSE	1813046950	nfvdid	BQFmAAEBEK2mIbcvXJ3_3yY7UHyR5Vlg90G-3Jhnd9X9diLsneIwr5GZGkDOUUFBqGSGRY_m0V8VoPl32LA7OChuJ9EmHkpFpg0jrvBbzdwjYLH1psB3jVSef7UA0d9oasvHwOTUOiqkgT_sCpxELPALgLlq6Q49
+.netflix.com	TRUE	/	FALSE	1789287033	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1813047034	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+15+2026+11%3A10%3A34+GMT%2B0300+(Arabian+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3abf8a54-5089-43af-b349-e90220bea655&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1789287033	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789287033	nkufi-normal-4-loaded	true
+.netflix.com	TRUE	/	FALSE	1789287033	nkufi-bold-4-loaded	true
+.netflix.com	TRUE	/	FALSE	1789292979	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
