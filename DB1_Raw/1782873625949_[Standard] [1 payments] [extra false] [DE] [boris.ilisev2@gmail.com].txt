@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	TRUE	1798914855	dsca	true
+.netflix.com	TRUE	/jp-en/title	TRUE	1798914854	dsca	true
+.netflix.com	TRUE	/title	TRUE	1798914854	dsca	true
+.netflix.com	TRUE	/	FALSE	1785071952	nfvdid	BQFmAAEBEEfbdi-Uivd3g7dclaEqg1dgW27wRl0cFNgAyR8S2gXfHVRUl2BQTgpBx3CRW8m05YO8XsOE61KZWdk-vcRWnrs2qqndzUU1kaDmps1KLipRImgfSQWPQB3Y3tfaU5cBBOX7ukD1T0Vy9I3pUbviTkvd
+.netflix.com	TRUE	/browse/genre	TRUE	1799338682	dsca	true
+.netflix.com	TRUE	/me-hr/browse/genre	TRUE	1799338682	dsca	true
+.netflix.com	TRUE	/	TRUE	1810044481	NetflixId	ct%3DBgjHlOvcAxLPAwfRz3Z7YPfnTUzrgrHanNX_Z95efaDGeZSIK8zaDwRaGUPL3qrr2WGk8fQMbVBLi4svoNmA5KFkCQvBw5FmQtDTcnF3yk5jwfJugIoRhbYXqJWMdSnB9KDVzXGrKtJ6k72AtsLNyRuVc4g5fQVPNEnc6RouHHe66RgfyppcxM_bWz2S3JaQ_1CiikhinbZFEtt_dJq6kWIxQwo3eI5TWSG09JHTzBiOHfPW8yubb5aSKJqWJxKGQerbIKxB7uf4PkMQgOyEe--N4SBMR9uMmgXLbfVVCXnDlcRvjWASWkGPigyE8b53fMXkgTivifl2Z7Qw_lnt1w77CT19P38mJFTAviBSrTuYDMKfRSAtSYgvW7WgdaVEvVA60gbyP3ruVF3rVuoa1DtwXWnSTcFls-axNKwNZwn3NqYy8vUC_iEfn9xADVmhKrJCVypIiLQGd4VvG76BsMrUGBNl_frADtKoKZooPIWX5BWS6oBh3a83hqLweIStACPVbXUcZlgva7lessD05v4TJB6WYutDUu5OnMpWicLneOjQRHyhi7zcSYlvYgg9FPlFRTFdtwtymu9gyBoD1Fu9f1H2W5r-HBwbKKQeSJdzcH_oJ-Uqg0gYBiIOCgzAaRk77azjJxAHW7k.%26ch%3DAQEAEAABABRn6Jf-CdMRZ1ng7LsOAuN_ymQkIhb4lo0.%26v%3D3%26pg%3D7SF5R6NT5NFRHCXGU2ODNXOVEM
+.netflix.com	TRUE	/	FALSE	1810044482	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+16%3A08%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b7b9a205-d024-489b-a17a-7bc83c6ddbc9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810044481	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStSV5c8300B55qpXBisj8rAUOkVlTZMm0.%26dt%3D1778508484760
+.netflix.com	TRUE	/	FALSE	1786284482	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786284482	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785071952	profilesNewSession	0
