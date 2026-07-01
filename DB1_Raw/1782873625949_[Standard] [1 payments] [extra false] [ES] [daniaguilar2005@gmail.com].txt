@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1785071952	dsca	customer
+.netflix.com	TRUE	/	FALSE	1798138821	OptanonAlertBoxClosed	2025-12-24T19:00:21.427Z
+.netflix.com	TRUE	/	FALSE	1798138818	nfvdid	BQFmAAEBEEbeIVf_drIogEWIL51TA0VgYYeha-ltW6-alfmCGac6NmzOlHU1Ky7BgGkzy2lXi4c2u9lPhe7pg4_3rrsz1WS_rLBl4ZBwq_6vg59VhnQ3yRyBwEQGtFnYjS2gxZyHRvSWWH2USJ84KFLxJ2Hmb703
+.netflix.com	TRUE	/	FALSE	1783349502	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785071952	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1807109502	NetflixId	ct%3DBgjHlOvcAxKDBCg7fWrjz4ViEUSt4VnvLyFrQtFg6ovQIaAH9vszR1DHhpx-ApRQ3e6bNSY-LBoIlYZSPqRGhU568vKTC7pzI55itpTNFGFkPHrSSM-ttsDoTxrMeaKoO8G3EVQpOMrM10ivB-WVNfmdCe_cOlf-wD6kQmgH98jDsgbbuAP4J6o0HUfXkl-1S02fBPDY85HzaJieGU_D8mu2tqnBA_JLUhj85Oet9-vdk86rqVYOzYHjqaniJuarE6hnSoNz3KlVZHFQqPNmnvpoofilR4XJLJ_CarCMDPpeEA4nH4WeCm2zDxbvVswIxpGdCG2ROO6bt22PIzws8dN9RDZx_vp9RjtoTe96QiWtJg1zVv5i7RmlXQL6m0yLaeSWW7NCrj_8QA2kQCV7Ncd2jA-3660p580Bq-LWGKF_gZcFtnMoq19LcsFNA-i6Wl-c91PQI4pLPc8MC6_1p1ivZUdBNWLTv-yC7oL80nUAobPHouR3sLuuwINodU3FGhQVV3gxMHE-PCCVFAOV26bdElvJludt_R63GBLub-enFbz6VH8E2oGsrbP8EllyUVYsk03aaXjoPwjq4cVP4LHQMgRLI1rLYM3QieHmLA33xigW7_6gcDCdlDahISX9XKiIt3nsV6UT_Wxhx2l0ysdY7kSTvsp0nEz1FvHJiqtdGljlUFwDQtAuh6G0GAYiDgoMPP_Vndxk4R2SwFnH%26ch%3DAQEAEAABABQ4hSeQhesPXH6d0ok-L_V-VrvTMxV97XU.%26v%3D3%26pg%3D2KUSVQECQNHH7IUHKXR6XHNE2I
+.netflix.com	TRUE	/	FALSE	1807109503	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+16%3A51%3A43+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=abacbce2-ace6-4c0e-a6eb-b525349ef4ab&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BCT&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807109502	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQoOgvQUbauL-0VqE3HYd2aDOXm4XrtpAY.%26dt%3D1775573502415
+.netflix.com	TRUE	/	TRUE	1785071952	gsid	7154ed01-3fe3-4eb1-8cfe-44a617bd6192
+.netflix.com	TRUE	/	FALSE	1783349502	netflix-sans-bold-3-loaded	true
