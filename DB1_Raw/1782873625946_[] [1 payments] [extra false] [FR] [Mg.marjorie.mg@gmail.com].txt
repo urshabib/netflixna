@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	TRUE	1796847019	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA23KuTbSChyYmTC3x5kfURgq3SK-zPSytDWv-bNWO-TdFJ4IImtxZbVlHcW-PsneRd3dCqMDKFyifMKtnGBB0FYuKMmt42DoULUv6OvHzhO3d8DgVkkz2MIqjTJaH7luRvUlmkhKXXUas_CSDyoHODo2OQLAgGTFVDV7wXLE7nq27DRZ1acJlouXp1aH7qS8SVadoS1-7WaAmTuX8l5kD-YkZiRUt_Iv9j_BKny3W6zQhyTz-9BN0rlRdOOKFlC9LH694iM_cnNAfq4cD3yImLHu5RzCV5VQTkNxuegLOXraW-psQsIZCsu8LU56r_u08qzyauPs32_1ReFyZwMTAX7htHjDDWcC8IPX1LO1ttJEY6pSvV7CgWUZz21k0_yeB80wP5C9Bt2f8EzO4hOsabdt2UrACYVoGmMBs1JQK-_RHYvWO_gOm5av1RVci25ABQY4LLXBn7K-t5Tgv4tIgx7voamXkMV3k-vwMhIHG7-1W-ebbx1O6CYC2IiwjgjpiqBIdjnfBhgGIg4KDAoiwchisqNc20na-g..%26pg%3DM5U33BKASBEL7MYYLOH2WYV3PI%26ch%3DAQEAEAABABQI8_j7W68OKq8bhGxdyXGMoEDWaYrNUmY.
-.netflix.com	TRUE	/	FALSE	1796847006	OptanonAlertBoxClosed	2025-12-09T20:10:06.529Z
-.netflix.com	TRUE	/	FALSE	1796847021	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+09+2025+21%3A10%3A21+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e395dd3f-45df-4062-b722-e727af37e881&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=IT%3B82
-.netflix.com	TRUE	/	TRUE	1796847019	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSffoieGXIxujILFy3X9PHzdiitdMXbNgU.%26dt%3D1765311044496
-.netflix.com	TRUE	/	TRUE	1799871020	dsca	true
-.netflix.com	TRUE	/	FALSE	1796847019	nfvdid	BQFmAAEBEOV2bzKj0qURh1w9TTkmzfZgwAe2z53gRFY9UWLkbDdvV7BsdI0Pv5eXbN7k_jXt7_C_MxeJEIZnKfU_L8sFbZinuY5KAanW4PaG4BkIxzHSjaNY4rovpmPdha3hl1aQBx8Lpiu96qhvY7Wvzyoh0IeA
-.netflix.com	TRUE	/	FALSE	1783889341	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783889341	netflix-sans-normal-3-loaded	true

@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1800547186	OptanonAlertBoxClosed	2026-01-21T15:59:46.326Z
-.netflix.com	TRUE	/	TRUE	1784674969	gsid	bf844d76-c3ef-4349-8fb6-9cb2c0000b4e
-.netflix.com	TRUE	/	TRUE	1804790931	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2AhH8iHFP8pSQFBo3lJYuWHI4Vopvw49mAYguurVJtJOPPf0xPGW-Gpr9QYdGJUTD9I7Op-BhdeNlzPHzPQO9sOnSU4cRZZa-9WBXeGfGl97DaOQ_pGfUvsVcaWD49KCC83tiat5i1Pw5r6ZpeahBBgKUvdoJRdISG2gei0lMjHBl7y_jOB6AutjBvk4Abg-c76dOER6OC4gSY6Aans7mbIFrq95eiQtFtnzTjey4eITjYSDQbJfv67ep_ka74b3hx0dFNwX5qmE-IKu3r2WmPSnLTZ-5CRbZlTOO-XI9gLbG2tJIdtws9mTdtCnKKkvsnRf-Ja2KwQd0yQ68YmfULrJ9H9UzQNKApQf1eOAxLGvTjhnLvKwDNN2hffO85EjIYJRdBqyFNve4QtT9mm29PJBHvQDwSpZMit7M3efMk-fe8Hw7PnYFHnQqjVKitJpnYvFkJg6xjJxyL7w03gB3ALiGmT8VS8VGDO1iNXvtpmJ50q_gFJEgGAYiDgoMSwNH3qg4Dw0UaZaq%26pg%3DOUUY453OXZDDVF6Z5JZ46DH3CY%26ch%3DAQEAEAABABTq3Gn65PL2xSYmX35ERsJgkD6rjlbZ-WI.
-.netflix.com	TRUE	/	FALSE	1804790948	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+11+2026+19%3A49%3A08+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=48150550-2c34-4b08-ab38-3286bdce92fb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=HU%3BHB&AwaitingReconsent=false
-.netflix.com	TRUE	/	TRUE	1804790931	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0AdR6Q7pCG_AtpgGu3fK9bpdhpC44TDc.%26dt%3D1773254930832
-.netflix.com	TRUE	/	FALSE	1807814948	dsca	customer
-.netflix.com	TRUE	/	FALSE	1784674969	flwssn	f34efeca-33ba-4333-a10c-2bf674f39778
-.netflix.com	TRUE	/	FALSE	1804790931	nfvdid	BQFmAAEBED40K9Tdcj6wIHQ0zv0y37Jg_uA1RMmkjStLH4r9-mXOu6utjEbJ79Ktpw8kYNQsc_DkYFfiKY_-bhUAwiU5nx4nUXlfHtrfC5L_tle-3C9UCnah0RFPQlVbUgYjYlJZJlxz1Y9ywa2PNgE7Bsgozz0S

@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1794582780	nfvdid	BQFmAAEBEIv88D_JemZb6EUavfCR2QZgucxbsFMUB8rVUTcvvh1Rti1RaEt4Iv7YUUA706mgfgv-vqrOnL2wpQJ_IrpXul5NrKonkPGvbUo28h8ut6_MlH2Rb1gtj9ImrIqpRXV1F2lcHYfVFMzS1ZDGwfK1la_l
-.netflix.com	TRUE	/	TRUE	1794746805	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSOxTF2ts_oXdhDHONItCXEyU_dk1p9xQI.%26dt%3D1763210804263
-.netflix.com	TRUE	/	TRUE	1794746805	NetflixId	ct%3DBgjHlOvcAxKiA3qZAHh3_mYYgYNeK7c4G13TRoGIBZkvnXZRFfsSC4l4JA8lDYsi0Do7J4ZGYJ4DahXKnJ2MCSP1009M_x5cfBJV3DIi9-Bx5o9NX2fkeMV82N3vorZR7YWsT55s1BedD-5Jl3FWGrSs1vXfqofXM44L2M6gAAkLE_jEvFfxWySdCjQpJ4oJBFLD80Z9bgqk9VlaRjV42aIYlk-GOCWbiB92Z4M7XraX5fqaUALPra5BGf-Scn4lTJw-qOWA61Ntaw213CzHaT_sZP17Z665zxrNCpWgcLGIOEYIdqlzc0RuAXr6MW56wl5HAVnSrmqYIzXzUSP9jyNthfSZOOA7TE1MkmnimlDuM6ZBGjBbH8OiiEHZgVKiJpr5jCoe3SSZ20oME8Dk_nLDWBEG1XhnqnQpt3N4mdyDObkm9PXm3VTw7okIygkpWqtm67epCe0CqdlvFyVpqhEgEaIK6ww1DNQFBZ-f25L7VrHwmzY2ZJkrXfKlIWCN5pU49PgTlKEdT2tKgcupG03cDLpNx2Lw0gr3RIN0ZIf_XsjySL2ecqWkkRYYBiIOCgz_SEIudOyUIc-fzik.%26ch%3DAQEAEAABABQxpAkYBtKN2HauVzN5zlIpfBsZXSbRtao.%26v%3D3%26pg%3DWWRHO4CFKBATDEOFNFDEGQHQSI
-.netflix.com	TRUE	/	TRUE	1784674970	gsid	7625824e-a1de-4a14-8a13-9dae8622cf3a
-.netflix.com	TRUE	/	FALSE	1794762730	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+16+2025+01%3A12%3A10+GMT%2B0800+(Taipei+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=040b951a-0560-4ebe-9ba0-f17285a8cd9b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1784674970	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784674970	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784674970	profilesNewSession	0

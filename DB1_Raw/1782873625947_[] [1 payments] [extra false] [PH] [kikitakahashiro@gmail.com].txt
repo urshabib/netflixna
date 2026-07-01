@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	TRUE	1785090229	gsid	a20b8bfd-237a-41fd-959f-2b8a61cbdf26
-.netflix.com	TRUE	/	TRUE	1803113455	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA6QVx_Hu0d4_SZ0k0Stjr3wU2d35W4viXRAae9CVLR6Y3nbBk3TnZcvROC4UhBsQo3Gab5WxPWr5zgUfgWafdoMR-F-Qvg93p08tU4LvGho56RqB1hQep9eYGFVANPCYXARNDZslJUD_24NFqbbGoWAQCIgDITKJgUNqJIhTmwXng8GV8NRfLZ6TnDvzVRuzhV-lxTCdagUyQB06zkRJ0YIYG56nskkezIgRSUz0qM80WnWlajzZSpobfvdXJRzmJ_C1jJhbwYbvA1lu9FkwRCQw8jWef_DKN7ae9P2SdvtMBlmJ0Y-J8eJQuV2D8w8bHCmE9hBX1hMUdcA6WdEffCph5xtrLwcJffNb9fHFVcikS2Fqn0QW0yn834SJKG71jqDiJLEj40-RJ_WdJBZwH97txgbYhsL7vDx94efWTm9sPFR_19EgNM8Xr6EoBxNu4mcDij8qEcPHQD0JN-NU8PDLKrXLfxx-oyLY5VicHIMZ5oLfS4i23lQ6Hh-2dIUIHwNUmXnm_textxgGIg4KDDN9m8pgapsh4AfA3Q..%26pg%3DN6QQBF7TKFALNAQE74WSU5DUAQ%26ch%3DAQEAEAABABSns0Q4OrQh5iJXw_U7mZdvES76akuPSf0.
-.netflix.com	TRUE	/	TRUE	1803113455	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8Qcs8sBCWsA2QQBrX_sHbf5fPrhDctA0.%26dt%3D1771577454571
-.netflix.com	TRUE	/	FALSE	1803113455	nfvdid	BQFmAAEBEKmXJiU1euiCYbtEe3CoDGpgrNQa2yqY0gY3LCZFz3HBESVBRBwtBb8C-ySvROoFqQegA1-ZzBAyR6PBCykkC_7euAottyCQNzyjjCj-qK15AeN8jDGN65hMZAqsD705UCb4yzqYSQYbxLagZmd7Ek3J
-.netflix.com	TRUE	/	FALSE	1785090229	flwssn	87b73859-65a3-47fa-be09-006fea97cc04
-.netflix.com	TRUE	/	FALSE	1785090229	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1785090229	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1803113716	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+20+2026+16%3A55%3A16+GMT%2B0800+(China+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a27b95e5-1aae-4a8f-90e7-357e2f8918fd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1771577716832
-.netflix.com	TRUE	/	FALSE	1785090229	profilesNewSession	0

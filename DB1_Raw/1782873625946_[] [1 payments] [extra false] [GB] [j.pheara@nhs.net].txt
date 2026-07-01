@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1784674955	nfvdid	BQFmAAEBEM1o4qP2H3MyJTBicsHj-uBgvwrtDzY8DPlHUi-eYIh2QYf87iRSSiSJXi37623Lxc3kv7JkAy0e69MSnd1CmNlyhYa4PpWVNdpvU0ZxsaG_W1OFrQ3EqkHGzpy1ESQPBvjXTjkeKnyt-WrUm9Uws-ZM
-.netflix.com	TRUE	/	FALSE	1784674955	OptanonAlertBoxClosed	2025-10-02T00:37:59.561Z
-.netflix.com	TRUE	/	FALSE	1784674955	dsca	customer
-.netflix.com	TRUE	/	FALSE	1784674955	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+06+2025+12%3A14%3A53+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d0403a8-803c-4944-970d-efa6fc658bce&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=GB%3BNIR
-.netflix.com	TRUE	/	FALSE	1784674955	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784674955	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784674955	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
-.netflix.com	TRUE	/	TRUE	1784674955	NetflixId	ct%3DBgjHlOvcAxLgAwWpNSn9nfoOZ_1aCOvakXLignbKYpPQkx3jWQy0-npeDvfGoBkbi6998YHdU2BdsXjytiRTSbv3a0Iy7bsT156I3carGR3U5CPWJnLsHFHwUZ7az-q4JM7feY8P64-avvBRa0hAw3JqKn4UZsSR0gsD7sM_HatIIECnV0G3Jlngj5_lS81n_yNYqlRsjwYqMR38uGqWSTR0kXLOGs07f78bO_EUM8GZ7Pxw7VN3xARhsvzCIG_3hYS_R-FX1ELM2khuOTd2d0r8_Uz9VovUwYrCc1_x8sQcMo9U0ycU3Uj6aC6dwOMwB6VhqdnrfJNCDoWMCpEcB-vR9MGB2WQWy6mPH41b7iIgAhxuXLmzAirAp1tDrG85d-wY-fLBxxeT04o6o0hpaDxanCkVGdJXAK9trZqYYIiAXo3nBd9jZqKXqWWHInO_5PAsDMC82tii3P4rXmyU4fYj2waUux9Ms6Wro5BDAu3xVB-ysUscsFiPMTrquqrhAgeuIEGPrprrnoAvArzI8BRk8rSo9cEaJ1xeDqcMOGgz-KFMWmxAAY2Zxr6CVib08oBwIv8y3Sjmlw3_haMBdYh7DDFxduz9rNEYF6_XMUsbiJi50u4TWusqbJVhPSL-Ym4sFdBE6smaZxgGIg4KDFUY1EdKMmgpv-Bfvw..%26ch%3DAQEAEAABABSHMB-L8-ck1lRUx11uph1ttSlLw3V5qRU.%26v%3D3%26pg%3DLFWA4NAMPRCGFNBI3V2E633EAE
-.netflix.com	TRUE	/	FALSE	1784674955	profilesNewSession	0

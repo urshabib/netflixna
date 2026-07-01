@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1784675004	nfvdid	BQFmAAEBEE-9SRXbktGOfz0BOtxn8VdgcPhsQ81hGnA-5anYdhdoa9RCHjFCBd2PpUCP13gVpAftVAqlx-yd8VfCIvtB3wFc55SbanK7eI_6YC1KAXNaPk8moc9MAjJQq3S16De-y_K2ak0KWHbuk8tkgdLlPy9H
-.netflix.com	TRUE	/	FALSE	1784675004	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAyHX7O6XkUPCs0CyqhKv85LJh-pZMnJHdtaB18cDbusprbNsrQDVlE8Iz0MnVweEeeo8I6_PlIzx5LIloW2wNBni-8TYEV0fbPLA8979_OgJdaWO9TlTdgECDJ0Q_C9UDT7v2U4tVbfLvJbE3jdYkRP7-usbeSumWo5coCHGHHpJLFOi30bn92qcdNQnPm0Le0Dz6P9wEPIOm1aEb0L_OJ1B2STFmIyHnBYYfPZz0OxJBDj1ekJELkW-n5oOhyVCg0Hx82hhBYxX11RKnyhXCqdA4RfS2xnCGz5TDbf1XUTGWPU5mFUaYI14Pe05DdmwUeTPogS_xBeaLjQJ152MA5gH2jGXO3T6h_fD4N48AkHsN74BoT-U3LDNWbOB6NRwQHXWfrZAxOqLxqvFN5JmipK4aCLInW_TV-4gG8pGItW9ZLipuEG564vYzIwvkrDnCDvoZf3EPE2X1nvALG62nKVuOrQvLclbIR11xAJk9Lb_b5TfMPgbNVOnQKMV0ic9DzYQK-aTRfCzdLJPb7x34nIOdGyC0cIMP-UlVI5JGAYiDgoMqGRj-slNh_i5frmt%26pg%3DZAMCZV2HURHA3CECONYPGIXRKM%26ch%3DAQEAEAABABRuFGfH_A-UiP6bYA0VC-GDPvBcz4kpiig.
-.netflix.com	TRUE	/	FALSE	1784675004	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+22%3A00%3A23+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=af3471aa-1869-4b0e-a452-fade4f3a6aff&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775411809531&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1784675004	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRhFeLTGVc-ySLTnrMqexkDxeEQV4JQaJ0.%26dt%3D1775838615019
-.netflix.com	TRUE	/	FALSE	1784675004	gsid	846f3c48-1ff6-48e4-86b9-501f7b48c1d8
-.netflix.com	TRUE	/	FALSE	1784675004	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784675004	netflix-sans-normal-3-loaded	true
-.netflix.com	FALSE	/	FALSE	1784675004	profilesNewSession	0

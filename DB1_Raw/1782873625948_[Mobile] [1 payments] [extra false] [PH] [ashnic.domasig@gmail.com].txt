@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	TRUE	1784674981	gsid	decddbb8-8ffa-4f9c-b7b5-5d6285405b11
-.netflix.com	TRUE	/	TRUE	1784674981	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7un34j3Bpd6kFm6TCpjmmg7k23_ZDWWA.%26dt%3D1748239060761
-.netflix.com	TRUE	/	FALSE	1784674981	nfvdid	BQFmAAEBED6fz-KT2kGWjECBeCx-IttgQQ3TFpkYhELixy7ot5s55t9Ja68akKZ-JKK3WLSf29sl01f9LyWyn2_4dmlycOLPJvhopEsg--stQalBon-BVFAZYMlOJeKnf5fYTE8kTuzKHV6zIwDW4c4ASjYrCkq3
-.netflix.com	TRUE	/	FALSE	1784674981	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	TRUE	1784674981	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA2QNZX4pArf9D9pMyTBj4WPMC6u89ustK_NTZTH5kO4MoQsE0dYmXONvImapwDcfO4AmrUloVOOEbdNWwJAhbcbTE_oWLWT7DD-D4i37p7qTUmttn-GLLqu0-CiZPg6OAdKO-i5nq2E1dxS0KecZXVww1w_NiRHLTTi_-Jo6Q0z9l-QAlx04-0QR76JE3JbR81dfCpW44V739GY55LsPq_tAVP6eho5dZtCLSv7JXYQb05fVCx1pfZK_b7NnzSq7Gk01lFxilnKdZW1cqn88D1peQxCWO-H_D2NSKz3llB1DwA07mAIeC26J7lCNOyYsUhh5bC1w1vbT4yw4EUn7ltkpUICl0PqLnmptGaGLBd2v1A6A06Gc4SaEVvlXWMoMx3UxIVbo-CXRWXYvbo5NjuFdUgG9bCAmRWcEax6snY814feLuolETldveNmlDum_phVochUJaSFk5YlhMie5OtDRO0lLvPDAi-e4p6bjDNJss8XHhaW9EEIrxFWHkEQ4ryIYBiIOCgySFoF893n8lzB4Wnk.%26ch%3DAQEAEAABABSnBQXyDJ04D62_WomPlao9syd_86hY5ZA.
-.netflix.com	TRUE	/	FALSE	1784674981	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784674981	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+26+2025+13%3A57%3A47+GMT%2B0800+(Philippine+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a9e233fc-1834-49a5-92a6-1a28997d18bb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1784674981	flwssn	6df9e0fe-2d7f-4dc7-b06f-b9e7c020519c

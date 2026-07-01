@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	FALSE	3488782936	OptanonAlertBoxClosed	2024-10-10T21:06:47.329Z
-.netflix.com	TRUE	/	FALSE	1785090229	profilesNewSession	0
-.netflix.com	TRUE	/	FALSE	2563106809	nfvdid	BQFmAAEBEG2ZJYZfG6wtllb0OeTFgdBg4S3wl9jFYHhNK04tDDBI4olL-cm2nyVhF1qz4TrMPYLkhF5jFotKoCB5D9E8vNNadhmKbyaIfn_sH1kyYdCCsNFU8I5sPZX3SS6k8h7cLASQqEVhwPLDAmu_IDZk5UfP
-.netflix.com	TRUE	/	FALSE	3813442371	flwssn	30dc7b3b-78bb-40f4-bf64-8952e1375bb6
-.netflix.com	TRUE	/	FALSE	4002904003	dsca	customer
-.netflix.com	TRUE	/	TRUE	1785090229	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9mecuU7NM6sKnKTIhFl_zh0WY83-YoxA.%26dt%3D1769034200508
-.netflix.com	TRUE	/	TRUE	1785090229	NetflixId	ct%3DBgjHlOvcAxLvA1Wj8D193UnSgbEnHwrFfBjfaejWakHZV2l9zgXoyZSAFwhLs_sPym5ijt-PXdtFhcUDcVLXKGOYn6_QfK7wcKNIe4bRenO9_I9A84Jjsk84GjkZKtu5zmayt6TQ3cnbNXMfGPsXSThYq9w71ZmL0v-sfC0gwjNalTWygVl6UeoshG8Du8TxxSVglTL7r-eyfBj6hHIraJEedPzozcrv3uc70Aby67HE-LR1YRzIbJpnbTmtLRmV7FzC0rj_Yg0W8_oJX_PrG6PCLRwowenT8hYudSwc67NcJ1zAVsuACKgmzoc3FJpCeMEp1oAwvIFEzUc5EQtUO_ai3-OLUBolvVi0TVuz5STaQZlh48IHPcBJRS5t3sMngp6XHoxOI5Aw2UIzUuS5g0DBI8CncxmcZnQkVvumdAm7iL4QAjrbbiB3Nz8rIQsIpTaX_SwXOg-F8ImxpEJND_XWcx_S-Vn8c-hlyp0FRVLOC3LI5IxmWDOsnRdaN88MR3cmFPOckbwVwW6f1ARx9QwKtrXLG7Wsyr5qJD4IEVd7qfqg15cXAxr78b_c4MYTuqcHjEKJcFN8GKk--ylKjiIWTRLMqx7Ppm4nVhMF7Qpmwey1XSHqMTDmV3ibVB4DLxfosGR_tO_2-MTCtnKLdE8Gxa5HMLw0YBgGIg4KDFPWzurb01mpENZPZw..%26ch%3DAQEAEAABABSavXfA4XRP4Ck_pvgOwNyPQCbr5j4os0E.%26v%3D3%26pg%3DTUCWTECQMBDUJDH76OGT2SMPWE
-.netflix.com	TRUE	/	TRUE	3889042371	gsid	9478bc74-486e-4aa1-8eed-cdf7233dd884
-.netflix.com	TRUE	/	FALSE	1785090229	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+21+2026+23%3A23%3A28+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60a78e5c-24cd-451f-ba41-25286f398ed0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=BE%3BBRU&AwaitingReconsent=false

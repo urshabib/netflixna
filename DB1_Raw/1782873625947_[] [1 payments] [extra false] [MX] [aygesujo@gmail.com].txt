@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1783623096	OptanonAlertBoxClosed	2024-11-26T21:37:15.528Z
-.netflix.com	TRUE	/	FALSE	1783623096	nfvdid	BQFmAAEBEL5AMBYMExqOrrARGarUCM5gPxSGzsu7d5KvCkQrozAsz8AmL-yK8QmDmDvj8Oi1w3LcW81KWRzVIWrQvyBggVMHbDrqLZXk9fzh122uHz-fjuJTOOxoLsWTthBfVbD_THKFXtB3XQvExW5tC-sVblZD
-.netflix.com	TRUE	/	FALSE	1783623096	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+21+2025+19%3A36%3A06+GMT-0600+(hora+est%C3%A1ndar+central)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a8c00e30-5205-46b4-9022-09f5bf9a0e83&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BCHH&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1783623096	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783623096	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	TRUE	1783623096	NetflixId	ct%3DBgjHlOvcAxKTAw-0COYlcEwE3wPzEMH_T1wx7mGcOZDBOFc5ZqBIHHH-yThMReMZ6hevt2W3zBMnr94EZS959S2jZZ5upo_QC5ZNGAVqwt6fu97KLzYOFCo3N_9hX9CXFUaLqhzxd6aW2gZTLp6WeWXsskCTbPbSsjjaAUMZG_D-oYzJKhfPtA6QUJFOPzr_8-z03ZLrRHG6ch5oSCj4izeiFu04b6cUk6imMpl5AGsg5BHk75he_4rpPs8-UclnnVkZG4fyOA7TgCPcLtg_l9GXwxI7nf-xJTFu9oSlVdEuVogrW87ga3xR7xuRlKXTWurxoWW5lDzfG0Uqcaue-F5a1PEKa_1pp3Tf7lakgAv8y0upOw7aA9LFRqw0gk05CsO7BoV1yRgeg7Wb0rTlyaUogkZvsgq5wh4BMfQDm1xzKVvAGrXZU0_w46ozJZl2Q2IdbcFkRfTtizQQvk5Yp3pH77DcIP6k5w12aALpKkWOrUygAyROQA2-XoQhekOWGbxSNRSrXrc_dX74n78twOKASKq9wOwwS6rnxBkYBiIOCgxN9bT24_SSyfuZ_o0.%26ch%3DAQEAEAABABQG3Mju52O91ZYTPHUO20Xo2DwFZeIjz6c.%26v%3D3
-.netflix.com	TRUE	/	TRUE	1783623096	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJFt8BG5xeGZLPoP_l5IW1E15nNryQpdk.%26dt%3D1745552324732
-.netflix.com	TRUE	/	FALSE	1783623096	profilesNewSession	0

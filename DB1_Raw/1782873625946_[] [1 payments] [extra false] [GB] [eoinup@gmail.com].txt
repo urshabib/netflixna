@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1783889341	flwssn	5e299146-0ff2-4c60-80bb-523054203f38
-.netflix.com	TRUE	/	FALSE	1783889341	dsca	customer
-.netflix.com	TRUE	/	FALSE	1783889341	nfvdid	BQFmAAEBEHY9hzTzI4O_ZHnR6pY2EaVgJoAdVQLKsE-vwGJAMsuhebm8i9azKPjA3g2ZvNnDC1ac4NF10u9B1WoOGRXNluMg4q-P08-tRtCrVkyATSZwI34EkMVbwrmwaIo6exNGcHf8ZC2j74mDlB3s2tfEocio
-.netflix.com	TRUE	/	FALSE	1783889341	hasSeenCookieDisclosure	true
-.netflix.com	TRUE	/	FALSE	1783889341	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783889341	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	TRUE	1783889341	NetflixId	ct%3DBQAOAAEBEA91taKJKQ5MbWrshMgOfDCB8KyhB8iYI1uCtS3hb4QWZX2UI23Er0te7K104AlhTFRO4m238iFmjvcsnqSpb28biAt7uFeMg_6dp-P_bduvW-feyMqEJqMOvnwaG7CzGR5c0eqtV5h805IMM6x7mbFuZIz612rBvWK_wWMltHI9TGqtMAGdmhXM3PYTgUGOBBCUakZCzKZOZDtT2bOCB76O-LKEScvFTwJehMe7Tj-AXaxkv1QePsICiEXlVND_PMMVZ4WGjJAPSesj4IQq1Rd-JkYPlEjqd-l3rXbXjejbTSpWuD4ur0OmUe29ymNbzCs9tFVZCsAhQlX-Bf-VAYSRg1IdBi6ose0HGsQUyzbFfWJRPBGh-PGVD65-edARGdQ9jaZb5HZtb2HhSEw7_iBeBMESa1-vCjas5LUcCW0CTkXEZEPYzQhLEZJIIQTGjqONK6Uc5zyOLBfFT-M02NRP6TuMf1zEvFLXI-fQDNnzuPLDdmqWuLc-AkdpkU1uGjk4ac4RDTfagOL-zX62iIIqsgcbYSeCCupq4l9gXOp3mmbyctKv563La7aLWShektUZtCDP8ie3xD6kZ9YgOGsPNIMQ80O2K4YhrpgxZPA0FyvL19QQd92I7C5K_hCvhpvlqhl5LHQSgd2VnwAJgZzCOAR2R9ZB9jxMpanpdWHjtf0.%26bt%3Ddbl%26ch%3DAQEAEAABABRRkEZceiG6UjlirdEPiB65ZOVIrnF65sM.%26v%3D2%26mac%3DAQEAEAABABSSwV5gQ6KWw0lEmF3ru3XFan5eApcgLbs.
-.netflix.com	TRUE	/	FALSE	1783889341	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+09+2023+17%3A08%3A59+GMT%2B0100+(British+Summer+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=7e2e92ad-a10a-425a-b5f1-916df84fb46b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1783889341	profilesNewSession	0

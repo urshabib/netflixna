@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	TRUE	1804828523	gsid	40695a8d-479b-4d62-a18e-09c7846577f4
-.netflix.com	TRUE	/	TRUE	1799837247	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKNA9MebJhm2eGkhMO94LFIxbFLgTEIc4ulceKYgy3AYq9pnwe6sVlJEmNvkuddDanxxnB18ewWfXo1acFqRubnEbZmUpigCTPDfJGMt9IsZuC8cKUguay_L6S9DMNy-TxNO81WRCTlgI4VNqqGlDe6OQVAVuuOzl6a54GuLu2Z9HdJ58Jioupf9LFoe51K348xFX10sYQ4OSN40mZUleFw7OrUij6LchuA5h_eZrodPdS_2YngKKK7KmYLwbZIhqxz-MrTihA7BDZpx_4hUkasyaS3wjpF3OmmNRh9I2BnGrPw7Bz0OJcSalV2r78D_I81-Be-C6iG5pid_AyyeyqhsTw7xeeSyUxX0r1RVxL_kT7OywroC53ZEsYsJVns7hiqgzv-udzoij7SdFLC2WgZ4rStOJlK3zcY250cKfhHEvREHpmGCkBUIdd7SmrcZRty1Bgz2kh3DybhQ3dOo5vWqPgjcY3uVUB9fJzyKGuUWUEbfcLbupyIy5uDDVYOXrqgIjUrsLNYS2u7KgGeEmUYBiIOCgwAfbRcgA_zmYyAxa4.%26pg%3DERHYXPYPWBD2VH3QZYSMCQYXTI%26ch%3DAQEAEAABABRYceH3XasJA8RlP3qzIE9nMxJRjVQDbjE.
-.netflix.com	TRUE	/	TRUE	1799837247	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTB_tgXiLYtlwPQNyT43jCcPln6mZQsW4E.%26dt%3D1768301248254
-.netflix.com	TRUE	/	FALSE	1799837247	nfvdid	BQFmAAEBEI_AwvD56Arb1X0yb9VePttg82U1Z8u0kqr37FZdkGTf1BbsN5jNaX8YJeqk6t2YsdfbggrxFpXJtAndf9Wz2ZtdaIS7SdeUd_WnOly53kiXwWj0cDik2ghCCsbjhne_iQWgNiWO--8LZSccpK8Wrmru
-.netflix.com	TRUE	/	FALSE	1799838014	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+13+2026+11%3A00%3A14+GMT%2B0000+(Greenwich+Mean+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=31625736-82d1-4ba1-8c68-21d64d56d4c8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768302003317&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1804828523	flwssn	1b137f70-7e7a-4796-8440-03fd42a0a930
-.netflix.com	TRUE	/	FALSE	1784674969	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784674969	netflix-sans-normal-3-loaded	true

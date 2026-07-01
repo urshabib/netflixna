@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1786361661	dsca	customer
-.netflix.com	TRUE	/	TRUE	1801512567	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-Ah6i8drYngOG_bsoyC_7skrGz8XgCqnri_i7wPfVs3pXiQgfMuuzFrpdGtsqkjzzdziWxSoh9iVH-AVpbE6sPgOlMjQwRBJiQ9ffLdI3olg0FdsQyGITX_AF6OWv7jjC1ibNeJiQAK2pmIOo6anq300Xcb0vabWeYMMMbrMwSbfBkzDf3DTM38wQKaK95EomgRfArio-X4rblIH9XPdN5hKjOP0zUIJJ2KzTUJ3nYWIFkUZ6h_H3KAkbzQpD9mm-b0rYUkkLEVNM_WzOnjse70CYB_K9a0RH9QkOQQeVnIr-mCkab2V1Y-o-r6mW517F2SfZz9650VstpibyBwDQQLk4qGO4uV4aCK1wOm7VSp01GRXtVD0vXroSDgFBNd1lSRV0lbBo4Mc7UbaymEqqguSGEy3ebXZPjAdcEcBYprVR-mqcMHoPbq01HQHtuOz6ftHw4M1HmvxcbhFt_AyMfiWUrfJ9r90FFq0uKrc60uXHulM3PV8spikmiWadELgYBiIOCgzarD_LkyY_ueQ3B8g.%26pg%3D33AQ37UUHNAOHHFOO5NG4R3U5Q%26ch%3DAQEAEAABABQNM6RY4cgodg4XzkYmy9iTzIyT96E3ryE.
-.netflix.com	TRUE	/	FALSE	1801512555	OptanonAlertBoxClosed	2026-02-01T20:09:15.605Z
-.netflix.com	TRUE	/	FALSE	1801512568	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+21%3A09%3A28+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e67ab469-81ce-4638-b13c-b697674fca4e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BAN&AwaitingReconsent=false&crTime=1769976556032
-.netflix.com	TRUE	/	TRUE	1801512567	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlp7venCSMB-5qyKGVdnKAuBL151OU6JQ.%26dt%3D1769976567303
-.netflix.com	TRUE	/	FALSE	1784674986	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784674986	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1801512563	nfvdid	BQFmAAEBEKl1djiW_5XdI1YgYAjJe2VgD_x-aupx-kCOvW57SVqrm8jkIcVkVC5TNM8FunUy2et3DVIMyH2YuHZbB2HR2Oen9E0Q-lp03ZapAGbuFD5dk7ylSlArL-7GnoN9syxT97WXGXfMPDujwkx1SvXX4gRO

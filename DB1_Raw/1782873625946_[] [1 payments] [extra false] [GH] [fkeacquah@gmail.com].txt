@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1795973969	nfvdid	BQFmAAEBEAfFKRLRflzI-o-AE17mLNdgHQSkT9AFBq2zdgLUPWahdGwJFiFv_kOploCkKsHXE22WIzNpfuVXTj_VJs0MVqvgRi96n3545nzeR6eu_l0I4FKGBoMdreCsB6MXq4RHCbrv0I69Fdumcdll571wTPD8
-.netflix.com	TRUE	/	TRUE	1797207230	NetflixId	ct%3DBgjHlOvcAxLMA-k39kJXapqWtzN1WlhF99ApQk8AJ4o7QIb1KQGg46X94ItqJg5qKkFBCNAthV9nE9x5maHNxjqYUeVidqN6S3X1iaZnUrKmWKV59MGov0Ffe6dxbtDtWTWL00wPrhgipYsj0FLlIvFcx_mjvY_7oJFZNni2wb9KomDfdnxrnQZRQVhsPPNI_4RUcarlslhf87gM-ab_o8Jccn9Gr9fcFFDPJrxq04CMb4OQqGlK8a-nBRogVa71YFFyImSP-tMDaQOaqM53W5Z_HNFwsEmV8BpxPmT563impFUzRFBCFqV4z_21dv7onrApGuwj5tBBtj6RuflfE6y5KoSj9poVeRfzwFRGkw2Bx3-ZeC1VOA0nG8vRX4rTY3vPb9jEOANKU9icZKuDaPLeYAd5RLVH64eYyZFG9pBJ5Mg-PDtf6XZk6uWbe_du87bEL-mB7cwzZqEMKSx6fKOQL_wSi4_qzJWUR1l25xqrgVNGKEXeCllN67KqcYDk3IYEO_AuYIfaiRrr67_URKAaIF2cFZyR_yah5rbMx3kmHthkfFHboPO3hobmrVtXt340mrHY2r5s6MI_uoQjV1wE4_rHdGD2uvFT_eGeuBnlVbYhq-UYBiIOCgzrRw9-Ijt7yTWIyF0.%26ch%3DAQEAEAABABRZUMLL-it1wONI0a4XCYJcrIOe8-_KGfk.%26v%3D3%26pg%3DTOTXI4MXZRHQ3HIPFURTDGQDW4
-.netflix.com	TRUE	/	FALSE	1797279480	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+14+2025+20%3A18%3A00+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ccbf3fdb-6fb4-4472-867f-d8c6fcf0985d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
-.netflix.com	TRUE	/	TRUE	1785090229	gsid	c77cf1ee-87ec-43eb-a167-e26acea4bb76
-.netflix.com	TRUE	/	FALSE	1785090229	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1785090229	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1785090229	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
-.netflix.com	TRUE	/	FALSE	1785090229	profilesNewSession	0

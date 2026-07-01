@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1803331105	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+22+2026+21%3A18%3A25+GMT%2B0000+(czas+uniwersalny)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13d68dbd-f50d-48b1-a438-69453dc511b9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1798053421	OptanonAlertBoxClosed	2025-12-23T19:17:01.059Z
-.netflix.com	TRUE	/	FALSE	1798144356	nfvdid	BQFmAAEBEAaDJKaXVy00-vSBLiu1nNZg1bOZokFxYSaJznyzOKQ65SileNODatgcwgfhry0RYGysb1BxtmSqT4PwISsxdS6zuxf-d591CinB_KKXu4s9B9IFKo3O8dhoWtcEYcCywG8DLWwAHMA1ur5fYv4lEKbl
-.netflix.com	TRUE	/	TRUE	1804377823	NetflixId	ct%3DBgjHlOvcAxKABIhaPbIdTPLjlFohd_g0jp68Y-0syWMV0tyIZ_G8gWdDBsKU3zVPlQ59ry5qKQfe913nGN6yaPeaeKtfHV4JllV0wrjU1tRFZU0PST1fcusNn4ajNOx6w8gFsJjetWl8c52OCOy-vRKqZKAcW8uNgY3WwDeN_c7V3kUFUMomm9YRfL0zsTbZQy3_uaD5dtaH4t5VdiAU3xSQcv-guwjrpCTua_BXAUqnhffqZoJbua6ar-3U-W-dTHtorC49dcRhdWWbPRHm7Kj7L8yY9mS80K1-tbuIekAbIpbrFwSRiyS3wftya0pUVCUVA77KRsY5y6HoU603tQD69qKY7eCIYuNl0HOdzf5kU1WtC9dYdZ-cm2oHaQafY_-dUdm7T62wdrnThncarUDhRCw-6OIQCBEYJMgg7A8yFWySFQYDWW4bSmFAQnhygFCSCrPHKDo-Nbclk3t_PiOITTmx9X2OIvJYo2g3-Z180X23ppUSMkuD2cdnCXS43mZiqVTk0EDvu8fwk3KO92gyVZPp4bbMyeCcIKQwj0Z5iOEcWygc77Yo20wDXvIunub7BtC7FiJ1lJNFXzfsheE8V0KtRcgn56brNQFjjEaEXOiHQlC66cwv_8dvRVg6md82xuCZomo2SaWUux-4FdPdxE6txzNbHRrz1vERPjwlsjofCFhMLpfBGAYiDgoMHYiT4Jr_CnPXw_AH%26ch%3DAQEAEAABABSWJx1a1tgBgoh5mzxGlHK3fZXZtI9dAgo.%26v%3D3%26pg%3DXVI3UN426RCH7HRQEOAADUQVK4
-.netflix.com	TRUE	/	FALSE	1807401824	dsca	customer
-.netflix.com	TRUE	/	FALSE	1784674993	flwssn	f2df1e08-706a-4648-9de1-3045e577764a
-.netflix.com	TRUE	/	TRUE	1784674993	gsid	915f15b3-cdd2-401a-86b1-90065e542ccf
-.netflix.com	TRUE	/	FALSE	1784674993	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784674993	netflix-sans-normal-3-loaded	true

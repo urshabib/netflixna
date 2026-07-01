@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1783709036	OptanonAlertBoxClosed	2024-10-09T05:02:19.678Z
-.netflix.com	TRUE	/	FALSE	1783709036	nfvdid	BQFmAAEBEGcAmbERYcjdJL08kmrsYxdgtH80VPu385JHLMIl8LBKPBj90EWPvesZcSu8dwVKytMtajeTJVv3PqMkJ2Gg-QpkW70kuNeQf7skU7e1gI4bulbf63EyYF05_v3T2VHu32I525WgO03tSKPtfiPCybKO
-.netflix.com	TRUE	/	TRUE	1783709036	gsid	ffee8e82-9777-44e8-b04f-5e34005001f2
-.netflix.com	TRUE	/	TRUE	1789350764	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8Agg9MzhV6NsrbumpVqiWrYuyzjM3nHNKDxavcyrtN9yHU_gZEhtKmEGuw4S_7EKZd4-UC9iBPByIcWJ8iw1G4g1mGnBYU5RKlddanFi6JaGQcDP1Epp4E0tapvJS9ggnvqIB57waG2lSmGXcfR3dqfJE83A5dwpQOh_wL0o0ZGglvWKy8bl4yAgODu-LVauO045M6tJsxXt428JlW8kITNk7-NgkWNnS7dNeVKfmbd7CnYo1itwWLDQJ_cFGuy3LSayjl8WeM7Ra79IC9g4QK_1_FvK7QcuzFt7e6ToJPG0DHc8TzmGUgT__5o0fxS_9U0EmisnCzGp-HUjWJQ2rXyZIXtXb_TwRH2Q259qHrDoRUzjlG5fO80UkkDrfp49HqMT5C3MqtX-hY0Dk7cwRL2_4VdSzH01lVyWbWdqTAs4mM13XgekYk90_G_Ns7vVd6Sy5sq9n8BbR0OEOBsQayaQTrNElwxPh9UT7EKzH_nWiNNJtrurfPzCFEo0BGAYiDgoM_ukMIoeG1NeFWc8F%26pg%3DAAZUT4ZUDVEH5LR76FPFWP5SKQ%26ch%3DAQEAEAABABRJ-prnUNp6TSE7RsJtETGZqPTPDbjHY6Y.
-.netflix.com	TRUE	/	FALSE	1789350767	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+13+2025+19%3A52%3A47+GMT-0600+(hora+est%C3%A1ndar+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2ff6fd4a-3c93-4f1a-8d42-f735fa424a93&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BGRO&AwaitingReconsent=false
-.netflix.com	TRUE	/	TRUE	1789350764	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4VGLs8xP8GPnkNPL2264i5zNxkYA8wzI.%26dt%3D1757814764108
-.netflix.com	TRUE	/	FALSE	1783709036	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783709036	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783709036	profilesNewSession	0

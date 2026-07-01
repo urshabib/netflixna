@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1783889341	OptanonAlertBoxClosed	2025-05-02T18:50:47.267Z
-.netflix.com	TRUE	/	FALSE	1783889341	nfvdid	BQFmAAEBELz7IvhtM98WLRlLoRX4W7Zgjl_Z5EZdsTpKx9epQiImeqtAFbc5PckZeCJgPpa2OI-jNR4p6xZ7fR1MNkgwt2R8_Pg3had1fXh4hcrLbTadyWScMO9juFaZh6rAr6bhEHm1Xcb3RvhWgpLlTsM7F9N_
-.netflix.com	TRUE	/	FALSE	1783889341	flwssn	60702a67-e576-4b9b-bf1c-a1da5a18a89c
-.netflix.com	TRUE	/	FALSE	1783889341	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJ0NtY_7xJl5w2bBKxgyAhfnhUuzpveyQ.%26dt%3D1746466313394
-.netflix.com	TRUE	/	FALSE	1783889341	NetflixId	ct%3DBgjHlOvcAxLTA4qVKXt5_73dA70EnyexP0OZQJe8PA6mitwopCZXn69yKvuILxr8vzoDc_oTSBYi_MAvIxrilZfyt_0yVg17nCdgBqNQ9Vd8fE7Hhw_NhP5IEa9_9r9XZISZMcBtuGo3hichqZ9k5QpD2__vyopbqVP8gHTb2MAJEXZBWEU1hBLxIeJboQtLMWzQBFeoR7EODjd3WP3rtzdNzX9YheG9pRM748VdMDErGVTRkspOQkM3i-xdE14TOmVqebsYeVpreAj-k-JE2zj3Apb89Q61zEFgsqelXlMGQjfx2HPfP2xGz44Ttle5TUljCJxNIRXkUoP9mQq-mjTST6QB6IQhDUGrqxVk7h8b5UnNHcxQMRzfIexiiKRygpCfV00DU37j-IOPzOYjw92Hk9Nq1JZbT3RIUW4i3wrX0qz04F2zANrRT4PK-ntzliVs3A_TsknUC_sSQtoqh9omAKxkyuqFRRZv98aCGC8HqgZc0_MuPsSKxS_b4LikNzkUdB9z172YPCVW7Xz3AbNePeuxKgbd7ew8lF71_AygETGPFi3NZPafcaQZ5d6Zgzd9MWcSOc_BktTLtmnNS2e5smJDAbpZ7tspFF8xxcJMyoXgAD7Y_cdBzSskGAYiDgoM7IpivwB6z8GJXLUC%26ch%3DAQEAEAABABR4l-vVWD6qU2R8bzYs_b6rW-Dpjq3Ep-U.%26v%3D3
-.netflix.com	TRUE	/	FALSE	1783889341	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783889341	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+05+2025+19%3A31%3A55+GMT%2B0200+(k%C3%B6z%C3%A9p-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=29a8a559-7f0d-468e-8fee-5939cddc3687&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=HU%3BBZ&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1783889341	gsid	16e2d02b-677e-4d5f-8366-9e4e125ca34d
-.netflix.com	TRUE	/	FALSE	1783889341	profilesNewSession	0

@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	TRUE	1783889341	gsid	906b8fcd-cfe8-4b1b-92f3-b39aef66df02
-.netflix.com	TRUE	/	FALSE	1801422499	OptanonAlertBoxClosed	2026-01-31T19:08:19.455Z
-.netflix.com	TRUE	/	FALSE	1783889341	flwssn	c1f9fbed-7c5b-4a75-9f34-4dbf5b9d5300
-.netflix.com	TRUE	/	FALSE	1801422985	nfvdid	BQFmAAEBEEREQz8GAD-s0zkq3jzonKBg0Xn3xlUotCCPTYNj195LdsS3mqR-e7SvKyEWxwJsiemx3v_KNccnCqdD0PD9myn-QQPVd4mHqX-aI7euIFPT4roYTUhuXcfXZ1WqRllaXdZIitPA2X0GzJF6vmi0aErY
-.netflix.com	TRUE	/	TRUE	1801422985	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEA-dYxHpu3Z05j5qBwTLjMH-xEtojAN5civInbAsTXah7TirwxmF4IjUE1M4qF0u_rQQ1rJUytp8vLBJYzQDEevAquwMKeYvrfNPobJorTCgr3iOi13mTXRrD0fzteBt_bCOm_KJmZqLoOraTz2rgYs-yQhPGLPh0xk-Pu4GbppQ4jVXj992xK39kWLln6RRYloGsT0qhwKTx1tkNoNIPPXrWnXxnGf8dsIjF9w97y_bWaLRmd-0PdzXj1cL9aX8Prsrp92lXd91T-FCooOLWNkFD0tsz25pRhDHJWOGeEpqjznDSuLAE8YgmAWTNySopFt2j_PDyXbEbHkQ8ogdlo5KkT9k2XE_4BQK_j5Btfotami8WnMWld01y9OF95GXjwrrFOfGp1oklj88yIKznXKdpCmWEJe8DRFGTJIVcRVsp7B_Z9vHiWhcTVY4sByZol98z_JMvsqDgQir5H1nfPXcl0tInr8HM_hhFIiAEKwdz4x36qEMip1Ok8o2Cn3HDJIvQ6LAYBiIOCgwBppPDgAKRDUek-yw.%26pg%3DD7QXTAUEKNBMTMZB4255ZK5DZA%26ch%3DAQEAEAABABTXvQG_iKrKnCnbuF7_H9hSu_naJZhjeEk.
-.netflix.com	TRUE	/	FALSE	1801422986	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+31+2026+20%3A16%3A26+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=35c3ecd8-adc8-407b-83d2-0f5faeb469e6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1769886499818&geolocation=FR%3BHDF&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1783889341	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783889341	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783889341	profilesNewSession	0

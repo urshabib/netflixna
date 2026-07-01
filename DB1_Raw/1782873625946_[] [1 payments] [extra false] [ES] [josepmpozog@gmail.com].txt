@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	TRUE	1808227425	gsid	a29213e5-6810-4895-a26c-72fa5935ba6b
-.netflix.com	TRUE	/	TRUE	1808227425	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA-OG92pnpzVCH1KnDIKL9EMRoEj7zb9LSjmtLVazpjAozXeS5f4gTjQ7m-k9sRvpJHIDxzJ3NldrOBiNYm6x9zz0yVq3jDvrvbxFBU_gMuwPVFTtwDZFSK8ChKqs_1ViLaKlzFSwAFJ0d_XkLdfXf6Skfj2PZLw0y3S572gmEb-e0MGHp8LBzMnYzesjC3ojFDIqD7qluEmcHmEH3OzCx-Kg08TeV4JhzcBZ6cH57iyGhHKBlU2KDHr7yWj7c6SFtfVe5PEhzUGOvuLplOZKX3NzFg0-tG6bnfwm9FTSQQkygQZg1__ms9FUnRMjIRZII-gdwZbII86tmsOO6EurJB7xwW9RNSGZz59ubMuDIPZfZtpkuswygPOYfB24eveouwooepKVX5ufW_pZpRoBaGpI1nW4J4nwmV-BWkrCluRi3-Rnygs3NSwVZXhKQTyU52c1XvtNhBj2iaIDIi3sF5cxxJFmcqKacu7y-x-yxZ_E2k8wEcS5A0BawBwDwLRKVb_EGAYiDgoMOkuJJCr1VXwz9cot%26pg%3DVX5TWUYYBJEJFLOAH7VKWXQVKM%26ch%3DAQEAEAABABQCN3IITi2tU5zBeq1ppYiIhSB3jyMx5Ng.
-.netflix.com	TRUE	/	FALSE	1808227425	nfvdid	BQFmAAEBEE3zkbbRobuYFu7jiFKUWwtgGGrym077OfCpUs7eoh0xVxJGn5amafI6-FiIhjPuIOM0NC3YzVAkAi5zbcZhvk0QurkgcEcWZHPbpgsGotbaitY6-bkPB0MaSCUwcAhyyXEtQrTf5jJve60U2sDPsMhF
-.netflix.com	TRUE	/	FALSE	1808227425	profilesNewSession	0
-.netflix.com	TRUE	/	FALSE	1808227425	dsca	customer
-.netflix.com	TRUE	/	FALSE	1808227425	flwssn	c04ccd82-ebc0-422f-9593-2487bbfae458
-.netflix.com	TRUE	/	FALSE	1808227425	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1808227425	netflix-sans-normal-3-loaded	true

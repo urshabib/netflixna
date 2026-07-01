@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1785071952	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AmQyyA2RKA3javkcprw38p_3N6IauczJAE-zKLJzQtUvLu9EIBlOLxQ23R5J7wym2UAcG4H5hRW5ABFPrD9EFhuMZDMKcNL743zmKA3Ui-nvK_VSQFrYVmLlqehsJL6_O78sfh-jbDFTiTU9sx1XzuUQvWNmU4iyanocjwQBahW5lHMG_Cpp6dBuib1xvnitSNIQHzjYxvBsmHDZve6-QtFQj55b4svsgedth01yRIrfJWgNvvKCs9omJroSrJbAX-Qe9-OfwEqZ64gmtXeHTlg46z-emfjB4E0pKOtAWoqpOzGjKN39cNMQKzdWPjRvAq6zjGFr4-kQ-Rn30TnGaPDgfvM0pdmqhWTArJvxMqDl0LYxQLMfU35DXbJCuavgguEcC1jGCTlRZlHDEJFwh1AkzG3Be5Z8pMhcpxbXHvCxT5bVUKkzaibci2CFUBPfHShqzy6OZtKK2k6k4MY3jtmBi36T9CWQLtye36ywpKIVyVyAqIjpb3EWojFF16EYBiIOCgxUOIx9lKreV6XJFdc.%26pg%3DFNBPMLJEWRGNVGXQDO4CQJ7DTU%26ch%3DAQEAEAABABR7kNeyBPocEF6KWUaz6TBvOsr-ZGFHhPw.
-.netflix.com	TRUE	/	FALSE	1785071952	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+24+2025+20%3A50%3A41+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b0ecf014-8d36-4043-b9fb-e2b73061b9f7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1785071952	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTQZby-9k63-t39-m_eRi-3_NLpU4iauPI.%26dt%3D1753365033022
-.netflix.com	TRUE	/	FALSE	1785071952	graphik-bold-1-loaded	true
-.netflix.com	TRUE	/	FALSE	1785071952	graphik-normal-1-loaded	true
-.netflix.com	TRUE	/	FALSE	1785071952	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1785071952	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1785071952	nfvdid	BQFmAAEBECtl-8jXIFGlyumz3FY-oxNgZZGu7GmbiPqPSa90w1juva_s6MRSGRJzO1OWVscB_0iPsiD2lvKTEiASdQQJ0FPwTOiRd3YoHvS38MVWrm6RgdaIF7Gw7LKvBiT7cv8vRtAvxQqTieMFn99DBG_p4ZjC

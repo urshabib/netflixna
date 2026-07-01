@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	TRUE	1783792316	gsid	49023d34-9839-4114-bb97-e692bedf7007
-.netflix.com	TRUE	/	FALSE	1797615240	nfvdid	BQFmAAEBEOOQVtYbNtRVPJOOq8rLbpdgroFmDWUGV_Sk2r_dqALkYh89Abbobv1MjKiCcOChPpkX3a7lIhAUD7jtav_ex0oYV63-6-imEX43DArb7W8H0polgcUVq_nSKD_ZiqifR_gIaD7tWiTEdrmLbNdkRS28
-.netflix.com	TRUE	/	FALSE	1783792316	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783792316	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1797615278	OptanonAlertBoxClosed	2025-12-18T17:34:38.611Z
-.netflix.com	TRUE	/	FALSE	1797615278	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+18+2025+18%3A34%3A38+GMT%2B0100+(GMT%2B01%3A00)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dfeb87d7-26fc-4f57-825e-af11af1edfda&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3
-.netflix.com	TRUE	/	TRUE	1797674888	NetflixId	ct%3DBgjHlOvcAxKlAwCSwqsAtEcXsbRlF-O6AUh_U55ghwkWmjgUnwiG5cSpp3y2eoMm68czUfix3HjBEhXvBWHHL_H7-Lc8vmFFYCwEwfpJSmWsz6bCCC3GAe_6nmv-di9x_2b2Ew4p-PKpCw3u4d9t_Iqx8hgDX31Ee5O1n98_ZJpzm-3EJcqmRa2xCxSv1pN1eoypfCyry8IAv3joA3YKyM6GTGk7iI9hFrYtj27VrRO-J8EvdbIIB5Lgus79YAyo2aIMsw5zCCi4ZwzAjj0XJlgBC48vmIaUlT8h6jAF29W829l6cZZ-bzpvqHPEs5REx3H38trTuL096_jOffQe4FFLj3E92eHNUPhNevcfWiz8i4vDaIcPvY0_aO5bv5R8pCVsOpqdoz9QbJRIAQKuhHGwP3mv0Y_dg2gzhN_wfuz544U8HE6MCgxfQzCR1shnf7aZjVvLuI4qFhcb7nmBeVyexBNKj1X7qooZjsnMmOUzPzGNz10IZoatlbr02AkJ-n581gZ4FdjnPwyXLLrbOIqpLC6sb7Ms1oSoJFhi2aMptkVIE1vor6Q5uAjIyOUYBiIOCgx432-Q1UThtQX4_D4.%26ch%3DAQEAEAABABQx7CaVOPviRKbKwSGYGcWHEHP4pyuh_U4.%26v%3D3%26pg%3D3J4PSGQIBVDFXGPEJQSLWPPEME
-.netflix.com	TRUE	/	TRUE	1797674888	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSsfsjry6ptiLOFdtZcVakgslyULU8FFDo.%26dt%3D1766138886876
-.netflix.com	TRUE	/	FALSE	1783792316	profilesNewSession	0

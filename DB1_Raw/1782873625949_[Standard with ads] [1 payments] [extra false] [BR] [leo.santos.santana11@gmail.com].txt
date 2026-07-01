@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	TRUE	1785071952	gsid	10953907-7163-4d56-89fe-0bbe93c5cc50
-.netflix.com	TRUE	/	TRUE	1785071952	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLzAoWWPWkm_bxOQ5qpT8NSHi4XQe0fnSySqRydp9VrA5iwKgFi8ObryJObiNSsyo1IZY0ixVTUx5HIsub1dq4RTTZ4IfovmTbLizhNcs9dEA_Mxd0j0EIJigZswSFXWJq5djGd1vZilzbrsndXi3HO2uAt9WOo9gWowbjeQJoDt43uwYj85bCr9zajD_J_yfVeXty3Pp74bXiJZN2A-YVV_9EQbjaTJUsOX1tzL-OdZsGkxu7mtFbm9VZUQBgREZcznAE5PDuS1OuhYK_GMsyYhqNy2rQps4trLst3IwUw3Er24jMvTu2rCyGhvKlV5R_1VUkrt-bPnIsyspFZPjlmF8iRU-kB8Ew7hoNJiug_NI5RaHQCx-ItN28eKt1kFN6fxEuqyLxEVmaaoU5RXr9IAw5Qag3KcowEMWduwcAd5TLuVwJXXpQouLMqvhmxvw5K9SXKhGs1Lfls6XiF7ZJ9ELwZmwrrDwUkX1GbVfscxEBSJ_xfGAYiDgoMf52xfPPdIL99UFPL%26ch%3DAQEAEAABABS0kmBtk2aNrKEvBKMjRYIFRQSOIskWWMI.
-.netflix.com	TRUE	/	FALSE	1785071952	OptanonAlertBoxClosed	2025-04-26T00:40:49.523Z
-.netflix.com	TRUE	/	FALSE	1785071952	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+25+2025+21%3A41%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e2e0d370-3205-4d1a-861c-9339da8663e6&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
-.netflix.com	TRUE	/	TRUE	1785071952	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREGmq1lRIA75TD8UchO3jsaiZgmZCyp7c.%26dt%3D1745628061619
-.netflix.com	TRUE	/	FALSE	1785071952	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1785071952	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1785071952	nfvdid	BQFmAAEBELKDhNIYwQJQuApmaTyvhYtg7TYhyag0DA9FxxW53sBeb2LMFrUp5VD7XZKogNAT55DsAWM6NlR8bW2KGF9t6ZsDEeGytu4Uf9z9poOvBIFZMY-Ftfy7_lL3q48hRpaSoePGdOih4FiKQMkCAx4TBNFc
-.netflix.com	TRUE	/	FALSE	1785071952	profilesNewSession	0

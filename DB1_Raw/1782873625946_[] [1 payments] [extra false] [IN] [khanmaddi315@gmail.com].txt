@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1785090228	nfvdid	BQFmAAEBELM2iOa8AG_mk5i7Z5-B2vlgZsdgjfJ5VkmH5z09mfGbqEhas4yzLQKP14HmBT1mMfTgTgtOgnGEP7gcI-3wiAZYNbi3ZbNSVGveKookSJPgqpACLzgCiAJrQS5co6T0D9tzoLwpxQLA8zpWRBl5heoa
-.netflix.com	TRUE	/	TRUE	1785090228	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7I6mOrBoy2p9KGU7zpuRB0w8TK6Jxyk4.%26dt%3D1750277738073
-.netflix.com	TRUE	/	TRUE	1785090228	gsid	65188c90-57d5-45cd-bfcd-ea1e2edffe08
-.netflix.com	TRUE	/	TRUE	1785090228	NetflixId	ct%3DBgjHlOvcAxKrA0Ft2x7LxFircwC4PhrIbMTzAgcmJ850-RHPzM620Umc4mDzP7ag6lZQOBHIpJ0Xv9pZyK_EMyqevDByQIhwbk1YAky5dveSIBGytPiP-n0tUbM5yKcEjUldXD9KyBkg--DhYJhrRjnfCOMOFqiV7ROJfo_Lg9zzm47fOMAG6aImPzPnx6fU5b3wJ66zt2GmxSQq1gT539I_fhekNjNGIFc5by6UOJdZl3JEx31QTtX6aRkqd7hrqJUISGbfFfqrWmheZT9GTR9SCGqBjCvJJOwTgUoD-wtYZWcYH89DkCBUMMOHMsfRIjAy4feyYNY7Au9q6aQpm_HYW96NuSeUhq9RvZT_ZRz5WRUiSuw1wQyTgX35-PWj5FAUCPYdZO4AfFBxNdhsiBDG1oiHmCO4PTo_5i5UDGyTx9cfASF-Wwz-e-3_EXqEIJOeqpPw7a9RE3kMVsnY-9GXwXZ6COgkUz7BXuimj0MQdarnLXx4_GWQvDY6aNUnWL-xWngFu0MI5T8zb25BXET4SiwQlg16FoNIzGvsV_shPniw4wEW9SPXDExcNEHuPFnD4boYBiIOCgxDs-taR_KHOuh-ucs.%26ch%3DAQEAEAABABSYAe3qPzI3XpgrNoIm0UozEoSL8Gd_yn0.%26v%3D3%26pg%3DWELDCM2SUBHFLF3TKSQ34RNS3E
-.netflix.com	TRUE	/	FALSE	1785090228	flwssn	8cf01cfd-036e-411e-b8b0-e60c8344e4ec
-.netflix.com	TRUE	/	FALSE	1785090228	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1785090228	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1785090228	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+19+2025+01%3A47%3A39+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6290cf99-cd1a-4275-b340-a14b6bb31347&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1785090228	profilesNewSession	0
