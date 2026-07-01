@@ -1,0 +1,8 @@
+.netflix.com	TRUE	/	FALSE	1785090228	OptanonAlertBoxClosed	2025-03-04T21:50:55.203Z
+.netflix.com	TRUE	/	TRUE	1785090228	gsid	06b82142-a335-460c-a0a7-a597eb5265b4
+.netflix.com	TRUE	/	TRUE	1785090228	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTHjKn2AR5oKfL7mzWyBLeFIK1tKTipuco.%26dt%3D1741723980055
+.netflix.com	TRUE	/	FALSE	1785090228	flwssn	8d497bb4-16aa-4bd7-bc99-6c2c8f44a884
+.netflix.com	TRUE	/	FALSE	1785090228	nfvdid	BQFmAAEBECRhTYUTEtLEf0bJIhd2jmtgHEUztjJk-rLd0cmNjDwaL6xclgLUBcKVELAuhDTjbFkK4c4kjBcCAKjV7a0m01gbatGvSdtIHR9HmMdH8MIGnPQxiqs3VTH98cwzTr8VcmFKPqzfjevDbHJt9x7kXPCE
+.netflix.com	TRUE	/	TRUE	1785090228	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0AtFnu---F8hnYes3BpEXi2kFjXyR21ru1N9gbNgIuoPqVC1ZeAzyok1A8mVBXUzIMpZ7IhPSXIdZYW0mW1ku1NeKGnmLrmjFfruWFY3BIreU1x1gscIffPb37lzrCVqjitvU2B3TX50c2bJvtG53FZz-pybKRksZdjV1levy-5P1G6ryMyHXYr0cXvcrIf8i8Hc63H6HsvUYP--nbUNtDhTzX7ZPwhw53Bv8qoV0GML2mFjvpr5yfJBZ_KGdA-tvcAOqsip91yUrNViTrBiZtradqBA4QVVB5j27HGHsP_CYq4KHpgcT-2gNXEZfN6mZmMeSGgeEpoz3UjGbI5diegc4ItwuO8SnQOfc0gOdJViSvexu8kR9erFE2KNWRGfSR7msRqODWOE5TsGzWzPAotg5jq2BdE5cmC93aAD95xv7J-5tQf5a4Bdy5bTExgAGRolQUVWjNLAjPUUfqGOQUZ1tT9a6smWJpjTnMwlecSMMJPQapxgGIg4KDBF_m9liPoddBuKFwQ..%26ch%3DAQEAEAABABREKbibcpN0F2eG4uqsPRPO2oESRv70Rl8.
+.netflix.com	TRUE	/	FALSE	1785090228	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1785090228	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+12+2025+00%3A06%3A22+GMT%2B0300+(GMT%2B03%3A00)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=890d78bb-53ca-44e5-8834-7b03083dde89&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=TR%3B34&AwaitingReconsent=false
