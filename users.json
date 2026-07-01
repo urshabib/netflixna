@@ -14,5 +14,12 @@
     "links_claimed": 40,
     "has_limit": false,
     "last_claimed_at": "2026-06-28T23:46:29.484Z"
+  },
+  {
+    "username": "iamgayyyyyyyyyyyyyyyyyy",
+    "password_hash": "sesbianlex",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
