@@ -1,8 +1,0 @@
-.netflix.com	TRUE	/	TRUE	1804435402	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA2yO9izuXxitkx8NnZFW5K98sI84dpk-gZKAJQ92kwbiWKPYx4HnRH4DK4gtzQGCjrP52r6rlPgZhCy7Rmm443KqmZKPl0dRcVFTNj4YGgciumH9scPZAkxnF8YsfvzCApYZUx6A-EqytPzrJfhxNWvbckKk9i3hnmypOXFY8CqDs2TOpakmOq9WVyWgO8PqKWRE3yrkL_RHpE9PfG0cDwTi4KCr2VN3R48rXqjAEbh2g2v976_419cjT0zE2rPGkdGfVMcS6H_c9xrN3xVagPCai-h5_w0I6SVY4UO0cbg8q8gSmCXy86pK0JU8o4Anp9VxGqAIQNHQ7wf7Vlf9yHgdbwkQR8oc_rNrcyEyjNZzWCsEols97Hw7gpO8SUTE6Ek_YwpPxM4cv8FGtinVBoW4pmEM70SvVUwDOYB2G3yPyGc4c5t4CDi3E63srr5VTPgwh3JV160NrFwb87OuOZ6vmXK6FSWpV5eq3-ER4FlkpXNWxFO5pXRKUvhss6rnDflFRmhxbFYDGAYiDgoMPa0bcGLlkUK0JVWL%26pg%3DXNORZ26NBFESHGWAS6DODB6YAE%26ch%3DAQEAEAABABS6T5RYSojPt9rgsFXii_co8XSRCTOKPI4.
-.netflix.com	TRUE	/	FALSE	1804435403	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+21%3A33%3A23+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=57139229-015b-48ee-989b-2a67bfdb6724&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772899401716&AwaitingReconsent=false
-.netflix.com	TRUE	/	TRUE	1804435402	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlv7NYtdPlipr4wp2lyetG-aZTJYXZz-s.%26dt%3D1772899403449
-.netflix.com	TRUE	/	FALSE	1785071952	flwssn	44393cab-4c64-43a0-9ae5-7fc13dc9bb54
-.netflix.com	TRUE	/	TRUE	1785071952	gsid	556e9b04-5e10-4135-aaa1-69d6be3bcc9e
-.netflix.com	TRUE	/	FALSE	1785071952	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1785071952	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1804435402	nfvdid	BQFmAAEBEJigqlLWCHJ2jXZejEDu0OZgusgB1PemmLy7jIi5J1qsyEzgaX9Ho2if-I1LlTA-QKV69WKkQTIUQDUbqtGaHxFOY0ZjPMOcIAGSZnQxQzTtohBw_boOfl8ojjLyjndzgt8LLNuLArJlv5Ye7Lko1w6A
