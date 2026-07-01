@@ -32,13 +32,6 @@
     "last_claimed_at": "2026-06-15T16:07:57.754Z"
   },
   {
-    "username": "ammouna",
-    "password_hash": "123",
-    "is_admin": false,
-    "links_claimed": 0,
-    "has_limit": false
-  },
-  {
     "username": "firasayeb",
     "password_hash": "firasayeb",
     "is_admin": false,
