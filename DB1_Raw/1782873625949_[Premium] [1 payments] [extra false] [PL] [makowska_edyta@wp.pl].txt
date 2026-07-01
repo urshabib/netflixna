@@ -1,0 +1,8 @@
+.netflix.com	TRUE	/	FALSE	1785090228	OptanonAlertBoxClosed	2024-12-31T17:29:33.784Z
+.netflix.com	TRUE	/	FALSE	1785090228	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0AprUURu8FJbIlOqEamuJKpJbfAv67GU7SJwK10zq4SsF_gb5SI8ZWcF_ptg72CrcpZQHzTwP83vDaCm-NWibotxyafwrE3niSY8H9Yi-yM5tKYFr3ijoCN3SbgSakSaNa7iLxP_aVE8INF7sHHW8djgnUOnGmFZYMpxyFjWHMP4rbhRRhlIZ7kQSM7qx2qZrIIEX110AxoNwa2Ti9vjXsTSaM8phtC1a0xqGmr8ww2D1LraQwEV11jrr_l3cAhYyeTSs9kFQrxDW5pGYBcSbMPuzigzADXBCvjMqDDSSQZmFb4H0XzKBAo0D45Nlyw4OWZEPmOZWPkaqaPr_9Y6u67199d0SJZQqvE1ph1d-FzDpj5ZAnPJXKw3QS4PBBe5ld-rm0qSCSWNLNxWW-SDA60beE3bP67F1Mmyh0Ao6TyM75CRFmUjSv75CL0L2jHfsEv74oFyf_OIN9YJEEwQAC7P57yeGGr2K6MmKDKU-gqJzILmedBgGIg4KDIOAXRQGiuezP71sYQ..%26ch%3DAQEAEAABABS54gTu95ExI65HhlLOh4XEkHRG8ZFHCMw.
+.netflix.com	TRUE	/	FALSE	1785090228	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRqglbyZXKbcApdyPq2ffYW1UclQ7kj2co.%26dt%3D1735666204310
+.netflix.com	TRUE	/	FALSE	1785090228	nfvdid	BQFmAAEBEB-WdK8YP3rBqaTTH76Jt0VghTYl1UJdZrMpTBEnjt9qjhKTNmZTvh8s39KSahwiwUsc3zUV7d7nQfOhF8KQR2S3oKb_KIkoxk_wZmJTQlCSPLB9SNCTo1KBSvmRERTvluZl1D1nC-ncbXjti5pkby0A
+.netflix.com	TRUE	/	FALSE	1785090228	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+31+2024+18%3A30%3A24+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0717d8e3-3a2e-46f8-8959-d4682bf0ec4d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=PL%3B14&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1785090228	dsca	customer
+.netflix.com	TRUE	/	FALSE	1785090228	flwssn	3b1dd0a3-dfee-49ba-8e3a-787e541b9c01
+.netflix.com	TRUE	/	FALSE	1785090228	profilesNewSession	0
