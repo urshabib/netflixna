@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1784674944	flwssn	b68e71fd-dbf4-4dfd-9547-71c2ed10eadb
-.netflix.com	TRUE	/	TRUE	1784674944	gsid	b5a99f74-04db-4056-a000-fac5d399e86d
-.netflix.com	TRUE	/	TRUE	1804931522	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA78fjQru_LGDFbGfy8KW0H_hgAxDOypIYn13rirpjU-ZDYB0iFH5F2mcq4dRk21XQl8OaNAF-yiRn2nBUgYq9DT1a7jt1RaAhIbl74U_a1xWa5NB2eYQJI4ubMxcMeJXSjKtSNUyIO00xx2q6mwNcIhbDeGbFo34Te-yLCAeJvmkdIc4qlfrqQ6nosnpZiy81PQvd5w80c0lSMPcIn9zXDdfvMzu2N8a9BxUHagWb05WFxKNY79UVJLbLQ1v_sWQwdlwrwT8hW-P3oXjEun-jtD6fuh-n513DikX7ZmbNIW4ByZK9eZRWmx80_gVJh9kJ-0kb-y21oTWsdYGYSu2DlBo0bFApwg4bkQXLhRAn1XaCx448ZtuKPZCz4wSuFillrfBJP3w-11YU42peX9Kwz7O3ISIjna92I858pIN3y23tTOv4gGEfKzX0rBCJdP5U8NGS2WZ9FSS8lK7We5eGVf9JGvwoFcKBTnN6M-poUS6KTgW2qMVUUMFUpklwu-flRiQFU-cGAYiDgoM2hBQgqeSOsSLx9Ag%26pg%3DF3K3SY2GRZCMVHKN4LQIKRMHTE%26ch%3DAQEAEAABABTq50Zars8OzX-GNgNkt1sGgIM5UiaEz-Y.
-.netflix.com	TRUE	/	FALSE	1804931524	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+16%3A52%3A04+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a4ab1b54-785c-48ad-bee5-06f8ec1588d8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773395517107&AwaitingReconsent=false
-.netflix.com	TRUE	/	TRUE	1804931522	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTQYSgVPjoHFp8WcxJf034BNAMHjuSo-_Q.%26dt%3D1773395517551
-.netflix.com	TRUE	/	FALSE	1784674944	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784674944	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1804931517	nfvdid	BQFmAAEBEBijPbkpvt92MAbdNHWrNQBgDtyOLUJ5eoQhPL_Gen08bBMb1n2NkauW5-Nqme7a4EgBCMhm80yOvbAuuJ-uT1OTvb_coo1B9rh7q-RIycWIiHDF-u0ekq-zBFST8Ig86sEWWf8k_XZn0Tea5yXxIdSS
-.netflix.com	TRUE	/	FALSE	1784674944	profilesNewSession	0
