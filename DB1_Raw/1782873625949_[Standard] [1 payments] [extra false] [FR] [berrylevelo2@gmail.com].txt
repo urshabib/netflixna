@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1785184173	nfvdid	BQFmAAEBEE3nnlXmzewGNW4BUZn-krFg5TdWr9QicBnVJ6o58OLeu8GdNlROG6JAoegZER83rbhcjnr_0j58fSpwmMyLm6FHaCz3Hk2nfHnJKx3Kt80PXRuY9ibTi5AmgVws6wJYBMqg9HbHWOdYnrn_DUgXq8Zh
+.netflix.com	TRUE	/	FALSE	1785241230	OptanonAlertBoxClosed	2025-07-28T12:20:30.675Z
+.netflix.com	TRUE	/	TRUE	1804028980	NetflixId	ct%3DBgjHlOvcAxLeA91DptcGPyjuRuqft7y1bXhmWOmuRCI7pss6jvXEDUUcJ9CCamJkQz9uoaZgKUkl2TIidwsKpjqT-d8OypfPFQ6aJBKVsmDQSrSUWq5CbOZLMaYvcFzaknqHzLYKCJaHBHRmR885noFDSxE3hZq11sOLI_dRpAusH99-PqY1LEGO3KQY94gVrJzRS9gGsPkjUdoG5n2BH4bu7OcvrgoRTHB3QXQh-uzN7dGqjHpp5EgaLaNHocNS9DvUdq5FKGQxdzZM8Q_ujR64Bg7kQrv_bA8QfuDYcRWEpalnzl5A4n9vrfuLiOtY9vj0tzqHRBwnd85_GasshXn_VHAPM7DMsT5a7GHy9GCEyklvS9Lx1YBebXbGE8ps7wyNv3a_h0ZBXsoStLK1yE9V28VHCWzyLb7i_IEURzB0VuMEGCZNIBb4nUgRtMuR6EpgzgqSxoXgaLjFNIxKyP3rxa6Z1mfpkdRnV6YxmLxQ2R4URbiIVYvvLilTm0gmDkN2Kms-gD_KE2QsAgMacUQL8JAn8IMo6WMsw9ft8nNhagUUt6U689rFo1V71QFhDHazvNGEMHlJ_ZleVXUdt4RBTuI92Lpd1Wyu4cGJgPFSVRmuRQFpnhwkzDq79CggQfxHjG3oZZMYBiIOCgy7HI88FR1fQS7wkbE.%26ch%3DAQEAEAABABSzjvBFtcQlUXgcsvhsouk_39TrwsKql7Q.%26v%3D3%26pg%3DFMCYPKTY5REF3HNVEB5DWG2JYM
+.netflix.com	TRUE	/	FALSE	1804028982	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+00%3A09%3A42+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=aeb7b3e4-9d2d-4841-9389-77f81874ee21&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&browserGpcFlag=0&isAnonUser=1&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1804028980	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRbH7gxR9rYddZwnHNK-n9sdzd-oAOmYw.%26dt%3D1772492980971
+.netflix.com	TRUE	/	TRUE	1785090228	gsid	53e4c7e5-7546-4bbd-a996-a132c68877a1
+.netflix.com	TRUE	/	FALSE	1785090228	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785090228	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785090228	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1785090228	profilesNewSession	0
