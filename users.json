@@ -48,14 +48,6 @@
     "last_claimed_at": "2026-06-29T22:21:52.159Z"
   },
   {
-    "username": "shadychtioui",
-    "password_hash": "shadychtioui",
-    "is_admin": false,
-    "links_claimed": 61,
-    "has_limit": false,
-    "last_claimed_at": "2026-07-01T01:21:28.605Z"
-  },
-  {
     "username": "sirryahya",
     "password_hash": "sirryahya",
     "is_admin": false,
