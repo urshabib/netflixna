@@ -30,13 +30,5 @@
     "links_claimed": 2,
     "has_limit": false,
     "last_claimed_at": "2026-06-15T16:07:57.754Z"
-  },
-  {
-    "username": "firasayeb",
-    "password_hash": "firasayeb",
-    "is_admin": false,
-    "links_claimed": 7,
-    "has_limit": false,
-    "last_claimed_at": "2026-06-29T22:55:57.993Z"
   }
 ]
