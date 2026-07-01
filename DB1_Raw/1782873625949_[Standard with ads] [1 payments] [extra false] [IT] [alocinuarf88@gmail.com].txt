@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	2391351568	OptanonAlertBoxClosed	2025-10-30T20:38:34.418Z
+.netflix.com	TRUE	/	FALSE	2391360155	nfvdid	BQFmAAEBEDnpZZ2IOwbhWPqSNfdb4udgAylFsq_rDuYeavx8QlLyAs1-OAlF3HG5-ibtcuLOVHu1s0p8_th0uM3o5q62W6gNO6zymph36f9wlXSzX2Iv2zmPcjoNLneIFFV8M-mR2tl6m0B6h-L63v640IWnMJFw
+.netflix.com	TRUE	/	TRUE	3278170885	dsca	true
+.netflix.com	TRUE	/	TRUE	3218161056	gsid	05d052f4-89b7-4e12-b622-bbd5acaff5b4
+.netflix.com	TRUE	/	TRUE	1785071952	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQCOsQm4VGL8zxpR0pMeTa5G83yffH9fCI.%26dt%3D1772658288727
+.netflix.com	TRUE	/	TRUE	1785071952	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Am62AJYkEdBvjlOMvTCbD-1t8b9oHGlpUbG32me14E_lgBP7zBep1xj2OqeMwSy2sucxGCb7XJ1h7U0ZK-7isiKgSSq8WwYARO00d9iqm29EN0_eeDWBFT4RYGgjYkKleEa0WAlBl5nX4GS2cCb0LlWKmMPHnB187jiHTqoYRzcOry8NkS314yza0eJWMLKmAySrR8g0G7l9AQi4K0yszJVyVIfbLlvSWJ4EykOMYHJr-_w3fZyrljYNXY1YmMXiOMTqHJdj0dQjy735InGAEhIqdMh4berTYUYFRMeu00Ahs2O7oqnD4Pfm0EWbXBb_g8EFFDlt_n1-M446DlLi0wHZLwh1GcGuwRSb41W07Y28pWfFfq9PzwTkqnfb7oHC5M1ujwF2NWk084nMotpR4vB2z9ja-P07s-NsJUXwExMgfzpoNRVnhl4thJw1NeSe_VxwEZt3RaNDPnfCqpNbi8zXwi_Gudari3mgFiINPYu3tLNTcbCRNH-QmwMYBiIOCgyDO4s-2fYi8DuWn9M.%26pg%3DWONM5BZ2KZEN5LGURGK3LWOQDE%26ch%3DAQEAEAABABS6Dk0wwUJOWRfRTJ2ITHTFD26xzph4mwY.
+.netflix.com	TRUE	/	FALSE	2317829367	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	2317829369	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785071952	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+21%3A04%3A52+GMT%2B0000+(Ora+del+meridiano+di+Greenwich)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36a303a2-0257-4cc6-bb2a-a15ccb42d5c6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	3133568200	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1785071952	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+21%3A06%3A34+GMT%2B0000+(Ora+del+meridiano+di+Greenwich)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6fd164ac-004b-4690-91e6-1c79802bd1cd&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fgb%2Flogin&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1772658394130
