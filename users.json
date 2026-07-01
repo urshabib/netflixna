@@ -47,14 +47,6 @@
     "has_limit": false
   },
   {
-    "username": "douday",
-    "password_hash": "1234",
-    "is_admin": false,
-    "links_claimed": 3,
-    "has_limit": false,
-    "last_claimed_at": "2026-06-15T20:06:30.413Z"
-  },
-  {
     "username": "firasayeb",
     "password_hash": "firasayeb",
     "is_admin": false,
