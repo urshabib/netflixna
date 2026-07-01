@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1785090228	OptanonAlertBoxClosed	2025-06-22T15:51:47.572Z
+.netflix.com	TRUE	/	FALSE	1785090228	nfvdid	BQFmAAEBEAim3jLzARB5gpYV2po7MNBgoqS4TMtVp__o--nJz6GiNB43dQuwFt9fsrnI1rhWl1xXiMg_2LvqmP2RxdR0D9XAL4upGtDxTj7I1jW-uRV-9LvfOebhdShZVF_atlUQe8PFHXWXzauiWBa0rMHcRsx8
+.netflix.com	TRUE	/	TRUE	1812311927	dsca	true
+.netflix.com	TRUE	/	TRUE	1811542605	NetflixId	ct%3DBgjHlOvcAxLSA3fF88fN8JhxuI2Ikytj4JvwZZZnf9OpgKzZ23owcbPJFMx7ZoS9SA_BH-PLnrwGfxhSuzQzbXy2EPHwRBO7gwtVlc65d7cOse7JVEbNYqzezbCKuhJRK0PI1i7AxWkIeZG0lrNYtz634XXL46AG442PiW4cTcvbdte0da2IxIKuUeHb5S5Dk7UAcxGlrhTR227WxoziuJQxlFpGz8EOtEu2DmqjmKWgKEPOzrn3yHYKhISalOMFREMQ2EZqJYOwUQrnXIKsXoY-a2JHdYaUnnNKSmvxSCsJ70DvCSbmkiB2YcXA-U7gH0-c0u4F2QxU_O5ghnSUi6cxkr80Q2l6S0kpN-5KujGUwnfxWxc9p5nX9Y9jBySiG4vhXkCSUzHUsdUn5dqPi68pA0zpwuVTRFqfp10Aca4_wOADNV_hZ4I0nC6KuOi_TT6M9iejD_lPTkbWF-oHoidFkC0Pf2pxV8t5QVPKgyJczVmwX1TMIbsN0RPKNS2N1oKEtbtWltmpjJlaVjwjNkvxikALbBMfGM6Ypez_SuniRp7R9Bxm6YCJG7DwLXhebRK-iYBwpCswZAMtjdxIp5satL--9ekzNN0UeOJTup85Zke504adRnZNHlIYBiIOCgybOww79AxjxLMgKJA.%26ch%3DAQEAEAABABTYaibk8224K7eak3UfznuZ1jbAb71OO_4.%26v%3D3%26pg%3D7WTTFBBAEJCKLM7P4INV3T4OJA
+.netflix.com	TRUE	/	TRUE	1811542605	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSBymbAxUcKLz5VeTXfSaHgcOGBc1LTY04.%26dt%3D1780006604682
+.netflix.com	TRUE	/	TRUE	1785090228	gsid	1a9bea35-6bc1-40cd-a446-75f4d4cf2800
+.netflix.com	TRUE	/	FALSE	1787782605	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787782605	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787782605	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1811542611	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+00%3A16%3A51+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc206249-239a-4c2a-b72a-aa458aadd1de&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B14&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785090228	profilesNewSession	0
