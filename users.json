@@ -63,14 +63,6 @@
     "has_limit": false
   },
   {
-    "username": "houssemelabed",
-    "password_hash": "houssemelabed",
-    "is_admin": false,
-    "links_claimed": 28,
-    "has_limit": false,
-    "last_claimed_at": "2026-06-26T22:07:54.141Z"
-  },
-  {
     "username": "ayoubagerbi",
     "password_hash": "ayoubagerbi",
     "is_admin": false,
