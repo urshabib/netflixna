@@ -32,14 +32,6 @@
     "last_claimed_at": "2026-06-23T22:44:08.330Z"
   },
   {
-    "username": "fatma",
-    "password_hash": "1234",
-    "is_admin": false,
-    "links_claimed": 19,
-    "has_limit": false,
-    "last_claimed_at": "2026-07-01T12:59:24.828Z"
-  },
-  {
     "username": "ayoubagerbi",
     "password_hash": "ayoubagerbi",
     "is_admin": false,
