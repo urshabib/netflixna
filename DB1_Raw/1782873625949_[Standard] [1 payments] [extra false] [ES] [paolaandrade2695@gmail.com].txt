@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1804933679	OptanonAlertBoxClosed	2026-03-13T10:27:59.729Z
+.netflix.com	TRUE	/	FALSE	1811632193	flwssn	e8653b21-4c58-4b18-af67-78eff19e2fce
+.netflix.com	TRUE	/	TRUE	1811632193	gsid	90f0aecc-5a57-4bd6-8b15-671918d5b071
+.netflix.com	TRUE	/	TRUE	1804933710	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AphKFM-jCy69bR0ocA2Tn9SbL2adH1q_pyg3SwkOZj2ppji6xhMIyaqJyVWqY2pQVH2FYtuBqUKJDG20GevIcHp5Wn7-MuNdTfqx-KQK0lq5evwh5i01HJNprzBO-lmgGc5hOQ-eEDxZqLnpuaSFwh_wwhAmXLhRJ73pJRx9_VHqCe13WlkDKuVUvdJMRgfmjY8eCAg6Xmf751JQsYsTHre_4jipYQ92f4l4ArcRxr_nLjYdvo1JNUyikX0gg0nyJAPyQsyNqzMFMC_1ACsHfeWYVgCL-g9jmL_7qiFJbYLvPdYu8ct-am7giYmThghLBKIw90JDGmquuZGZGqsVBotAebZhLI5yxPW5goS0SBAl0ksKeH7RAa7aUqIfi5XyEESVGfr941lilKkhkM0p7BiOKMZ8qkF1g89DleUr971lXoWE9zd_SL9jpnqH4aDGbE-l6ZUJq8PYhZVz9kjURCDmJX25A2vRpqXZyABdAn69nI1FKzodaJq-Otg3GAYiDgoMdwvxAtILdnmMJ0Iz%26pg%3DP2BYDWF26ZASPP2BUSTACQT7JE%26ch%3DAQEAEAABABRcgx56uX9GiRw0Gg1wtKVwHzShgVyV2D0.
+.netflix.com	TRUE	/	FALSE	1804933711	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+10%3A28%3A31+GMT%2B0000+(hora+est%C3%A1ndar+de+Europa+occidental)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a62771f-8d11-494a-bded-fce3d6099a0e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1773397680168&geolocation=ES%3BAN&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804933710	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQL4W5EVmweyfTs6CDMqhqWNP4_NxCjhck.%26dt%3D1773397708790
+.netflix.com	TRUE	/es/title	TRUE	1807957707	dsca	true
+.netflix.com	TRUE	/title	TRUE	1807957708	dsca	true
+.netflix.com	TRUE	/	FALSE	1785071952	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785071952	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1804933707	nfvdid	BQFmAAEBEN1iHawoQ2FP7kU57yxKaQlgiHjr-4AxnD0f00U9m9zmWXguW1tsORox2NTsrLUQcdLFFrttEL0mlsafdA6O7jfObtq97tH6q0nN0KEkIA7exis7PKEwsn45bYPseAo7gQuaBXz1LzcWoiY3vGsscQWC
+.netflix.com	TRUE	/	FALSE	1811632193	profilesNewSession	0
