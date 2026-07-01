@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	TRUE	1797961706	dsca	true
+.netflix.com	TRUE	/	FALSE	1795985259	OptanonAlertBoxClosed	2025-11-29T20:47:39.609Z
+.netflix.com	TRUE	/	FALSE	1795985255	nfvdid	BQFmAAEBEEyezlt9NALrmalSHOPsu7Jg1aNn2utlcnu6aZIE8PV0sLZlti2LVWWFAeOx4LPz81TkKRatO-YmftIMZx26EtP_eiKFaDaXaLTJ3L1PLA--SD-mjWqiSu6Z2oBHjYcTUrPd9j-ybaZ80Q64TfZIe34r
+.netflix.com	TRUE	/	TRUE	1810234748	NetflixId	ct%3DBgjHlOvcAxKKBKIKg_fJr926wi-b02HDGR6RLCSljR1N5eUxuUWT7y0er6cCFvN7ft9ZHm-XUPY7IUsYiJZONMM7pcG18WS36r2_OQQxCAQ_tEALnjueAkGxJ3UrayZmrCPmsjimzTma1aGBGBDkyBT_wgbi5OZ2QIF2RZchWpBgturAgMgfW7YFTpKa5u9UggWG7gEo7ss_z2vXl0D8gE8p9y1QE_UT9CrCRX6LUbosXDIb5tBMiHrbk2D8yIDP0LqDdfW40835X63Pb7GYOfe9NZBO6XT6bOedYe1mfvxXdoTDbvOQzEVjpAZTSaruaU8IdW3znaKgTC-g1o5mTA8aoPzh71aUkBMS_R-gIfuQ_jxvW1pMd1dViuJjKDhlGo9q-6iBPGSuORF2T_JpT38o5KJxprZ97lRYSucNaA5D8fyHfWhVE4LF0tmXLnNgd9HikcT3S8e0xDWhD8zu57psos6iFAI2c8zbfW7P_PuOWj9CSMzfjyNCxbNcXeWhqJSxJZJVO7ryBEBhUrRxr4_LbGzixHqbsUpqhvOL09tyzPCKAD7hnqe4FSoOnixqe2Pegcaqbn40-jFfnXUK4R5D6HNq5yd1YtnCcUGb0ZeO2mxNsJGW0jPehpbT_fXQW493LNJfaNKRNSf2HIKOqFpQRI1xQ4YhXFqKfVGz6mZvm_TKlkgB8D3f0Jcu71-iKHB3ahgGIg4KDLdSmZidnhKSL72jFQ..%26ch%3DAQEAEAABABRQBIgLEJlHCK58filO3HnrUFnkccGTyVA.%26v%3D3%26pg%3D4VVYM4NWVNHA7KAIMIQI6IIHLI
+.netflix.com	TRUE	/	FALSE	1810234750	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+20%3A59%3A10+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=06840935-e6cd-48b3-8280-d3b8abab56ff&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BNAQ&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810234748	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_nE92r_1Tn1sABiAauUudt-F6gQLSPgI.%26dt%3D1778698748266
+.netflix.com	TRUE	/	TRUE	1785071952	gsid	659122cd-aee1-41f9-b277-511064a1bab6
+.netflix.com	TRUE	/	FALSE	1786474750	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786474750	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785071952	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1785071952	profilesNewSession	0
