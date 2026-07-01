@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1798383448	OptanonAlertBoxClosed	2025-12-27T14:57:28.299Z
+.netflix.com	TRUE	/title	FALSE	1803527082	dsca	true
+.netflix.com	TRUE	/	FALSE	1785071952	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1784433646	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784433646	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785071952	flwssn	9a32a6a4-ef47-4d11-b745-ffe1226b7556
+.netflix.com	TRUE	/	FALSE	1811217646	dsca	customer
+.netflix.com	TRUE	/	FALSE	1808193646	nfvdid	BQFmAAEBEE8zQY0Qvw7IW-ySHgdJWxdg4peuggovbaXfaYExg4b9GdQq_acUsJMVyffBovBiDP5VmlfzXRyyuBqO7StzdDkaH8h7FjQc0iBXlRWiA_h_7he6lwYhqh22k6vflmMv2ud8ezQGQikRMs0sfMLxKqyv
+.netflix.com	TRUE	/	FALSE	1808193646	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHV623VICvcXbkG4ObdLYE2QfWcyCVWWI.%26dt%3D1776657646699
+.netflix.com	TRUE	/	FALSE	1808193646	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYAy2ZR5jONXsve_INFAlt4hl5lqBMms29QRaDgFPx9OTVrEaPCqXwNdkm0SMKtqXJPccXCx30a-Lfl847wTVAYoQ6bQ9xypLAUt5WHlx8TYpRVdzSKwJDajXJYTkkQaPXYPAyzvcdNmtgoh-iJkWJjsrqQJCYTiB_3ltWFSxLkExhDQeYEsb80NDo3OQuc2iNmP6XOgZVjJ0a597X-DAVCF1jwa7CpselH66Orabk3vYH9YlrD8F8Hy6_ZZfprzY0j-L54bUptJ4lJJYnMcHoETtpy2MUOKVPnGgO9vLC99MflujPx6TuJ_w5exKeG_4anf2vSlUHnoF8jvwsMZ5akwibA5t1CSETOWU7LzFvf6_uIYKFFADtup46YFEWgE2F2qzFN_2wkjPoCc0uPOVmrI3ApxnWcAJhvcVxS706yRiuDYebN8RoeFDKsf-uc8itUjj5go3IuPF-tXbQb4OjNBsCrrCl54m87nvGLEymRqnzZoDpJcl6dKemedGM4WSbJDCiw_8lCG3vSj64zMEOM-r0tCYIni1CxhgGIg4KDEfV5bxdOxPDe6-2Gw..%26pg%3DNB4PKCSDLNAB5JFD2D7633QQAM%26ch%3DAQEAEAABABRUwVEVJs8ckl76RE8FxoPUtvkoZUac3dc.
+.netflix.com	TRUE	/	FALSE	1785071952	gsid	f8f3072e-f111-49cb-b6cc-e57e7307c3a1
+.netflix.com	TRUE	/	FALSE	1808193647	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+06%3A00%3A47+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=43b54760-2114-40a1-9df6-828fe71dde85&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=PL%3B20&AwaitingReconsent=false&prevHadToken=0
