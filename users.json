@@ -21,5 +21,12 @@
     "is_admin": false,
     "links_claimed": 0,
     "has_limit": false
+  },
+  {
+    "username": "omarmarzouki",
+    "password_hash": "omarmarzouki",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
