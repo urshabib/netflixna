@@ -49,5 +49,12 @@
     "is_admin": false,
     "links_claimed": 0,
     "has_limit": false
+  },
+  {
+    "username": "aminechniti",
+    "password_hash": "aminechniti",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
