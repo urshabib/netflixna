@@ -70,5 +70,12 @@
     "is_admin": false,
     "links_claimed": 0,
     "has_limit": false
+  },
+  {
+    "username": "maycoumchethezlbac",
+    "password_hash": "maycoumchethezlbac",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
