@@ -35,5 +35,12 @@
     "is_admin": false,
     "links_claimed": 0,
     "has_limit": false
+  },
+  {
+    "username": "rahmamahjoub",
+    "password_hash": "rahmamahjoub",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
