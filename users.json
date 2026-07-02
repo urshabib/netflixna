@@ -42,5 +42,12 @@
     "is_admin": false,
     "links_claimed": 0,
     "has_limit": false
+  },
+  {
+    "username": "moncefbouhamed",
+    "password_hash": "moncefbouhamed",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
