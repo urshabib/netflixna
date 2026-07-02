@@ -33,8 +33,9 @@
     "username": "shadychtioui",
     "password_hash": "shadychtioui",
     "is_admin": false,
-    "links_claimed": 0,
-    "has_limit": false
+    "links_claimed": 1,
+    "has_limit": false,
+    "last_claimed_at": "2026-07-02T13:34:56.704Z"
   },
   {
     "username": "rahmamahjoub",
