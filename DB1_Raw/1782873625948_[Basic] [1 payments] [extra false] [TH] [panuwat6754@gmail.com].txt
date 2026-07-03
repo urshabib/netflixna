@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	TRUE	1783551687	gsid	564b6592-e0d3-4e9d-a342-c5a3532e4a82
-.netflix.com	TRUE	/	FALSE	1783551687	locale	th-TH
-.netflix.com	TRUE	/	TRUE	1784674982	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA_oFMZK5IGw5tdz4dMgnUFnYOZGYp5syW-MXJe6VzF88bluDWvpG5QbxcKgpkBNiN4yWU6HuPPqAoM-G_UNJZXVESh7QAK5_nseC42O98sPuuYlMaHWV4O76rUMSf6lejFzFFhGHXp866SXk-KHPhCPe4MAddV_IbQoJyMi5R1VbbukJAQNpCJPWj4nCXMw6laOISeGYg4f3_aoSRb9eHcpSuYyg_x3FG-zTUBhQAzgRh7kkrv1WKuRbWw-M150cXImaEtzfIwcLOochOEjdct_57Dehbajf-q_Q5RfhgZnJfL41gP4ZbeF1ngRtswdw74lUG3ndYkftT947Swrm3Cz9yoahmgH4j-SHd_iKP9XsO3FD1vFTNukyMJz1t3MAl2ifK0O6RqkwTQEh5tZHr4VTYnIq5bjqH2WnOznLOGDofLQi5fQORmX9bT25l71m3A5FGo0JAU9gcrVxjsTT_Ywa4oPfR4fx9qZ5a8M2dsgCkVxTpR7ulchZJqJQli-m9NmoGAYiDgoMYQ3tMcjuC0v99x8g%26pg%3DVBGWNGR2UJAPFHJK72DNEATBO4%26ch%3DAQEAEAABABThD4PRXozcdMAjyJ1_7u82eIUHQOYa-0I.
-.netflix.com	TRUE	/	FALSE	1784674982	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+18+2025+20%3A08%3A41+GMT%2B0700+(Indochina+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dca5ec05-f05f-4c28-ab38-458d3a450fa9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
-.netflix.com	TRUE	/	TRUE	1784674982	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTHlW1hZ6KAjMhGLxE6nUu0uY__-x7VWNw.%26dt%3D1750252120117
-.netflix.com	TRUE	/	FALSE	1783551687	flwssn	63f692a6-d24d-4f8a-a52e-1c1bdf686796
-.netflix.com	TRUE	/	FALSE	1783551687	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1783551687	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784674982	nfvdid	BQFmAAEBEPLvd9wQGZjO7mZKKY2oozZgJlNNd42muHddECmrhgLz7PGdweAd2I1qlbk3my3mlE0rKrT4syVVCEaDl093lfJagqwCqIXPsY0bpLyGuMn8IrumsygEpmeuUOBUCCrgPRr-P5UTPZ5FG5QXBKPWZw9p
