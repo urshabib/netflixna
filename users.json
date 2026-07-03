@@ -84,9 +84,9 @@
     "username": "isra",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 1,
+    "links_claimed": 2,
     "has_limit": false,
-    "last_claimed_at": "2026-07-03T13:09:55.078Z"
+    "last_claimed_at": "2026-07-03T13:10:30.599Z"
   },
   {
     "username": "sahnouna",
