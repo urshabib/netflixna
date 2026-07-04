@@ -26,8 +26,9 @@
     "username": "omarmarzouki",
     "password_hash": "omarmarzouki",
     "is_admin": false,
-    "links_claimed": 0,
-    "has_limit": false
+    "links_claimed": 1,
+    "has_limit": false,
+    "last_claimed_at": "2026-07-04T13:36:00.595Z"
   },
   {
     "username": "shadychtioui",
