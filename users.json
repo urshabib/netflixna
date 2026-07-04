@@ -100,7 +100,8 @@
     "username": "takwaakkari",
     "password_hash": "takwaakkari",
     "is_admin": false,
-    "links_claimed": 0,
-    "has_limit": false
+    "links_claimed": 1,
+    "has_limit": false,
+    "last_claimed_at": "2026-07-04T19:25:00.107Z"
   }
 ]
