@@ -1,9 +1,0 @@
-.netflix.com	TRUE	/	FALSE	1784026856	OptanonAlertBoxClosed	2025-07-14T11:00:56.461Z
-.netflix.com	TRUE	/	FALSE	1806928112	flwssn	3212c538-e85f-4d52-ab32-a5c107c43ded
-.netflix.com	TRUE	/	TRUE	1806928112	gsid	34c121b5-6e48-41bb-956e-b26f9b75ce72
-.netflix.com	TRUE	/	TRUE	1784026876	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA2gHpPHJXTqKMf5fS-a8LwLgmEuBjhyGOLFUGv67fgqOhtQ7UrxsgjRCZS8wUX2mgiAoVIy1xZqQXLC-j7J7qAPYCYVblfw5TJcBmC2YhBWRjX0ZRyIkmgmq0ufQWrV1s-HbV1bR6_uFEk6CI3gJlonNkVoc9v9OIs3NVGPB2udhKxf8N_UIMsEpMchyD3P6I0_QpUe8EpTD-14yqw2VX4W-UVyzTj5rtNfqMxP0UI9v3x8bZQ4S6WXvczyLeCu8KDigYj4x6qi8mXK9HsON0GA2E7YWVNvw3OWQ-VSmhv3GjQ8SLWP4QtxtaJU80pQzsW2OtJ3D1zjt8jA5z56J0zyoBnlW9pKULUaEgButf8I86J-lw7HAylJTtC1t0jDO-MkHMSJiOkdA4GCMK9B9xnoifNfz3umwGsdwXpTf6B8k9Rs34KBZ-O8MgTDZzCKNEL6bAf388QdeE5hHz54Q0rumVOF2oLaLxkl4HLJmNrRrKhDrttFAC2-JfSswLqlUTeeJvqK4GAYiDgoMdrXqQfdelpwgKqKP%26pg%3DCEE5MT2GD5EHLKH75HDY6B4LDA%26ch%3DAQEAEAABABSMc1vgA_FskQUCAKjmHWUvpgvmYyshT_A.
-.netflix.com	TRUE	/	FALSE	1784026878	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+14+2025+14%3A01%3A18+GMT%2B0300+(GMT%2B03%3A00)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3cb9c6db-96a7-450e-85dc-1de704ac4dec&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B21&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1806928112	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1806928112	netflix-sans-normal-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1784026876	nfvdid	BQFmAAEBEDYOzjw_qM2HrEvsgdl_6EBgjR0AeC78TuTNjR0ZyPo4hrv11Xb_Gg4M-Hhgf886yy2wPTm4z_RfXstrD_7Aw0BEnatMTbXxQ_ACk1h7Zbv1Y9GMSqMLxyo3sf_GgmV_j6g1ykjj3iwoJeKtiSiHzfn7
-.netflix.com	TRUE	/	FALSE	1806928112	profilesNewSession	0
