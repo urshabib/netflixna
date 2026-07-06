@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: wk.oliveira24@gmail.com
+– Verified: false
+– Profile: Welky
+– Plan: Premium
+– Next billing: 15 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 7927)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1805495179	OptanonAlertBoxClosed	2026-03-19T22:26:19.207Z
+.netflix.com	TRUE	/	FALSE	1805495279	nfvdid	BQFmAAEBEIqePNmWoXRmL3RQf4V4DRpgeMLQ7Gwl6KXEEPHQhHTpsVYjs3JO8AxSLCMVRMIz2NPGtNGdmyDWMS8u0g5eeQbbMBWuzBBJx1jcdpIC9_8WVHHJcyYnDnr8F7KU1PySAHJTsqxBcWDv1WSdTKzPvcNL
+.netflix.com	TRUE	/	TRUE	1808773617	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaAzGdwGpWwd6UpOdo8O4_jgq7v5VQlL_Xt4xuj3-a1h8v_m5lcs-oQuLsQHqyS9H_GrG44U8Xh_B7z0A8Dv0ErAzms9YU5i92mBHe6UXQXTIQmKUEygwnUXM9ZvdWRaBnveHG5IZBkrBWS_wg931njuj-yvKRmFLJKdu8woH5RLc5HQMATjJAt-MSmGg5Rf-pxjtLQ8N0yccCYBUWK7TvhYeGG0zkRe7i2c8otCfPiY1yjhGIR1Slw6Od9_CfFd5YVv7pHhKGtKgeecYCOHpcOEzJsSij8R9lqbckBQBaYGqcGX0i-xolucOlZAiCKvlvnjDkt7haUTyFiyZzcXzEN5S4eoJCyl1d_qxj4mJKrpN5ketSkiEbQAy72sX-cE82AEnsD5I6Y2ctJrvb1oVn60nl55PmK6THO-ILRuohFwqJ0w3VR3jcc_jrdIqYXQOYw9GDIviuW1d4RgC0535sLFdCwzEQ4uRZY3Vr_p7p-ISavtNkXGnrCqy-ysDJQ0T-SYGQ2DOwAcLaUQcwpYAhbQaiwJRzguKtrfwPGAYiDgoMMxwY88tUWPeIwVJf%26pg%3DG5VGQMDJHJGRXG4JBDHHPDPGKI%26ch%3DAQEAEAABABT5yrYsy6Ber7xTJwzY8GJOtIeBTGt6zuI.
+.netflix.com	TRUE	/	TRUE	1808773617	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSyYvAPlucQMx487G1cS20ExvSpZQfrIrs.%26dt%3D1777237617923
+.netflix.com	TRUE	/	FALSE	1808773679	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+18%3A07%3A59+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=935b0daa-01b8-42b0-ae98-8bb2474f83fe&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BMG&AwaitingReconsent=false&crTime=1773959180656&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785013678	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785013678	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785013678	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
