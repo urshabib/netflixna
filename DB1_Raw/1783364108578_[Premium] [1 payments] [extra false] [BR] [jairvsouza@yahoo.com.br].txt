@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: jairvsouza@yahoo.com.br
+– Verified: false
+– Profile: Jair
+– Plan: Premium
+– Next billing: 20 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 4196)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1804201179	OptanonAlertBoxClosed	2026-03-04T22:59:39.675Z
+.netflix.com	TRUE	/	TRUE	1807225197	dsca	true
+.netflix.com	TRUE	/	FALSE	1804201196	nfvdid	BQFmAAEBEBgLC7Os25gcAuKFNCERA85gOo6xduqVETDLPhQth5ZVgkzbotRjHBJXi-GxfjVOCyM70qVwvzOYOrafMeowHS2296B4ZU8N_Isttl6xglKrrDjHlqBCgBAnG20ES0qkNBfeQO1nBcEr-xggetsI309K
+.netflix.com	TRUE	/	FALSE	1809382684	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+19%3A18%3A04+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=657ddc45-c14d-4d9d-b4b3-bdc6268d532c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1772665180093&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810336593	NetflixId	ct%3DBgjHlOvcAxL5A1n0UZcQb-aUq-ERTubtO0Yq7hQ2jFdapl3PWrlRVg_SBjnO3Rf3-QdR7-N9-XJC5AhAess6nszmZjPxsx0miZK-ikcFI-g4XRwhoftYJJ4P5_r3O56MMLeuijgMS3bpewyIn68le7-fUFvAa5B3Te7gQF_s8jXwwLK7mxX9TUyBYDch4aG8KCchvJHCpqdnVfsbMxYEIXICa_U3W9Ve6_CyBdC2P1y-_5MpUiqP8gyyFEliFal06rzuGHO-B4ksqQZ8wrNOwgnslI6nHCJme1XTWh34rrdXy2uhQUjFETtv-QbWsgCkolDDW1283klMp_wdfks3312NbYENrfh6GzMqfp5LM_P0w7i3u5kXde2qsJQh0M6dLViLWuybzVSVibIhHsbdS41N8Ev3s62IhcAFRtFAsZP4eb6cyC4qUa16Yav5D19A4Y3wwdG05Z0qJ2E-9AS9QdJFRo1EVEo2u-LDvszSLdmkLZy3X7bp72lGuQXFeBVDRDb89JarNh5EzAovXXogf1gQeY2ob0Zcwn7CKuEBFbs52GMG1le4x5QZhXlQRf5gPG1AOoVeJdU-fUMC8WNGwiI-9QJ2BnjJbEVFhrEt3R1Fhje5Fjj9wRe0ikzMB2tjbjOwXEfeXTotLE_J-ub64cegIy6pA9Uw832YYlm07pR47AgYBiIOCgxEnFSN50riMfegBOc.%26ch%3DAQEAEAABABRlI_v8kf3kpD1VcqQvA5Fo0mM4X5kI6f8.%26v%3D3%26pg%3DAFS2GXOPZFG67PIDDBXIG4M6CI
+.netflix.com	TRUE	/	TRUE	1810336593	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT9aXHtufKavnz1feUs0yqdwLEIxhiJYOM.%26dt%3D1778800587838
+.netflix.com	TRUE	/	TRUE	1785603414	gsid	1c28a6ee-44e2-4e1c-84ee-3ff33f7d076e
+.netflix.com	TRUE	/	FALSE	1786576593	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786576593	netflix-sans-normal-3-loaded	true
