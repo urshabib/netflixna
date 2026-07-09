@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: ebeline13@yahoo.com.br
+– Verified: false
+– Profile: Marilio…
+– Plan: Standard
+– Next billing: 14 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 6325)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1785979964	flwssn	ba7d7317-d3a0-4dea-a95d-5e83ca8c54f9
+.netflix.com	TRUE	/	TRUE	1785979964	gsid	3f26f0d7-86a5-42a2-acd9-74021e9a7538
+.netflix.com	TRUE	/	FALSE	1813785811	OptanonAlertBoxClosed	2026-06-23T21:23:31.515Z
+.netflix.com	TRUE	/	FALSE	1813786153	nfvdid	BQFmAAEBEFbmHQAMsfbRkp0Jjrls6_Bgr8ynbTxoefmt7u0LABsPiFnUnrDuQH1962W_uZf6sl3EKkNIOjW_Hw1JzYv15pcgHlgqQoIvCE2zcgO5kU8AXIxD55jEfbBH1WzrC5jwtPiPtG13Xjv93qWme2GAQ8y_
+.netflix.com	TRUE	/	FALSE	1813787135	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+23+2026+18%3A45%3A35+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d9c4f844-dd22-4611-9c45-4460cc09da0e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1782249812136&geolocation=BR%3BAL
+.netflix.com	TRUE	/	TRUE	1813787133	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA0CWSsahe81XDoHUt4kIXNtn2Hr-v3rKVZlDW4hU0RJsXPrKMsIVBLQYc7FvyICDLl1pGaX9vtA5iQ0aOP8HebOJQBoKAx37g6RimUfLjRxGcRfqx0yFx1zanT3h12Cy9-w8ZLPlDqQo6j9eT6uRcViCExSnsljKFPTFulgYuD5rILjOsJK926CCli_44WdGHUvYtq3AKlq-9XHboel40Tg6Bvm8HJ5WfyJnazt7s5Tv4BEbHhHV4K19IOJ1IZD84A_LWJmWGNFfWxOIEuUNt7-Xos8fIxBhcNtPfALA-lz6hAJl0hmcL1iCv95-NX-RoRIMXGiZoHOlqMb1Y7t4huqC1fj4UX5azpNiWrDhMH68bdJ9oHLudoeSiZ9GMkHrFDrtkeIBKhBA2Jvw51y8Fge5GVhNenlhqkKhKbdxz4wsKip7Cdl5dDDq594PgCKZzKB0j_E4u8NIImLqbcJ5TlvMnMio-evl1pcEqhFKGxnMyk0-g40DmIDv7vUzG_wuyaC5C3AsqJaVBo0HLizup-WF0J5n-UCQIi3zNWEYBiIOCgy5yz9QTEnvTr_oBXc.%26pg%3DEJOQOW6J4BBH3JTQVJORG3WUNQ%26ch%3DAQEAEAABABQe_a-14_wHWBRDXevD76w0yRCg5nZqftU.
+.netflix.com	TRUE	/	FALSE	1790027134	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1813787133	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTIFR6Q2i76BFFJ2x5PesE_VMz0HnWgIIM.%26dt%3D1782251133552
+.netflix.com	TRUE	/	FALSE	1790027134	netflix-sans-normal-3-loaded	true
