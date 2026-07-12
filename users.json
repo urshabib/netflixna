@@ -96,9 +96,9 @@
     "username": "sahnouna",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 15,
+    "links_claimed": 16,
     "has_limit": false,
-    "last_claimed_at": "2026-07-12T13:28:26.705Z"
+    "last_claimed_at": "2026-07-12T13:30:32.701Z"
   },
   {
     "username": "takwaakkari",
