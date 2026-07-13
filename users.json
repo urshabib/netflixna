@@ -128,8 +128,8 @@
     "username": "mahdi",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 14,
+    "links_claimed": 15,
     "has_limit": false,
-    "last_claimed_at": "2026-07-13T21:30:06.158Z"
+    "last_claimed_at": "2026-07-13T21:36:00.067Z"
   }
 ]
