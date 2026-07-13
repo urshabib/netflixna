@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: lazuardifaris564@gmail.com
+– Verified: false
+– Profile: lazuardifaris564
+– Plan: Basic
+– Next billing: 
+– Extra members: false
+– Country: ID
+– Payments: 1 | TELKOM_INDONESIA_BILLED ( )
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1796994662	nfvdid	BQFmAAEBECKqN1j1S2UQreiw7wmGlKNgrvA87K6gnDdfVYnnknNe_JICsUmI1hTu19nZauZHzQWvdu2IoeXDXIdw9YF74PmiKNaDBjpQrw6uIFZsvaezGksKC_xiUvdusSItLnRbLMH0DOnbPO45ePVL8nlW_uz1
+.netflix.com	TRUE	/	FALSE	1798378183	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+27+2025+20%3A29%3A43+GMT%2B0700+(Western+Indonesia+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a5ca5e6b-3045-443c-95e6-69619282cea2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798378181	NetflixId	ct%3DBgjHlOvcAxKYAwdQZMQz5dHmlPJG4584G8ANKaLrX7bBmmRrm-pN7BTrVdwCs7I7kWwd0MmYxvrDBlZyiEWeq9saYi6ntzzM58uIjQFoz0_omWc78WPhKbv20HC3OPE-76PwQpb7e-maWlEtb99G3GgiKpbh9waQcNHQg2s7Mcf36sIRv3khcHRgJP-98Eiuj-_bh7Wjc3y2OWIfsDGWJ0ETxUB_lXdsK7WCV_F0rQNOGugCp6rqxmHet8Q-eU42bUot9y5v29jlodBXxLsJEeNCf8o6sseoIgQpqM8dRUtb84NP12h2k-fckGAQQ0eXaG7hJVarr6AvmYQ9fAUHxxE53YFgpHhUSZHzh-A1YFYgQV7XmhzYKCOnkFxJ0Q1olbNe6IwVmTdzeIgx7Xt_SVWMmXrngqEd3UK5e2uP6U-gxwee07aoVy6ChM_DckK--zuDT-79AtbQ3fsLDi9WdN2qZ74KGh50MVB9w8EAyLF6aISyDXIaIKKFT-2KO4X8pmOuwlIctUuCBeG_E9__qE3FdGb02sgZjAkh6eb0sWEwvxgGIg4KDN7Rlk3m7TGB1a4uuw..%26ch%3DAQEAEAABABQ2r0ZjXQnf-u_XuGIHyCOcG9Tdg4707aA.%26v%3D3%26pg%3DPA7EIXAKCZBWPCXHWURDRFLYQM
+.netflix.com	TRUE	/	TRUE	1798378181	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRqXwO9UVrq9K32Lxh3WFVVrc5VUxLsta0.%26dt%3D1766842180991
+.netflix.com	TRUE	/	TRUE	1786557941	gsid	01a4fc1c-d9ed-426e-a71d-3cdf0b317cbe
+.netflix.com	TRUE	/	FALSE	1786557941	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786557941	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786557941	profilesNewSession	0
