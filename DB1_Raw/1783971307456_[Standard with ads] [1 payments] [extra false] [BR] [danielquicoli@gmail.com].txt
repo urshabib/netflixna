@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: danielquicoli@gmail.com
+– Verified: false
+– Profile: Dan
+– Plan: Standard with ads
+– Next billing: 3 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 8989)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1794856589	OptanonAlertBoxClosed	2025-11-16T19:16:29.486Z
+.netflix.com	TRUE	/	FALSE	1794856597	nfvdid	BQFmAAEBENB0OzL3E6yDw1PZrhCJd-hgOFZJqd_QgWXTd9PUM5I7DKR8e6MANC-Ixs1OXhQtodUHNczm7yoknXLoTeUyoj19592U7kzbFujY-TkSFrNGrvIHZBYP2TRpZ2o4Fdw55lUJPVCcgxVnZct6R4FP4u5-
+.netflix.com	TRUE	/	TRUE	1796146689	NetflixId	ct%3DBgjHlOvcAxLkA_dGXw1UsN2dYqxO3c_a5GQxhyEoMBLPL4ikJjthOuXfhgVZEUCAiCS6vAjtnnM2ZhF0TEbyGImXcxLBjmek6Mx_5g5WhU_duIR40sArvj6WnXulxpYGFgyk7jdqywpB70-WXt75_9stXy-hrzkSOsMHefb310qd6iiAa5i7BwiG3ie__I-kjWQ12ge4hGrHqrLV6MXxj_E8h-4FRqDpxx9OHq6vWj2DBd4Dl_0ZOxvrzEECoFkUKPAWJXf_VPn8In5nIo0Qs2Fi9EpUc6rknVm2y0SV7ppc5ql1w1QDAiRFTxkO8ay26v0Jg1loE4SaicTcR7InlBN9cAKmTdx0OIK1EWqXV3C0PqQmPXgwTZbYENljHnazT9vFz89BBTjJDnIY8UCzvDDgbJQ54hLHw8t0Lu27E9v_ug04yIbIS2TkbJA1zv-EtmEhm1VabHCrqCsVLvEpDEQ2iwbejUOkOXH8gP0HzhvotWkG1G7CX-ykvfRtI-0Srdbgin_yXQSgTq66mvwh85a1VWEEH8OoTbOfLnx1QhjpXJDGqMX2iY85eV7AN3_oPdEpEQuhHFe6zq_-EHNLptFi3bj-4-7XlhslGsuqcY9RKiIKB7lL0QPqAh48qDYEziDHktKzm0C3OdwBDpUYBiIOCgxSHJraZx3eM2pliGU.%26ch%3DAQEAEAABABTN34MpMNLZ-NW_07jezjawdBRjyyhWrZw.%26v%3D3%26pg%3DHKZ3ZO6BNNGAHCUKJMQLWA3YWQ
+.netflix.com	TRUE	/	FALSE	1796146690	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+01+2025+14%3A38%3A10+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fd14363a-358f-4f94-b7de-937a0467ffef&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796146689	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhyovUcyH1Vjpu_sb8mcmdSbf8GrAIDOk.%26dt%3D1764610703251
+.netflix.com	TRUE	/	TRUE	1786440445	gsid	42c417b5-ab48-4b7a-8187-fdab4d5a723b
+.netflix.com	TRUE	/	FALSE	1786440445	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786440445	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786440445	profilesNewSession	0
