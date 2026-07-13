@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: veronica_silva8298@hotmail.com
+– Verified: false
+– Profile: Mateusa
+– Plan: Premium
+– Next billing: 26 de julho de 2026
+– Extra members: true
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 6796)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1809565981	OptanonAlertBoxClosed	2026-05-06T01:13:01.891Z
+.netflix.com	TRUE	/	FALSE	1809566350	nfvdid	BQFmAAEBED9ffZ9rfaKrT8b5lXJ2wCNgfsG7ldMI6aP2TFSTb3NU4JDjsLpbybznYi-iWhxcXlQcWhzs_9D5FgKr2EG-sV-N7sCCW7eswOktGEMB77pt-NCTb0QqtRpfwsCsfB31gsstoMGbG9X11lbvCRf09FUW
+.netflix.com	TRUE	/	TRUE	1813263246	dsca	true
+.netflix.com	TRUE	/	FALSE	1812685496	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+11+2026+00%3A44%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c45c7071-0d9f-40fc-9474-3b7a3a985bb4&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1778029886305&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812805841	gsid	4ac717a1-1184-47ea-a923-3c0e71e1af3d
+.netflix.com	TRUE	/	TRUE	1812771713	NetflixId	ct%3DBgjHlOvcAxKFBIrDNbillf6hP41InUPiR9TebOENWXSj3igB2GP8Ux_3QIk95Uz_tbewQPwf-sY3ahBmjUj618mgkzIYLqSmvp_FWBHdYtcB_A5flr3WrqTygwRdQ-2_iqTeF0pNySubOXfFl7NDkzrKRnJ_7_iohAx9UbIicPl4Uovzc0ZVpyR-gZl2eCU4Fbysj4xN-3vhnHAugNDNHAIhOkmvVyuFWWTmcaL0zGtjRL62DPUJXlhwIJo3avhL3TPq6Koz5uKI70Itq9oiB8qqGiUIJ_gfW3UswX_dr6oqiE7ochnIxUOT33jcEeMJGAvrfYxaQje0R5c1-avYMr1wtd9YhaaO6jKWbH6kvhPNpqH3SkNQid2d-DsjJrNUsvfEIgzftgcH2KDyPXV851_QG8wrmB-8phQlcDfOnyI4WOpI3ZiBSpZZQNIpwNpuh8XYqXKejaxrXyHofyctRVkzUGaBBCGy-qYAKKOVUBUhQ0GEh8K4eeFIk7VAL1ofyEBiTNyxQP_F3-L5Io8qtj6WOmJ9K2aelismT3tBsRoU3ZoomyCRjtvVLpio5TwoxDC3gNudGzVm8M7cQv8A7mb4-ZgyMZInGeSeI16r628QRh50K4uyvZyWD95gP3TngRja37DZS9Z-9MlwonvxVGa440COfXNQ1RBhtWqE6aI4LMBKP_0HS69UILLZTqMYBiIOCgwapDsbTdnJWzanpl4.%26ch%3DAQEAEAABABSrbVhCPfAhmYNJ8HTpqdg8e51DA56Sbi8.%26v%3D3%26pg%3DBIZ2YBK2BFAVHCCLVUY6S5E6EQ
+.netflix.com	TRUE	/	TRUE	1812771713	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQiDeSnaTk2h0i3DpqEhdOhWqJTAS0bKeU.%26dt%3D1781235693091
+.netflix.com	TRUE	/	FALSE	1789011716	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789011716	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789011716	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
