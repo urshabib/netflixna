@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: davibarbosa1246@icloud.com
+– Verified: false
+– Profile: Davi
+– Plan: Standard
+– Next billing: 30 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0537)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1808283643	OptanonAlertBoxClosed	2026-04-21T05:00:43.348Z
+.netflix.com	TRUE	/	FALSE	1808283652	nfvdid	BQFmAAEBEPfCEgzgW86Dh2avKUQJe5hgUIn_NGEIPeq0v9fsZ7rvRMnSMUmufvRuHGcgD_gCLbQ0qofoUCova1LpZVwZJQWejaFLe6deYnVTh57pztZPe09oTPUicW90NH1oNo2mqDmUdKtzTy_JZ-uHzYg2mQzs
+.netflix.com	TRUE	/	TRUE	1813600202	NetflixId	ct%3DBgjHlOvcAxKJBP5qkGjAmixBAlb1mh6A1KhsmKA5qJxo7o-j7mUmY6SEiYuoopbuQqlR9Ex6C5sRmJgnL_vijn65uYs1Qx7mcTP2ZMxJnLvsyKcTCgRNqXpm0w82dq2_i1xDuoGTMuAEnDpUQkn266Gek5Dix4cRYp0lJZpVRRMCwtwZqQ-fMYRV_79DF3fVXEBtjDo0lfavMwlcjBlYY6ynoMR7PWeoLs_wv9NZ6hCTsKxIhXMWUh_CMjLrLLn-jqHchL3naVOaXC_5Fge9Etw8xUcVJ7PABMbv3e9ahZKa5PqmaupxhrN0SzyFgCVFcJXhKi2d-2CHxR8HPvGMfUTXscGyPbIMnhceTLTu_kvemOf_1jijYI_6K7pZCElVLznaFieBQHO_aFP_95inHdyLzWOIkgEh33pj7mNhoXlITFFHE_OHtgJwjZgxPVym2aB3Jpie6jPlVF9MxzC2ufxEHpiZ_kMaq6qDpcNjCaSjc6kZ-DvVd6ys3a4Uz1HXLCxmRZvEUN7fx5KK2dkiw81m5xtM76eIO0ggLmbU1Yp-hzYHLsJfSmxIzx6-hWOSn2XaeZrIAePLbVwk5d27SJD_nH0KrW_wNr076t2gMLFi29R8hBRpagQoMbHFtvXgFcX_jd_p3jgGiTXaQCNSW96ieaOAHfBbpHEPiVNbLShjAOsxwAncbyuziaxTL4FFeAqmGAYiDgoMTZZ3mkx_Gc1zRf5G%26ch%3DAQEAEAABABTOuRFjKen5gNEpnE4IoxGQtU9kW8eRGUA.%26v%3D3%26pg%3DOX4PXBO6GNG2RJXA7GHBZC56WE
+.netflix.com	TRUE	/	TRUE	1813600202	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTD9UVR5gZHcPkTR6d_oMV_YsCfbUpG6s4.%26dt%3D1782064202184
+.netflix.com	TRUE	/	FALSE	1789840203	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1813600203	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+21+2026+14%3A50%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a9108c08-0921-434a-b98d-cb67af5a1858&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1776747644100&geolocation=BR%3BBA&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1789840203	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1789840203	netflix-sans-normal-3-loaded	true
