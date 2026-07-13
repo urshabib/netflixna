@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: edinamar.gsilva@gmail.com
+– Verified: false
+– Profile: Edinamar
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TELEFONICA_B_PI_BILLED ( )
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1811778942	OptanonAlertBoxClosed	2026-05-31T15:55:42.002Z
+.netflix.com	TRUE	/	FALSE	1811779021	nfvdid	BQFmAAEBEDWjBGGD6w63doNbynBfduVgd7r6CPR4P6jNzQNEewFSLODe79KoQ7sokYrze15HjhYqFweyPsEPY85ah8hSuBJC308u6bz5A7v4hCGBSZfvH5dkTVHW8Ge-KuMXfmfNrb9jGlSohaf1fkgAqDCYlkhR
+.netflix.com	TRUE	/	TRUE	1816543546	dsca	true
+.netflix.com	TRUE	/	TRUE	1786557925	gsid	1b4ab244-9902-4193-8741-7030784f2ca9
+.netflix.com	TRUE	/	TRUE	1814712970	NetflixId	ct%3DBgjHlOvcAxKGBAwBvinf7P3iY9OzPRYq3xYbcU5KB21JH1t-vRKLQZrp19Oy8OlUlqPNvT7IIn3sbZGIsHhVgS_H2D3BuTDW9qRj3ZQvdVm1D_XCeZFxvv06reJKyCTnLlh9yQ9nEtb2lVXHkdR7K0p1ZJjyaqrWN1mV7Mae4GigBMd-YrfO5xgMQBFDARG0lvS-N-rZ3KYXDeIe390L35R0fMu1ZMjxIeqKfUJ0FjK6zzDDxtsC6gseJ60VCXjILUJt2CsN4isvox8FTEoJx7GMa7JgOVxeuseceTsdIFxup4_vUj3ybjArRKzP_d_ObZeDMwbk5U4lKs3f3VLhosNf8MUCPkqrv8TTa7mxy8IWBygjQ7WhCvctYRHD_3AEgVhTLpfLGvc9QNq7KXMcbY92nEXK1hNoIIoo3qSyQi5QctTNd0jVPUPu4iH-6_EK3n1u6fS-dccHNFPiUhCiOV1WUV9Mdl4iWluBnjlb28YTewanoso1Q1ov6iziy5eFoimk2E5NyT4bI4YzCLLlA5MrxFLch3lqZ9dvjX7RGs1utqRA0SrCMmzp5Zn6_jrolverxM_wZm8OpkmpTWp690bGYco81fA2tQ6TBO0fj0WKNELfV_iZGqN2-s237EEXHC05HQd869g0Babmc4jA7CuBZI3GDzZCsOqornAtf2CEl15xgdufEhO0j4Bl_G4vGAYiDgoMF95hc85bWHYqxLyL%26ch%3DAQEAEAABABRgNaYxKeC2me38IJD3KcE4Sp6qVM0SHQs.%26v%3D3%26pg%3DABLW6P4SZZB5VIYZGCPSP2O4Q4
+.netflix.com	TRUE	/	FALSE	1814712979	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+04+2026+10%3A56%3A19+GMT-0400+(Hor%C3%A1rio+Padr%C3%A3o+do+Amazonas)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=fd24f775-7058-4dfd-828a-0adced741b29&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1780242942751&geolocation=BR%3BCE&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1814712970	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHqum3n4ly51K2VVKx9qvlV1Kqn5WKESs.%26dt%3D1783176970538
+.netflix.com	TRUE	/	FALSE	1790952974	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790952974	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790952974	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1786557925	profilesNewSession	0
