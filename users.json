@@ -123,5 +123,12 @@
     "links_claimed": 2,
     "has_limit": false,
     "last_claimed_at": "2026-07-06T13:43:57.528Z"
+  },
+  {
+    "username": "mahdi",
+    "password_hash": "123",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
