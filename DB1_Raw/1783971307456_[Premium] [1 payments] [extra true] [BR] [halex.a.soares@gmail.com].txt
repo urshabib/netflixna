@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: halex.a.soares@gmail.com
+– Verified: false
+– Profile: Kau
+– Plan: Premium
+– Next billing: 8 de agosto de 2026
+– Extra members: true
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 4423)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1808786074	OptanonAlertBoxClosed	2026-04-27T00:34:34.272Z
+.netflix.com	TRUE	/	FALSE	1808786096	nfvdid	BQFmAAEBENVMK13AWISo_IS2RUhudTZgEycaCg52jGVxu3aXjLuIBCh5iRAq6S96ULQQIIaCgKfeQpSvPH7MsrhJeH-dy6Qeq3Pin6bNC3px-8qG12uZuaOlmnAX9xn0D8ZApLWfJk9vQgVG1P2AMcmHw6eNVTsO
+.netflix.com	TRUE	/	TRUE	1814653560	gsid	a9317641-14bf-4278-b42a-98934faede31
+.netflix.com	TRUE	/	TRUE	1811546912	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKLA9VqXyh2Nvw1YP6N9BhYX5BIXG0ImUQlHETCPdeUHnfnNVN-4GVxRKiQk7TXZfa-vWQxCu6WqgsblzM3GKFwql3kRis_HJAvgILZLC-lJBNUUr0mVioMSPmR_H19vkYuFLi10RlD3jf1PxVhOR0PFfEx6DsEq5TWqIdiciKoc15gUQ4zFixgVu43PuKdT5pTxqvWBLip3YDjQMkl0lTix1DlklyQDZrlcqsrpjqnG6BR-T4Iv2TPONmyKMV2cp6Ca4DOWVeeikx9xJQaR_P8LFPo6VYwlu5BX-n0lzhGqjAkAvFr37_b_ggK0QP59GniZVQbZxd3L1RYyvPa3YWigasaS9ZsvVuftGCXnuDTBmvY-6w7XTS7jdXqLbV8ZVp8Uo-xH7YEXXlmONFIP1xtc7VIPJCPiTAKNBTBpMsdyplaRDXi84dM5JetuAq4i5N6u5hB5laRZKL3wvxrdIM0mqrzA7SjWt8LZMmpB-SV91U1qBGT0OVnF-KZB_OeXjq_AuznzmNeux0qws99GAYiDgoMBmrYsrpXC2efL3bY%26pg%3DRCSUQ2L3GZFEHKUHRSAEKECJYE%26ch%3DAQEAEAABABQoESmBVpa62td7bcNOZfnMG7nGOpwOero.
+.netflix.com	TRUE	/	TRUE	1811546912	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTlmhato4qgN8_lAA56kzCYhtziRX8Mjyg.%26dt%3D1780011058879
+.netflix.com	TRUE	/	FALSE	1811546956	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+20%3A29%3A16+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3831db65-7d35-49cc-b723-5f9a20d2cc08&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777250074807&geolocation=BR%3BGO&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1814653560	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1787786959	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787786959	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787786959	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1814653560	flwssn	f706e3a9-65d0-49e8-84a0-b38ec5599e9b
