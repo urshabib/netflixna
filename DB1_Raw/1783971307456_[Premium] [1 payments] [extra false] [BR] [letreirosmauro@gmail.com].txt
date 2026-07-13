@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: letreirosmauro@gmail.com
+– Verified: false
+– Profile: MAURO\x20JUNIOR
+– Plan: Premium
+– Next billing: 11 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 6855)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	TRUE	1810386658	dsca	true
+.netflix.com	TRUE	/	FALSE	1807362592	OptanonAlertBoxClosed	2026-04-10T13:09:52.235Z
+.netflix.com	TRUE	/	FALSE	1786557925	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786557925	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1807362658	nfvdid	BQFmAAEBENhO71F77fAsLTmB24hWNL1gr59vcmylOihzjAv82UE8DGx_rmtVUXhzHmryppmcqnW9e9h4lKCzDiN2F3gZr-kVkOLIZsyeEXv5Y-bKifKkXeo3HcVvJxe3XR8HBs0QWP_7lZuQvK_IqpGYHr4aNPe6
+.netflix.com	TRUE	/	TRUE	1808073488	NetflixId	ct%3DBgjHlOvcAxK6AyDOcXf4IbmSbF8tQUvuYL44KGDehQOchEgCFFllJxjAMe-TDck60yGo3SH1Bbh45tZTqxU7fqr77AZfWEE2qJ8yW_tqsc1cnGZUcTs2MeMgiI8n-NPGY_dVaDqr5ORcNUrimtSSveDeMsJWyuEvTK3GsmNiz6cI_RSTBCHeegGz8XJyQTr7u43tUcvzoz11bNw_rKE7epBrILxtuQCzRnJ_fZiPQWy-08yi7suAMPYzcP7ZIXwUpyrnqErC6I6HOtIrN0li-Jw60CmYDh5QjeTOy1r5_dIEwRtG0AUxeVeEiwupqR23C7Xxaxg-ykcIRcjL1UbbDZJAQmjJxWS49MQEG9iR_xk7bQKydSTs4AQQskHzku6zd7S7H-TKTwXWftXzvu7_DwM1l4fMNs_6OCb7sBmkWsNzBd8wcFt2Rf1j1n0yjDrlOFgX1k04nX-RgmzxcQw-dldSjA1iHD23Qler9fn362YFPxxmtCYSWS88BrSrP-sOn7bv72nj9nCeR_6SuCQ5ZybHPPrfPDbEUv9J3oh9DAAzdfCOrWfAL29GSem-VGFS6PSylkbbvaSrBLEjjUZc0YBw9LwYBiIOCgz8VXpeTE5uSUWvlLQ.%26ch%3DAQEAEAABABQZGLPs5KaGEJ5cBZAFkpPFwZcNkh-VKkg.%26v%3D3%26pg%3DY67FBV4C7FERBLD2EE6T4UGEOM
+.netflix.com	TRUE	/	FALSE	1808073489	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+15%3A38%3A09+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4475257b-9f17-4e88-b612-a2afd580fc75&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1775826592657&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1808073488	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtYx3-oq7oAaxv0jMuHa2YT35skQ4X0bc.%26dt%3D1776537488426
+.netflix.com	TRUE	/	TRUE	1786557925	gsid	c3bd6d11-df01-425e-acf5-7cbe872faaba
