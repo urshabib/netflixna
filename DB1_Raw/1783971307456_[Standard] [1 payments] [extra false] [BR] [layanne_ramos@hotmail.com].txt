@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: layanne_ramos@hotmail.com
+– Verified: false
+– Profile: Miguel\x20e\x20Guilherme
+– Plan: Standard
+– Next billing: 7 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 9536)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	TRUE	1811740748	dsca	true
+.netflix.com	TRUE	/	FALSE	1809518818	nfvdid	BQFmAAEBEI3KN1Ta38rSUzMWdbG4JxZg60Lvgveo9jnJuDXYawxEyWkxEAe71BPOYOp5oYwqcOyfKlQOASVawzBhWv3ZPBIu7oEc2sOXU4RtGqv8nrO6ujfvkMSipTB3Kt7zCHD1x2SOndVsE9e8dcBteHDgLclX
+.netflix.com	TRUE	/	FALSE	1813105354	OptanonAlertBoxClosed	2026-06-16T00:22:34.293Z
+.netflix.com	TRUE	/	TRUE	1814157588	NetflixId	ct%3DBgjHlOvcAxLaAx4I03saZuj-7VNOQmrNYwt4GceKeomwYTeZcxZyEJgQuQEW_uGcKe6f9hJaBguuyIWTxVol3ZbIULfEivM6nFK6cyZh_bzpA2z5AfySZlodsp1as466U3Dgf5GcvcFlV2r9QbERUaXN2UB-WOVYwIXFeA6m_AQ6UIykxB2xAQWGTTteQyW6-xUrSfrhDH925mUk56H-NbDeDcGur1SvS8dX_BsfVqV1WLavgldRrt5O2WC-IDnENlkIYcLqJlthFijCRrMI3AkiA70r5QtV0zQZmz3Ct5b0Fu0-EN7-H5XhUIjWlujiAbMtD-C63TkIlxn67Q8-aWY1PnqVJYUa-KUu_3OJldTyorGBLMkpELNnhB14ZBF5QcsOCtB4BohWwQsscVWplB0NdGWr4u1amQAQRKvnYV7feQQqZbZhR3qUoRtX1OVjsUxh7Qk0XMuUhTwaP1VAlaqqGjDsfWBKzztVmPx12BsRsehA2p_KGxgvcV9IQZsiwDUKmvU9l1Gh8_1zS5dKrNeGiTx89s9RSZZFvxPVquhrYg1hQrjOnXYxzhQNngJPRP0Z0xo3qnW_vZ7hajoHxnSkjb2oWmwOW4JK2S8vl0DU-p5cpK6NtdT__EHn37iJj8hNohgGIg4KDNr1MMapn190ppsvOg..%26ch%3DAQEAEAABABSME7tV2ZCHdzp7FQ7vmpx3WmfAsCd34a8.%26v%3D3%26pg%3DXQ2VWCZAUZD2JPH7DQ56H24UZ4
+.netflix.com	TRUE	/	FALSE	1814157590	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+28+2026+01%3A39%3A50+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a75a1621-e7b7-4e27-9c27-7cf0083fd002&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BDF&prevHadToken=0&isDntEnabled=0&fclco=&crTime=1781569354972
+.netflix.com	TRUE	/	TRUE	1814157588	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRTNgW2KGJY-SoKGvKckzn0lT2Qovs4ldc.%26dt%3D1782621589383
+.netflix.com	TRUE	/	TRUE	1786557925	gsid	926e1c37-e787-44f9-a346-25e42e55aac6
+.netflix.com	TRUE	/	FALSE	1790397589	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790397589	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790397589	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1786557925	profilesNewSession	0
