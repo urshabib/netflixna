@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: nicolemartins.fn@gmail.com
+– Verified: false
+– Profile: Junior\x202
+– Plan: Standard
+– Next billing: 15 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 8732)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1813961530	dsca	customer
+.netflix.com	TRUE	/	FALSE	1813858109	OptanonAlertBoxClosed	2026-06-24T17:28:29.067Z
+.netflix.com	TRUE	/	FALSE	1813858099	nfvdid	BQFmAAEBENAm78rsZ52AAWbFohvzHqJgpB07mplLUMBkMylJcBuMi878RgU-10hIlUhdxEgciziNiILQDSbIZq8yiHauXGqoCo-rgyt_nJx7kccHV2boz-QDrg3c-FbLfJ3qYSF9Pf580I7DOHH4fD06QRwdc24Q
+.netflix.com	TRUE	/	TRUE	1814917489	NetflixId	ct%3DBgjHlOvcAxKEBFLP3qDM8_Wg2yauxpnvU1umgh9AqLjd8i7EXu0rj5pcekOf9G2lG4Hih7phF-fdavaiky1suF7BSbS0UkpZF_0EQhT3AVbJu90KAvRExy_kzoEbtUcqVPrt_60US6AeZlsWs3Hfd0iQXwZBrxKL4RF60ehRUZWH3Gpb-bwihLARRBsWLB-JMsT4gp8aZgktpWTMkLBBkKwHk-F74TGgtL2J2ds19viR1pTBdj3tN3j9FL9GLCQZJqGfnNNSY8vzUQ2XztS0As2YL3xhmHA1n1KH4xjDvJjnc026LZOQ_Mz1cQwfeXdlaQaw12sqsvLPaGhZUjvQY9f4UukhOik7MY1Ti4PHgFKtXSjD_Ymp-J_-CBYa9-9vaEsSM9dl6kmZF9DHe2bIv7ALeu6KFfucIt0TmzVqLpYNFB_XtoRvR_PDHh91EG-CCVytMeIhhZkWV5jt2E7DdLTVcYwpRg7oDqg-g5JaTlWMAmWIdIq0dUGXgFq-ZgUJXrf8mVhMzT8M1D9jahavqr4JT2bD7GWFjFbzQvv97Omy4pY0GZEK9OUEpwya7rkywyzETS_bazYMWfOvzHX9BNfS-aQ1WjJjHJCG9-OidXGj9GAlO8YqFwsaf9LzEnDjhAhQwz2Rt2umugQW_etEUlX1Tuf3Qp2HPyfFD2pcJxQKZAIJbVd7ic249ngM-hgGIg4KDHDXoB1LdO4dB9BWaQ..%26ch%3DAQEAEAABABTPCTs4bkfBOyjFYepJPf1zj8zmVfO3Jbg.%26v%3D3%26pg%3D7VR6MJZZ4VCBZLCU6B62YTZA7Q
+.netflix.com	TRUE	/	FALSE	1814917489	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+06+2026+20%3A44%3A49+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=48a33ea2-88b7-4b43-bfc6-3c36011f14d5&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPE&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0&fclco=&crTime=1782322109809
+.netflix.com	TRUE	/	TRUE	1814917489	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQGe_DiyR83B6po5VWQ9oDD6wUSP0F1k4M.%26dt%3D1783381483695
+.netflix.com	TRUE	/	FALSE	1791157489	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791157489	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1786557925	gsid	694003eb-8c01-48fb-8ccd-637e20e299b5
