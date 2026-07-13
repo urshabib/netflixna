@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: leilawork18@gmail.com
+– Verified: false
+– Profile: Leila
+– Plan: Standard with ads
+– Next billing: 27 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 6313)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1813533714	OptanonAlertBoxClosed	2026-06-20T23:21:54.381Z
+.netflix.com	TRUE	/	FALSE	1813533765	nfvdid	BQFmAAEBEODxokLdkkxQ0oTYQ1V__fZgzv9R9z2x48jHwFlbkriKDGnJc6iK9eDlbo9kGrCSMf72H3mN9Sj-4vJRJb0pd1hhaFQGCYBPtPkSlNMfw4mpYiBgUOes6_zRnGUKTqjvUAEMpv0leN7uNdFqnep0yzCN
+.netflix.com	TRUE	/	TRUE	1814892159	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdggtJmLl3Ycq_UKhmUwrpCV58_LDjM9I.%26dt%3D1783356120734
+.netflix.com	TRUE	/	TRUE	1814892159	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUAyizRVbeizcennMJ5CPAAz-WMxB2O4eNTD8N050VnXmLAY48CnmmN2PudZL2KT3tK9pyoyaIy3uAsxnELcStF02OLrNmJvI5mTL_wnbwa9UNfOUKy4GyUaxpGJuJcLxjOfkyoZEVNE83XTksAo0w6GTw5bsn7_eDnah68SJH6ox5fy2cRRgNL7TQTE8Q8a9uKVCI2Dh4WlU2DTIdGRY3YhsXcTQvV50OD8MEou-YpIL-wiu_KCp1Gu4qxWJlFytnvF72uw_UYlU_-zzJ0iWqHywRoNYwnzhCCdL83yOs9gYHWaLcmC3SxACZpuv07MCmqUHJ8AXpmMuSUqbyf_4tiKouynzLeSazN9PziVO1p8SBpybOVZw1uCJm9moDUJepg1NyjcitYUng6xlBuEjPx2Az-cLJXlRYX_eBA4CvWBcjGXh_jQiTuvFejEAI94z0ImhKhTVhuDWAnBC6KX743OTZv_Shqts4AOu6x8RBqBwGR959PQpEZyvRQbsihwkXuB-XVU4gfcbXU7_atrWpJYDMGcINGAYiDgoMssCW3qP6VezYdpHc%26pg%3DC7YCSYOHEJEOVNKB4VP742FZZA%26ch%3DAQEAEAABABT7ye--UHxiaBDXbeU2YC13CtiHELPdPMY.
+.netflix.com	TRUE	/	FALSE	1814905791	mp_ec0f5c39312fa476b16b86e4f6a1c9dd_mixpanel	%7B%22distinct_id%22%3A%20%22%24device%3A19ee7572071819-0017e26f2cd0f7-4c657b58-1fa400-19ee7572071819%22%2C%22%24device_id%22%3A%20%2219ee7572071819-0017e26f2cd0f7-4c657b58-1fa400-19ee7572071819%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%7D
+.netflix.com	TRUE	/	FALSE	1791145790	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1814905791	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+06+2026+17%3A29%3A51+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c0a765c5-0f36-4935-ac1e-52694d376a34&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1781997714938&geolocation=BR%3BPE&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1791145790	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791145790	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
