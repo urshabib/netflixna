@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: bandeirajuan@gmail.com
+– Verified: false
+– Profile: Juan
+– Plan: Premium
+– Next billing: 10 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 7427)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1811909660	OptanonAlertBoxClosed	2026-06-02T04:14:20.774Z
+.netflix.com	TRUE	/	FALSE	1788149661	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788149661	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1811909735	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+00%3A15%3A35+GMT-0400+(Hor%C3%A1rio+Padr%C3%A3o+do+Amazonas)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=07b03b2e-5bfc-4c69-8bf8-4a2822f557c3&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1780373661277&geolocation=BR%3BAM
+.netflix.com	TRUE	/	TRUE	1811909732	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA3CoFV7_qFl1x8BkrhKCCcMgy5wCdofuj5r6aoHfedVHXAUXfbDQrfyv1j9e_Qg3sqPPYlg3cqI4mgMTp7xnghTYes0KZk3KOfACc7qHwzWQQ3IIEqZ2060FezrijOyBSVLKU7GtCF-xG0XTvy8_zzAS15_1RFY7xgisgPU2HDQnzE5rjt2VKPq6gBQAIuY7XaxUjnEB-lJkWpPGVBsVbwZFNvJKQzTb4kR-_98HZNGRiiuy1noIGUMo-4u482Pa-pc9ym_gSgNedrjzKYtYpA7XG8psgaVY_920wfq6DaMa5p9jllMSUKyoFKU0Xy1VtegcjMJtTNN7RIv73yCIKuoX8PpzjmHoaHMH_OhWLmzubiqRP-i5rAxW3uooZpjDBDwsLiULvywr_-etDxwfmwaZ6m6Y-oJjOarP-VKVtIkT4uG6PR4LegwTzRBBsU7XEPZ2bm8P_mF1_FXRpFXbT4diGVFV2zj4rxAjLaHGQRdKGH8VWQLNUB77SIMJ1TeoVS_6B4_rhK-R0pLJehozBEHL_HeOsLyGvtdN6FV1jjMQ1xgGIg4KDBe-9l8dk97mYQb2Cg..%26pg%3D33USPXO3T5G4FK3PS7VIG5TMFA%26ch%3DAQEAEAABABS3XHuhCw30_n4YeVqj7dfiSBSNCBUYS9E.
+.netflix.com	TRUE	/	TRUE	1814933733	dsca	true
+.netflix.com	TRUE	/	TRUE	1811909732	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRgg_kO--KTGIz8Ht0JHhfHk8zypPQpV10.%26dt%3D1780373732879
+.netflix.com	TRUE	/	FALSE	1811909732	nfvdid	BQFmAAEBEA2rlsrHYOnDVtQ8mPc55RNg-zXb-SoDFpzijjrHzK5EEYX4H7tDFJp6GHpBEm29JZD2tBUK19N-KVNSRtm5zGIrKE7lWLP3Om4-fAA0io7p2p2piiWa-yYxBxGxdVyBzzMHKAPrPjXMETVDyQgnSVj_
