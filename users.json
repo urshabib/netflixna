@@ -123,5 +123,12 @@
     "links_claimed": 15,
     "has_limit": false,
     "last_claimed_at": "2026-07-13T21:36:00.067Z"
+  },
+  {
+    "username": "houssem2026",
+    "password_hash": "houssem2026",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
