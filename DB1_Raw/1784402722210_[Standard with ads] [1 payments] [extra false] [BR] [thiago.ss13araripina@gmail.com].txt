@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: thiago.ss13araripina@gmail.com
+– Verified: false
+– Profile: Thiago
+– Plan: Standard with ads
+– Next billing: August 7, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 4512)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1799895232	OptanonAlertBoxClosed	2026-01-14T02:53:52.286Z
+.netflix.com	TRUE	/	FALSE	1799895242	nfvdid	BQFmAAEBECWDMPjOSOSFT8LUo5MIcrxgn2dfoj0d3GIqM89a8tBw5me1zJ6PEbTb1Hidf1kbHxeQskSlaB13KYvZswLrzcnMcQDKPg-k726YabfG6K8CTjr7ED-fBkmkqy6TEr1wNtMUrrS_CQycLMZ286duw5YX
+.netflix.com	TRUE	/pt/title	TRUE	1802923704	dsca	true
+.netflix.com	TRUE	/title	TRUE	1802923705	dsca	true
+.netflix.com	TRUE	/	TRUE	1808606602	dsca	true
+.netflix.com	TRUE	/	TRUE	1809812003	NetflixId	ct%3DBgjHlOvcAxLXA93gtKDl3xnhfnBDDlk-51iLnjW8uTWp-wa0kmkoQa00na8580yzu5hxHt4fG-pE6_M-04kZERmK3iLkljsmYV14qAhQjlHQqqnR0knZ_HVZ2oLxx8Zp2RNLbylVErmqdKI76EdfNqRMyyHtYSDYaSa4oIiYaFb4GZjd7vi8AVCTw8xBtDzY82VstlSjmtWQZ6nAUVDFk3CwK6zU-ixGvUveWqPOkwF7YSmXSlILVVE3ZyzoVHO-vk0c3GjRyqS5RgMULI8MMfRw5Oz5Pj7zHpCz0GEkqBoQqDpURTPyRensGGfVR4xzjFQpXAH0CIGUHU7AJYCoOs-dUEJDSbeIH4qjVMKF0KrxM9Hvxq1TfJ76mKxT4rK0odYBegNvle2NF6AWEyL3QZGdGjcT0nqUpl9iFN3z2M7FocAzhZ5FSaLSl0PKA7WJu28R9_sPX7OpSoDEXGkgRLcra5uOzB91v3yI2Cuf4yGO1oQrxx205P7s5g97nr0IyeO-RmG30URIKT80t9W2NHz8IUZ-H79LkYMYbNQc0uTYkeQHMR81Y_aPPjf_uoyTWeBQjFAgJKkdzJK5sNogCCZ61Tm4bPfLpC698dlS2hFy4fol6ASrHk3d7gx8sroOmxgGIg4KDLnofQ6SaaAC-X2aXg..%26ch%3DAQEAEAABABQFZdeRnbvwvYA17hIvadlctO600JoSW6k.%26v%3D3%26pg%3DIRSYXOSQYVDCZMQNBXB7NWNTQE
+.netflix.com	TRUE	/	FALSE	1809812008	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+18%3A33%3A28+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2cd8a4a4-fc59-4465-8823-a9e29f35811d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768359232775&geolocation=BR%3BBA&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809812003	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQeU53qm5tnhkP-0Tv_c2Op68-4QLkyorA.%26dt%3D1778276003461
+.netflix.com	TRUE	/	FALSE	1786052008	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786052008	netflix-sans-normal-3-loaded	true
