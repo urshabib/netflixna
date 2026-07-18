@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: vitor.santos@basf.com
+– Verified: false
+– Profile: Vitor
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (VISA 6895)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1790128710	OptanonAlertBoxClosed	2025-09-23T01:58:30.898Z
+.netflix.com	TRUE	/	FALSE	1790128707	nfvdid	BQFmAAEBEHrjgIxGwigFsDwvcttBQRVgdLpO1zPC_4HXuZwjLJ-uBa-H_tBwk-gLgGlH2_MPUHWearwdyGRWWQx7iFMaqVpgmaeGaZH8o7LEvxXi3Ff6ZxxysW4utZwGj7IxiOV8ZrL2GJxTo4DjSFOnlrJNADHU
+.netflix.com	TRUE	/	TRUE	1811041945	NetflixId	ct%3DBgjHlOvcAxKFBFk3tq_1LlPcxIXmF3vnZSUSnS0L8xIbV2xSopGjU3XYnTIqKCPqGmQxJmX8TIZDl-3SrXb_pL5b1jjSayBtNuZsu_YBXzBe-1iXregCOE9khigBBVs6xTLFL_Y71bdS1Bd3UfhD9JZokd6HcyfxDeeQBQUdMmKatxDOpcnNeWYo5_yRskc9eSz6DmCBv8bzj_nwJS2sI22OpFtb2wHMtoBepuRobwgkpS_UvDVDROtV15A_RqHIRXXsPTFe3uXg2dWAuUQZ2e8tRCeJ0qj-0J4cPv3jVW-xS50duwdHdP9ti0PMf4kYXNEgR_KseEQTXnItfc19TJPIY-_AJwIO2OzU1JJVTwmLWUqcDiACJIC16aFqipeIhWPuFKxIOBR8T32dhtCIPWY9KW4PDk-p0bxleXxFEkEz_ptK8NFjdB6KJx-hKCljHze1Az-DYpGNjrLD83PMZ0lGDbxn22gILg1pzEiIU5s63RywCoC30zPTyoMmXihyVO0BZRmoSP2VfhF7dhG_MiBGzkhDZYsJPwAoijlRX6U_mzNAawa0YjylIeZVwYfkYV6uztSj_9pNywoW-xHDTQiciKAK-B-nnnkL0keysZJoqRTXlmeXKxUHSQeKnBbmmKAFnrq0OLnkYyDzOoVCSVpD_gfBIwQN0VFM1NAACvJOGG_oORwcasI7LwpySWcYBiIOCgxzmyJ27giSAoVRUVY.%26ch%3DAQEAEAABABRkuYU0T5K5N2ar6tbjmV9930BkPtmMorw.%26v%3D3%26pg%3DPCRP6LNA4VFIHMKU7HSZXL25YQ
+.netflix.com	TRUE	/	FALSE	1811041945	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+04%3A12%3A25+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bf07655c-9194-4af5-b58a-d863119f1503&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PT%3B11&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811041945	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRSvOeEuxj1xPqor_c2qIQJtc6VvSQrj04.%26dt%3D1779505945221
+.netflix.com	TRUE	/	FALSE	1814065944	dsca	customer
+.netflix.com	TRUE	/	FALSE	1787281944	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787281944	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787281944	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
