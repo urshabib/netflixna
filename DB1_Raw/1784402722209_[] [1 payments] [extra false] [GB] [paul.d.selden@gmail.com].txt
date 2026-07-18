@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: paul.d.selden@gmail.com
+– Verified: false
+– Profile: Paul
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: GB
+– Payments: 1 | CC (MASTERCARD 6071)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1789663213	OptanonAlertBoxClosed	2025-09-17T16:40:13.523Z
+.netflix.com	TRUE	/	FALSE	1789663206	nfvdid	BQFmAAEBEB4HYsoYfWSHx4zBw9CQ_CBgsiBEZuwRtBIhMAp3c0ewgH196kD2iKzIXWsEpOxfFUUG1QHUpca55JnMVEZpsNRdu_bzD8RRg6YIu0f6NeyzTTAASq2J9Rj11WyfYxROTaJsp2bM31OHw2StQbBEWnTi
+.netflix.com	TRUE	/	FALSE	1797863646	dsca	customer
+.netflix.com	TRUE	/	TRUE	1812651680	NetflixId	ct%3DBgjHlOvcAxKGBGC8KrUpI8fx9HAP-UPSflb1TC7MpIHVLYtcHNvYSSkbuIBfDxxiilPlMQV5EWSIrFX-NmJ4eoTmuwthGbaMMb11DWf6vI6jDUaeHGmwv4PGl_BroC0XLNG9nC1dCLJbd7d1KcI-VAscHemcL6aES9u0btnh_s6DIjXV6jXSEo8JNA3moYGGb-hgKtcbXqMCKhLojurE3O8TjQAQTqS1R0_IV1sV3dzRgw-QEOt7K7V0eBgcYgXbY8npucOHB4GtrkSM6YzqVpZt0Ism-udzD6MT8JliWyB5ifgV0WAeWIwBKr4-o78U7Xx3dSGLNSZfXzFuzalFMJonMJTzqHV-BSogkHgh9FOtdkp97xl5iWjtdD_zOTvDvjyozsKeyNjhT0t3Z32uux73upk3xgJG1EqbRXmdofiNQlLH4_G1Mtn0amEGafRJ0nCpqEv0RwRWd9X2eIUVEsHF6E2abLgDUgDy6jCeqbQT-AwmN4AKwrfZH9wzO3BiDVJao19rnXJoLpAcQ7g8HpqrFk7p4B8SFAaN4h03bBpc9xG12T0BBapuBf3Wi30CuhYEX7_b84zT2e7f9uLY9RNwjoI0hTLXaxo74LHPuRvX40yz8FT3R_w0fSi-ZbOMj16JYpKhw6IlEZSAzcV1ZMkphjDQZJq3154VedwceM7HVkf96YLgiWoXDF3AspwYGAYiDgoMla7HoxfUFvcIRnha%26ch%3DAQEAEAABABSVhPqe-EIYomIcE2H_XEHoagDcxbXdcio.%26v%3D3%26pg%3DFEDFF2EEVJD2RPNW6QT5L5JWK4
+.netflix.com	TRUE	/	FALSE	1812651679	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+10+2026+19%3A21%3A19+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ef6704d-fd2a-44ff-91ca-c962bf92d719&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812651680	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNqbbF8j0EmQSjlaAXS5Gb0MUWiPOjXnY.%26dt%3D1781115680158
+.netflix.com	TRUE	/	FALSE	1788891677	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788891677	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788891677	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
