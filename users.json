@@ -136,8 +136,8 @@
     "username": "mariem",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 3,
+    "links_claimed": 4,
     "has_limit": false,
-    "last_claimed_at": "2026-07-18T22:29:27.846Z"
+    "last_claimed_at": "2026-07-18T22:30:13.834Z"
   }
 ]
