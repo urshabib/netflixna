@@ -1,0 +1,31 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001
+#VERSION: V3.5
+#═════════════════════════════════
+#USERNAME       : Philadelphia
+#EMAIL          : phillamahlangu82@gmail.com
+#PHONE          : +27617046786
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2023
+#COUNTRY        : South Africa 🇿🇦
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : CC (0965)
+#EXPIRE         : 2026-08-14
+#DAYS LEFT      : 19 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Kelebogile❤️
+#CHECKED AT     : 2026-07-25 01:09:01
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1810148065	nfvdid	BQFmAAEBEBO55Zqg79gEsZzTvuFN1ZRgWzahJWr-xNfnJU94j5Tf-BxSschZlmZJ69Tml4oki2jv1eeoAPiYBLVANbuSYN06o4fjH55rlpJv1j1pz0kfK6Iuyyl7fgImWPVze82wNgmU77wzPMZwETGfa25d7E1H
+.netflix.com	TRUE	/	TRUE	1812709713	NetflixId	ct%3DBgjHlOvcAxKKBE3Njoz-6StCu6UUHIv39ZkdIjzTm6Coh1TK2d1ZvMSkacXSTwQqTqMeztzpBL3-OplLtPEMa_oLHPwzA0aOv2tTMpgVqoxPOlrlDQby-0dUDH-Bvs-dmCGsePlqoTHPPHrmIIlHkvOJbR9GOsddd7NwbQewTg7Xs89IMCOtXg6PYIphY3mNGPGFwsucOJDScvFVVcxeDLBdtBUO_uG8vG4TSt7uz2auii-fy_akE_36fvNlFVSVh_0Q7nZsd5hXK9GVYRmKyBrMlcVVS8ozlARA2mXQvUZD-COfBV05u86USN4C1Ehm22BeNQO9Q8V8UPE_J6asRMBhPSskv2C4bI9XpEI4qTP_-PpVbcjlM0ftjnlqZu5PVvuPTExmJw0gRfHksRHPE78bjwHkMdXov5EziAT5nclw67HvaF8cgIIoOwaOzppHInwR3CduZ-urMxqI2Esh6qJfcYLMxQ6TI_qDXkO12I40WtY6I5r_Z0axDbssTfo7O3nrJEUFvxkLak7uh-JDcFatkda_tAJQg5uEu8z_QC5Xabd0RbHT_x7w-j3fIaV2aLzNbQFbJ56RbUozCPUXEtCbY4xextgpva7rX5mlMBGPJ7DrLNfPyKpXnXiYXPGTYtOlJG1iz66FBKhRzoW1Bdq7mHulKv-FWxU2c57UF53B1FQoqliwQ-wngaB2vxQXSn19GhgGIg4KDO_A_SDUMkBAbGh8lA..%26ch%3DAQEAEAABABRXUj0eCMV5CGinb7TZi8LJJ7zczno1aEU.%26v%3D3%26pg%3DVRVZW4AW4JDYTIC55FNDVK6H2Y
+.netflix.com	TRUE	/	TRUE	1812709713	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQCHCkE8DlZH2P1v93aZfPjWMEtzbkc8Bc.%26dt%3D1781173714722
+www.netflix.com	FALSE	/	FALSE	1781262973	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1812712573	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+11+2026+13%3A16%3A13+GMT%2B0200+(Central+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3359964f-b567-436a-9584-b7a3f01dde1c&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778562234937
+.netflix.com	TRUE	/	TRUE	1781262971	gsid	81784980-f68f-4fc2-9921-a3d79abcd36a
+.netflix.com	TRUE	/	FALSE	1788952571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788952571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788952571	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781192345	profilesNewSession	0
