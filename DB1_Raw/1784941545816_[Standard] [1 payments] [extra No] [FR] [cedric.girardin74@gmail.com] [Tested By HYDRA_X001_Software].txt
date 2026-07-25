@@ -1,0 +1,25 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001
+#VERSION: V3.5
+#═════════════════════════════════
+#USERNAME       : Ethan
+#EMAIL          : cedric.girardin74@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : avril 2021
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard | HD | 2 Streams
+#PAYMENT METHOD : SFR
+#EXPIRE         : 2026-08-01
+#DAYS LEFT      : 6 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Papoun
+#CHECKED AT     : 2026-07-25 02:53:52
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1813862817	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA8dSzoE02RcOphAs9SbsbWFHfEEmn7dwDshGDJd7gwTjz6JjQ3dGHg7viS7s2sQH536jljkRGPe6ImMsygaftGmN3YXwtBp5QonO-0K_WwdHNIoxyhufu-oDfoHBCUczuAX8em9KdGSI_e8cV1stzOis2MoBXkm5TW4RX6rChmYs2lInsXQnUZ5pscbKbAk2DTkSrBCHx5JT3HDMXrgiTC0M315-tTRX2FpLvLj10VUnmBaj-z81u5vPR6tGm-Btl7_0NHc2pf8M9f5E8lhx6drB-NrLjE3gBET6mT7kiIUEPvRt1-f3PxE1dGnHP9FE-pVl6gkawi6HSs1C2NvXobAJLBCywPGQpg3E22_hSdP_BS4k6Yld7i7wl1FujnsZSi-i2_8OtMQQtd5oAQb_C6WwMk8S2VCGvAChk_REO61_syIrpcgRWnQqu9ogKPgpjXtO09zYSQlFm8qugEOO1tiqW1K8kKUauSA6aKrl6-vipMFV24Oxg3pycjPOOrP72uTn6OLNrirl-8nLUEMni62cJQcwTSacnaYYBiIOCgwvLAEAqhewMHJVbmo.%26pg%3DV6KQ6YBNFVCQHEQLJNNVXTARTE%26ch%3DAQEAEAABABRry0RhpFyebr_T-SMTy8HO4xfwiNa9vf4.
+.netflix.com	TRUE	/	FALSE	1813862819	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+24+2026+20%3A46%3A59+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=91edea90-7587-416e-b121-bea3fd934e89&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1813862817	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQLviK4iO3-mYi9NCumyGoYrD4ld40INhE.%26dt%3D1782326817639
+.netflix.com	TRUE	/	FALSE	1790102818	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
