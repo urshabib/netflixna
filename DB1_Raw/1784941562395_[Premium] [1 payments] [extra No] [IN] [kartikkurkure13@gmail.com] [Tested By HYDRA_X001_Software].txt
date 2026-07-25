@@ -1,0 +1,33 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001
+#VERSION: V3.5
+#═════════════════════════════════
+#USERNAME       : Kk
+#EMAIL          : kartikkurkure13@gmail.com
+#PHONE          : +918104994693
+#EMAIL VERIFIED : Yes
+#CREATED        : January 2024
+#COUNTRY        : India 🇮🇳
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : UPI
+#EXPIRE         : 2026-08-03
+#DAYS LEFT      : 8 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Kk
+#CHECKED AT     : 2026-07-25 00:35:58
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1803708764	OptanonAlertBoxClosed	2026-02-27T06:12:44.333Z
+.netflix.com	TRUE	/	FALSE	1803708797	nfvdid	BQFmAAEBEIBV98dnVHqllDtM5c8iU4lgEYSmDD49dEM7g9TV3PC3XJ9R1cEJPhE7ApzHGLIiKkC08yDLPQjawrmXG1RMGG_Ian_wc1OVNoN4zEHUb76iN_SrLRcZZbPmEozaXflzwA1JLqfGpBlm_Ivso9G044sm
+www.netflix.com	FALSE	/	FALSE	1791380458	didUserInteractWithPage	true
+secured.netflix.com	FALSE	/	TRUE	1812319346	thx_guid	dbd4047120f6ad8c3ed77877604d545b
+secured.netflix.com	FALSE	/	TRUE	1812319346	tmx_guid	AAwbslkDqCuVQY0mwSSx2zdgCAO6exBnJ3_I7xwWWzWkY5K5OU06cJlG9g35X7RUiiWZx9MPIYxR6GUZNbWFZJGv1ifjmg
+.netflix.com	TRUE	/	FALSE	1815438626	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+13+2026+01%3A30%3A26+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63e5a3b9-614b-4cf9-97ce-3788804612b7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772172765452&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1791678626	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791678626	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791678626	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1815567161	NetflixId	ct%3DBgjHlOvcAxL-A2FqvvTAEEW6td7AhsTl3ys3nT1b7UgI7yiAZn89jflutCpXx856THrxMqvlmVxGbJCWdhNrhEyWO15o7k4AGKDeprs_UJ6aqhURqNQo1qn30LxCRb26bW_MZibn4DjtCOuBkVvEwbqT0NePN-mxZtCc_vdhYzDdWBkOS-OK-nxEgWx6zxmWrDU-fzUxWe_cCDycwJ9bRprOX7k4s-shrU8RqEXTkveek8Y2CRjOWfmUQwLmLzYs3PWsJTNsEi7gezcGV2x8mA9_yeeHqDX58BlpBpkmAriixGucGSwajFFPiLtN3f3LU3LE9kyTD9jV3_6c6eN2UuTwZNn6lFY0dpRCqfYb4iO0FDpdCvSuE_iWhTj_7yph-fbxYN2lMe9NVW1b_1B8EP-zPIUJaRBf6ha0CNKYQXPKMT-ko5Be1OwfNyEbJUsde-BDpSahMim_yyLggsXDv7ldyTdputspPirUwZJwSY1e4J_mq4wLxZa8d_BfyC2_yd_WTPrO2AZhrTalzvwpDxX2R0ohzjGCTFFi4mNZAh_uW7r3fR5yu9jYDSVzNxdjVWHVUtin37FQ33M0vdaC8zVjCvaRi-uh--lp1UCxJ7MChuM0vnzHhj3_STq2kLSZ0WsT8r4wllSivf1z-JnzS4NQvnIPyZWeBG2Um6ZkUPOWt7BTzH-MDRgGIg4KDPpUeP5PEIzamyN7VA..%26ch%3DAQEAEAABABS_lrOixQVq7dZ8foZBUFZy0f-WzwuR08E.%26v%3D3%26pg%3DFOP6MZQM6VDATMNVTDB3LXF5Y4
+.netflix.com	TRUE	/	TRUE	1815567161	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQOVlDcIUd9snBWPhdjV_AIBq6NZrN8hkM.%26dt%3D1784031161555
+.netflix.com	TRUE	/	FALSE	1784067246	profilesNewSession	0
