@@ -1,0 +1,27 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001
+#VERSION: V3.5
+#═════════════════════════════════
+#USERNAME       : Nile
+#EMAIL          : bupphac@gmail.com
+#PHONE          : +66993423846
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2022
+#COUNTRY        : Thailand 🇹🇭
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : DCB
+#EXPIRE         : 2026-08-20
+#DAYS LEFT      : 25 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Note
+#CHECKED AT     : 2026-07-25 01:07:43
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1792680517	nfvdid	BQFmAAEBEGHF5qw1MOcTNALBPSHrsHpgXe9B1dzmqtqAfdXMR_wED27vGIzifoBkaEXEf-ZeiL-esn2TLyX472Nn7634xD6h_VDFgMaH3QzC-rJqnbyLiHu_BgoOWb-_arWoQnOqG9anb5_WM7yqYbthevtTccrL
+.netflix.com	TRUE	/	TRUE	1805112791	NetflixId	ct%3DBgjHlOvcAxL9A4vCKh_bUM9dWIZIlLc2-zazCnxOQ3Tf7QaUA1Blg1_k2pGHnLqBqTOCXt8fyCf-q8vr94yEEXxpco34Err4xfl2HNJz2RS_xR2Ye8FElbI5fTDJVNttmpiCOmUqWSgeM-ki9mNqD6OjA1bQw9tlXmY8Q_X_EFhMG3qzU_v4DBugBhJM_GqCBeAL3HCsYz7mukVQ6ohTC8wPalUEiPU6r46VZj6xCaFL-ay_Vz2-By0USken2RfYplx4t6ycGo7Wd0VOa-DFZqvNWY1DkCdqzax5s8FcL54wv4WRLoLnphwRdIBzAJ0vMDuwYoY2ggc33O24X8IldHi0YNoT6wZT0hznIL_RgK4zQMQ8EWQfht6rR1XdCNmyCai_jKzD5-wf1DX1b3kxhPJ0iDaa0EDHfnk5atBFcF7QyN784tyXIBCR-ZbKgkaBJFNFKtyYyWv7MofsIq33XOYiO_CVTARRPgd0LPEVhb85Ew1eYs-K81Ncxh5re7U3Em3_CGdxIqK2rIQdH3wuki9TLutBh6splGyHuxuKyfccatSYkT9DT8H2sbFZvJ5zzYIURm1RsLuv0woEo_qN5X-Lv1OlIrHCsqigS6PC2KFicIKCX60grZmrc77TXGOVcPQTmrk3cIwqV6HttWM4DRCeTCa0ScEXQSm6AgX9gFkajiVBkcTwGAYiDgoMM24YJjJwKGN4pj1U%26ch%3DAQEAEAABABSzY1u-N8XBAtNEWavZoByxgKgAh9nNJ6A.%26v%3D3%26pg%3DBRGVZPSB4VFWZI5R4LMYUSOGZ4
+.netflix.com	TRUE	/	FALSE	1805112794	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+19%3A13%3A14+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3377d7f2-2c76-4129-920e-72ec640416bc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805112791	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNrVZ71Vd624ShArz0fTBn6dXferItTiE.%26dt%3D1773576791039
+.netflix.com	TRUE	/	FALSE	1781352791	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781352791	netflix-sans-normal-3-loaded	true
