@@ -1,0 +1,31 @@
+# Netscape HTTP Cookie File
+#═════════════════════════════════
+#NETFLIX COOKIES CHECKER
+#SOFTWARE: NETFLIX COOKIES CHECKER BY HYDRA_X001
+#VERSION: V3.5
+#═════════════════════════════════
+#USERNAME       : CJ
+#EMAIL          : vincearxian31@gmail.com
+#PHONE          : +639958738755
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2022
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Premium | UHD | 4 Streams
+#PAYMENT METHOD : MOBILE_WALLET
+#EXPIRE         : 2026-08-24
+#DAYS LEFT      : 29 Days
+#EXTRA MEMBER   : No
+#PROFILES       : Divina
+#CHECKED AT     : 2026-07-25 01:03:56
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1801315041	nfvdid	BQFmAAEBEMeEo50j845WlB2j5RXU5M5gf7bp5FUQ-VS7_XQD_C9c_2yymXg-Ze6eDnprC-8yPO-d-yIEB_-bXhMC0UIBFOFTZZhKeh1OXjfp6XZkXuM7M8eowU64znB7fz6-k_9qKA9TLw6NMIltA2TIRrjzRx42
+.netflix.com	TRUE	/	TRUE	1815500032	NetflixId	ct%3DBgjHlOvcAxKABOxzow56XmGUD14h9OonzTqFLSIV1O0RS7Tg5K_Z7XI8vXrUlDPzyJdBG2kQBwQAvRyt1sL2Y_MPQA3D0wJls8wvCqnLHlpzooCuB8uGEyrJbdQXc63_HGcN-zduQpV0LPDgYBl3YRfU7j_dqEc405buHkLsBCsa-zarZ2CM_vP4hSKxZeKBy0s7oJjNJ1q60ST3F2_N8GUGQu97u_RtJP0v-A5oJLOONwWhDujnDP8KU2kF-6rjUiNXrtAMWWCeWW095pTynAL3xgv-KmRppl7gsuxhOmxo-ozSFIEkyp-Tux7V07xlTzcYyh9ZPl_bByOq1S7WhD3ozZvfhiJ60cIp7klxRYZ_Qjlj8xODMYFmyUae3fXYs-hnBSxnYl7WmHShzDMVr8ZNxoi5AUk4Gy-eU65bg0Z-GXvuJjPeHMsCPGC37Z1ZN3gnYooMT2rugPhRdej0Q8DeNyKrIRcZTQaNeIk9WMB_Ih7P982TKENhZ9wn6L2QHnWUxQ01zAFfNeaD7aCM1hfICAFdZ-t9WsEevk4qcexy3LzuP2AOy_qUP2X7XANjO4AUdaZWGzAWg_DcwaOLRBD0XYYq18OelUO4yzEtK7KUk7H3Pwpb7C22E_ywLXoWu8ajiOfktVPQviqQ_BP9RxunXr1WvCS4PvE-4Mf3TkT4Huxbn3WEao89GAYiDgoMc5eqCFEvF7RivkyL%26ch%3DAQEAEAABABT8xv-e5lsciRIIZCHpv2401jM6nzafkwg.%26v%3D3%26pg%3D6LVDSANPBRBXBN5FFF2D4SZ7AY
+www.netflix.com	FALSE	/	FALSE	1784050435	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1815500032	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQuAZM3h6yeTd-M-tHw-zjUvBVWU_lSQB0.%26dt%3D1783964188198
+.netflix.com	TRUE	/	TRUE	1784050434	gsid	0c776948-a729-4997-b953-4286044522cd
+.netflix.com	TRUE	/	FALSE	1815504200	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+14+2026+02%3A43%3A20+GMT%2B0800+(China+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9659af5e-a2c8-4820-8a79-d352b5f521aa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769779041000&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1791744200	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791744200	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791744200	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1783973392	profilesNewSession	0
