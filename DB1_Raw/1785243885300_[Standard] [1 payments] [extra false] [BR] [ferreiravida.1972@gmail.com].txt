@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: ferreiravida.1972@gmail.com
+– Verified: false
+– Profile: Lucas
+– Plan: Standard
+– Next billing: 8 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 7107)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1807620077	OptanonAlertBoxClosed	2026-04-13T12:41:17.525Z
+.netflix.com	TRUE	/	TRUE	1810644202	dsca	true
+.netflix.com	TRUE	/	FALSE	1807620201	nfvdid	BQFmAAEBEOqmRKarDkvhtNNCf9w9fNRgdD9EaCsX10Q4g2QyxAh2VH8OZ6ovOFRNkJZ6yuYzcB6HZRZpOERAkNCcH3gJ8RuzPrjAOvOcKMAG8-i0Zp9QH3viicNDrZN1irxyfiolUFR4sj8qn3jbU_RjgEwsjYtc
+.netflix.com	TRUE	/	TRUE	1813730394	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA8YX6z2HhgHkrgumCWrgXXLLbr5NnFuw4FD6m-rieE-tbq_yfCgmROnG_H1msBP88SaRPyUQvW8E1V7LMU9SvgdcEMw-xWN2gsTHiLSaRH7o61sTQr_4OA4DnxySHhCkgFrHxUpQWT6Ootf2vw_IOFCnwEDkaPhtfLBb0rPJ9L5ipSfbdFTSPStrDm5gdxqtJabixn3g2fcqwxs5-M7mhHm2aXbbogi2gzuUXGOWVq6HjcO40VerTQ6kA9UQm17JUMSbGQtytrEDIIq2z-q9VeSPmlODbLyRDCvsRJJ48-6wx_0vY4ACecuUSbmsTW1r0efGcUqO2CFMdoVqitIdyURjdmDCJnVGbdqlYlhAw_33AGEEuOh54PsEu2UKW_tEeo1monVjrbCvf0fXFb_7Bvypl3m_pxZhtVFbrBAoFXCkWcPJLNghD_LreAFFksxQAidAaDsBFKKY7gmPkVE0LFN5ZxD2XsZvt9ARScucbYtxZjIZYgfbjwuS7gkXr-5gOHdX3cyn7jQ7q3MuQfP6_Px4_QCJipBnd5oYBiIOCgzKnp2f1expcjC_Hb0.%26pg%3DYZDR5UAEX5AJXCE7JAZFJUT52M%26ch%3DAQEAEAABABTjijX8CrwTCV3MQQ2e65_NOs5fWE2JDeM.
+.netflix.com	TRUE	/	FALSE	1813730398	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+23+2026+02%3A59%3A58+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2ca607af-fa27-4380-856a-63a9cf434306&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776084078237&AwaitingReconsent=false&intType=3&geolocation=BR%3BPA&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1813730394	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTVOa0QxtBjHvzKdwdOArZ3-xWOnjBwkdM.%26dt%3D1782194383909
+.netflix.com	TRUE	/	TRUE	1787675357	gsid	1637e25f-0f1c-4014-85d5-76d74883c588
+.netflix.com	TRUE	/	FALSE	1789970397	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789970397	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789970397	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1787675357	profilesNewSession	0
