@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: sinistrosteviz@gmail.com
+– Verified: false
+– Profile: binha_teus
+– Plan: Premium
+– Next billing: 19 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 7216)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1808009820	OptanonAlertBoxClosed	2026-04-18T00:57:00.961Z
+.netflix.com	TRUE	/	FALSE	1808009838	nfvdid	BQFmAAEBEMw1b5wwe56RRaFEXPz5FzlgRBQEIYR0F2ITF2lPcrxQ53WJ_HVFgwLD7DyrO7La8FcSsTgxenynNPaqjCSmpq8aMjRsfRMXjMEC6QUFb6EQv_Sxa5EMiybDJyqbHrowYrcSoZD534uGbq0H8HcdHITW
+.netflix.com	TRUE	/	TRUE	1813730463	NetflixId	ct%3DBgjHlOvcAxKEBOhURJUrOx6vc-jW2fTQ6W-xjrpbco2F-vNuxX8Ip9r2gLcFM1my0qHOWt8l_GzCcVnKSb3XZoSGlbL1kaU1wB7XR67rJELLyTiKIzp9aRkwqUCVuX35jHdjTZWZSUfG4c0LFNhDKsWIkCU0B9ZDetmTFoFeQafvBg_qtAOJCCO0Vh4xp5MjHXBXHyu-wFeddR9Vs7cAhDFr1OTiICfExtV184-1lNGAO4EuFKp7NjaM1eADkyPkQdDd7sVtgxrkYfEAJE1mBhBkrA9RSYxQUJOcpD8Dkyi9egmecBUrrgJFljy8tPz6bSB1sErvqi4D8xHFAsycYcwPwE0KGztnlbAs99gAXcN57Z5kqV3VgDKB6RzfG8iIfDjaJWrCUO0cIQl_q7UaVUyz9Rzx4lG1XDUZSWp7FZI3pupoaY6yOt6Ei501dFvWYs5Q4Tl4p7Cr4hHUfGcCoX9BaGj8kxgeqPjUlpsj6zrvdwxqq84FHeiRzoH8ZI0-BE1-MNyt2LoCiPapbITrFYo4EOlmth_dtoym-EMptBKarM0CS6rUAkSQpejr4hPLG35bMlLTpbJ8uycnSxvyYZrmfMqrlaZqHlep49GTj7cA_-6LQKuBFqMm29RvAT_W6e4C37oC82QbokIZMp9pJ1yfS-p4cZMV6nVITXs_VqSYxYV328B-ZOQkVPQm6xgGIg4KDPYwzCWZISAlj_AA2Q..%26ch%3DAQEAEAABABT0XUo2bVpIDRNqbl413nm5sFOBBeOADSc.%26v%3D3%26pg%3DH2CD2UO24ZA25NOZ3OO2SLKHBQ
+.netflix.com	TRUE	/	TRUE	1813730463	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSiFjGbBVlGLwz-8O_Fp3JCPfGePDboCtc.%26dt%3D1782194477732
+.netflix.com	TRUE	/	TRUE	1787675357	gsid	6116bd32-e2fc-4e0a-85eb-e53efb5a7cc7
+.netflix.com	TRUE	/	FALSE	1813759726	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+23+2026+11%3A08%3A46+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=547b5c4c-01c4-4154-8932-a7c58e59ba3d&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776473821341&AwaitingReconsent=false&intType=3&geolocation=BR%3BAL&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1789999726	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789999726	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789999726	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1787675357	profilesNewSession	0
