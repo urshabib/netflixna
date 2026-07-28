@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: brunnaalvesmedeiros@gmail.com
+– Verified: false
+– Profile: Brunna
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TELEFONICA_B_PI_BILLED ( )
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1798551126	OptanonAlertBoxClosed	2025-12-29T13:32:06.142Z
+.netflix.com	TRUE	/	TRUE	1815407044	dsca	true
+.netflix.com	TRUE	/	FALSE	1812383043	nfvdid	BQFmAAEBEGi9cH_C0n2R6AXUxEqFRD9g-sbfVbxYVFPDdXx3JULTwSj8j1ctfozHakUDcrZ7i2O5yPMUtCQsXWHDwldvjmqaVjUZ3VFfOUdderyxPhtiA4pzBoiNlylgss7sTmlj80cTqAcVSAglrPCHo7M_pxy6
+.netflix.com	TRUE	/	TRUE	1813416611	NetflixId	ct%3DBgjHlOvcAxK7AzblRmpo0zExaSgmAtI0s9NNM9kq6JDisGbmx9h14wePE6G4lsVKoRIC1nA9U-1jTumZ40Jst1RmSF-o_1tfaFXHMHl967BbrpVLqW00QmecQPDNLHTw6xLBgTyosZtLMkMU_dxBUFGZ_uw7cxMf9U9e_TZXHQFYb5ZaHYMGvHqZejU3ZXmGcwrF_qksJ72_zC9r-gpYzuc3UR8DC1cmlOc3Kh-LgtI1hmaqKjMVOjMRKSxSv8mqU5NUskTiR7Cndr21zd0KDvg7dEpmGdaG38GwuptjvnPVV3DO3EXASY_MiedY9ceLrEruFVruZAK_r8nBg8-coEX5_3IOIoF40FU13A2VATGP4TgVbKxiXqPCvYU45k5ePZo4EsmxGqbQL28IG0LGBcXHBLeLGqOtVL_1OtjJZXcLpa4SxUKm5ssVTRByzWBD8M4sb04EXYNPk-IkLAn85YFJ8HxP_nQvdPFD8fqAbpY_M1NdoWG0N4trAM70f1W-FFrlg-aTR_9Bg7yZAYlz7AYhh7543cHhSQm6E7XT9OWTlrmHV3xJlga1n7XUeX_6b0QzA-gylWOz8tMADmwzNfhS7XUvGAYiDgoMMqQN_dW36ftXe-Iu%26ch%3DAQEAEAABABQtbEZvupv7ZLjXBMjz22NAa2JvU4RX0eE.%26v%3D3%26pg%3D3UTQ2VNY7NEM7KLXCEHAOGP4E4
+.netflix.com	TRUE	/	FALSE	1813416621	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+19+2026+11%3A50%3A21+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=a633e9d4-c76c-47e0-936b-7bd4cb992d0e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=6&isDntEnabled=0&geolocation=BR%3BMG&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1813416611	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPyMqltCESLZ7JiFGdMZ2UrNtvoQAMpxU.%26dt%3D1781880609916
+.netflix.com	TRUE	/	FALSE	1789656612	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789656612	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789656612	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
