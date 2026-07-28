@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: vajur_s@hotmail.com
+– Verified: false
+– Profile: Junior
+– Plan: Premium
+– Next billing: 16 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 3383)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1810066850	OptanonAlertBoxClosed	2026-05-11T20:20:50.762Z
+.netflix.com	TRUE	/	TRUE	1813090847	dsca	true
+.netflix.com	TRUE	/	FALSE	1810066844	nfvdid	BQFmAAEBEN7_3931_-30SWIhysW09Z9g-kjr4SOwvTONx4airkBtvDnxWFDZd_LEbCTw5WiQKpJaGB0QKTlWpR6RD9tmgtz6q-gw0Hhf3F0M85JprhzufkFOxhJsmegiH4eG0bOrHMk0G3AyfzX7r2W7fgZ-xDsL
+.netflix.com	TRUE	/	FALSE	1812846659	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+12+2026+21%3A30%3A59+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c7b7f6c3-b96d-4969-a4ce-43ffe5c0a479&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778530851222&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/	TRUE	1813668120	NetflixId	ct%3DBgjHlOvcAxKNBEGVK98OYXiPwrHN_Xj-MgFc1SQMKvsQJKdDDVdrFv9lP9glsJ9zMgFIrGZ-F788pEpWz5RJqWPSMNktz2K7gnQp0wsZsi4Zvx7yAGu5sRNpdtthGchaouOYjPJ3AANJoKGz9q4MKjMBIwOaQXkAya5lVJUarVlJT4zLVTXIg-69tRlU5qlPI_zrNczu61RFaPN-VnjjOLcZnZrnx_hYW1i9FYpT2kg5yT5GgkvH3m0hcUVF3ZFtMkD2grwZEWKE-aq4zhVWCygFoMmL0LS1JHDA4cH4OgbudoyqPlS_7wSG-jFvpR1VZeIlQIOWrcWXQ0VVxpLrhpJASRVVBYwsawEnbXNzMJQdQz9nn0FAngonu_vsL1iP8LZZNQJEDI7gnTJ8ZH3aGsBvSZI1LR5uvamHAS989SK_LHWUlVVNcUBv1qbpaCSig3NGdE53h5_X2VkiGjM4yxbV-6OLZwhwBuoOYfZJsGarRLpuvN25EisCZG6I9_UZPjsuouBpAMPhg0KBXRfLKGtyZngMtdunl2t3ZpPYNbmdscBx7ejmf_o2fYB6QI8EGolUGGHwrtDQ70ws331tlECsvF9pGGNX6ojL4jx3aQz0NDEBcjnk0cSxmWnDu6JpdyRZocj4tp8pNSM7TgFH-jVPKtxVhNbznIICUlvI73N1bAZ2G1RpHPdbBwDDnky3_CxWuyF0HBgGIg4KDP1jDcHqilMu2xZlfg..%26ch%3DAQEAEAABABRJbXr8kJO1aXRh9q3BcYQVlfk-VaBs5A0.%26v%3D3%26pg%3DL6S6375XBRBLLP7ZTUFEFDYFDQ
+.netflix.com	TRUE	/	TRUE	1813668120	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSX4oD-RprxngKDrpOjyCfSEhqLlbKJ9fE.%26dt%3D1782132116553
+.netflix.com	TRUE	/	TRUE	1787765361	gsid	19b7f123-1024-41ba-80b9-a8aac6d75c63
+.netflix.com	TRUE	/	TRUE	1816692119	nap	BgiPu-vcAxJJHGQS53h71-j6Tmaq8JZQDq2MW_Q2yy1DfIQHkNiODkWtJSSvQUZ5p1JR91hEkqI29tO36W8plqrQYURYx-4N1WRTR3hrozB6lxgGIg4KDMFIajIcCwmEUs4gXA..
+.netflix.com	TRUE	/	FALSE	1789908124	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789908124	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789908124	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
