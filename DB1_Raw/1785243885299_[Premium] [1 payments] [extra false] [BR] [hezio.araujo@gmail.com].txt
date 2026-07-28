@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: hezio.araujo@gmail.com
+– Verified: false
+– Profile: Hezio
+– Plan: Premium
+– Next billing: 12 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 6626)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1793406996	OptanonAlertBoxClosed	2025-10-31T00:36:36.819Z
+.netflix.com	TRUE	/	FALSE	1793407027	nfvdid	BQFmAAEBECufLv8dN3LHKK2VhNeyYm5g0pRQ8GowT6mVALcQBy_ns-N1PrmxQpgLBZLDZRzdeEGWFUB5j3QQp7BVrdylfTN0Pr5xeleSjNGFLWpyGJwKSyu5vBzJRduzUXpx0YKOW-GYYgjdq6h89-QLf59lKZnm
+.netflix.com	TRUE	/	TRUE	1787675357	gsid	cb22b98b-eec4-4c1b-9c82-aa5c5111bfb8
+.netflix.com	TRUE	/	TRUE	1807713332	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKPA5WEE8BAu6c_lEsoWsML4R42zLlLByALKQOKkpw689f1fiLU1IBWjNfnWRCaOUo4tH5sjt8pEiym8pH1Fk2D8U21jsQ6ouO4cZydA_9veTK8e-wa_Us1uEevzhreTwr0PAyCzZkCnR3qEKwWrnPf59r9nxuufNq3EKmUnJ7pU_JJE1Lm6g0Fe5rR1pd2SDabe46Dk2_E75tRt1I9GitD9TOVf-cpHoQEcXsWE-U0jepZ2wKtQOG4FkRXu00sWAbYWOYLAaxSSjkdijnJ8pDzOcuX9zT-1V-9kA9seZokPO3YlngUZ8RLC0BQ5R_SqCeTM-Xd25xwv3LI3P7YeH25CzF4N1DxVHT-hknE8X28nI2wfjVgxKaulsNVsxRRCs0tBlqneUmkO4KVbhYozlZ4CfEs7llAe4fzldr5fTfEKHUJocHxjU6TlnE3RAzNeODj7EjwFDoJXmuj5pOmbPM10YUjEYxBkSBxoRenJiVKVi2MP1wUzx1y_oEuGIS2REtiWEkfAMJmOIsS5kAYG0sRgxgGIg4KDDwdkyMBhs422aJGTA..%26pg%3DVAAZSPO3DFBF3MXLT7L7FPVIXU%26ch%3DAQEAEAABABQ6MUvDt7-tECPtnn7QjTfii81Co7noEns.
+.netflix.com	TRUE	/	TRUE	1807713332	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRCCmdOhbudNxRq3GK4Q6ZJ8R5cWFAl-9I.%26dt%3D1776177332607
+.netflix.com	TRUE	/	TRUE	1810737333	dsca	true
+.netflix.com	TRUE	/	FALSE	1807713702	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+11%3A41%3A42+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b3922f7e-ea08-46bd-a4b2-f3830aa09db7&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSC&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1787675357	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787675357	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787675357	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
