@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: xaf9@hotmail.com
+– Verified: false
+– Profile: Roger
+– Plan: Standard with ads
+– Next billing: 17 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 9031)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1811628853	OptanonAlertBoxClosed	2026-05-29T22:14:13.236Z
+.netflix.com	TRUE	/	FALSE	1811628854	nfvdid	BQFmAAEBEA_LkAe99v_M4m3BtRPivSxg7EADqQAwjXUn-cA8TyDxVan1wmZqnReJQnhGWGUY7V1CpY6IexAAN0J18A6HKLnVY5e68Af2sAzRYJDuWTrwwxkIBkSoHfd95FtuvylVJDWDr26LFky0eIkrqlDg2yZn
+.netflix.com	TRUE	/	TRUE	1787075567	gsid	7d9dff8b-2281-4864-b535-b3dda35c8c4b
+.netflix.com	TRUE	/	TRUE	1815420964	NetflixId	ct%3DBgjHlOvcAxLnAxq9eHLB_9PFEzmdU6Ilbgk3F-Zy51iu45U8mcj62ZzojYo6ijcj_mlw4a3RfdHeableWz7HnhCmJRBBZY__bZhmm5x-8HO1MelkxsdTPvSYRb-5YUGbEi3W3Z_SmMZmfpk1erxWkggDu5ZS-qMNICjpTAdBgv8jTFFDslNlZacDQQ868Up2gvyNqjyvaHflhaaTwgYURnhZXl2zdaHYSkS8u0F4f1Al8tkEzBWBRBg8CbpaGbUsMaQnxx9sFMsjp372QzfBsh35Oga30VnYpDHWvvzarv4bSfG8STQH8bph1JDe0KkzGzrSL6Kga0bsF8q3UMsm0zGjvZ9TiOV6qcPhhUQeC-pP-2ssS3j1hHJ42aZINCV_89EPIPs_C26jvSlQS6j8gKWnYnKdbUhItohFYDt-sZKhUdOAwiNL-5NVx2Rat4Ea8RKDyq-1GS9gD6wEecP7SXvXe2pc6Y5mPwceP6InoOSe5P0XV5Ow-tTj8qF_WmgBjHQsbWJiNg20_-D_Po4ERRN3GSbBtiMPayBEMmiuPaaLh_9fffFk5CQNiEipbstxw5xmzf-04CqBBGQLazXlu7Z1w0csgD_64kkvpCjK40TNy0RrL0AJjtwRQsRfXcRrL2cRnsKnPBkRJe0eEGn038EYBiIOCgw-WDnZN3JNtku9USk.%26ch%3DAQEAEAABABQS0YKsNRCIDHLj6tyQlAaoYr4V5J5ZCiQ.%26v%3D3%26pg%3D6CSTQMQJNNGWXBZE4BZ3UNWQAY
+.netflix.com	TRUE	/	FALSE	1815420967	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+12+2026+16%3A36%3A07+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=40932b93-6ce2-4a84-b8e6-743a87b2c293&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780092854463&fclco=&intType=3&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1815420964	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSA1cdq_5bgW2Yqwu3hMrg9iyvisVWaiv4.%26dt%3D1783884964760
+.netflix.com	TRUE	/	FALSE	1791660965	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791660965	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791660965	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
