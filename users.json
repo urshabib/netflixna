@@ -144,8 +144,8 @@
     "username": "zouari",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 2,
+    "links_claimed": 3,
     "has_limit": false,
-    "last_claimed_at": "2026-07-29T23:00:20.755Z"
+    "last_claimed_at": "2026-07-29T23:04:20.545Z"
   }
 ]
