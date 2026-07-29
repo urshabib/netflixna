@@ -145,6 +145,6 @@
     "password_hash": "123",
     "is_admin": false,
     "links_claimed": 0,
-    "has_limit": true
+    "has_limit": false
   }
 ]
