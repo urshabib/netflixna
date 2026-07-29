@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: eduardo@fjr.com.br
+– Verified: false
+– Profile: eduardo
+– Plan: Premium
+– Next billing: August 7, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8970)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1786812160	nfvdid	BQFmAAEBEMy1QZY16B-g2YrXg4a8HwlgHTOiSucVd5h9n_I91HwCKr0okp6naX17PNoCiBeuyLzCbUZp16wDNvH_O5XnFJU_ZbTlZ6esMFZ9G8TQiAajVESKM7RCPl8vh0rI-ZHGXnED_U0bKglG3OEvkiegT9N8
+.netflix.com	TRUE	/	FALSE	1786812182	OptanonAlertBoxClosed	2025-08-15T16:43:02.294Z
+.netflix.com	TRUE	/	TRUE	1814277247	NetflixId	ct%3DBgjHlOvcAxL9A28BmgoNDpezT0NE8vxSugaI_82BkgE9tOFQbDabQ8crfUC1uQYg4Wz3yehmaVJw90QCsFv5M7pytpmzcE5qmAyxtFd3LBTKmpHtc0qIlBtGqit14NUjBjWGEJr3EfHsh9C-ENPwChphlEqANVNTcqgVNiePdJgVQVYawqfXM8W_tu8ZScV7pO4VSgTXTYy70Pm5XC_1Ijbb9JYF0iMOPr8AYuBxwfuoqXxn2e4StUyEPWmPNhMoPbV5LfSURdtAH9wBG5AQKfGfoqJ_HYyThbU-eI4OPQFuQP7_gueYJjjVUrK94HbLTRlW3jdmNslHMlw-zMzui7N41zAi-ZMEcwmkP5ybJgJnqWQxISbCrn05Yl4mpzWhtvgthUeU7SsD1DENH2-9isrDxHzFB_W0o6OPA3lDpo3pn2qR8upRMJTBdWPCrLZ8RPnS58vuKU-odj7KTa2kLrPSc2lxEEeyqxSvsbh3luZCSHTxrc8GBUTn8ClNlzJfEwdUVo4Ndr3YgQ9HmaYjbvA_sVXytM6OIjlsZA891hYisHxvwG_k7tI_gVIq44xTPwEemvoTySIcKDLlH3H31NT_VDgCT-dHE1AGrvEOIw-pAL-0zRF039R8ohSJWU1SwPutK6q1FPWASEU8GGH3TgO01Os8tCJyxG5C3nZdLl2eYqat16ZTGAYiDgoM_eQbBILlzKk13BR-%26ch%3DAQEAEAABABQqgvT0T-4cPcIJKj9Fkq_j6jXXJJYA1jw.%26v%3D3%26pg%3D6XONOY6SZZE45MPXLR2XWP7LAY
+.netflix.com	TRUE	/	FALSE	1814277248	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+29+2026+10%3A54%3A08+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b9778dc9-3cfe-4fab-b2ff-0136bfbf019e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1814277247	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ4KkC3K5xAQrCukr8dLOV8aHwQ592hS4s.%26dt%3D1782741247065
+.netflix.com	TRUE	/	TRUE	1786907306	gsid	d2191beb-8500-466e-8817-ccca34e16cbf
+.netflix.com	TRUE	/	FALSE	1790517247	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790517247	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786907306	profilesNewSession	0
