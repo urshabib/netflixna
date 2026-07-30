@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: ighoralc@gmail.com
+– Verified: false
+– Profile: ighor
+– Plan: Standard with ads
+– Next billing: 28 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 4286)
+– Cookies: Admin @logslead
+
+.netflix.com	TRUE	/	FALSE	1815402062	OptanonAlertBoxClosed	2026-07-12T14:21:02.977Z
+.netflix.com	TRUE	/	FALSE	1815402087	nfvdid	BQFmAAEBELNw16cTnelyfxq2Ts9ZNnNgzpOutx9OPAgfTNKRQh8QusKE_7M5y5fSIVrdprxMr29Lm2iMsMd-IcpcDNnB37M9mlN7xZeV7DlSOI-lVxl-ohUagd2HLJJwwj8PQsNIJ7YN0rJQWUCX7aZu_AK6KE2_
+.netflix.com	TRUE	/	TRUE	1818519219	nap	BgjHvOvcAxJJZq7U0iP-EGfUPcdmTLboAZyvcdGzpf5oQ0ePWKjrGJIsLsJwEaU-vIyOv4gQvIdD1vx0Uu082lZ5ir4nmZ6Pu1j6qVDAbu2s6xgGIg4KDE0gJts8mEC3bScSEA..
+.netflix.com	TRUE	/	TRUE	1787779826	gsid	a79f5e99-fc98-4535-af23-7cd148459979
+.netflix.com	TRUE	/	TRUE	1815579604	NetflixId	ct%3DBgjHlOvcAxLSAxDqXFedVd_n47PmVo80UjdX3X2BYXJNSffr3MxNodYn8CWxOpajBYDM8bbkKNqAl37TF3N-K3IZMmp7B3mnmuzY2c-kncFV-Laki8_0THhhlCgHXE4jJTAoMe318tLCfxUIpWqMMKQ5-1oI0Hra0KjhqddXnuBP-uyrF5lM5CJAoUkhyfu8RLgw-NviHXBImi2uFipVBl3DAWN4smYP8vhF-2eK65qY4rWtFQOQB7nvwBzYBMnmdEjhn4QJtwgLX-UEUFrWxq8U7-oEcjq1QO_YtAiQXRR1AdKsO4gmnN3yiSHIAxUc3uKGJzGBk1xr3IkSvWPXzg50jAfQEJmoWUVOsvWHYWghtTrf_3-UQOX-lW_wGJltoK7Qh8uZsbQ-50JUN7Lpzuq-sYMBHaL4mRkGAXXbFp1icD23l82wG_-FDA_lqWA_Ev3IshW_uU4KGp26rwgLJ6EK7vbcIvOqaneP8N516LCA5wjjylig25C_BHi8QF-pPdvZHmyIaPzl0o4IdZgRXtRkcHjbvj-NhnEYgG-zLMP0Q1dxO7EvOZMJeAbiA7YnUsTUbmesxx-UBlE5ymZJj0VgQr2aIP612aqwndSkGnsVlEVBeYqyhE7HPogYBiIOCgx69V86psOvQrh606M.%26ch%3DAQEAEAABABRoKQ8DITRXhdcAcXjYhJc_ZZmikkMtuXQ.%26v%3D3%26pg%3D3B3NQAUO4JHYLKTJGLYWXHDPLM
+.netflix.com	TRUE	/	FALSE	1815579605	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+14+2026+12%3A40%3A05+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=35128ad1-076b-491f-be7b-95d30288406e&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1783866063489&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/	TRUE	1815579604	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTF1akJO_t5BPo41Ep3uPzH5X_ckt2OSko.%26dt%3D1784043603554
+.netflix.com	TRUE	/	FALSE	1791819605	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791819605	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787779826	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1791819605	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
