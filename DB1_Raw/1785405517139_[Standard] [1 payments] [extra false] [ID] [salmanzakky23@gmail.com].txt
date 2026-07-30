@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: salmanzakky23@gmail.com
+– Verified: false
+– Profile: najmi
+– Plan: Standard
+– Next billing: 10 August 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (GOPAY ********6214)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1813378909	nfvdid	BQFmAAEBEIrXNaV0GKkqIpPvgTJziKFg9HsGPSwTE_g4qe1DT9hXxejcCuFLFbdmaqoeCsEkjQgRYh0VFEo-ZQVPHUJg3wjs1Z1aD0rnrkRaNzl_1-vK-KdiEhTdzheItwMHEvslGFQuPyWuaiGwB73TAuzj9VL-
+.netflix.com	TRUE	/	TRUE	1787779827	gsid	4e341a24-9938-4cbe-b40a-46e0cefe8d07
+.netflix.com	TRUE	/	TRUE	1815446594	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA0E4WeH3F-Lvh7a91WbAdSYHI1JZk_LQF3dTAo1lzaxpzB7HRsGRwgcBZIsfi6iFZH4o71_6idav-kSEOpTeg3XJezABf-5qbgG6lR0vVqthJlZ04-pV_Z8S6edf9Mc4_DgdROJ9M4SURHwn4EypKhwdgxpIBbX8r7setyNv78xHN-drtNd0XHprBqQ6xLRN6MJFvUJ_JMClqn-wfJTKkAa8GfScwhGGxJh6nXSaBuozlKrtBQhCqGasnp71bgSP1gKrKP6huEd9GcZ6OJ2UevKVrgRbLpqoR_5UtyP18mn6hZOY-N2E5vNP4Zg15HNiKc0jkGgPq6X-wwLnKeiJnDnLQrx3HE44DzDi5zMLl7v6U3hKd-kFTrsJ7UKkn-yA8Ltyp1rE1g9_G4sszR0a8AbAA5-nep_iXMRnJtcIei_0RL6pkoc_YQ_wfvzZYwfmvneW074k_1z8SvJeoA07lR2ApxcRbDbT9WPs5zVIA3kgwD2PC13laveYW2wdusqo3nbJI1niSMNsO2OMbwg_rGeLo8CvGAYiDgoMAAqfWsCVdZmtzhp7%26pg%3DEIKNES4LNNHDDGKHUYI2JZRW3Y%26ch%3DAQEAEAABABQS6-oyUP6MyXQrfln_Ck2gNBdPL_Z0djA.
+.netflix.com	TRUE	/	TRUE	1815446594	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZyQ4WGA9INnPcOwRKDi0xVe6wQYgAsjs.%26dt%3D1783910598198
+.netflix.com	TRUE	/	FALSE	1815446826	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+13+2026+09%3A47%3A06+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d7a3b8fa-4653-4250-824b-33ee27492004&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781842860908&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1787779827	flwssn	15f51a3a-1892-4e14-bf94-a3a74d12fafc
+.netflix.com	TRUE	/	FALSE	1791686826	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791686826	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791686826	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1787779827	profilesNewSession	0
