@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: gio.s.nunes@hotmail.com
+– Verified: false
+– Profile: Isabela
+– Plan: Standard
+– Next billing: 4 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 0031)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1813425594	OptanonAlertBoxClosed	2026-06-19T17:19:54.091Z
+.netflix.com	TRUE	/	FALSE	1813425888	nfvdid	BQFmAAEBEDGJw2nMO5Hgp-sa4Qi3eLhgxzU7pQmH3CJME8rlsw8wnfrgqGgbukKTGV092YZr69PO6jEBPvXw4wK-dJam6vJ6sAG3tpn4Ntl2BYfcri1C_KjSB-JLVDDw0qcD6LpOkUZZYHycINh-6dZstNKqkqmU
+.netflix.com	TRUE	/	TRUE	1813776424	NetflixId	ct%3DBgjHlOvcAxKzA06oFEPDbqz66kk3pFnNpviVUqMicWFDzxT2xOJtNoBCwvQGt4FrkgxhreKk9wS9gprbTyeCz2bo4asYf-dkrxxqarb57jInNAqoa0ZdmXu9m7M12u-aC0MhS8XDiFZulFZFThwmzZuCLYGkf3G797AlVrCN0xbuf48m8Y-UFrZ8rs9-QXV-ZZX2UHVM-in-vuJnJsfyIoljbHPYyXoS_Gayk1p04_g8X2yY_09J9mpKpWCCt1uJ0veBVhlyFh78Lhkxo6nM481mKQcVT4Gbqzxp7gKBBczi4gZ16StehRO_7u5kQEwmHD17ij_Tfjl_LnPwpe6U4cR5_sIV4c55TmGFpbU0pbDBoMNTdC6YU5VlrF-6s69hCC2PBiiNhEavmmBgUzmfKfQUlPzj9Mwh2e-lURnx-TdN-wHdfGYefYqe7ubNAGL7tN8xUcnihP8kkwAVcbXJcOu026jChD71_Ti4encCPuMgZkWBxtswi6cMus8gsJwDySohwE7_6y_lM3MzfhQ7qwF6tAmDlsaWfrzF5DE5h9yPjLy-8dPVHL-YMYYqfCW0z_L77IzA_HTf1uyxmRgGIg4KDB5eTowyQGElxlYsyQ..%26ch%3DAQEAEAABABRn05yvEELzFpHS9WKJLdQXUfsKBR_La1M.%26v%3D3%26pg%3DGURZSIPQ5VHP7A4BJP7TRSDAIA
+.netflix.com	TRUE	/	FALSE	1813776427	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+23+2026+15%3A47%3A07+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d3343637-dacf-47e3-a4fb-6286a3d7fa82&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1781889594741&geolocation=BR%3BGO
+.netflix.com	TRUE	/	TRUE	1813776424	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZr1C1hEvAk8yBL3MOVW4j8zzH1zNYp0M.%26dt%3D1782240425964
+.netflix.com	TRUE	/	FALSE	1790016427	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790016427	netflix-sans-normal-3-loaded	true
