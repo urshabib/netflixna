@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: spaulada375@gmail.com
+– Verified: false
+– Profile: Pualinha
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TELEFONICA_B_PI_BILLED ( )
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1813108903	OptanonAlertBoxClosed	2026-06-16T01:21:43.620Z
+.netflix.com	TRUE	/	TRUE	1816132919	dsca	true
+.netflix.com	TRUE	/	FALSE	1813108919	nfvdid	BQFmAAEBEA78rmj6j6z3AXEOnZ5GQ3dgZUjOx4wa_6FkG_3sHvvl8byo1AQs7YRbeb5XGyF9dTEhTEDXfoKmB3tbnMqFkhY8W2_rRbMVLmIR_HUag_rSvaC5NgjpWjkyXiZoN9OYrIRZdVuYWgHkonR1Bujgme7F
+.netflix.com	TRUE	/	FALSE	1813554209	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+21+2026+02%3A03%3A29+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a43f02cf-1759-49ca-8ecf-10a94969ab06&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1781572898645&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1789794209	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789794209	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789794209	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1813626990	NetflixId	ct%3DBgjHlOvcAxK2A_UlXyFte9Tkq1JRiXeejPEUwjGtmfxDjReYC9kDzL6a099d64W1CdCINop0gcoIFVJmjJbLtxP-y30y7W9SQAi1Ne2-ZqlqX88ted5GMXqaJGqKew_ia3mwV5p1UPvv6fg7jrLiPHMR9JGSanu5QAFSomZ02Y7g01SudrM8S_TyOOguWKEPj6h3x-Ftq81WNm0P7RL9LT-TgG_yns8T1RxIuqVvFu6rEAxoZpr01UOjV_2XM4uEuQ8bvXvHa8gDS1FXZfz2pZkOS1bNDz17VoNRYYHIuOncvEH2T-yRJ06rN-xqnN5m68e1WEe_zCZg37NwIs-fBGlCZaYGJztl25MFsJm4VLsl-xLSWRDXtMJ-r4ZOtP701NxUtUV_EsUyTfZ9gC-DHzLepkTjYGcUOHokgachINUHpc-T8IsZFoA4AR3Vm14B9suVTu5UHjCYKURmp2CkPPUcvxsT6huqfpei5inaLieyiQYgdCrAI6wiH27qzTiQtihw_PvkKK9TPFZD0TH9TLESWEgxrxLz_vzKo8dHSNYjdUR611U-K2AS3LotcQQpmTuAG3tIzM6rVfeRNfA-ARgGIg4KDBsNG73qjGeS7bF2ag..%26ch%3DAQEAEAABABRbWDjW8HtEWDbYOzDyvneMgz_i8kMe8LE.%26v%3D3%26pg%3DLSLIST3LQFDOZE77WRUFYEPEYY
+.netflix.com	TRUE	/	TRUE	1813626990	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTw0_JWIpUKWEbBaHqM77soj3LGDjVNfXY.%26dt%3D1782090958108
+.netflix.com	TRUE	/	FALSE	1787951230	profilesNewSession	0
