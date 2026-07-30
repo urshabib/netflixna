@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: juliana.m.burigo@gmail.com
+– Verified: false
+– Profile: leonardo
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 5639)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1809634939	OptanonAlertBoxClosed	2026-05-06T20:22:19.643Z
+.netflix.com	TRUE	/	FALSE	1809635711	nfvdid	BQFmAAEBEJuQBp24da9ghSC12PJ5IMlgNikVNCFlAO_c1InLloqMwQcT0tWVWRpFJ8WAJt8OSCzTFFBmOrOmv3WVmdPfLopwS06hcXoiI53q_MHcBJ7--uyH07dYhAChYHIiIe9rMfeC4XeSEn_HPKuDi-04DoO4
+.netflix.com	TRUE	/	FALSE	1812660517	dsca	customer
+.netflix.com	TRUE	/	TRUE	1809791640	NetflixId	ct%3DBgjHlOvcAxKyAy2P9Il9bhTvyNz5f9oCGxYMwUgvhBXFAazaJtsClwhxPW_t8kO1CTLZ-62gHtlwwH4gc0HHemiYnAG4DFaZxd6u_y7Wcpd-y_byOG2YW279e2SUXGLTMilXUIXdd5alqcqMoVHNM-6sdPxas75qZWCACuAgea4uGHxEsXTGp49c5yX_OuZXnyGfSl9SOF5nNg6-f-nJnES0ajdxZnZ2Jt1aMxqTVry76LMDwqf-QWlW8-SHLsputNoPacOsIauKkhPtmvttt6SdSeb1bm9ggHERPGx5ahLb7KzTne08UHpdkIUIfe4pIgGL82EF5c92uUwGjyDknrL3g-4kmRPWGGJgKkg6I-iRf-AehhWh1Ntm9m57kzGa54LeyjeU-VUZEAOlKYpImRWCgxCtgoz4DKB61IUEUS99sNU8iEm99EyA0tDGUNRqCRegeIAeZ5UMDPUU2EZqb6c9y8RcjtbEKXShzfqmIY4Fjrt8fyi-kVv12KL5QwyG50JVivSBBzikOkxM17abRZYq_M2nKnoRmopQunMJKFBfTkdvn2JyHLvm1G9ORtGnDiPqgkLGO3sh22pyGAYiDgoMzWrEHonDZrw5N08P%26ch%3DAQEAEAABABQGU6zeuZq4AFVY7Z4aksv4jce7AL0lDlw.%26v%3D3%26pg%3DBNDU2SXHMZC5FEA6MJL67RYKMA
+.netflix.com	TRUE	/	FALSE	1809791642	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+12%3A54%3A02+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=97b7f4ee-42bc-4ddd-81b5-28bb7487e630&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1778098940110&geolocation=BR%3BRJ
+.netflix.com	TRUE	/	TRUE	1809791640	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSoeRzFVF76WjVIcQxrez7z6rnFU44IPA.%26dt%3D1778255655561
+.netflix.com	TRUE	/	FALSE	1786031642	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786031642	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786031641	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
