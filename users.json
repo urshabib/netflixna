@@ -147,5 +147,12 @@
     "links_claimed": 10,
     "has_limit": false,
     "last_claimed_at": "2026-07-29T23:42:00.560Z"
+  },
+  {
+    "username": "emna",
+    "password_hash": "123",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
