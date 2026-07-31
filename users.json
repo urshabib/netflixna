@@ -152,8 +152,8 @@
     "username": "emna",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 1,
+    "links_claimed": 2,
     "has_limit": false,
-    "last_claimed_at": "2026-07-30T17:14:19.428Z"
+    "last_claimed_at": "2026-07-31T13:32:00.994Z"
   }
 ]
