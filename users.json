@@ -51,7 +51,7 @@
     "password_hash": "aminechniti",
     "is_admin": false,
     "links_claimed": 16,
-    "has_limit": false,
+    "has_limit": true,
     "last_claimed_at": "2026-07-07T14:03:09.453Z"
   },
   {
