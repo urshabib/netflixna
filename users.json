@@ -153,8 +153,8 @@
     "username": "xxx",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 3,
+    "links_claimed": 4,
     "has_limit": false,
-    "last_claimed_at": null
+    "last_claimed_at": "2026-08-04T00:02:48.580Z"
   }
 ]
