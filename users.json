@@ -90,7 +90,7 @@
     "password_hash": "takwaakkari",
     "is_admin": false,
     "links_claimed": 25,
-    "has_limit": false,
+    "has_limit": true,
     "last_claimed_at": "2026-07-11T21:21:47.902Z"
   },
   {
