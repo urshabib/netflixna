@@ -122,7 +122,7 @@
     "password_hash": "houssem2026",
     "is_admin": false,
     "links_claimed": 61,
-    "has_limit": true,
+    "has_limit": false,
     "last_claimed_at": "2026-08-04T23:35:52.697Z"
   },
   {
