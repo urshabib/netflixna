@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: silsantos1715@gmail.com
+– Verified: false
+– Profile: Maria\x20Silvana
+– Plan: Standard with ads
+– Next billing: 20 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 9465)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1812754695	OptanonAlertBoxClosed	2026-06-11T22:58:15.408Z
+.netflix.com	TRUE	/	TRUE	1815778805	dsca	true
+.netflix.com	TRUE	/	FALSE	1812754805	nfvdid	BQFmAAEBEJBnNpc4iSwlrcjmrVICriVgRUfxapMof7f0x11HLMIT6mc7KowCLGkuRGjEjetVpCWtTCNge0zYysKueJkbpCpkKXC0_k2gFiZh1FJcA_E47VESpW8Su3BUuClasvR-SyTjfgQDiL0V-hKZrWFxj5V-
+.netflix.com	TRUE	/	TRUE	1816359126	NetflixId	ct%3DBgjHlOvcAxLMA86d9Pjyeum418eTJ8AaXydGea8mjBwKgnhB-d5M6yHPt1l82FHQKH_2zDwO-wj0oqjH_4tTizi7V3VnoYdh2eT9orYrY_mDxvOoNJi69kmmjdTfUXuzHf9GZjXxg_97xwefdb3PVJvCvhmrwuYUFXa7Q_tGAeREKPjxLJJsOMICVtuY4Wv1JHoMraaBXchgF-h8e5jtq9PJHegKC5k938JLYlv_WMJ0jybCJwyBnybT2SBVXXPmYNX1XKf6AbPYcCgUc3cFKORv8k1RHYGxfkxgGWpBvOrSN8MZsks6cZYXkMx0S_FQa3bmuLSFLFHLykJlOQBFQu7jK4Py0Apklk6lNedc7TdCBEVkiHsTFGM7htPrnNcEJMGcZ7cm6v3rKWQeOz_0kOVdePOZu9hE8Fxtix5Hm6sMQwL4ss9bmIl-UO6iaA1ApVno1SRqoClSGtxTMNiuThXDIEBr0D0zPwl-UV5F2ZBWNRk-2_87O1NiZE_Du9gp8ExgMasoQNiiAQZl5eD55jq39tjB2QM5DotjTyEnJTIHmCGmVTnyj9CyvHsu9i2L6HBN3HnGAw7Zx8oLZ2EmNgKjmsHEUa8yLGHCREVrrThADNCxRZ0YBiIOCgxON70KRIapSBt4B3I.%26ch%3DAQEAEAABABTwiVuqrF4e99nVarJHT2VFMjlaJAFTpBU.%26v%3D3%26pg%3DUQGC7XPD3RE4PIAY7JECAPULWQ
+.netflix.com	TRUE	/	FALSE	1816359129	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+23+2026+13%3A12%3A09+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6d131324-c0ab-418d-b0ac-edebab57d4eb&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1781218695809&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1816359126	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQMR8EEa56K0qMdBtLf_gp9HcB4OXygztM.%26dt%3D1784823127287
+.netflix.com	TRUE	/	TRUE	1816463288	gsid	271d7cad-4340-4e54-bf86-ec175dfee808
+.netflix.com	TRUE	/	FALSE	1792599128	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792599128	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792599180	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
