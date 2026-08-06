@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: arturcarnaroli@outlook.com
+– Verified: false
+– Profile: Familia
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TELEFONICA_B_PI_BILLED ( )
+– Cookies: Admin @logslead
+
+.netflix.com	FALSE	/	FALSE	1797019936	OptanonAlertBoxClosed	2025-12-11T20:12:16.587Z
+.netflix.com	FALSE	/	TRUE	1808762700	dsca	true
+.netflix.com	FALSE	/	TRUE	1788467899	gsid	df29cfb8-570e-4d51-a16e-3432a4d52746
+.netflix.com	FALSE	/	FALSE	1788467899	flwssn	dfc544ba-d808-432d-83b3-fc5dbcede1ca
+.netflix.com	FALSE	/	FALSE	1805738803	nfvdid	BQFmAAEBENZBtnsiEvhV6GpHJdCNIDJgOBqfRFuJN_rnmZzq8ZDo3UL8_BY1oXJmOH5ygPHfNj19Zld7fpqHRP18EB1NhZfR_m9PSQsfkRRAGEkzzTaVLdznrRnWPC0BhGW8qZ1vRrPqDoKQ2utmOqdgifkGPs66
+.netflix.com	FALSE	/	TRUE	1805738803	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLJTKK97f0l4kuUkYkN8c5Xbaf3F1fUGw.%26dt%3D1774202802999
+.netflix.com	FALSE	/	TRUE	1805738803	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKkA7Z9s1dzyE8lSEq56h6_k6bU9T4vozAY8ThseF9l9pmQv21x7Vd7tAP1tK97gPGnVWXWdMcZViE2kpdmHjTxeUk34USuD99DuZh1bWoUKjaJ0sgFtK_pjPTSL72U5Dn-7sAhc4uiUY0cqAyC43HjFVnXnR0xW1OWl2CFW3hwriEV5sLBFvl8jKipc3mzGwE4quFdhLqSUauN9MYzvNtEu6fsTDarO_t8WsF6aeY-d6z0x2k4zbiNmtem5opNc30dGU2Yq5R1FG37tYvkTLblyeiaTyu02CwBUb_qnrCftPBriMaYwYQg4RocrIkljcvf3TDZSYOW_0s4dti5JF0HvGx3j6cWY7xIp6zBFUahpVbPk0HlqftwlFqEAwCGaqCYolilX1AmDn33XLGk8oN4FypHA7cnpLCi94k11SZvl4AgP9n0WNnEmaEkeb-9hvQy3HRlosUz6TSA9hhxJzIxgKjlto6HzfaUHnJ7mS1xV3KfQ77g97MrQVVtI0v0zcN13GnQzngCLsKf1STa3Mua6apwRtCUfvEeTvVkbyLStvrLQxwJHxgGIg4KDLUkF3r7NROV7K6txg..%26pg%3DMJSC5RWR5VFFPI4FYDN2MPNKQI%26ch%3DAQEAEAABABQ50k4rqgoTY-pQ2vgjDlyGrdAzMObR3BE.
+.netflix.com	FALSE	/	FALSE	1805738808	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+15%3A06%3A48+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6b1d06c9-bdfb-47ef-ab6c-073b808533ec&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1788467899	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1788467899	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1788467899	profilesNewSession	0
