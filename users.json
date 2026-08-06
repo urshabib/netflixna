@@ -137,9 +137,9 @@
     "username": "zouari",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 11,
+    "links_claimed": 12,
     "has_limit": false,
-    "last_claimed_at": "2026-07-30T23:38:29.610Z"
+    "last_claimed_at": "2026-08-06T23:24:12.952Z"
   },
   {
     "username": "emna",
