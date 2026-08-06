@@ -1,0 +1,25 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: elianejpenido@gmail.com
+– Verified: false
+– Profile: Ana\x20Luiza
+– Plan: Standard
+– Next billing: 17 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (AMEX 2461)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1788467899	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1811032425	OptanonAlertBoxClosed	2026-05-23T00:33:45.842Z
+.netflix.com	TRUE	/	FALSE	1811805447	nfvdid	BQFmAAEBEEvbyAaIGemOhBdEbcD8nz5gZe0xsZdDYS5bKicNsmZSESnhLxZ2P9t8KevGsBzwT0_VocV2d7wo9uA4tTMHDeAMSzDI7R_vnEvBLIc9Zb1qZwBw_POkelWGTgjbMAGXQ0LftrZ5-p8hFlh2wNrMa1ds
+.netflix.com	TRUE	/	FALSE	1788467899	flwssn	8f633ad1-f07d-4d6c-8595-e9383f294d54
+.netflix.com	TRUE	/	FALSE	1817036010	dsca	customer
+.netflix.com	TRUE	/	TRUE	1788467899	gsid	9c9c17d7-c295-4336-b7ab-dfb4d04a4a38
+.netflix.com	TRUE	/	TRUE	1816552987	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABToMktxNXw3-jIUpM_EWS_NM2tWtLNujlg.%26dt%3D1785016987472
+.netflix.com	TRUE	/	TRUE	1816552987	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAyXhVTLGsLoC6xhEn2GnrS9cKcPRHnzvsioRb7kufUZ0NmiXGdPZEfT1GXzNOZ6xbLnTwg__BZfTxqBehKpbgvpNWpWqyKXZLVDjROq9AhC05V2QDHxjbAfTXtPNckCkn3oTFf1QuuBVkb-fhHW6kA6CGIS9ywdiAdB9w6Iz4trnw07DyNan6UxCdzOTmRQkoL9Xj_SKuTUxmU-iVfeZYn-UcoZt8TS0LlQwtlvi5pwQJ2i3hOVPg_FDQtz47LwQwiLD_lsrLO9lVo3jX06gobLCCduUo6_uxxyaAFCZSB53bCilgenlRm7yHzog_pHUzeGbQue46sEV633h3pJ_w1RVQbGrRh_CnknUHJ16hcBctWkfgkn6U-KreOsCl6aZzXshIyvry63fldfBJjBGLdeDEHOyJePaiW9hfyb4X341Yshs-vthzB29186qAn-rzzeWTOvPepubfVRcL5aKiWa4C4Ixw52WcfyDxs7rXf8qpdsatd8zgiYkXO-PhXsrzb8UpGkamxfhHXzwfcAJvRoPaBUDSCVEVxI-E54XGAYiDgoMgGdkmiCMBM_RFLaV%26pg%3DWSKBTTVSEBEGBGOQTNAC4RCBBQ%26ch%3DAQEAEAABABQCx5fgd0yvsA_9VpCQ3YSSdUng1lqeA_A.
+.netflix.com	TRUE	/	FALSE	1792792989	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1792792989	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792792989	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1816552991	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+25+2026+19%3A03%3A11+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=1&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d507d089-5ae1-4143-814e-10b1cdd832e2&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1779496426285&geolocation=BR%3BMG&AwaitingReconsent=false
