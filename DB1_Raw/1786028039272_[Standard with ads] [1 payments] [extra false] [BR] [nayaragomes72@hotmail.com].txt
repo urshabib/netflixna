@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: nayaragomes72@hotmail.com
+– Verified: false
+– Profile: Nayara
+– Plan: Standard with ads
+– Next billing: 21 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 8917)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	TRUE	1788467899	gsid	285d6d28-1cdb-4da5-a905-4d5ad12455d5
+.netflix.com	TRUE	/	FALSE	1815705140	OptanonAlertBoxClosed	2026-07-16T02:32:20.116Z
+.netflix.com	TRUE	/	FALSE	1815705184	nfvdid	BQFmAAEBEDVgtZ6fGIfUaW_27y1vtcFg6cvATiBZtKU63tjqyFjfOsnA2winA5B2TaIyrJcYy9DroaN6J5LIL-G7jrDWehJPYEewzdDEcBzJ-AVdc95KItcZXv8PwRTbcMiSFBh5OeTtQgYzv_NMblkx0cShQE9O
+.netflix.com	TRUE	/	TRUE	1815705712	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA-TAGN2asIToZ76uPTjftliVPjjwL3sZirct8qUcHZiRS1YRJEZFHPelpH-3Lo56bwLCpOqeSCS7d9JghhLYxJ7tkvKr4AY7Es0a75ohjRFsgSg8vhWDszOCfgkc3HwV4GyCngxTEeuQXecUSAHNL5Gyy86FU2bdPD7Ewkm1fRfXP8xNLHXxLmjfnILEmVmWpIz_RNw_7AiIGrPwEQIczUyS0OFcT4doXisHaeZghK_1kgQgg9TUy84GL48IHzfmb8fZjlhVjwp7JP2V2wtRU_iCHutokviVCLGxjDOSogtggbX7zBVWKIyUhB5geOPjZrh9enIOyOnIGFEEKMHqftuCHIwEvd9cgFKoIEggbq_5DSZ11JgAAmoWyGSDr6fMLEaezfd88xgcUc3fdA5S-WxgrWpZ7TYG_zG0l8beWfKNvviTVdpUPjBphJqhi11IYEjuF4A6AxwJ42uT4XEJ1jqMLIZi0sapMRnaViVtX2G5VPfFxDKxBvl--HkalYZIpq9FIAoI99MstI8szGZIZI-1xFdrLJw5xuHJGAYiDgoMof22TlpRV5iSvGwU%26pg%3DWPRCLSQX7ZFFFPT3KB5EONXACI%26ch%3DAQEAEAABABTHw3KUINW8ibvQNsseWKpgNSaDl7DC_VM.
+.netflix.com	TRUE	/	TRUE	1815705712	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHIPB-V9WSGJd-3DYL6jK_J4Arng0zff0.%26dt%3D1784169711595
+.netflix.com	TRUE	/	TRUE	1818729714	dsca	true
+.netflix.com	TRUE	/	FALSE	1815705741	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+15+2026+23%3A42%3A21+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cac41f00-0b03-4a25-99d0-8edbcd1f8cdf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0&fclco=&intType=3&crTime=1784169140840&geolocation=BR%3BRJ
+.netflix.com	TRUE	/	FALSE	1791945739	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791945739	netflix-sans-normal-3-loaded	true
