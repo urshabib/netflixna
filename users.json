@@ -28,7 +28,7 @@
     "password_hash": "shadychtioui",
     "is_admin": false,
     "links_claimed": 93,
-    "has_limit": true,
+    "has_limit": false,
     "last_claimed_at": "2026-07-31T02:06:08.194Z"
   },
   {
