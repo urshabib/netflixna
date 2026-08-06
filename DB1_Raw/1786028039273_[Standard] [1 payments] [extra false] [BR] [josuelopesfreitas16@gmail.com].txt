@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: josuelopesfreitas16@gmail.com
+– Verified: false
+– Profile: Josué
+– Plan: Standard
+– Next billing: 13 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 6772)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1788467899	OptanonAlertBoxClosed	2024-10-19T14:43:19.086Z
+.netflix.com	TRUE	/	FALSE	1788467899	nfvdid	BQFmAAEBEEUfRXDrb6bUZS-vXboE-vdgK-XiJYihp-k_u0wjOS5vVxyXJ4rwM-t-xlnj45R7dSoVf5kJSSVF_V6LNmaBI59VzLe99h3BEhEVLuK8ZOOVGCxY_aPpILJhhX7H51KOTtUY_IEJgH6IiWEMyAsf4A8e
+.netflix.com	TRUE	/	FALSE	1788467899	dsca	customer
+.netflix.com	TRUE	/	FALSE	1788467899	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+20+2024+21%3A32%3A51+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7732b545-bd9b-4ff8-8bbb-c87f2238c0b9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRJ
+.netflix.com	TRUE	/	FALSE	1788467899	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788467899	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788467899	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1788467899	NetflixId	ct%3DBgjHlOvcAxKzA1K1m2pAw6NEpIohHygMzcMUydsCDBmIN9zKmpHOeAwdqTK_qOEpu-71qPxyagg3sP20Eegsqlt5mv-t5oVaNZFgt7H5u3h1jZcCuLwAw1BzTSXaPACCFGFeXv4toDwstpdeDMeCXWRDqqfMj4CMl25LP4lmgI6vn1MnqE-YFWP4zO2MIIjJIs39_1rbToG2ODd8mj468kR5d2uF_HxIdsdXVakIsvTxRrXxS90lhyyOf1TT5SHItMqyfsMJF3wpNhaMCEy62sg0yb6yD4rckd2H1J_LRv151xZUJFmy5bkE7lhouGp68YNzhZ0MCV2h92hlevqjakaQBkhszcj-ibUJy78JQomHb-FoYxzX6Ds0fTs6X0q4UKG7Rz2aezoiAyeITS510IMPshWVDWJaCJXfn_1nuBZRd3f4VlbN_-L2uJTxZjnO6QGlaz1N2q6Pux_420O4mGVF5v04WZQF9f5Fe79miCH79nulwa9V-1-J7nZ2-NRmRPnfzwCXmHJC_2zP2RAAxU4iqrStSEmA8VqgFAXEBkKawq_xEQlr8PhdT89figQes_ekHFno5sklElQCwhgGIg4KDIDQRAk8PR-KpARr7w..%26ch%3DAQEAEAABABQxFM1xnXLb7nZ-DGtNOKEOqOG-oxHEp6s.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1788467899	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNuHGHyPV5PV5G_4HGbK_bFR3BxI2CJ3w.%26dt%3D1729513847383
+.netflix.com	TRUE	/	FALSE	1788467899	profilesNewSession	0
