@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: esmeraldaalmeida2018@outlook.pt
+– Verified: false
+– Profile: Agostinho
+– Plan: Standard
+– Next billing: 20 de agosto de 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (VISA 0592)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1806182728	OptanonAlertBoxClosed	2026-03-27T21:25:28.558Z
+.netflix.com	TRUE	/	TRUE	1809206980	dsca	true
+.netflix.com	TRUE	/	FALSE	1806182980	nfvdid	BQFmAAEBEJQKFnxr6ykh5eCjBk_WjtVg22NOHg_2rVw6UlVIhwRrnOTrRV_keqTDuTKBAAcigqCJS_JyXmxiV3Cv44XdZKkazloVYevBHLtKcUvDlXmbDttm9FrFoeR_m6WQXTDdT5TOYPsYAp1SsYBzOyCfO1KG
+.netflix.com	TRUE	/	TRUE	1788468618	gsid	4cff96fd-f54c-4dd6-8290-9296922d02bc
+.netflix.com	TRUE	/	TRUE	1815866700	NetflixId	ct%3DBgjHlOvcAxKDBF78ILPDla0jn1GbPMjPdImhsd3DMOuOGca2OT0Svzxbq1pvmvE-OhIQ6etF1FBRisC0qIBOBN-99WGA96Wrtlhrc7AudytiECY3dkk7KMLe2LWYH3SfAVEJip-Cn2MIIU7O-eIUVbbZl_rB5_wRUGTrzTDxenGqWnDh3tXfzQn0_p7pn0cNihOwA58M8QRmsLlSdqau2xDSQ1rgHzcnJRJtVPkhGbHvUVb4Y2LISUqqYvPwngVMv3-hacAslzQPOOMonFvbKbiPFVDwOUrvmVQDC_VXOdoXp9AOVO8e1s4nHhkJKpK9_2KaPEYJnlBwUjPt_X64IK8xj6rUFfbmrAVm36lW6VG5wbu3r-Mh5UwrwyLK3yACx-6yJLRmH_AQZEhHFDAuppEOkTKysUXaNOvcIqihj3r1LAzU_nD9vlTE6aXuL0g8hDm-EO4z7wAkiD1PZtJp4PRAvaINAsdKdNioPcV1KmX-YTCXezHqp5md9lypgOR2VEBoIYGJiHKzt72j2tlbPvG859wNWLeU0gFXlv2CiD3W4NgWHqTSBQBVPbFMB68WXw2eIiMufJW6vlSGWZmPPiTQzGUocKVnuH6KVyiSe6wezxiHYxqNErO7iAcYTl9RaPecjuV-Cx3KuwtB8Sw_5RQPnWR-ui1m3LtHIwGb0Iswnh5uDT-1NZBqxVRiGAYiDgoMLNe000jhaGnU7VZc%26ch%3DAQEAEAABABSSb44yGpGT8X7O1BvLf_a53F9f4aiFKpI.%26v%3D3%26pg%3DGHR3726FPFEG5I4B2E73R7NHK4
+.netflix.com	TRUE	/	FALSE	1815866703	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+18+2026+00%3A25%3A03+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1b2e94c9-8531-4656-a89a-e3e9c3ca7fe8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&prevHadToken=0&intType=3&crTime=1774646729025&geolocation=PT%3B13&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1815866700	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSiH-MPROMhWXgIXsM5vwevyQYDCVY0Sp0.%26dt%3D1784330700972
+.netflix.com	TRUE	/	FALSE	1792106703	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792106703	netflix-sans-normal-3-loaded	true
