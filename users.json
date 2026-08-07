@@ -156,13 +156,5 @@
     "links_claimed": 7,
     "has_limit": false,
     "last_claimed_at": "2026-08-07T02:29:34.991Z"
-  },
-  {
-    "username": "douday",
-    "password_hash": "1234",
-    "is_admin": false,
-    "links_claimed": 12,
-    "has_limit": false,
-    "last_claimed_at": "2026-08-06T21:53:59.725Z"
   }
 ]
