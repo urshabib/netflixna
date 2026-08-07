@@ -156,5 +156,12 @@
     "links_claimed": 9,
     "has_limit": false,
     "last_claimed_at": "2026-08-07T02:40:56.858Z"
+  },
+  {
+    "username": "salman",
+    "password_hash": "12345",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": true
   }
 ]
