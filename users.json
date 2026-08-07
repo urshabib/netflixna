@@ -169,6 +169,6 @@
     "password_hash": "112233",
     "is_admin": false,
     "links_claimed": 0,
-    "has_limit": true
+    "has_limit": false
   }
 ]
