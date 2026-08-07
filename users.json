@@ -158,13 +158,6 @@
     "last_claimed_at": "2026-08-07T02:40:56.858Z"
   },
   {
-    "username": "alim",
-    "password_hash": "112233",
-    "is_admin": false,
-    "links_claimed": 0,
-    "has_limit": true
-  },
-  {
     "username": "abc",
     "password_hash": "112233",
     "is_admin": false,
