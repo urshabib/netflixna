@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: claudiorsilva1980@gmail.com
+– Verified: false
+– Profile: Suzana\x20bosio
+– Plan: Standard
+– Next billing: 20 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 4615)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1808264837	OptanonAlertBoxClosed	2026-04-20T23:47:17.348Z
+.netflix.com	TRUE	/	FALSE	1808264843	nfvdid	BQFmAAEBEF-MYyKZsKrZp7JyayWR1_1giwPASmVkDMGKcpNTOPR7QHg69DICwRhaozmEhzlsT0N5bf57BmvoWj0xsL-f-vaJqH17giZHmC2JYbofnKqjKZWJG1KeSqYdbDGjYgssSV_QQf6BkEmqPqsH491KbC0O
+.netflix.com	TRUE	/	FALSE	1817007300	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+31+2026+01%3A15%3A00+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=54ae4a2d-bfad-453f-9ce6-2581e1202aca&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776728837877&geolocation=BR%3BSC&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1793247299	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793247299	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793247299	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1817066076	NetflixId	ct%3DBgjHlOvcAxKKBDHr2aeJHG5WYb16baYnr4V4uQbY0aYWXFP8R5HFF4Gy0R6nXIuJCceVvfaULehHDIEzyDJK2tGlD7ly_rh-emdlQyv_YWud8RIzNp-CIjWt8Jzi0NiCwCiUO4vXBnNL7viZGsfMg1CEPzltThQ_AFxQNdiTP5iU4cuZ5qwKrcBJ8eB8yGXjjkmzq8YDXy2zc52gWYf6PvqUpRWfA7LXRD2rVU3tER1K4LHkrlKUeWdBl-HUI6h5jGbr0evzImmclQaNrjbC-YVIfs98baTPeUPeS2ua9yVx7tRWTi5b4iHQ9sCyvooxB8IoCixXfWUkQ3ECc_BdkNhCBMWp3mUiRtM-7YIPop856BUp8Pi2msDRlIvYibhKPrqF4d9HBX9ZyYSwuJ7cbln2weeVDURz5TgeOthkLuhf8M6iJIKYSdmBmu--zjlYOP73fkvfYwJopgEzVMPpXL9YuHlgNsDyW7uKHVqHnMjtLfGChrMkJa31mcdLRr_IfaiL-jy1Fssp7yCKBxuudbUAU7lfUujnImMTHuvDGLJXiEh-J3ZPvx2qeAn_Iy0R2wqQcatHByM9oN6O1V-uZy_Da-0zI5zh24hsOnOfTQQjmRQB9HML2FPBGjMgC5-gK23zHiXHB_J-ffPilaTc0FZSPajVSXkoDXphniiHvFfqD9-J_H0rVZ7g62pNu9nf4UbsthgGIg4KDMpTYhaF4_lzOe4DAQ..%26ch%3DAQEAEAABABTan-6nD3yHS8eaSYig5AKn_v4_bs_Rk-4.%26v%3D3%26pg%3DHU3PN7PQPRAAPNATFF3LJWBP5I
+.netflix.com	TRUE	/	TRUE	1817066076	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRl5e8gn-o45LqQiNCHMLREQhJC192ywZU.%26dt%3D1785530077738
+.netflix.com	TRUE	/	FALSE	1788645743	profilesNewSession	0
