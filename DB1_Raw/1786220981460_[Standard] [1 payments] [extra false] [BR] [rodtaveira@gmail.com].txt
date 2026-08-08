@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: rodtaveira@gmail.com
+– Verified: false
+– Profile: Manu\x20Osapo
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TELEFONICA_B_PI_BILLED ( )
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	TRUE	1793295735	dsca	true
+.netflix.com	TRUE	/	FALSE	1793295735	nfvdid	BQFmAAEBEMISfVDH1whBrbUQ1RzlJURgvgayh4XAQnw4A_L_FPmFCAbULl-XYwp6bTwk3A0EATNYo7EVMjxWIsHOeDPsVBjpmEbsQjYfgJmtpMq8e2sVuf1_GFStlj9diTOgIIrRpOQOSHlWQT54kMxI_4UADTbA
+.netflix.com	TRUE	/	TRUE	1798207451	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfgp3mUEmQh5gIRojo8cST7reY2uWhokE.%26dt%3D1782655451710
+.netflix.com	TRUE	/	TRUE	1788645705	gsid	493dc7a3-0c9b-4c29-a7ab-a6dc05ea2b6e
+.netflix.com	TRUE	/	FALSE	1790431452	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1798207451	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA0_DNDv9BKqlx6ATge9D5qN0tsP7mYrpa8jLX7kZ8xFD1969NAtifP_GuE213pOHMZ2yVSjMRr5kzP4yFJf6c4jM2x9plBxRcnXF4BCJkIorbdiuYS1Qn5l5SIjHewlwJF1rR-zFzp31KkV3Owvk8_T4HfxuI6mP2nMMZa3Ygyt2FYXsw0kwU4yEYdDw6X-l2oVTPG_A70CeSIK9j7z76auYRQ5WTiPeyuFSFQfi4yKKMoxY-amCKTWnT3Vn0KGXGB8SjXCtrxIpbOPxdwgXu1JqoGIc46F9Y922OxikOIJl7WHsLQAjT2PSJjV5WdJcxUX5rZ5irJpx_Q3mpieJBU_f5-Fv2N_rIip0HyMGFWDXE_W4TS--ZNWHDFfRxEJozBMp3KLmMm8QPJKCpvlXz4S2IjWW5l78ju7FPyQSdfVQyXgN0eMLtu6LmjnqiObK4mBivF3nXnF1naeutYbH6OeuYGAVnxk_oMOnBCkCWzIkm0_pNTVDBBUn0qbl-CxDKhkIdM_aPI3-raOFLNj7qRS2y_qQYFXGg8gcIfCUWhgGIg4KDDer0pi1NoOmKAi3bQ..%26pg%3D6CM3AXGNRZAKREWOHSXPCQCS6A%26ch%3DAQEAEAABABQHevRIcx7Gt02QZfS8DkBnEb05eklTxnU.
+.netflix.com	TRUE	/	FALSE	1790431452	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790431452	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1788645705	profilesNewSession	0
