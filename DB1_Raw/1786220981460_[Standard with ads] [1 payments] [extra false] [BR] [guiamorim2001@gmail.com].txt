@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: guiamorim2001@gmail.com
+– Verified: false
+– Profile: Guilherme\x20Henrique
+– Plan: Standard with ads
+– Next billing: 17 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 3728)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1811978733	OptanonAlertBoxClosed	2026-06-02T23:25:33.861Z
+.netflix.com	TRUE	/	TRUE	1815002751	dsca	true
+.netflix.com	TRUE	/	FALSE	1811978751	nfvdid	BQFmAAEBEC7TBq0m37dDHh7axr8Fxb9gt4rTrk-E0O94cvAl1Eg27HFuK1SoDuADFYW3kPigdm_0Be-wfhpneK0mX8a94q8kbLbY777Q95OfcYlRmVIy1FPMXmVdwNpWgk5asv96nwJOHm3YSQBJfSiMKZ-HRvZu
+.netflix.com	TRUE	/	TRUE	1814647078	NetflixId	ct%3DBgjHlOvcAxKLBBMopSUCNX4z4yiYLa2kBxvfm1XjkQzFEHUVBQzTLV45ANWLtvQ2IDqYlY1bZFp72w0BfB4r1Inel1TFtesY4d6yYsQBdaSSDCY_6d-r5T5UOzNpUm8xx5vO38g_QwLIBTh_d1iPxtmBXAyH7czDu760t2tWVhHlyW1tmaRazlSGi78JFpCiUF1tnU1F_9UErzJoRhD25hbHsJz4SRHzGMku-iEjFWEgcTc3qReSOgUOnXFQ8Sjj0XGXC-UP9QnxpVjKLx8nLDGUIlvZt7AZdtrti9cyOstrNSwAfVYMP07_cXaEGrtB4Ynfu4fAN9katmwVrwPlrN9ZB2Xn0LaudSI2a4Qp2iFIsHCEN71tVNuB5ZjAjypOFDmSn3bl4FQ9w_2dUdRvungDQjh_sgCr4Yq7ONsPXQ6lPLGegxSy6FkcZ3no9uqWEjaz7avp0sFBZ4TfYZOzx7OkCtaDo-iEzVmFoevaZ4irCCkiASqyKLfs7nTVoHG57tKpnHujrGUyq9iN0BsLpsxyXuNKoa5pcMB9cf93ymllDj0nQhWwHItONqgIV9YfJoVqnWBrhhS7qLsKc0nu5f66R5RP9pk_HcrxtWNrzbyib5ldoziG3k_ASB0SeOiexNPq19FWOusyHN1oaAERGoLS2PwUM_9QIIkdLVfifKf4nrn9VX0C97Pb_gGu6CaaajyC_YoYBiIOCgxquIff7_H5vcAQFLM.%26ch%3DAQEAEAABABSQxiFwX338dBqlF7iIV-xArwkmGHfcwzU.%26v%3D3%26pg%3DJDVV3Y22AJCSPD5I5WXCF3DONM
+.netflix.com	TRUE	/	FALSE	1814647080	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+03+2026+17%3A38%3A00+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=35671068-2571-4d1c-8489-54fa2f97a11c&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780442734246&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1814647078	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSEo9U60RmQIiKj-Djqu4fuLjz80xSNirQ.%26dt%3D1783111079887
+.netflix.com	TRUE	/	TRUE	1816903152	gsid	c720e449-da0e-4026-8ad1-ac31f131f7b2
+.netflix.com	TRUE	/	FALSE	1790887079	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790887079	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790887079	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1816903152	profilesNewSession	0
