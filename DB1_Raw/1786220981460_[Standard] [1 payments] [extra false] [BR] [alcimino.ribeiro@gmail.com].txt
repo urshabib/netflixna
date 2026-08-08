@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: alcimino.ribeiro@gmail.com
+– Verified: false
+– Profile: GABRIEL
+– Plan: Standard
+– Next billing: 3 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 9614)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1792873029	nfvdid	BQFmAAEBEE98O6Cd8cCCl9sh6kfEWfpgUMnc_EMwt-um7q4dDwuAbo2MsrXJlGcyIgpq-AVGed8kfYZVeEPYbpOyfr_gjrViplj9XroHM80IbQPGwnZZ85KLNQAWic-a3qJoUvc4kNImxy0oKRFXcJA1GA3TeDFV
+.netflix.com	TRUE	/	FALSE	1792873025	OptanonAlertBoxClosed	2025-10-24T20:17:05.242Z
+.netflix.com	TRUE	/	FALSE	1816901694	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+29+2026+19%3A54%3A54+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f2432236-922d-4937-8ed3-9c6653a56c86&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BDF&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1816901691	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_pA5czO8dQapP49PL9lxPoCcz9HquAaw.%26dt%3D1785365694674
+.netflix.com	TRUE	/	FALSE	1793141693	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1816901691	NetflixId	ct%3DBgjHlOvcAxKDBN9Q8sz_MXgn415qY6-PXBZQed5AmdI_szfeytuG3w43kqPmpKUWNjHe33CR7pp9CqDmUMqkrWJxh6WwGQV7lu9-WVJCf-xtJxmCiyogh_lF2Pfo0JvKAg_9nwGCBTi1udyEUpkU1p2R42v1--Nhcek9j56RqCv_OJAY6QZ-D1anoVjkzoAt6-7ekjziB7Dd1yf83d_CWVmOC4W2CzctAiAgKXLUm-onpDTB-ydUfDeStdpx0ebe9vBVzLpHRYvHh0nc-3xgRQy2m9VprTwo2qGb5fuJItlLaAfzTVpGETw0rxkR8AZ0RJesv6N5vBweWFauV2PhB_5PCpiuXJ4c8dZDYQDQ31Cba0Z0ZesZeKjdg0HwF6ela4MOBbfwEnm1bRbNqBvPHkrn-633I1jEJTXj6eRxW863IcvndFtXAv_o9k0RdXMpZ64TvSNUaxSgVo4CbMejqsLsisjGbk-tmJmyw9W9kA9Fm_JO6-TTOWftcuLK8SvpjW1HRyakE93d-B9NU8J09jhgtxUdO8TKkq-TltOfii6wjvRnVY28wSwq7-zEL1xsqZnt6HpCMkqz2bNW6Y-Ctul6CjhTLeCEVGOxJ1qIE1vMEUzhY47XmBQ2T329BJULyrruzHJs96XUaqYVoeYBFuM73fd05g0oMlIocuLn4KBRnVUGKJqn5yx0hsBUGAYiDgoM_z9KMAQ5uhRiMgDI%26ch%3DAQEAEAABABSzYDJ9ZM3RUgTW2PYefRKwI0WIXvwKhog.%26v%3D3%26pg%3DUQ5ETIAQCVGN5L2WFRN55BBGXE
+.netflix.com	TRUE	/	FALSE	1793141693	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793147118	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
