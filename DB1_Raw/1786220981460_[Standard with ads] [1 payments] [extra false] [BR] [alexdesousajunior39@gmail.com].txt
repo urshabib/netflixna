@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: alexdesousajunior39@gmail.com
+– Verified: false
+– Profile: Alex
+– Plan: Standard with ads
+– Next billing: 19 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 2162)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1806761645	nfvdid	BQFmAAEBELTzfzxiKVxDs4bW7N2FrCxg8SsmP4cFDDscXuqZphSmO3wrnrbLTP44xeAAMLmj7dAPGz78BdDscnqTjiyL71JPWGbIVBelb7Wafew9pHBaUgf1JpGxWPxPL8uZqqkxZjSNgkLrBas_7W6uuo94G9p3
+.netflix.com	TRUE	/	FALSE	1813423869	OptanonAlertBoxClosed	2026-06-19T16:51:09.031Z
+.netflix.com	TRUE	/	FALSE	1816274657	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+22+2026+13%3A44%3A17+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3666ccea-191b-476a-852d-bf72a09b8b73&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0&fclco=&crTime=1781887869470
+.netflix.com	TRUE	/	TRUE	1816954969	NetflixId	ct%3DBgjHlOvcAxKyA7_rrtIk-OKs_2vQcaQTsMTmskjOy2CXe5-ieKwsXV_YMX5cMaBqCavoCzn0_RXYSf-XZt7ZaAECcfuXvtYvwQf23qT9AWJ4gksmhaJ_nygVcLiIVPGMKssD--Rrj6hoDDSD7fbCyIz3JywZYEgpfxEoAlp3FfGDq0Z1tviNlW4QraIQvTvkk6IDgeCTOqIGZAeNLbkYeeXfYf4wRlICUmO9jf5YubhKl8-T8Ie3MHJHolfghNBCVPlkQepBbDzJvgyPf_m4PEVjkb-wK329KrvtiLOQqf_fV6UY7_9CQsZTgOPYgeYBiIiiFQU6XvUpQu7VOYObxUkhzMAmSvUu12g0dlOoii6ZKdmwJwzQdDjqOqAX52c8meZsDadt5qQNx8yux5rLWo0H_9lC3mVwiFl9QBWBz_lLT533-6Vyh9uiNPkimhPzncu5iVvGF6pOvXbMvc2M-Dc7iWNbq8KQNBaXGZm6THmUvc8NMFNRRLu8HoLJRcEsCuZZn2GKgSWg5MOJrRJ91grhxkB0Ouy8hkSIrLShnmUuTxC5igFpfiCB7VhvP-qGD_2HoTm-COta81FQGAYiDgoMXtEISaftrEpRufDr%26ch%3DAQEAEAABABQCfjUSy68SmkBAuCJDnWUeO0XboapOew4.%26v%3D3%26pg%3DJGGSSE5HUZBQRJREXINNI3ZIZQ
+.netflix.com	TRUE	/	TRUE	1816954969	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQbXOSycEvtlu6SbKSpDARr8rZCUXldl40.%26dt%3D1785418972259
+.netflix.com	TRUE	/	TRUE	1788645803	gsid	097f8012-5fa2-48e9-8629-efa3f79918f4
+.netflix.com	TRUE	/	FALSE	1793194969	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793194969	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793194969	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
