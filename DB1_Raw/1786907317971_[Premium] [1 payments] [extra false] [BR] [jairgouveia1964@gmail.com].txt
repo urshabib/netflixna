@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: jairgouveia1964@gmail.com
+– Verified: false
+– Profile: shottpy\x20No\x20Brasil
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | BRISANET_BILLED ( )
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1803093218	OptanonAlertBoxClosed	2026-02-20T03:13:38.760Z
+.netflix.com	TRUE	/	FALSE	1803093236	nfvdid	BQFmAAEBENPDqhdJoit8zXSU-PQ93JBg3tCpqruJdU6taRfkugzQiLBoQTBvdo4CkWKeTLYCxs2r8mYNxuksqy208TgQ6P3TUGTk4MDYxGkcPrqQFaGlhm6MYR_UVFpFQWg3RjefU-xt1_ekwIkFnfbcc6QQiFdS
+.netflix.com	TRUE	/	TRUE	1814977882	NetflixId	ct%3DBgjHlOvcAxLzA8rjXFu15R7N5AxfirqC4VR6MiapNY0iLSLNLo1RBbpSPRdPByuc8cw5D9jMMaMAZoKHHvsebymUN1c7_cX69nvgIYmjvwriepR3zwwkNvciD8ULfk4-KT4criim37lWOTSqsXwDWcaDlrVpG3SwZiu8PgVLMHPZTljG_Hjz_cpgnNOBwhp8diavB3Yn4M0ZdbIWMx0w_a0CulVhTWEEQXYFlJ16ut3a2rARzayZY-KMv4-0aozuwVLjCb-PLPnf3vZqkPTry09P26EUF1i0bmWeQ9Garekfvb_2ovvc4LuNs9xHBld0Pcr97cIK-hvaKcXywwY_j4Z1vfNY84kF1uLyS9OId1c-caEr9deQlX6KSBDNMKFO1_ouOVlDzwySN9x8iKZr_px1VwP00Ba5qe4K8p5tRxfJ7O1kWlfO_tqaBeGV6oRpdcoOTVNhCHEMU1iuBwlgZxfKmQiOebaBtBf6ublr0SafWysryfUr-kx0L-8bjaHldf_8Obl6m_HTIHoLHPAi9d4LKBYXyXHDLZTfD3AOz2vIs1xzxIx67al3Z8wJjwK9nYgIfXm_i_pP1BvRkUZIkFtsgrrH6NYeaLm9GQrh4H8pFuYdMlPfqW2rMjW7s2omGVQiKUxTOhIAtogD7OpdiVZLxsmImyV7XU_puUYYBiIOCgwx3Qe042GfdLHov4k.%26ch%3DAQEAEAABABTphj0c5rtkuKDbFY0iRI_9RhWRAu8vfqs.%26v%3D3%26pg%3D33KAIPOTKJDRDNEZMLT5WDM3Z4
+.netflix.com	TRUE	/	TRUE	1814977882	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS6HT0CSafnZLtunXCvZjasHxosZ9HGShA.%26dt%3D1783441881782
+.netflix.com	TRUE	/	TRUE	1787075567	gsid	4b9053c1-5baf-4727-a277-fd7ce61e42f6
+.netflix.com	TRUE	/	FALSE	1791217883	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1814977883	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+07+2026+13%3A31%3A23+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=30cb57fd-7773-4d83-8af5-9fbad9492ba6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1771557219176&geolocation=BR%3BAL&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1791217883	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787075567	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1791217883	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1813607620	dsca	true
