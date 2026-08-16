@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: Carolciocca84@gmail.com
+– Verified: false
+– Profile: Ciocca
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( )
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1806976835	OptanonAlertBoxClosed	2026-04-06T02:00:35.312Z
+.netflix.com	TRUE	/br/title	TRUE	1810000829	dsca	true
+.netflix.com	TRUE	/title	TRUE	1810000830	dsca	true
+.netflix.com	TRUE	/	FALSE	1806976828	nfvdid	BQFmAAEBEGg90pm3fO-yI9mbwZgw_ohge-Sfb0Q1j4xZbxGIjbZAxLU0TaCdW0rbkqSN49ZYDcDXCwwYYlIuL3LhcsWYOfcQvpo-k_93_JZnc6Z4UlKHdN1xQfm9duF3RFZQXx3Udr5klqHaZbxkCmtMuPnVq9cC
+.netflix.com	TRUE	/	TRUE	1807367594	NetflixId	ct%3DBgjHlOvcAxKABMbpXQTrnS5AIWgiM2UEHBXLA2faXzXhecbAxCxpJNpYTYJZsvIqPDkqNM4IBV2M01vEgfZGDnMFR_CTNPIVbf_aB7syRY8FNCj2LkkTVBrrDyND2nDtdKqzjuL7qB1IKCPUKepvyd80Y4nAa_Y9tt9oHmc0d09Srl32k57t6wtDrQ4O1JSJpI8DFBJTlRJGIMwTC6p7necJTmJVBfYs3_gvOc15ZhWXGZ_OSSu3SrQfjXsGQL_bs0mbkwtw39XfKIxPlYutJs96wUD4SI3TzgbE_8d3D7LDqsVHMwtoVtiXc85FCzQx45Kpwkxy-jyvNojdzN33SpGJQvvsP6aXYVy2ErEBb3qtYgkcJJFfDGaYYLz2sLGTQuPc0l109MlqhkmSR5Dvx5GB60dZYQ_xr1vyprlX_S24nXx989yYtLTWdast3M8-uVhD8hEWuyaRWYwVC3rZf6R-LwWRwj8I0L4GEbL5rX1rI_1owx9iYmbARbXtqgpQ39noTWIKIuyfer-JktgVfR43u65n4j9i_zWrrtBR6lenYGH3PLcpfVzYTxcAsWSoZWRXkRuzALKgee4A0ooBtDbIcgFYEiXZZa1nCNsdAWYu9HlaG-SNRAMYODcOV20N53PCk8TTjk31s74VH08a9lURqS8wa8ELXkdqTV7a9-qX1oCR5L0wuFb_GAYiDgoM5QSgpUv829Pe1Glw%26ch%3DAQEAEAABABS9xIq-SPkLF4QwJV9AWN7m3X0GMKPCjfg.%26v%3D3%26pg%3DW6XRLGEUMZH4FMK6264C3SHHSY
+.netflix.com	TRUE	/	FALSE	1807367595	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+11%3A33%3A15+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d1f8cfc4-502d-4bea-b7bc-84128601bd07&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1775440835846&geolocation=BR%3BRS
+.netflix.com	TRUE	/	TRUE	1807367594	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSrXQgqYpluTMJhck47eMmMrdaj2ReQC0.%26dt%3D1775831594180
+.netflix.com	TRUE	/	FALSE	1787075567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787075567	netflix-sans-normal-3-loaded	true
