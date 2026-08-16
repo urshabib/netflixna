@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: manoelfurtado006@gmail.com
+– Verified: false
+– Profile: Manoel
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 2038)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1804654015	OptanonAlertBoxClosed	2026-03-10T04:46:55.676Z
+.netflix.com	TRUE	/	FALSE	1804654054	nfvdid	BQFmAAEBEFDtSQq3bIU7_vXBeVVqqgJgpNOYsFx7R3uxR2DEiyUTdjW1NnOOdCSmz6-E3kS2hHv0Sn-QtISxZJg7yyzXgpVWN1TSAo2osaKhs5qAc5A9Gipgfm6vw-pvUuU1Fkex_Ky6e4sgvfW8IiTNHJTwx0ox
+.netflix.com	TRUE	/	TRUE	1789481640	gsid	b7bafe0b-e6a0-44d8-bf51-af78b48606c0
+.netflix.com	TRUE	/	TRUE	1806243956	NetflixId	ct%3DBgjHlOvcAxLKA8Eessad1_s8HR13VF780Z-36Rd6T1xCi0khJNuHpDO4_iJ8LVziTtrhtMLKhhblfTE6HuEf_VVnIrXD7I5dRegFrBXZu15CoNLnemxZMgtdnR8uR3OdxtbvY4I-AHugmQ_MBhvbmB4DmOkXxhp2V_ds5Kf8sL0fhALNWAUltyWjSHivIY_9SIGyVwaUumm-DxsacrsHZHXtArGdy26QPAwa5awUveDdZ5AtXRpDVOPMk0jjPAYqrMq4Gy4uLjwLQuASpNK6s-sBLVOXm0U7qdW-6gFp0D2OiW_YkIJgFHqVvtNXVWhIn-nMcTUsNF9Y4dmR1PynyhLfMkhDWqTlZ9vjfo4K3BpobOBHiK_V_1z0wMX3cOruxhof5YjjFUiBwm3yoPop9Plhrc56RgCRVF0-p2vqZ6Byt17eTFuQbyuEYo8KNXifYVf_SGeX_gYoubGuVBhA7M7j2cYHcOLmBZtPjMyoN79JoZvTPcBtB0iATHshiad5B6Vhbi-ZLDLvt7Ist6PUTPpn_fHAnXWtdTgS9zxcyga66D-G1n3_8gUiUGFCofPWb4-Gu9TWbL7Bc0gVOYQYx5B8yOLnxyFo0D5SnYzxBgOBNoOyGAYiDgoMdnAIzRimNzMJnSb4%26ch%3DAQEAEAABABQMcjXepn1weWHa7dh3xUTHbh6iJEWq1PQ.%26v%3D3%26pg%3DTAVKSOB3KBGJHFSAZ5DAN6Z7NE
+.netflix.com	TRUE	/	FALSE	1806243955	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+11%3A25%3A55+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5d04ab26-4714-43f1-81de-7ab01040e4fa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1773118016165&geolocation=BR%3BCE&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806243956	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTxxcPSeJJa6AeXz9Ll8EC2yRUc_WCUGP8.%26dt%3D1774707956102
+.netflix.com	TRUE	/	FALSE	1789481640	flwssn	0360a13a-7c23-46f0-8613-64ac566f2f15
+.netflix.com	TRUE	/	FALSE	1789481640	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789481640	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789481640	profilesNewSession	0
