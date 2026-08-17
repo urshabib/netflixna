@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: josuevieiraramosramos@gmail.com
+– Verified: false
+– Profile: \x3F
+– Plan: Standard with ads
+– Next billing: 14 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 7013)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1789481640	OptanonAlertBoxClosed	2026-04-01T20:53:29.424Z
+.netflix.com	TRUE	/	FALSE	1789481640	nfvdid	BQFmAAEBEMpgoaHbc0WLwYiTEmy9KwFg-nxh8__zRvWAjam_rAsOCBtR6yjM1JvRn5GwDuPIGvycB7dwMmm67UleqZ5Ou7XmUVLO444pnrT8uU9MeVpzs4-jnJw0MfiixYSN0vRg5pSLC7wINjZBNUcBA4Bswq2j
+.netflix.com	TRUE	/	FALSE	1789481640	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKLA7GWblDSe5eOtHJwOBiQOvuEX2KnJHUzw8txFC1TXxnY7q2HNDR9JyRCKB886kK-vj1tAKl1OXEW4Z7u80B1n7x8rZgwzvDCmqdJYVIEtg2SEH2bGcrEMsG-AgkuYayRnmSihfv_-65OVm6S-zQLOuvj-6KVFTfN7lc1vXvDHymC4gJO7SFbQxoktpxeozTWPoyXDft3QTjJgCH_ttMARtqseORbtPa5GoDZNbTcE-bZ_S7U9xPx5QYIqkvg50x7WQ1JmVJAIWVv3h8NAvqwiRk3GCe8gQljOgnvc3mpz5LnsMWhH2FOgcq2iyFpyD1GPTCtfv35dJ7ldR2Ly2eZvfVm4qyetvM2VDkC7hhzRcMPleE6vxaFhdGMmiSmNHerz1V2-634PK7bOX1oJaQxneqxyiMlsjKzM-i2BPabc1Ydifc1AfN6upCFWQ0CFIClQBJiIPj1p0QABgyrdOY2dH1aKYeEnkKIfiaOzgfx1pmE-y1yrOeRe7FVTq_B12MuOy6td-38wg0sl5xnGAYiDgoMg0H9X8ORlDPOO-Cz%26pg%3DGQ46MK7M5NHODFWJD6VYU4II5A%26ch%3DAQEAEAABABTIiPuFkgGRf0Hc734fVO6xIDeNFYToRIU.
+.netflix.com	TRUE	/	FALSE	1789481640	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS6G9zkRr3epI6W44OR6ji5Y7Z7pfXEnts.%26dt%3D1785532212274
+.netflix.com	TRUE	/	FALSE	1789481640	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+31+2026+18%3A11%3A47+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b572810f-b381-474c-a9b9-5e09546f1f62&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1775076809952&geolocation=BR%3BGO&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1789481640	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789481640	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789481640	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
