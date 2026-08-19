@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: victor.nois99@gmail.com
+– Verified: false
+– Profile: Victor
+– Plan: Premium
+– Next billing: 22 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 5179)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1805162702	OptanonAlertBoxClosed	2026-03-16T02:05:02.288Z
+.netflix.com	TRUE	/	TRUE	1808186699	dsca	true
+.netflix.com	TRUE	/	FALSE	1805162698	nfvdid	BQFmAAEBEL9ohERanEmmJ-3kjbOw8EpgejqIsQEfGUHmWM__QInrypqc5c3guf-LMzbwdJ1dBQoltk9oIBIhfWEvfjGOBsQHlh4jtONg3xYw26M24MYOdA9MGXq6HA-NpYskVnV1V6VaNOX7geFpalhKwTs6zB4R
+.netflix.com	TRUE	/	TRUE	1812326705	NetflixId	ct%3DBgjHlOvcAxKNBCyk5rG-BrVMcStRgYgrGMibMmpi1XxXx_UO38hz6SEUBMmFlREJrb2JMrRYXHuxcMoEHcb7-rk_bKNf7eCT7jxF6reuZRalT7PsC1LHNlcMgoEk04Mo4xdUeHRQ7fblhQqNvaDZ7gFR2XrK7dQOoul_bLMBC5YzALoMLt9nJ7hUrF2Zfi42m1Bm5TK11vK39EAvRx-9FowYcAjKpGSjjG6YxLNvTSNzRxZ27jkvNgNNYW2HqzGiIJOOIu7vLczZvruirCg782WoYGPOi6oVx_u3X3pgwkQyaB8-ePmCuTxrP5EMQrhrvj4BKxoSLS7BFCxC6Fw72aAHd1EDDCa4Pz2PhlH2exjFpgCKmbXMEDRr0ZyMWgNo4_72uw1nV69wBqMcJHLV3uxW9bqF55qJ0yPFvhxiThkP8VszBlJ4e_74uSRCoJGimSgodWDj7DcHnP38pck7qjV9pHBj-njYe-LteKCo92qEek5xVH5YWmWtb4p1Ebkmeil-Azn7pTkdIXwojKRZhNVmpomhRIjcfaOHZw1ga9N4w27AtnJRDPnIBXR71oPSxgg6AWvchDpDJ406QSFD50VcubTDkNl4XDrmOgw_1uGpfk0hb80heIPGGVmHRfI6ETiO7ZAoBbDQkDiftEx7yIvH14_edOlg3rgJk7_29XDzYkzg6MO45MyaE5AMkOYXWN5XjEldsBgGIg4KDN_ZUnIcbFqMMZdm1w..%26ch%3DAQEAEAABABRt8kKk6wqUfp1VTXYusz-5tgA5Kw86Dhs.%26v%3D3%26pg%3D4IHSMX5MQVFVBAJXML4J6PRAGM
+.netflix.com	TRUE	/	FALSE	1812326706	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+21%3A05%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e2e44609-994d-48da-8dd6-11df5cda48bd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773626703689&AwaitingReconsent=false&intType=3&geolocation=BR%3BGO&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1789740480	gsid	0d73f901-1040-47b7-bf38-1111e96eff62
+.netflix.com	TRUE	/	TRUE	1812326705	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_q1ok9vfQ9yjiTia0z1E_BSfBY-QsY4o.%26dt%3D1780790706002
+.netflix.com	TRUE	/	FALSE	1788566705	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788566705	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789740480	profilesNewSession	0
