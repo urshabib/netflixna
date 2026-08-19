@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: federicax1995@gmail.com
+– Verified: false
+– Profile: Giuseppe
+– Plan: Standard
+– Next billing: 15 agosto 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (VISA 7692)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1789048408	flwssn	c3f9928b-e7af-4724-9f88-f43f090819ef
+.netflix.com	TRUE	/	TRUE	1789048408	gsid	3ec29ee3-1f58-4471-a6c1-2f15b326130b
+.netflix.com	TRUE	/	FALSE	1810584514	OptanonAlertBoxClosed	2026-05-17T20:08:34.690Z
+.netflix.com	TRUE	/	FALSE	1810584509	nfvdid	BQFmAAEBEMprZMCyg0-XPD1FvYWpGoRgOQpJ5RDpx-awfzTbqYjhroPw9dca9IaGuJAcwECfS2jJr47TSSqBcMZmBDaqYNItw-9Jyix-Dri-F_ZE7vX7s97DdmiHr2oId2gPHL_Y1dtIKu7bTP3oYoKZL4wCRwCJ
+.netflix.com	TRUE	/	TRUE	1810584518	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA4u8HphGa0UoLn3o2q92A00MRHjlNpoA1OVjzkAaY-gdsGmbphXsclTC7nIW60cp8olqZ8Ob3n26RBIK56oFebJpkGWAVH4RuUhZ9pjyKXI6nw44QsUF5hpsmOZmHH6r5Q_HitqNffg3MhwI6-AUitecYTYW1xp5jyGmpl7YGxaNZIdARbSxQVyuc8L71fBk2eIwJzr9lctS8sikQJdEVUWAeO5ojL3fELkPZFmSnDQ_h_-EUoPbG0pwzEmepSpfKGhKK81ygmEjlKL6r_JUnbQGl1JZgoLH0TQk4-1EqL3kMJcFeGFQMoy1r7Zwb_Ty1OXTDmRGk_VWQeYiENA_Wn2LuIOsYMppnV5LGKDPq9j3CT1MLTLc4JupavrTzPh8TQKlkk-XFH1gfQnSV8yxnSzmo3n-sc3p-yVh0aiyCA8eCATGKUDKdpRGX6-3CQZFnWdO_-8R-rfvGs9_cMX03Scj50peqTGs6N-ixJvnQYeXkb57MFkgXjaAEW6Thr_CIsl7HX-MTxydYUGraqsWHv89Ybl1nIFaGAYiDgoMWj-wTwb9cxXkeWH5%26pg%3D2EHGI5N5UJD6DON74LZEWTNJMA%26ch%3DAQEAEAABABSUUSxw_joRWvlNOZpNFvsQoCJfuzim4kw.
+.netflix.com	TRUE	/	FALSE	1810584520	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+22%3A08%3A40+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=069166b5-9a2f-4a13-8cec-c1e7d087cb64&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779048515635&AwaitingReconsent=false&fclco=&intType=1&geolocation=IT%3B72
+.netflix.com	TRUE	/	TRUE	1810584518	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRbTqEPoGNbe7HGU9x5JvEKW0_brD_xxNw.%26dt%3D1779048518246
+.netflix.com	TRUE	/	FALSE	1786824519	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786824519	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789048408	profilesNewSession	0
