@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: matheuscoelhosagradim@gmail.com
+– Verified: false
+– Profile: Celulario
+– Plan: Premium
+– Next billing: 11 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 8536)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1809977177	OptanonAlertBoxClosed	2026-05-10T19:26:17.482Z
+.netflix.com	TRUE	/	FALSE	1809977213	nfvdid	BQFmAAEBELMIBCQeRAKrwuibWRv-uv5g6wbLDcOHvSOdjMAhKuGohLz0yK79dz24M2bh2JCAsBqYNahhMpwq-oIfah01ln3fvucjvB784gxm9C0-cLJYJHnf3xoviy7Xql_fjhzlr3edp11Zdpqw8KlvuM1ALWPY
+.netflix.com	TRUE	/	TRUE	1810421549	NetflixId	ct%3DBgjHlOvcAxK8A_k5PvQpgPuam8Jb1-wX3VAmXM1Q9UxHIZ03htqcMjF0GetMN3hUg03XyzLwDtpEd1LYpY5K6BVM63mJPliW3ZVnUl2cbj2s97GB3H9aV_BDLSdlHGJKKCN1QaMlKbZGgmq0TJe2YYZGuNUlMucLfjmxRiq6o_RIOGClA-oFdIvHHDxCdGhiIHDdWNu5IVfDu9BEu2fdgcTcHv8RRZYuXo_VFMQ60X5afRbQzMTguuDWeJF2KEaqU0Vbs56_OMGVCci9sVwYOGCvKx9xkt2oCafuEzHRaQB8NMzlSrWdUDPXCicBguHbKxu3-ZGyy5c7NeqGda8Vh9p5d2srKlJaul-LmemWy2iPtmAouhfUUeowCvszcFfDzLq-Tz3w5HvE2ZzKlTF4jw1Zjk8bpTKJKBfyXs6cQYG6zyih1kXjZg-eHSsglKCauBcmou1PaDvw105aDAAZrFS2yoOjxgCGIEWXUkV3xF8hrdX4h-QsTdeyeILWDTOFq2zeDV0ZctLETGSWbgjbtLpX01fmkkTEjdl7m2F2VYfA8k_NtAglRZuVI3yCdO9JipxwrjSv2Lq-IgLDLb91mOoPcdtyPBgGIg4KDP5Ei188g4s8XXnYog..%26ch%3DAQEAEAABABQUYOR6N4Sr-h_LQS97oXmlsScc2lT0dGI.%26v%3D3%26pg%3DAEHVTJKX3NAD7E4C2LVHAJAFBM
+.netflix.com	TRUE	/	TRUE	1810421549	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKBRQZ62Vtvd6QaHR51outuczckJq-L6E.%26dt%3D1778885557603
+.netflix.com	TRUE	/	TRUE	1789557640	gsid	545642ef-a5dc-483a-969e-dca894b630bc
+.netflix.com	TRUE	/	FALSE	1810425039	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+20%3A50%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7c94552e-b11b-414f-bf49-80bcf364b001&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778441177918&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1789557640	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789557640	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789557640	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1810506254	profilesNewSession	0
