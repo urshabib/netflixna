@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: andrepedro1@hotmail.com
+– Verified: false
+– Profile: André\x20Pedro
+– Plan: Premium
+– Next billing: September 5, 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (VISA 1547)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1789740480	dsca	true
+.netflix.com	TRUE	/	FALSE	1789740480	nfvdid	BQFmAAEBEJEVj9ItTFFBOSq8zse3f65gWijW1Ve3iHrwa7SCso3t7SSnJv4ECATEX0jRR4dSLDuhhu5_HSm5tqqTMuNtR7BBZo8ciunE6cOx5c8iyJ698mXscBvitRdhMcO1jHks51v2sjnL35C-lLqfeE8NVHY5
+.netflix.com	TRUE	/	FALSE	1789740480	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA4MN9jwhyanErMH2mhRYG4yxxAb-rNx7UEKeTRNFd6Eg_wiUw5RKvPCB5I4tOvwYipAOqiG30yUWcp_tUpSHEz9UO47ooYqo0M58IPlyAdT3vtuR3l0QBlhSw2vX5siHFMPU-5mJbOeR1DahG2N5ACAvAjPUryiYWF4OiMti7xFq-Zvghy7trt2jyvW9EyNy0gGB2hlFj95ZuVPKr-rlRlN_AT1EKRp8fooJS9pBc2q-GMtik_-prjrB_fO3WUojMfn7DYEKUa7STS3QxFmlnIByTAoxJ9SYKfp5YR3EDCyVv0bjaC_86IqIci7leDgoQTOJgPH3kg2txhVudni7t6OuDFMdTUmm69rIFh94sz6SSJmUZSuvru_drYTRDLFr5-yBeh9MCVeMAVRuGZR-jAazlqnC301AkYhJxfBXZuChsZJMFnrIIk8dCIS4ocpeiVrYqKQbBl4-xq_iP1xdXs4mTGxkmSVdfobM0yobdEGGDZjct3KkY04ZAxLHmNZVLdkJ03mwGmEVETon-2Na6LWxSlGxVODoUIM9RCV2mLhEv3QYBiIOCgzp2ZXOPBKMKoEoEk0.%26pg%3DAXGHNCPBSVF25L3LQR4233MX7Y%26ch%3DAQEAEAABABRcjF6nqDDRaDu1OtBGJjCACtZRjIuISzo.
+.netflix.com	TRUE	/	FALSE	1789740480	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+20+2026+13%3A46%3A17+GMT%2B0100+(Hora+da+%C3%81frica+Ocidental)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=cc2458e7-7659-46ef-a05e-9819cf329b98&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1789740480	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-k6TZip0u0QCu_D1Pq6yEh0LRzM0ZwnI.%26dt%3D1784551575622
+.netflix.com	TRUE	/	FALSE	1789740480	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789740480	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789740480	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
