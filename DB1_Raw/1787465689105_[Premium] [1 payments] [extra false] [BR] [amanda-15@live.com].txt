@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: amanda-15@live.com
+– Verified: false
+– Profile: Elamiri
+– Plan: Premium
+– Next billing: September 3, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 7389)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1796244102	OptanonAlertBoxClosed	2025-12-02T20:41:42.284Z
+.netflix.com	TRUE	/	FALSE	1796244143	nfvdid	BQFmAAEBEM0hYsM8M0onJc0EQnjJa15gyQztmGEt_3NO7GdcaCUXRHX7HzvN4R8qqHll6NCRkmVqcD9WNhz4Xz5_iz3eB-UQNVF2Qf8vuh-b8bY4pdAHkMMMrEN_WBcso-o93mnPVUHgzEWdw64ghjmK1Vi3vh3r
+.netflix.com	TRUE	/	TRUE	1790006727	gsid	eb86fb33-9d37-49dc-8c0f-78cb8db7bdfa
+.netflix.com	TRUE	/	TRUE	1814232788	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA6pSD_ToHez3O4UbwC6aGRfqCslkMfbFWHsOZqR_MMkPr3dDykMNyU9_b7E4x_B64OHk17MkCpsKvG8pSEh0m66udUiV4BxXVAI3274w5hdPFrezTa9aS4UaQdRHEifurinTfQKbjf4LoOMGaaGyOFL3vPKeLqopOQKqbuyCAV46NFOLma_y3HiE6uyslnnIgYmD4ihBwaGM0MAIsvYtIY4G3Usmuydb8SrD4EvOLgXFRN4dEpUUijuS5heQxZm7hjLFPfTJipT5ws3vW4R23lYoDOgi8XL3kBuJWWjQ7ougVkL4F6UP1FpGPdw-Cpaqe0XkymyeYxVgZTriemS7Ex4eJQ3FuQM8jDYdbcG1USxrx1chCDorb8RpezAe5j6F_D7kZD8SyNaP3ndipfKiHIIFLF9XXjSEwCL8Ft76DjqyA44CraUohje-8oFwinxlNjmzLV_N2JzSers3Ay7dvpRx_eykbsgMCEohngtJIVz3QjR63F10_gfgV5tAAxdj3gopiLkq2LC7xHPgtbJHMrgCSozlM2WoIbLsGAYiDgoMabsSyW-XRe-Rd2yc%26pg%3DR6WY4S2R7JFKFHHEZBHZXY7F24%26ch%3DAQEAEAABABQ4QWIGoQFn7A-aEZM8GsuUfIB1KILsgLA.
+.netflix.com	TRUE	/	FALSE	1814232804	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+28+2026+22%3A33%3A24+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d4d9cd4e-bac9-46ab-bb88-9516b530b7c4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1814232788	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTbUGq8QZSFtVFU8ktiftJ29W4ZCoU1bno.%26dt%3D1782696788131
+.netflix.com	TRUE	/	FALSE	1790006727	flwssn	968a9db2-96c0-41f3-a2ab-3e7561bdeb5b
+.netflix.com	TRUE	/	FALSE	1790472801	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790472801	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790472801	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1790006727	profilesNewSession	0
