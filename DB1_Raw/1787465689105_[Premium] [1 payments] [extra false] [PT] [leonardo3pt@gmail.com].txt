@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: leonardo3pt@gmail.com
+– Verified: false
+– Profile: Leo
+– Plan: Premium
+– Next billing: 3 de setembro de 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (VISA 9247)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1797901919	OptanonAlertBoxClosed	2025-12-22T01:11:59.085Z
+.netflix.com	TRUE	/	FALSE	1797901968	nfvdid	BQFmAAEBEKxhqf4QDPOnwkG3Xf5jX4JgO7lE99vLn9tEyzChQFwjpiXbBlT_EXjVp7M4--U_xKiyi_PZsdik6p2TQizyb4uGb8vCj0HZzsM5q31yTeqPXqVoStVfQ_bf7e-JLz3dOjFI93uc8O0q0koLg2a3KrDW
+.netflix.com	TRUE	/	TRUE	1813753671	NetflixId	ct%3DBgjHlOvcAxL6A0nxxZT2wAKLnsJKaZvdrMWy7iwJbY2YQE-8Ic5PqaQpI0ieFXI4343k7emmgIlq29X9FMAs3oWl3P280sPaxSklxbCaffTdUQ7RxnyPvRn7uYXfzsPG6lUO3fLCy9Pb12n5HWfCNy7tUq0NN-_s2fnH6U_FNnaBCrfptF7LeK0j41KKHvD4tFjU4yxUxzUTnz37RBhoEdyL2jqbSXsvq8EqGzyukFhXf7kgV2s7v4XxpF5Pxs-G635JRFf-go5Lmp2Yrq1T0mkfFRT6lhFnPszeucCvsHgr4RNk9d0wByKMzYa71tjGQdaYsbKrtjX-7wcUn0OCRsE9UZbCFJg45XZuyasWUfzup5F4PWpGvhNW_7--XFLfXa5sryEpw1BbLWbcvW7je7hWIXr2odF81NDtnwL6Fgsthld6kEaC8kJAuHVKd795zm1O2Cc3Ys22ScEKWSAQhQXY8AZY_571afHTufSTWZcB7LTN7N5bUJU_VuQnp2P2uIsbg5L76MauRZvxjNPH3PBPsvn2QTR_qCJ9HhkCFjEPxXBEw2zWey1cJe-FYZbDO2A_hK-lSjXeDotfPMHUU-aVKDTrDJpl92xNiA16mfnFGOvNlkLkSHsy1oSteZzFNGwaX2Elq9JflmErIn31b2-BcmCco9tQibwcZ_evNL30mwhFGAYiDgoM3PFGyC0hM49e6Myl%26ch%3DAQEAEAABABSPEvmp45a_CdSt_XV86rSanqJMmYkXPME.%26v%3D3%26pg%3DIUHSRKHMNZCLJL6JDU72APYEJI
+.netflix.com	TRUE	/	FALSE	1813753672	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+23+2026+13%3A27%3A52+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d85fa41d-13bb-440d-850e-cad915e9f3d3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PT%3B06&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1813753671	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRFWCDzMXamrLJxWAAVxHJl0wjupTZ_eVk.%26dt%3D1782217669464
+.netflix.com	TRUE	/	FALSE	1789993672	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789993672	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789993677	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
