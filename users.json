@@ -176,8 +176,8 @@
     "username": "mariemf",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 1,
+    "links_claimed": 2,
     "has_limit": false,
-    "last_claimed_at": "2026-08-23T02:27:55.289Z"
+    "last_claimed_at": "2026-08-23T02:28:26.289Z"
   }
 ]
