@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: thaynarasantos.r4@icloud.com
+– Verified: false
+– Profile: Julia
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 3006)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	TRUE	1790006728	gsid	7b94fa68-6054-499a-bea6-fca747737acb
+.netflix.com	TRUE	/	FALSE	1790006728	flwssn	e5128b27-0610-433f-8090-88438eaf626b
+.netflix.com	TRUE	/	TRUE	1790533195	dsca	true
+.netflix.com	TRUE	/	FALSE	1790533195	nfvdid	BQFmAAEBEMt5Q3GWwGhQ4ao1-eMQnItgTeK869uUD3asO3BmYFSSOeoPl0mG4yRIh3DgWrYY7VoIACxQ2EftaCEGJXDlCHLk7JbAvMWzHb6c8IjNalvfCb6Kuf6WSbT0CnxzKCsEqLA5FJv0QSRXMy1vNVX1WfLN
+.netflix.com	TRUE	/	TRUE	1790533208	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAw3o2I4x_1YLy3Yh6wRXjS9cfXAa9sA5AHor2agtDKpow0Jez5xfBKa2IyDUubJvF_XQRLT5cLNLFKL_-lnvRqzyYDUa_CiOEh8lfYdUyOvyt96tj0X1ny5YA03eYFW0fc9pgdSir5-ak5FFDdMK_XihkS3IyLVqRcdHWeS72c9fRa0hpYyhoLFiS1Zlnkx0gt0eDR9qwXiA-iYMr0lz3m8iMWd1nsjAvk1zD_j452gAcQSNqKo9VaZJZlAug2WQGhhKDDGWkKDqqHFuZrkwWRjodv9-BgnoUZZsJaHctQR8BHbDu5kU7Z4XpHrNSIj7KhJn0G6w8MRlV3AK99NelUZcJYhT55gadRQwsbQPMiubLeW6Y8Te23Olip9X61CYpmqK-6WOCf6p52bpXFZVoEuNEg6t7dNB9nD9DL8AGnb5xved_RFz94oNxAqVbaybR7goSEkS1thukDIxFdMbXLy5zkO3PJIXueofzIlhDU3vPwICdR2DzyYCdMqbpeJ5FPP9RFmY3aJQrvZ-zrZmEXU-hmPjcUimvlwYBiIOCgxLIITVkb25mubh1nI.%26pg%3DW3K472DTEVBTRLGYVJMHH3F6PY%26ch%3DAQEAEAABABSXqSJkW-OaoEUZWEAIiU6v54liD7mQ4MY.
+.netflix.com	TRUE	/	FALSE	1790006728	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1790533208	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHRrV69_QoVyb5Zj6rD1e2D5Qv3EYBSz4.%26dt%3D1774981219946
+.netflix.com	TRUE	/	FALSE	1790006728	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790006728	profilesNewSession	0
