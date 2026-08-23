@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: taniailheu201@gmail.com
+– Verified: false
+– Profile: Tânia
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (MASTERCARD 0002)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1796237993	OptanonAlertBoxClosed	2025-12-02T18:59:53.083Z
+.netflix.com	TRUE	/	FALSE	1796238008	nfvdid	BQFmAAEBEMKHNAttodhWlQNT6Gh9CQpgSgrNGpgoiE6xGIE8N0DexyStnuldoU1DDyZn5k4z1r48RGObMg1fwLJz-CoEckoPPkMJTU7HWn15c4UYTLiSsJHogiOdA4YdNdQUPkBCfHWwXMvIR-VHlCsIAhYfnd6K
+.netflix.com	TRUE	/	TRUE	1800381803	dsca	true
+.netflix.com	TRUE	/	FALSE	1801479334	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+11%3A55%3A34+GMT%2B0100+(Hora+padr%C3%A3o+da+Europa+Central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc8b0976-a268-4559-9a4d-871410d9192a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=CH%3BGE&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804877968	NetflixId	ct%3DBgjHlOvcAxKNBM-0Oglb8PGA4gNIKlahxPZKMFXSrbmvN7TbHyDwAPj_tqRiyCjzzYJUWX4oliptKAfbqzWX6uMhQAmew1yZvbP_RZSeL8BuWn_qsWInTIyjLg3NtW5IwuWJ2_tQQ7Te5YUTq_j3g5Mp128P3u9uxZ6wL8kxYe9eg89gwlGoHhNoF7GszjmrBXDYzWGNXSuZpDpgdpk33kJFdGCleLgwBgFfCd7Ydn0xnLlIJrkmmgO7u4dR4mUENUgmhqeGnv3eh_M2u2j05x262P2-R9vYFZHsey1Rxpcqb7VHOgyiem0c6DxqS-iroAadkU3uU8OQ-wFNtj0bNct8RP91aOpiZjPP94-iG1tcGBlFuUiAs6EWc0gi5TqTsSWAQHgoChnjuK7sD3QLnXyJVK42HtwfNz5p-xHIrehHrqeJOqNUKiNnFnTgLU1WygOhU5C5-B6S8_4pHRbbMl8-m5id5eQFT19fNPYbXnUHOWo7aEa7kO7odjgVl_coblTbL9dFH69yC8EiXRmpXS5NdOFl1pyULWWy_4h1LoP5MWG5zUtITpndV_KoNdeG3Iiuiw7ypTBX14NlNZIS-YNaWN6gV8NHOrGBtkyfAUhcB7ORam58O0Cym6C1TCnCJqRH7U3e-MKKup5A09NBDEAc8ljXx00YFYDpGD9PDOARZpc-Wjtg0g0iQhtlrbIhtjP2YObdnxgGIg4KDCFO53wRnqZ4tsBVlA..%26ch%3DAQEAEAABABTgB-B1t8v3oQETfh2ahEF_qagXeOdwGT4.%26v%3D3%26pg%3DDJVO5DKIEJFMHEF2AWKPP56RJI
+.netflix.com	TRUE	/	TRUE	1804877968	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ0ByT1Vhauijxh9aWsT_PaZtkT8qhrLQk.%26dt%3D1773341968285
+.netflix.com	TRUE	/	TRUE	1790006728	gsid	8dece3c7-662d-44c6-94e9-484685f7c087
+.netflix.com	TRUE	/	FALSE	1790006728	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790006728	netflix-sans-normal-3-loaded	true
