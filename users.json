@@ -114,7 +114,7 @@
     "password_hash": "123",
     "is_admin": false,
     "links_claimed": 15,
-    "has_limit": true,
+    "has_limit": false,
     "last_claimed_at": "2026-07-13T21:36:00.067Z"
   },
   {
