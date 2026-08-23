@@ -161,9 +161,9 @@
     "username": "abc",
     "password_hash": "112233",
     "is_admin": false,
-    "links_claimed": 43,
+    "links_claimed": 44,
     "has_limit": false,
-    "last_claimed_at": "2026-08-23T14:02:34.996Z"
+    "last_claimed_at": "2026-08-23T14:03:39.137Z"
   },
   {
     "username": "douday",
