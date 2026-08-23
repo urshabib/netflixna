@@ -82,7 +82,7 @@
     "password_hash": "123",
     "is_admin": false,
     "links_claimed": 61,
-    "has_limit": true,
+    "has_limit": false,
     "last_claimed_at": "2026-08-22T22:18:56.631Z"
   },
   {
