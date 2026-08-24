@@ -43,8 +43,9 @@
     "username": "moncefbouhamed",
     "password_hash": "moncefbouhamed",
     "is_admin": false,
-    "links_claimed": 0,
-    "has_limit": false
+    "links_claimed": 1,
+    "has_limit": false,
+    "last_claimed_at": "2026-08-24T22:59:32.731Z"
   },
   {
     "username": "aminechniti",
