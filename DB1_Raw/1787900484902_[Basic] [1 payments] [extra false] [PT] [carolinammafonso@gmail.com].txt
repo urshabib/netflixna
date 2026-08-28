@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: carolinammafonso@gmail.com
+– Verified: false
+– Profile: Guilherme
+– Plan: Basic
+– Next billing: 25 de setembro de 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | PORTUGAL_TEL_PI ( )
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1804104832	OptanonAlertBoxClosed	2026-03-03T20:13:52.870Z
+.netflix.com	TRUE	/	FALSE	1804105015	nfvdid	BQFmAAEBEBrFdZc907JlkJzJvzUBSatg8rE27H-vAAHMoR7ZCDwGn8N3ZEhrBKxjCgBeIlUOaVtHbngb9bTzhkJgBe7D2szj0gxm79kA4p4C_W7ZnEFsqxqRiSO-slbBDZfzQAyW5vFpEBFovd1v0XxntfbuvOMX
+.netflix.com	TRUE	/	TRUE	1811680243	NetflixId	ct%3DBgjHlOvcAxKHBFFCu1NxxbWO7xrLSwlNebO-sTagjMVcoqN5U6muk_BoQdkq3ggC0b1h6cwNeBtWnvkINE0yyVi0g_vZ5qUR_g3wK-glDHyNYa1fWK9Syxszf8VPRN4ptfrs7RThUOLZL3jpRqzix7iKYidjHoG-Ev-C66-M3yMWEeRY_tsKSdUKqVPB58v8-NgDtzCOmOvpbao7_cp8yWSIcYhy-1Xh67HZyZN4iF2bkkzGjJtjV8v7bbphRKb8PJ1OX5wATpI-S8bi9NMDOybnFUCMcU4tjDmU6k8KImqVZ4H2jtVQA7ryjOBS4nEX3TEGISDQiTpUHfwnLb3tIuhDFPFUkDYW02CdDU8l_sBpoPg8MvFNo19qgcv80fDpQ-eLagBY2mWYHlwnbvUpEMRUniyLbwbO9XJn2QXJHd-bDqyFLSasbMN26gXIw7GRtph_2Ueoa8d5Trfzip39MItTJQdjfkdy9vG6nlPecc3Nd8EikLYYsAaUssyovzdC4_MhTLebfU58P_NlJlFU9nVd59ibOZakK_mt3stJZqBY20HFOabZVhO_5e7QQQWh902BySgwL8IoR6yNpVOfwCe1Xs5XOOPttZN8jX2nWeRoWCkmDZCcOQbEJNRTTkhmhaGvnh1VTw7oOeniGWaXQtI9pxFX731-WbvMm8-2LlsqiyReDtmUn0f2yHm72iqsghgGIg4KDBaUmQ4sS_QNUYIJ2w..%26ch%3DAQEAEAABABTwJ7MICn2LkmwK5OTRj6OB-MMROWKcKhA.%26v%3D3%26pg%3DBL4NUKEPLFDBNMM7ZHS7APCALU
+.netflix.com	TRUE	/	FALSE	1811680244	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+13%3A30%3A44+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9c903f5d-cd30-48a0-a147-1bb005ba787d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1772568833414&geolocation=PT%3B13&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811680243	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFrOZAb8m5F9Jk7y7V8qt0hRATIsHjbe4.%26dt%3D1780144243476
+.netflix.com	TRUE	/	TRUE	1790448773	gsid	4a76d105-fb6f-47f4-985f-befe185ead97
+.netflix.com	TRUE	/	FALSE	1787920243	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787920243	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790448773	profilesNewSession	0
