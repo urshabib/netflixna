@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: duferrari@hotmail.com
+– Verified: false
+– Profile: Leo
+– Plan: Premium
+– Next billing: 29 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 4737)
+– Cookies: Admin @logslead
+
+.netflix.com	TRUE	/	FALSE	1815428814	OptanonAlertBoxClosed	2026-07-12T21:46:54.726Z
+.netflix.com	TRUE	/	TRUE	1790448773	gsid	b556a633-2bc1-42a7-a45c-016c935566d5
+.netflix.com	TRUE	/	TRUE	1818453563	dsca	true
+.netflix.com	TRUE	/	FALSE	1815429561	nfvdid	BQFmAAEBEInio3H4YMHxbQBQIqyxuBZg8IqkPZn1glywIifUGPwoDnGokt5ppW-WA2ArPCrYNXvXS4MWRH8BWdYDLoFuALdUOGrzn7E1PR6cyFmzdg35XffQHIorJx-V0dD9U3Vj8rzoxjUfIknwi0WSPoHjc1lc
+.netflix.com	TRUE	/	TRUE	1815477827	NetflixId	ct%3DBgjHlOvcAxKxA3epopj57K2aWSOaQW-lWsPtgnmG5Hd9VYs5kM3hsRO3Xsjhs2e7fJXaqRjvidOjXwGh--nGv1yrHlredPrbNF44-CtgphLFLifb2IjJVViWXeXZSTuKW8Lu13_E62b8fwjuaBNgLQJemj6kaUh0Vhl26-0A3_ziStG5iFt622qGQpDaKD2vxPQ_RV2wRlOC1VgJx4ePp9yiqRQ-84yDzjN47ZOGu0srvVkEeA-wo55jonQgMosliNMvb_bri-uJNh2QjFOm_C5NqLNsiFtEGNMlrcbfcA8S6Y9tpV2Dcq1p_bd3GgcxkEZLfe-txOMFjSaRvC05UGXSBdFp2_S-UsDhVig-DvL3ZBoGrfFt9nf3MjZB2kBD2AFn-FU4CWJEwYmU2klhidGm6VOMOIgUvfslK0gp2NM2C1fWlVq0gY5JJVr6zcdGlQPxI8kGoEyn48btvrJ5x0VieCknRxLRFTF-zJqsR95_F0HxSMlR6GoKlFJ9cUJaIPJfMQM0mhM_QJ4yreWDl56-HM-I2KQJtpXpdDcPgYoRhaLGhF9U6vcBAoRAgRBDo0mjWn56QElgHHkYBiIOCgz6K-V-wkvEOOIM1tI.%26ch%3DAQEAEAABABSSCWkW2dxle_Dcm5MOYdgmm0epiAncMNI.%26v%3D3%26pg%3DERE463RNC5FGVANOYSMIY7E3WY
+.netflix.com	TRUE	/	FALSE	1815477833	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+13+2026+08%3A23%3A53+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=19a4fe98-94d8-4291-80f4-80bafa0410a1&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0&fclco=&crTime=1783892846122
+.netflix.com	TRUE	/	TRUE	1815477827	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSHHDFbb7UdFY33NESwHU-0qn2O-No20bA.%26dt%3D1783941827996
+.netflix.com	TRUE	/	FALSE	1791717830	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791717830	netflix-sans-normal-3-loaded	true
