@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: TheaCollieryg@hotmail.com
+– Verified: false
+– Profile: 04
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( )
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1814115230	OptanonAlertBoxClosed	2026-06-27T16:53:50.915Z
+.netflix.com	TRUE	/	FALSE	1814115239	nfvdid	BQFmAAEBEGJfyrOz4AjTN34idAjlFfRg0G__7dcMB76YpRf9I9898hmtqWCXVUvbn5FnxPWUTlHnNqLiWgyv-G3rlx6Izh_bU2DVv42WW16zrm22xiin6um9nVf6jTsL_SxrwsyLytshgCzvRlquTjkyCC8-u2oX
+.netflix.com	TRUE	/	TRUE	1814468459	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKkA2t7KIV7OOL8E0Dg7eKml2W_3YVSn9d6IVki01N_6AwJTqjbsQ7u1nRWmzPD12Cc1l9XJ_gp7aiSiWTFEqCtI-5k28Z3wLLbe7A7yoWXy_H7IxlXGQnksvqYUgVffUCl3EOSkQsIoMX2JPdsYOWWeUpxPqYAlc1mw9lh_H9rkzw12l7m3q4oRm6R9QGFV10g3vjDOJDHpAypyGeTdkdSoUcS6RYQKS1muGby6_AtWXhWIZwxUq8Z714geErBLmTImzQigY9Z-pScWXG_Jgo6QlI5u7d4frMmoE0VKXsCbGWaU6pMIFpjKnCK7svDWtkLTvCSFQlCbFzhsyoff3zxZuXM78zg7m4p5Kp4RPltKvGZoOzY0t301r_Dt4gDGozfFGTPJPUJutgN1WdxASN4CdG5ZRkTkFgubgqiTihYHnm-HxRnWqZWCmrP0IlB_hCCI0naumgmmctgWAwEgJccqu6MoEBhW0TI_pj4uq2pDZkg7XVCB2OdyIys5nty61G_qozISfm7IxESm32vLqrnvw8780tACyv53QoZ0kU0UN0fri4r4RgGIg4KDAjh585gsRGaG3eCiA..%26pg%3DRIOTJRHG5NBEXPXZHAFKUGMWVA%26ch%3DAQEAEAABABRatBnzSX_O6XItzNJ0ao3WUMa3por689M.
+.netflix.com	TRUE	/	FALSE	1814468460	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+01+2026+16%3A01%3A00+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=2117239b-2322-4e9a-b739-487467e92de7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1782579231311&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1814468459	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRGX32bkG1v0pLzBx_fYih4qifZuryhbNU.%26dt%3D1782932460858
+.netflix.com	TRUE	/	FALSE	1817492462	dsca	customer
+.netflix.com	TRUE	/	FALSE	1790448773	flwssn	a45726d6-64f4-4664-bac6-e528d2ddcee2
+.netflix.com	TRUE	/	TRUE	1790448773	gsid	d8352ae0-6a06-40e2-a624-006715f4ea5d
+.netflix.com	TRUE	/	FALSE	1790708462	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790708462	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790708462	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
