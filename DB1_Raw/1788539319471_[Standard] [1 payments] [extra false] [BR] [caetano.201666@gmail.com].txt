@@ -1,0 +1,25 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: caetano.201666@gmail.com
+– Verified: false
+– Profile: Derik
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TELEFONICA_B_PI_BILLED ( )
+– Cookies: russia34link.com
+
+.netflix.com	FALSE	/watch	TRUE	1807224339	dsca	true
+.netflix.com	FALSE	/	FALSE	1813008597	dsca	customer
+.netflix.com	FALSE	/	FALSE	1813808065	OptanonAlertBoxClosed	2026-06-24T03:34:25.986Z
+.netflix.com	FALSE	/	FALSE	1813808052	nfvdid	BQFmAAEBELek9P4QtDtdXnwtdoLcpFZgKqw6DwYCk_XxXfkoCSDFrcOH8yT-QWxbK8sHYGosSMvm6ur4fmOP9oRRQw3Ej3YCvJyLr8v2den2fQ3H0ntmU6LLStHS-cHOaUAuE5SPnRNJYIBao3zWmWO7bBy_VqSC
+.netflix.com	FALSE	/	TRUE	1791127878	gsid	890fb559-225e-47dc-951e-bf520292face
+.netflix.com	FALSE	/	TRUE	1815262384	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAwIWn1rn0GNgERFfzq9PArh_IV5ldmAZ1lu8-d-OR5CXiWVsc2AqQVSikpUObQKpe3fZCkcHlMoUbctilOHvKrOzxUxutrpNxO8oQHLXCT-bG4oNsT1_rgY2Y2accPso9PGByhCm4qftWFcUINCumSuooUHja1R3DbTn6UrPSFfhR5oPKF7H66X6JMPrNyQb3yGO6mjcYPMIF0atvl90kt0vdUKW5dzoZZc6XTWIDNTkFvG3o2Hgze8ddOjrQqoTLEgUovz0XA0yH4KWZUak40AJFeW4UKvdVEFECgndAqDSumvIKU2m14LN_AP6IkVdDxIYh51KitGJEIfu3J5DsZVw1oItJDZproSZa89-wGV3txMoHPQPiPNRaQl0ROaNDeVh34jI4StgeBr0w3Mxrwqpq3TaffPT_IlmaVIxPtbcFNY_VYeofox3kxVxL_rZor43a9sCjKmj752rxtlr5S6c1nsoBgd_4LaxukcN8MuPVP4n96VWUvxPC-y6sSfQOs4sKRrzfgIeciMrZnwoCUCn5dhgVCTnUwwYBiIOCgzzH_C_BGIarJXGL6E.%26pg%3DBCTYUR2MYJGRNLDLID2RIZOJOY%26ch%3DAQEAEAABABQJiIx1z5oll0-ANl2YlZwCH-fZxUVYmLk.
+.netflix.com	FALSE	/	TRUE	1815262384	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTStM3kmA4E3twm8mxUcx1jdsrfAxmXuP0.%26dt%3D1783726334742
+.netflix.com	FALSE	/	FALSE	1791502386	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791502386	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791502386	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	FALSE	/	FALSE	1815262404	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+10+2026+20%3A33%3A24+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3a59ef2-56f2-4220-878c-a12105b4d029&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRS&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0&fclco=&crTime=1782272066756
+.netflix.com	FALSE	/	FALSE	1791127878	profilesNewSession	0
