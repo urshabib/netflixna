@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: wanderlazaropeixoto@gmail.com
+– Verified: false
+– Profile: Wander
+– Plan: Standard with ads
+– Next billing: 13 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 9035)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1811183511	OptanonAlertBoxClosed	2026-05-24T18:31:51.158Z
+.netflix.com	TRUE	/	FALSE	1811183553	nfvdid	BQFmAAEBEGQ9CLsuSi8TC_bHa_vXswFg6KudTOSb4Fkx5voVhabHr_UrF81GXOnsnFPOP67fEJKpdg8VwnG0UX_f8x-ATq9mmzNa7xD8h_YcWOc71_Ihbks0BHlB2SbkIztPdrGaXrD00FzLNwXSl_bB7pY3IW5j
+.netflix.com	TRUE	/	FALSE	1813558532	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+21+2026+03%3A15%3A32+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0d2d319c-72a7-4786-ae66-3493f94c75bd&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=6&crTime=1779647511382&geolocation=BR%3BGO&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1813723950	NetflixId	ct%3DBgjHlOvcAxKLBI9rlCyXlGF4Ci8kGp_YUEGlFjTWprU7U_iXqNtjxeGry8S6yMTeS427_i-u3CWhgyhpSb6VqkFifAftLfw96r5SnDGNAdzqV-VkQ9UhrinfLi2sVsbBMh3cEcnemY7pYtOGPAWod_9Ofiz7NwyJ_VMtYqOoh5zrXYTCw2UcOjfOuo6enAdRKIll4G0EgCqJDKyqAkXYlwPe3MvNgckBsz1sjm1wX8PKfs-6MJv4gfpdZ9ZuX4QGnySXSs1FZMayP6a972WlL0b244heUaksWCfzA7wqw7rxKurnQdINDGW5uPea_bJgShxU5UF-QhtZtoDGzV7-FYM9vj_P5UfX9lgrN8mwaX4I0imo2BLG8xirkOU3GYY-RjqhfDDE2Hkicm8TUjlaTjfA2nijxxLdYCHwuj0PAqo2R1EX2B-UeS3r9a07Z8vsv37oYGZ4yQDdHJfrEM9oXS-eMm7fb-xUjxBaC5LMHO18r_z0dk0qrR3OjDdrLoXtt6fcI2iCmxEYOYq8Pl9ZwFRknh2vEHSm0r4acTJTllZnEXMiaGz4WDhpr1drDDTh84QI2SkEwbbvKU4Se1AVuRIOEVgnKmXU-AZp85X7QSiIDGcA0RoLxE4n0oyAt_RtTopxPXEbDu3UDfLFpP5MOPDupngEzALdgZtt5erZelKdQqQMM86m19yhsc0vLJniKQmlnpAYBiIOCgwRo9jP7L6Xe4SQL1M.%26ch%3DAQEAEAABABRhz2XhGS0UV6ddRDqtcz1wHN6z_sEYVCM.%26v%3D3%26pg%3DWUULWBB4RNFOBAY5X57N6LRL7U
+.netflix.com	TRUE	/	TRUE	1813723950	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlGWzgrgpmv8LrwxiMgMtzE4O_dWtQuk4.%26dt%3D1782187987069
+.netflix.com	TRUE	/	TRUE	1791127876	gsid	38e81d81-5209-4cda-a669-b09af223bed0
+.netflix.com	TRUE	/	TRUE	1816747950	nap	BgiPu-vcAxJJ1bn_eFF4rk1pChOw-HMNuaFZV8zFFwS4QgM3S6FH9PkaMnxbxAr9biOo_upHyCVBR0Dbu20iB7wULMPzzggRWMZPZTdkzSzV0xgGIg4KDD6vctji0WBJqVe4XA..
+.netflix.com	TRUE	/	FALSE	1789963950	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789963950	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789963950	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
