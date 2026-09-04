@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: luanwayhspereira@gmail.com
+– Verified: false
+– Profile: HENRIQUE\x20WAYHS
+– Plan: Standard with ads
+– Next billing: 4 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8348)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1815264412	OptanonAlertBoxClosed	2026-07-11T00:06:52.352Z
+.netflix.com	TRUE	/	TRUE	1791127876	gsid	35dd9d2e-2413-4816-b3d8-6d386318ea71
+.netflix.com	TRUE	/	FALSE	1815264484	nfvdid	BQFmAAEBEJwEtdzjwDIU1nrMRVTWVTJgS4LwjGoalaLzQ5f0NtFr08i1PljB-fsWV0VHgu2lV8tOFzyZWmyRsJAbRyXWPtLzynHzUGzSWOX6HTErYQhNi38bpA6LfUNrYVAWobKM-KMZQ_reUP-qiQMhcIeUEvzl
+.netflix.com	TRUE	/	TRUE	1815315605	NetflixId	ct%3DBgjHlOvcAxLFA45q-_uyAZLTfKX5dhkP1HO5zliAChwOuKz0CcE_1xksavYWeBrZJN1QY2uitDyOu3VaagIA5CeoiKnuam77GgrD11eVCY41jsCUooGHp8zH4TD5ntfjav_zDJDf4N_9zxv3rUPWkW9vyCcrLpySSEZTH8qmjvIOrP3LLx9m5A-p81ifmb0uz2M2KDdGJj8AZISynrg40rrgFpRzIw4wC3_9zfcbZY-8ixcqrAZ_EFhxS9MledwnqXFwZDu0YvyEl_2XrQ1z8oGhRRVKEStY6ub6iZOfkkDiqZkGzmRfB1c9RGT9WL3B62MxTg1ns-52HLKPDBZ4R3LH4ZNrQtttXSOOB-jg4TTx8lVAD-ewZ9jfYCilbRmnvqwiG7AylU1_SMy0nR0--Ji2XOX4qGIGosMexVK-p5JiHJmaqxisseOFPocEQk6qp4IVtmuSar5qbRlOesh8BQAxG6ka4rIEgFRCxtgi9MdeyOTyLmHtz8uLrHLGl-oiqGJzViSBNXfU7YQskDp7aIsLgpzf7w1gN7ROEezVs59bE8o_ziM2H6hn6zkOqmK-k5oHgGXlOhfQdA_RrFLVF6DX89atmT0V4Z94RwHwLxgGIg4KDGk0PjIvrORFvX-snQ..%26ch%3DAQEAEAABABTpdMaiZlPNoUkOH8jmRAzymDc5dxqsNBw.%26v%3D3%26pg%3DKWJJMOBKMNC6ZG5YJ6WRBPCCZA
+.netflix.com	TRUE	/	FALSE	1815315606	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+11+2026+11%3A20%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=506f260c-5126-4c14-a6eb-b41f5cabacf1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1783728412972&geolocation=BR%3BPR
+.netflix.com	TRUE	/	TRUE	1815315605	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRS4bj4A3Fo41zASOuBmsTU9xgf0nOno1g.%26dt%3D1783779606411
+.netflix.com	TRUE	/	FALSE	1791555606	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791555606	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791561999	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1791127876	profilesNewSession	0
