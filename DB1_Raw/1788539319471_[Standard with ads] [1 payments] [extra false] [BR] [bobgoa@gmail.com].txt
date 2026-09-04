@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: bobgoa@gmail.com
+– Verified: false
+– Profile: alexandra
+– Plan: Standard with ads
+– Next billing: 17 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 1039)
+– Cookies: russia34.com
+
+.netflix.com	FALSE	/	FALSE	1791127878	OptanonAlertBoxClosed	2025-06-29T23:39:16.048Z
+.netflix.com	FALSE	/	TRUE	1791127878	gsid	c3e73f34-93ba-43af-a19b-575f343d4ebc
+.netflix.com	FALSE	/	FALSE	1791127878	nfvdid	BQFmAAEBED6SU8Y5vNbjAH3kYi_IAstgEJLMerwnR4F48fxkzaCcfPW8HM5bfyLcBSHB2bPp4hiisniD4BUnK1ehJz4Gr-ZMoMGIjapSE2RX4GXZvCtPTPrxNhPOKXOGKdfMgj2_JKCldmj4z3fDxPqKKdrkeQC5
+.netflix.com	FALSE	/	TRUE	1791127878	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2ApPggyofpdGCFKPt1oNdmr-DmE7ZwghC9N6-vJCVyCPzTQzYO5zzMHAolWGOa-oAP7P64YJLhngmVOaDIblctNxjuqiL7vedLJZTcLJ8FagYfgvofuBB0-Tu1tbGs2x5VN4mqVX88o3ezA8Y951ZL_mopHxH9Y4zavHJOEbtwIsAZENrwhM6ZFqVTE-vY4nV58SekgtyFPjRkoLG8QbDDcFaOzg_nyyEWWrnYl9wiKZcYAi5vuiIoXbPJqu62Cor9D6uzfRP0IsrdLgp8VC8BHlojJoTNfARRrZvNwbq_H3m7pV1oEaHdTxTZ76o4ntFfRltMKu2jV_bLe4UlIeEb8w9tJW93PWBZbgzzqRqsYLm95YlEdZnmxY-BSvcbHVmdEy6Teg8p7NpA26-mOincN2r3eMrG6OU-CN-rn-aJy34VCkp5SVWF_vPg3apFiYF6B4XUI973ostGf5Qr55czFaMgGhec02LTMtjy3hDHKxZfphNXvvIGAYiDgoM2Mwv2vrABvrE3g3i%26pg%3DCCNUVDFNYVAQRPGA5I4UJZ6PRI%26ch%3DAQEAEAABABRW8fV1Snulw7Qb80nlrFQIQ3SO_Rz5cCY.
+.netflix.com	FALSE	/	FALSE	1791127878	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+05+2025+00%3A22%3A26+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4f0b9def-bfc3-4f43-9c3b-3ff5b02c0867&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR
+.netflix.com	FALSE	/	TRUE	1791127878	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS5oCoKv7O4lieV9EmriGPE8e8CXkVpQzU.%26dt%3D1751685742776
+.netflix.com	FALSE	/	FALSE	1791127878	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791127878	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791127878	profilesNewSession	0
