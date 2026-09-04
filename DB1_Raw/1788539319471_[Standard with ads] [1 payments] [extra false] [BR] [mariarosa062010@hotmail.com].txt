@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: mariarosa062010@hotmail.com
+– Verified: false
+– Profile: Iago
+– Plan: Standard with ads
+– Next billing: 4 de outubro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 9104)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	FALSE	/	FALSE	1799010436	OptanonAlertBoxClosed	2026-01-03T21:07:16.122Z
+.netflix.com	FALSE	/	TRUE	1802034449	dsca	true
+.netflix.com	FALSE	/	FALSE	1799010449	nfvdid	BQFmAAEBEP0sTSBuIegvd8T4S0xOp69g5EGadpigNPYDwCGfosQNS2V8ZvjYR0yR2iOiIdkCq0au5BOFPzQIOAKrnd1jcWo6EaopkF119LoYWq7fD6pRc71Ds8sn3a1KqK_EUBpTB7zSLuJECRXoozLMJq9pfKyT
+.netflix.com	FALSE	/	TRUE	1814393389	NetflixId	ct%3DBgjHlOvcAxLmA_oB-_ZrVJFSAeL6O0-dTqyY7UaG2ecfDucmYN5DpgfARDuh4ds2s0o8tsW-Un6OY7aWoNfqYXTvVBCq2zEUEj92_EuIGLJH9_1HevSCRGn1Zab2bYc4aKEc0gFqXe1Z6GaVKeEx2eNfn2_S3LoOvneRy5mpzvK_W2UWcVjWidDALulr03tvz6Eh-Yd1pWwjYeRhOqSfQLlqivRWHLceqLKX7-kOoXNcHOgc46U-BmpqIGUCWCvpFUtCcZHFIM8fewJrVs5rsPm1jUiD6xSN9zKZL3IfN6tMz59YHT2EssZuakUEtFetRp-1Z_A4PJCG7Bn1oeyVKfJ_8Xrd-ZrIEp5FbHahqZb4l4mZ0wkpAez3yCWa4e7QA21n4ISnp9vWNSyMfmMKM3xrgHNt6qEad7YwD1uRLoMWmOd5MIXubR5S_sTsdasAf8lCC0brVd9u3DVGleIdtnHhzc7YsXUYwr1xzQB-pRHIvBxp3BJsm4ZglntaCNin2BIJcB-QiXyj9lGXxLLfkgFkrH-pkblmKYuDXvCjFf_lV4el5kVwW7IvpFqAXjlYSArCjArWwMi7ClvhsJMQhtguRiGQA7w0IwaYV1JI7qZq11AQWnr4_cFbc6L2zJcd_Uo8aGciJFYXYWD89OLOsBgGIg4KDCoclc1SG6F-fvmgyg..%26ch%3DAQEAEAABABTPT6ATszz9BFhQ904g__jBVZWA50pugZY.%26v%3D3%26pg%3DBHH4M3BCBZAQXB2FFPPOKEEPT4
+.netflix.com	FALSE	/	FALSE	1814393390	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+30+2026+19%3A09%3A50+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ca00e253-1a09-4da2-8717-2290b762305f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BES&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	FALSE	/	TRUE	1814393389	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4L3lC9D81EHrcuAkAUszfzvUr5h2BXCo.%26dt%3D1782857389698
+.netflix.com	FALSE	/	TRUE	1791127878	gsid	ad2b9856-0de4-48bb-a77a-da91819209c7
+.netflix.com	FALSE	/	FALSE	1790633390	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1790633390	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791127878	profilesNewSession	0
