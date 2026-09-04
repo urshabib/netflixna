@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: mauriciodaveiga2017@gmail.com
+– Verified: false
+– Profile: Artur
+– Plan: Standard with ads
+– Next billing: 26 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 7917)
+– Cookies: russia34.com
+
+.netflix.com	FALSE	/	FALSE	1813441687	OptanonAlertBoxClosed	2026-06-19T21:48:07.737Z
+.netflix.com	FALSE	/	TRUE	1791127878	gsid	d46151d2-f42f-49f7-b30f-fa1c6aab23f9
+.netflix.com	FALSE	/	TRUE	1813441813	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA-7saV47_UH3p0FqD3hXSr0YDsyzt4gn4Qk3aCWYHaismk-fhIM6CUNGNVmwu7QE5Ape870W6jb7YlaL7ORXrDIxrUlXey5Ls9f4N99khHd-R9r4ntUWz5XzafbDOBxLkFO1vUd3UWfNTwRzY1lD6ka1Ve9UcHsSNli_FhYfSgwnkHp1yBmyyMWzmtyLl62T_-fWCdUtcR3l84T5zNrst51qOWUNZwUq0-uAGuaAC5Bdf5Dqm0ECZnISoFf7dbo3tEOf-06BOmc5WgQ9lV2JizO46OyrMWBGywJp4z2ye3n9wkVC7ZcbuCUHJDoDDcfg--iP5w70vTLKpwRGoYny3Q8XlBj0HlXN6nIC6hiCu7I1ZaFOv_kGEsgO1xs1Bgi_odFBrFMIpajF1Xk7P1mAb_vM30Z2GT8Tu3w8GUlqux3t8NLLT35Cuh0QL7ADRRBa4wZjfZHg8zjY-QNttQdLzEtedB4x17VMRsxYeACAAifMsdcliunaprX2zbrtqymxxgFxTCf_SvWRxE23YANbeAp8UeNHGAYiDgoMnFef2U0hf2bS5ghB%26pg%3DZ5RZPK6L4BELNDIK3LU5UTCMUI%26ch%3DAQEAEAABABRYtWFPNrR3k9IVd3-QV1CQSGWyiIN4ozQ.
+.netflix.com	FALSE	/	FALSE	1813441814	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+19+2026+18%3A50%3A14+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=55703666-73ab-4561-961f-0deb53e74bfc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1781905688276&geolocation=BR%3BRS&AwaitingReconsent=false
+.netflix.com	FALSE	/	TRUE	1813441813	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRAQR1dYrDJ9y4yiFxisR2PI_vmkUAumEY.%26dt%3D1781905813298
+.netflix.com	FALSE	/	TRUE	1816465813	nap	BgiPu-vcAxJJOvzrPc0vQjzoDwUozt2iNnmx7yZnckIFhz-d_3mFEW78K3jANGH_vayrIrbycPj_lRC8fwQkbuOISMCNTPLHrudFqgUYH4WoQRgGIg4KDCNwDa_a929LAUUQQQ..
+.netflix.com	FALSE	/	FALSE	1789681814	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1789681814	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1813441810	nfvdid	BQFmAAEBEGfDp3mytI9AdEZp385dnD5gnEtq_6KDs2aR_QxJ_gQo0WPuftOCZYHkpz2iTo2wFdLvwgpQTwsMm-c5FkhNbfDVZtTpLMer7jq0Q10MyXeE5j7wQiPZH3VMikEGhWq4031Sk4xnYgObjbhtBq9upMEe
+.netflix.com	FALSE	/	FALSE	1789681817	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	FALSE	/	FALSE	1791127878	profilesNewSession	0
