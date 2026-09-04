@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: caio.herondale@gmail.com
+– Verified: false
+– Profile: Caio
+– Plan: Standard with ads
+– Next billing: 14 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 9439)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	FALSE	/	FALSE	1803592919	OptanonAlertBoxClosed	2026-02-25T22:01:59.830Z
+.netflix.com	FALSE	/	FALSE	1803592933	nfvdid	BQFmAAEBEF8QMSX0gt3cRqkrw0mjup9gj1m7S1fkS0gLBWi6tS-OjZPAuadKbr-q74qhKp30MgrMnFK8uPQ-6iKVOgFA50-Bvbp7VWONHkr4qnx0Qmg3GZoXXeUdZt93fSD-HEai1LNNsPHItqHs2FXtOpvNSonf
+.netflix.com	FALSE	/	TRUE	1812059802	NetflixId	ct%3DBgjHlOvcAxLvA2yqStxx2urZuf4ILFTsVByq-9BrV3QR4lGE_FTKQaQMGF8wMP0UnJZDuEVC63Q7Y56pOhPKNKsabbrANrcW2YtV0oYYy0oXwlhxn54_qSTerA5CjprvUbE1845ccGGIQ1hTkVY7D3Wx81Yonv6lVdlAVY_R3e0PfVNIrOq7iFSXQ6Dw5dKGKCa1JJA4CxzQqzZLSHZZVSEs-T9v0KoAUlaEwMpTsR3PNM_1MHT93mpdDn7EXkCA-uQj1bUvOLyuep7WLAAb4CoZ89BFbIwHd0fiEih3P8oebnXgJ8MPTh38gnnI7GUC6OXO-Hq_JcWeZlM0-W9vHMe86Z9SLTgb2mNuGrQB93CPZR0jxdN2_7MglNB5eWk1Q3d-2BlEaVTGYwjIgrB5hvizhIv-83IzTlzdtshYyGYaDXDeXc00q5DjoyayBVkfAjI8MKh_zlLdpv4BjlEXdZvXAMd0PaO3bZqBftKIUel8_TJS29jzbpDBXjsPerjKHWJ7cOdB-kX1gpk5yR9QYh1RzdAeKZrG3ZT8A-2YFZE9yn2kS0rpd5yYtXXVxkuBrHkSBL6qK-X_G3N74dpBnYH7bq5tWB_rfKHWG1D8EKH68DkdPlUex5IvPuqtDlOyXNcFbo2LQj4KUzs-FpAr7YiTROvmUpOZDhgGIg4KDAGUfMM-dTQLEKc3_Q..%26ch%3DAQEAEAABABTWhxQillQS4eNroe3l31ZRJlTyw06Rvsw.%26v%3D3%26pg%3DHTXLGZJHOJDCXDU6D3U7H65U6Y
+.netflix.com	FALSE	/	FALSE	1812059805	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+18%3A56%3A45+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ab8f1c85-b7ce-4f6d-bed2-1a1f7261dbbd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772056920537&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	FALSE	/	TRUE	1812059802	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSv3CCAg5xm6Ly5QzXQWZ6f_el8RQKdy34.%26dt%3D1780523802258
+.netflix.com	FALSE	/	TRUE	1791127878	gsid	74b37b5d-bc08-448e-8a4b-0fd581a2e851
+.netflix.com	FALSE	/	TRUE	1815083802	nap	BgjduevcAxJJtK7p8JQAauDxvw5HSguUAE4BxCWRjKYoHKB_hU1GXoIZiOpleUjb3mjfq9je8wQX7AoWpOcXN_QbvR8Sc37e1GF7rumaEAiv2xgGIg4KDLsIrRoddZc0gHsgVw..
+.netflix.com	FALSE	/	FALSE	1791127878	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791127878	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791127878	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
