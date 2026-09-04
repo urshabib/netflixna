@@ -1,0 +1,25 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: geraldohcs30@gmail.com
+– Verified: false
+– Profile: Geraldo\x20GG
+– Plan: Premium
+– Next billing: 8 de setembro de 2026
+– Extra members: true
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 2003)
+– Cookies: russia34link.com
+
+.netflix.com	FALSE	/	FALSE	1813780715	OptanonAlertBoxClosed	2026-06-23T19:58:35.751Z
+.netflix.com	FALSE	/	FALSE	1813780790	nfvdid	BQFmAAEBECKH9o51y_DdSYvLPAAODe1ghp52nJ9qwfhRnHF12ShD__gdUWJ-hqIb_WWtMz9EiUm80_USRb3yNF5cqY2iVxIYUfRpSH1LuPRJ9j9LW365Bh9kmKWda-ucIyCSdURC4BBkhb7IipKwblDg_W9gDe76
+.netflix.com	FALSE	/	TRUE	1791127885	gsid	ce0e9eca-be1a-4f33-85cb-8c810a0f2b02
+.netflix.com	FALSE	/	TRUE	1814639221	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA8Q8nH7XS0MDLsgWJeZ1TOS3vYadaN2fSYpLKIgx-x8Ldfb-imrCmXe6N4umis-pz1cQ6XDO5yKunPQztNPW4R_lqsfmOA6ykw5zV94VKoTiGuemcn6_7-QEGecIyDmoWEM5X7D7XhlXedgO5rR1_90eNKMVCEYo34wFGoJQKGIuJpE2sDPtSZviZnDharPP6hUdTO4IBc40GK31KCX7s3a9Sx_ZevyyEK76SOokKMtvHfVrEUOZWairCnuiDfH3DptY_aNmqv1FeZCNaLkPAdBhyOAKNYuC0FEx-HPcLG-JlHBRgySXQvTTV9OtESOzbCsOiVhyGqKdEVSJwsGe-ALPbPbG8GUiU_ETsO7ZD_VYd_DYSqVIBnISxHQ9cUz_lWR5O5EOb1qW5DPADTW081ZerauLzI6SHq8ggVBJ-LAToUv_gx4IR_lQIVYL7ktyCz9DDbx3eJ0jwBVSw-Z0EswF6vGAju6W-F3nEqc73wdN_TBAdVNroutwDfW5B_i1u3iwEm3a8y4q5JxTl4tSmIax3xN6GAYiDgoMzUfyq23nsRF6PmGK%26pg%3DERCQ3K2S5JHMXMKXKLGC6P3H7E%26ch%3DAQEAEAABABQ-gj7e0vRHtt7bjFJYn8UifGDmMvFHlOw.
+.netflix.com	FALSE	/	TRUE	1814639221	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTnrbZB70gwhTjFxB6w_vprE1IBLWC8T1U.%26dt%3D1783103220847
+.netflix.com	FALSE	/	FALSE	1814647444	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+03+2026+17%3A44%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c6b8bd64-d15d-40c2-b8fa-8450d34e8ec1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1782244716390&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	FALSE	/	TRUE	1817671445	dsca	true
+.netflix.com	FALSE	/	FALSE	1791127885	flwssn	745faa6e-6306-4f17-a94b-fb93ef7fc106
+.netflix.com	FALSE	/	FALSE	1790887444	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1790887444	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1790887444	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	FALSE	/	FALSE	1791127885	profilesNewSession	0
