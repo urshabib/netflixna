@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: eligm12@gmail.com
+– Verified: false
+– Profile: DR\x20EUDES
+– Plan: Premium
+– Next billing: 7 de setembro de 2026
+– Extra members: true
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 0399)
+– Cookies: russia34.com
+
+.netflix.com	FALSE	/	FALSE	1810421326	OptanonAlertBoxClosed	2026-05-15T22:48:46.943Z
+.netflix.com	FALSE	/	FALSE	1810421299	nfvdid	BQFmAAEBEPyCIT6fL-h1zOzIhJSrQqBgQ1LG0Vf2CWEjx_vpk7F9dmRDyciUIlQbyG1W3GeWwyVSTPF8nZzVmTHg7IyQA1I3jBs3HydfrOI46MkKLfbUiDANtJDADJIGeezeJXFM8gPRXtad95X3ErbWy2K3IKqj
+.netflix.com	FALSE	/	FALSE	1813980515	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+26+2026+00%3A28%3A35+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7c66635d-2122-4df3-9cb6-9f8dc692fefa&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1778553608108&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BPE
+.netflix.com	FALSE	/	FALSE	1790220514	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1790220514	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1790220514	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	FALSE	/	TRUE	1814151158	NetflixId	ct%3DBgjHlOvcAxKGBLYyhC7nKaLZGyQ0gY44X7oMvMGlDdLWmLFiyIcunuxqyIDtWNz0iVfXuczy1LsBzFr0ROAYkuWynvNGB9NkQPCYs4lqERYZBSpOvQnRtQ8GNEusL8D-WVKddMH2scRCTqsiibE9f14I0tXSgNRKT7pjbnvc1Fn77J_gkZfIRHvsByYajssySykWoEANH7VOiyHqdJjnr5EX7TwhPiOD3KZaeygvJtyi2GX5Si_xSjWZoVJjTClGFs4JSMOEjgRZzbtgdjGk9jV_4k_tICrJoG_8XwpAC3fBx8eHx5cLVXywh3ktdWZMkgFCp1WCowXMIEi6EopVe7hmUJwZSM_ZcbCmCxZ88u4LhCVezkb0L_HNq8tYwpFVsI1Ou-dmOC6vtNJIz9jiY6HS9kBFmN7EkoEOqjt0uafKunExyZjP3bB9jQ1h1NvYLQ9Ck4bYsIXmeUXk7sTW5Tmd2ACpGmKMQheG2UzlBYKta9H1b8dwj84litdS01o2ADCMqUUsX8OHh_c4alWBZYQ9G5TUzsY3New2Peq2iWaf2uha2jW7AeG3TbmlLHj-TjTaLe7ZnAmTuKtAsPHNAQsf7iOpGqOG_J_AETyYCqGi36hI-Oajr3Tyt90ccg7nYju15FojsF1TumVCf6zgPErUl6dYL8-gknwYwIFkFvPQOOa9kxEpVN-qPvlw3rauGAYiDgoMQ0Da0oxvm1WqGG9X%26ch%3DAQEAEAABABS3WfgahuZe82ZXlUZ-Y9Ju37cQulYwEAk.%26v%3D3%26pg%3DGFIVC36S4JF5VEOZ5VV7SNH5IE
+.netflix.com	FALSE	/	TRUE	1814151158	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSzpvChPboSQUjdmF8NO600rWUTE2mx_Ak.%26dt%3D1782615164064
+.netflix.com	FALSE	/	FALSE	1791127878	profilesNewSession	0
