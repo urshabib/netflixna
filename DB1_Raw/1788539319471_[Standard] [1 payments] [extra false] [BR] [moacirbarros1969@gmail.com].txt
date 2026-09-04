@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: moacirbarros1969@gmail.com
+– Verified: false
+– Profile: moacirbarros1969
+– Plan: Standard
+– Next billing: 15 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 0462)
+– Cookies: russia34.com
+
+.netflix.com	FALSE	/	FALSE	1804038049	OptanonAlertBoxClosed	2026-03-03T01:40:49.667Z
+.netflix.com	FALSE	/	FALSE	1804038357	nfvdid	BQFmAAEBEGyFYsYUPz_G01ov47joWIBgIPY_U1ziYKdSqc8FjC9U8yEHvxuPcGY9a6EWQRnFp_GV8tJzeqJwmL8Bb-zSCPFFNtMFV23YmumFd2a7PUZQe7BHPaAUwQK76MXFKWH2pzfxoBtr8jZqhwhfZoFmekaF
+.netflix.com	FALSE	/	TRUE	1814219580	NetflixId	ct%3DBgjHlOvcAxKXBBifeGsNNbHm7c6WKb-vIo4s4UtPkDkoKiyk2gyblz5YhXs6mWTGaFL0swcrHGgUMovv83WXLQRzyLE8NcXrHuELeu97y8xP_CkxssSk7Hu1RvEZU1qj1kajta2CENbBqWKxwKnl1EALcWp_9x8Y62fUZgG7l5RSNeSvjESo1ipqop-mTxLfDWYKwEqVaHumz5SmLQ0VKyEdsUOU-WN3CCHINTLlituUEHs-J-9_eQ9hpX-9DRwdNvw9PmPcgGMwojaZ4968kdDKxYQbZh71MPtjAxxp4ODcMm7lg0a9HZzsJBbR5KfcFqqEyiPPl8DyJolFp6JKP2qLQNqhAVgwAunFhunLyciBz_ZlO5rny9EXuCiEbznsV7R8m4i5xTCoE8RVYYj0Qkd0uf7fWMyGSJDENIeceP0zuav-tB8sEGzqDbWFXx4ZZwvRycTDa8wfHPw4tLyGvUXlcs6OHu-sPCidnDfcD61DxDFPcRFKYlh7dKhsGYC1ucBS7ACJghMmyh6ZaLggB1heD9OexNrRY4zB5W-7fIm_BhEZhUPznPXBdiW7tqUl7UqQTC6TCDsMATCf0H8qFEMnjLxEmaMkimzyBOggFZ6yTnfNy76gFIaE9IghYSUP45w_QJlP3eEg05QRarUMS5JipCtANrAyU58LRD6Tw82gTfC4NybothWBLOTDGw1Pt8wRGVTf_wmjSYA1zVNytR0YBiIOCgzkUsbnmOwXllAu1II.%26ch%3DAQEAEAABABR2HXwJPHMmnqZo_rthWiMPhUkEMz6_u9w.%26v%3D3%26pg%3DS42EHJYGWVCZRLRM6VJFNTDEIQ
+.netflix.com	FALSE	/	FALSE	1814219581	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+28+2026+18%3A53%3A01+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2303fc16-f158-4ea2-b118-40c45f528664&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1772502050283&geolocation=BR%3BMG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	FALSE	/	TRUE	1814219580	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSDHqLfAlBjrznrqECW6VxZcZ5VL3_zO2w.%26dt%3D1782683581419
+.netflix.com	FALSE	/	TRUE	1791127878	gsid	498eafc1-5163-4449-bb27-84b6dbb9e67d
+.netflix.com	FALSE	/	FALSE	1790459580	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1790459587	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	FALSE	/	FALSE	1791127878	profilesNewSession	0
