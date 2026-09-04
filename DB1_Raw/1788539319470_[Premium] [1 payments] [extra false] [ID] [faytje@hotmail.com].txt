@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: faytje@hotmail.com
+– Verified: false
+– Profile: Fayrina
+– Plan: Premium
+– Next billing: September 10, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | CC (VISA 0874)
+– Cookies: russia34.com
+
+.netflix.com	FALSE	/	FALSE	1797919523	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+22+2025+13%3A05%3A23+GMT%2B0700+(Western+Indonesia+Time)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=0b85de21-5b6a-4821-bfcb-cfa8119657a1&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	FALSE	/	FALSE	1806046985	nfvdid	BQFmAAEBEHM1jJY35X4Czdz1mXP4RjlgLT1R0eYdkOaz4-OcuZA2qMufsnscQn1dHBQ8GV-DxmnfZQ5rJnqLZ4x3LFb3ruxWTWl73JPR4BrxA-f3ji_qBL8w2agNXV1jKm6ytFDkMpSZTksPCkWHMIYQX4vKTkKy
+.netflix.com	FALSE	/	TRUE	1814327017	NetflixId	ct%3DBgjHlOvcAxKGBArjhm_sYzf_GP-aZj_j5kQlMGnaW2GH_G_TLCgLTyiRnTGz1u9P8_3lLZBDaNti9jRpBGiRwfWvogMZb4PCParjj2slaFwJn1tLjv0-SDnR2PTOVTtk26pJl1w0ymfqyFr2bT0gMqf7om769u2swf8_3skhNeqbPOK_IHhj-roRW5R8p8vWpIB5Ciwux1DP1OpgppwoxSCqEqpjX7e_LWtnfhjoVyeNUmlBvKqXL-h0VpvjjU2C55mp2OLN-4RNh0wgPdAAkrhL1L7vzl2mUx8ohby4JpxVi129eS0Q0VtlFYuG7KqKzHXVTAQ9FY0K0hFKvP2Fb7xYrCpOeF3VZh_I93ckxmGvphfmZvW3Q59dFNP1515H34yJvOikWpQ2qjuYevKYIbkKf78RYREdVv2UcUNb6vG2vZLhGRCGEnCBN80XLZTjJKpEiob8uQPMY1sLZKvG0ykbUzLzA82T2_uwTOdi1_J518z0GionE-gOh1ltneGGa9GKH_Gj0X1Ms2qafvrN630Thvh7GFSynBX2Ryq-9Ug_WfdKl09YXqcuaRjJP0h2yXvRnF7iw-NvxLBWqfHDVr45RkmWDNsr73_KhfxdW-73IZEQpozD7tntXkbhXn2M0OqwkaNnUIbbVq6NpMdOZmasT8GKKQ4o757gl2tsFF-ofmQgytpImf-XQH-zfknUGAYiDgoMKjFYkbZZyhY1CpKm%26ch%3DAQEAEAABABT9llh8-SvEHy26JNVtBXMSKq8OeopoZGw.%26v%3D3%26pg%3DSTWXOEQKSNAJZOANZUHTKU7CAU
+.netflix.com	FALSE	/	TRUE	1814327017	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSfct-THpfh-KrZwLPBrSTNPkOSwzw6v-I.%26dt%3D1782791017407
+.netflix.com	FALSE	/	TRUE	1791127880	gsid	5d43d95a-0d5c-4116-a708-5a5629419a4a
+.netflix.com	FALSE	/	FALSE	1790567017	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1790567017	netflix-sans-normal-3-loaded	true
