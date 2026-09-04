@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: icaro.audio@gmail.com
+– Verified: false
+– Profile: Icaro\x20Da\x20Hora
+– Plan: Premium
+– Next billing: 29 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 6724)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1811650833	OptanonAlertBoxClosed	2026-05-30T04:20:33.922Z
+.netflix.com	TRUE	/	FALSE	1811650864	nfvdid	BQFmAAEBEFQ4zL029RzAu6huQSS1vYRgpJi3sTA4kWr_J47B_YNNkz4K-mJ3vmKM6jzSXvsmDRi8BpJxUO2_AqK6VlAnMtA0x5foO27kHdVsgQ8mVZXNU64L3kn2M1zVmdw8SOw16u1w2mam9_D-WstqZ1qaowrV
+.netflix.com	TRUE	/	TRUE	1813335080	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA_9ObGaf40hZcYhBr8l9xcNCM8VBXux0vMMvhsGl2Tn19scinF9hD808Sg_KmuZVaEmrvBAzMP29twvaftZnlT0s-tu4kk4OnaIdWvWSER4J9F_TQiTihxhkR1jwvJI3upmW_8qkYE2wo_BMAh8cYTLgPb4dMGm5sgvvMeXc-ZaGQ_nYXEo-Kgv9hyl9_tSq5KdnoHVSADzEFgMjTJici4lmbkaJ_3BlSqrzG1t1kYoiDV1_Zbt3vBIfgXxmn5aXQaQnr77nyR0GdBoWoysxYgR68YuhoYnpmNiMVM_ps_qBbglHQuU-QPUUz6t6wrjN1d7YniYDHO4BZJurnpB1e_3u3sGhBUdJMKAFLI-Zzbq07kWpJhpML5Y-1RmyOjobEdBC-OQjCB05riOoYwpziM5DsAzi3qOl1jPPU1idj988guT5UOyf0Lu9wiG_j2yKaOOUi9r--VaFmIZjKCmdh4ymH289maCLfxi9QjiL43OjgDpPJc8dC3_vOlPAXIdvV7EikklRldJXtwo33EMMlkFFLg8vHNZMvSILjF0YBiIOCgw7bsjbuUNKVU3Wa1g.%26pg%3DI5KD6U66RNGO3E7GMXIFYBHDQI%26ch%3DAQEAEAABABThFZWhkMWiGDIVDbTPaeCYWY8vquIjiHQ.
+.netflix.com	TRUE	/	TRUE	1813335080	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKok9F0HnYzLZUyKa-0oMOHpzW5UXd8Mo.%26dt%3D1781799079842
+.netflix.com	TRUE	/	FALSE	1813335111	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+18+2026+13%3A11%3A51+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=65f9d429-4b6b-4885-8d33-fe53fdaaf17e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1780114834468&geolocation=BR%3BBA&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1789575110	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789575110	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789577258	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
