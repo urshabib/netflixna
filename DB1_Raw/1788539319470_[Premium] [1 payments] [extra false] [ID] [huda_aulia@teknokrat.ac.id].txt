@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: huda_aulia@teknokrat.ac.id
+– Verified: false
+– Profile: huda_aulia
+– Plan: Premium
+– Next billing: August 16, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (GOPAY ********3076)
+– Cookies: @logslead
+
+.netflix.com	FALSE	/	TRUE	1791127880	gsid	0c7fa1c6-271b-4b28-878d-a9f4b78f8115
+.netflix.com	FALSE	/	FALSE	1815138657	nfvdid	BQFmAAEBENq4F1-RJJF4IdcpgK8TbGJgiRfYbK3fTXNfwA3QrESiXDJc1WIyZgNEK65mTw3JA4DF3HMWG4CRbgACIJCVkOqpsq2TWFJu3l217w0NoiCXXDagkTw04A7gxSDg9xDouZUQG7q9YiYluxYcX2aC1OQB
+.netflix.com	FALSE	/	TRUE	1815138707	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA1MVPhr2dHh49iZfk8FcezMaE3vQp3WOEzCExmJLQYacVj46K8pjwpgIGRsN_oZAKumEtGRmBiFFqwUs_aHlLOxy17ggYBMrdZJFbjWDkTfRrzHQp7CZAh2ZAxG0aycAS42MI-QyjXaqaMk3YDfSak2zkg6ywO8gKPbxVUl0nQX6ZVwpW_DDnXJOL29U08SfNXnlMcjBlqpOCiGiZtm8ohv8TsbHEsw6uL3NGd8N7bWal9fMQ3EcySIyydE5Y0dMLDtkrT4L_QcByJAC7KTQXvBvndMKFh0D3Ue9Tb3dcjg8EMZH4U3a8CcDZQXi3yNtOB5ubwnuQw8Way_54FmZTqsT4mca8ZEQtv_Rp2Vm2YUGNvKJdkxSsqR3D-dRbL3b6dgGn4CUyH2EpLqx8HiZlc6rlcPR-WJ99pPtZTuBlnwXjN0UkMN1jJwz9v4MprlADerPc9hW7wnfgqUFbjHuJjBC-juhQypuGB0xgsD-LO6NbEQVDFEhMwF1GbxRrJrjVOx3b9GedRgGIg4KDFyZq5aFv_SfsSdcBw..%26pg%3D2SLSYZFJNREBBNELZ4HKSJKFXE%26ch%3DAQEAEAABABTapV3Ox8UbuSihAMLnenjARfZ0660Parw.
+.netflix.com	FALSE	/	TRUE	1815138707	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRpsF6pC88h-h1u4s5CPhXBUR9V_Itm7tE.%26dt%3D1783602706575
+.netflix.com	FALSE	/	FALSE	1815138758	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+09+2026+20%3A12%3A38+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=212d2aaf-c5a7-418e-a332-8c0935bf8b88&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1783602671622
+.netflix.com	FALSE	/	FALSE	1791127880	firstLolomoAfterOnRamp	true
+.netflix.com	FALSE	/	FALSE	1791127880	flwssn	72c0bb9e-1d6d-48cc-ae35-4a80fa791466
+.netflix.com	FALSE	/	FALSE	1791378758	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791378758	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791127880	profilesNewSession	0
