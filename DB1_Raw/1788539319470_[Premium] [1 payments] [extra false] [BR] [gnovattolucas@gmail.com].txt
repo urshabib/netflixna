@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: gnovattolucas@gmail.com
+– Verified: false
+– Profile: Soneca
+– Plan: Premium
+– Next billing: 29 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 0097)
+– Cookies: russia34.com
+
+.netflix.com	FALSE	/	FALSE	1806541502	OptanonAlertBoxClosed	2026-04-01T01:05:02.461Z
+.netflix.com	FALSE	/	FALSE	1806541544	nfvdid	BQFmAAEBEKcA9tX2omlxQbrGRwFI6QZgoosrvrh6ENPl_wsxWFRL12k2F_-UBtDyrbGsEyoklAkVOqDD_LmiSDWcEPF5xFD-b7QHzpAEyAg0G9aNjuzlFazT3-8TN1CncuVzxLb2eAWs8mvEwmtjt7Knuuet4U5p
+.netflix.com	FALSE	/	TRUE	1815515972	NetflixId	ct%3DBgjHlOvcAxLOAwst9uoZShVLs0IZ23I7moCCySZCl8gd1deYLx-gXs54ER1wcSOuSaabxnNqzeIfKa9l-v1LLpyRGIcTUoA0SUMuFYw9LAXh3Dl34ErFfKfM2gQGOHbLPJCOnzIp0DHjC4jmrSj3LbIs1j9wE7G_21m0ykaeeUgj1w5qJWYpWwiBqPNxkDvQtcfXNA28S6RdvKQYb0aGfV-QRJUdc7c3CnQRcvvVPL4fS2Xad1Uw-hIKXrxNd1j2aim6PO0NeB9_zMCdQScasXNe9whZEL1ErLmlziEsAvrH9fTc2hG7qr2a2ygLXwxLYZquoq2wICQTZUS39qM1Tyi18wh-lBJxQhzyZNNolQNwTlXcyRncoDGuQ6AxxuneWkPcuu_ksmi6389zabZDMDx601sED5QGnIDfAoO6h5lXbF6z4X4gzjsOSEXO0nelY3UWaRUcB6iHCYGu67vOV3nR94NoNAWDlplum3cQgnZ5dV4aOwT55BmJzlt_jDRZrRCZpfjHvWjkA0XwcOzM78XoSsFSlybA7aT5MBuc_qKnfs9550GTd-YY0JBqsJy2TvQpToZOiXeowfQVdcqLpzGCCm02ZQHI4SLl-kKra-oZG7EyHmWi8BgGIg4KDIqRNgps08f2UB7baQ..%26ch%3DAQEAEAABABR59IVmINs6Ao8ECy_pyEilXgcUlFqB6NU.%26v%3D3%26pg%3DEDIUWBWJKJHE3PR2DGXOSDE3WA
+.netflix.com	FALSE	/	FALSE	1815515974	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+13+2026+18%3A59%3A34+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f1b89e8b-78bb-4cd4-b06e-eb2cad864617&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1775005502895&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRS&isDntEnabled=0
+.netflix.com	FALSE	/	TRUE	1815515972	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtHb5bfc4CEyTj6B6hfN4Haa47oX-qtvU.%26dt%3D1783979952098
+.netflix.com	FALSE	/	TRUE	1791127877	gsid	62342f88-7f7a-4823-92fb-6188a2e6af1b
+.netflix.com	FALSE	/	FALSE	1791755973	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791755973	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791127877	profilesNewSession	0
