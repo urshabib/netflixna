@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: lealmariana461@gmail.com
+– Verified: false
+– Profile: Mariana\x20Rocha
+– Plan: Standard with ads
+– Next billing: 3 de outubro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 2867)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1818465593	OptanonAlertBoxClosed	2026-08-17T01:19:53.835Z
+.netflix.com	TRUE	/	FALSE	1818465855	nfvdid	BQFmAAEBEKEVy-JqNsm-vuXP3YyT4s5gglIYwMIlf7jAsOtix_dLMJ2FfhVyzndaiPj_ebiIe_hdH2arF3j5vH3jZEDZdBx6KukYVCz51ROxzlMCq6ivyD88PP9C69wWJSYZO0yBi1PwnC_wSYtgXZiZyaQKYuc-
+.netflix.com	TRUE	/	TRUE	1818465959	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTTBk5EMiUL9DcG_07rIEj96JF2gydTEuM.%26dt%3D1786929958997
+.netflix.com	TRUE	/	TRUE	1818465959	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA8QCU9qhHhySbY3E9L6P4jhGEHyWGqB_Dgx__JZ4abojMlvCzLTCywJISfqDPT8R8RrRxCVBr-c-W7C2c1gQ-b4xcMt5GtgILLeJOw29fhGXIEz-qQuzmaxobIFwU3f4AGZcY9KQCDvEr926QsDFdgZaOvE8hdFX1IPIqfnLr3xQPSL2UGlbn6d73mgu36TOEhdVgBeox6pp14Y7ujEGVimGzQlU6-upe3fVWimk_3rkW7atY0LZPG6GxGxYUHnUfbQZ8wgnc7QVluGKzFFtRY3ku6oznQa1ExqD7r-pCBOOYsiqDj7HK9RbnunHzYzKDnbT8_zvoaoiUNGo-8Hv51AmPkWSQt-Dtsvj3SJCQkTYVl9B9Pxj7p3NTFnviqtrcKeZ4F9jpXFTMdrvjEtsf4HUBwigBILlEAlJ5z9C0wdhAD2DK0zcTbtTg5_JQAVVmxvt4_pijEMpE1kk-BY00yijQT_nyBAsRFAPA1R38wKEAJzYsKy1ItqbDZdfUONhHZ0Fq90P63679xZliR_oxovv0QqF91suD8xkhU4YBiIOCgzdjIwOI9G-r2ZZhFc.%26pg%3DVKP2RLTVSFAXREN7T45AHK2GOI%26ch%3DAQEAEAABABQedStWXEwy26MMYmZrkPU3qsyV92gc2qQ.
+.netflix.com	TRUE	/	FALSE	1818466353	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+16+2026+22%3A32%3A33+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=072becf7-d58a-47d1-90a7-d02baca29815&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1786929594303&geolocation=BR%3BRJ
+.netflix.com	TRUE	/	FALSE	1794706353	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794706353	netflix-sans-normal-3-loaded	true
