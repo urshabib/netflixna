@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: alannaserrao22@gmail.com
+– Verified: false
+– Profile: Ricardo
+– Plan: Standard with ads
+– Next billing: 8 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 9235)
+– Cookies: russia34.com
+
+.netflix.com	FALSE	/	FALSE	1814233866	OptanonAlertBoxClosed	2026-06-29T01:51:06.751Z
+.netflix.com	FALSE	/	FALSE	1814233886	nfvdid	BQFmAAEBEMsda7UHhSytlUtb7PdGqMRgW7IaiiPDkASiECmp3u5AmLoljPjscW9jZ_9rbBh8Vu_el1RmgcnoJYgW3OX6STdxwghb9YuNJcowX7gJygrSyNLwAwnNjW5DD4ysMGHPhSJn3nee70ybLtuM2Gap-YUo
+.netflix.com	FALSE	/	TRUE	1815206444	NetflixId	ct%3DBgjHlOvcAxL_A_EDZpil_WX-xhBI-ZZK-CJTx90IKW02pq0XyVAbo-4rq6bsTel0ohMXrTlD-8p-HS96wCa0spsTCrwwnXvlhPiEUSqBRN7FH4SeqyU3W06qMKhyJS2bBCKXl3oUoqJ6Y9aVvrrXyDZvXixggKNIwVp5WUuy9c9MupUJV5a6XJH6pah56Qc5ctNmmesgyYks3q_cha4xHksXbmHUr12bAYP3bylL0Aj71plEiXzlrupLZZ1lRoSr7acsYAVPlb0pkd5PFFP67z5jVv2wNrCUOHEB0N3P48i4TmU64XYgvEEGR7m5MfgEZJACCy8PCYkEgj1d7QSTisK0HFbNWax---K5E1YwpUXHi3STryO8ZPIRlL1VIcIbsTR8P3iAva7S-EWbhF3VYp3Oo-WXuuAdgQdb3ao0SoPsbfxOQYXS4U98UZ3WYus9PXRqzvTooFqBUmwMVUtUXHmjv7-XVgnPkJg4VVM09CRdQjr0gJ_Y8UibCXe-3tVgNqSv4RvKwHxU5XtSzoHZ_s1YXQPbe3p-KVbQkN0QNEof6ujAdzmInU3TXG0ePEpN2PNwYF94dn_JNADtQQTo1Lm90zc6Bb0IGvmnOxrMa4KoeXl1apr6PRXP4qg99udV6nUI-1dnxPqBMRJ3oVtndyquIKIefAXYuyUWaOd7Wm_a67ykh0ANYAYYBiIOCgze0-WLCNwEXRaNqBc.%26ch%3DAQEAEAABABTeHhIRp1XdkjM5Mb8AjHjGbvDYmOBK3wk.%26v%3D3%26pg%3DOHKFS5WOPBDPZH2MSCGXFTMOVI
+.netflix.com	FALSE	/	FALSE	1815206447	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+10+2026+05%3A00%3A47+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=55f34083-5373-425c-8919-cde86cdbe7f0&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1782697867338&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BPA
+.netflix.com	FALSE	/	TRUE	1815206444	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRQjqRA19zE16AtR0VWT4tCRs9fPddRS9s.%26dt%3D1783670443475
+.netflix.com	FALSE	/	TRUE	1791127877	gsid	f6acd5fa-267c-4325-a146-7dd16036a1e0
+.netflix.com	FALSE	/	FALSE	1791446447	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791446447	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1791446447	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	FALSE	/	FALSE	1791127877	profilesNewSession	0
