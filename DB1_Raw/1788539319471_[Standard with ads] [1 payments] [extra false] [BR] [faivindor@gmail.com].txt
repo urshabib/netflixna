@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: faivindor@gmail.com
+– Verified: false
+– Profile: Ivan\x20Dorta
+– Plan: Standard with ads
+– Next billing: 3 de octubre de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 5419)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1812742442	OptanonAlertBoxClosed	2026-06-11T19:34:02.971Z
+.netflix.com	TRUE	/	FALSE	1812742485	nfvdid	BQFmAAEBEC23tvY_hQJObrLE1AR0tg9gR4nAj1ql8PNamozBXldPrJtscMOTxwBNeMqMydMYg-aObvQA-iGL2srE50hnBODInS7XmPdhWEAJ7wAQU8cGRDy7J6cTiMzyISe43ctrw1orKkaFIh-xJ_ci_4cuU2uR
+.netflix.com	TRUE	/	TRUE	1791127876	gsid	d7a2f4ba-d54a-421d-8d20-33a0672cb1f7
+.netflix.com	TRUE	/	TRUE	1817825635	NetflixId	ct%3DBgjHlOvcAxKIBJE0W-qzRYCBYj-JQoJYwnkMBb99cWa81pV7CCpi3NCespb-Oj6CokiV5-koio9ZqMt0_XFklvw4sBDmjqdgJR3ZR2Tz8YEh2A9IzlfUdepmztTtjCz0dU_6CZtgz9kX2gk8vU4dGF25q6nfDPSY9SHSQ9dz5iGO2shVrXZ_YNyEMHCcOk861iHSe50O6u8dnHvHuuU5FPmtSBzh38NoNUzA_1g11WI97RtSQ2YUQ4nLPXHUWK3szvIaLgsjS1OBqxx8pk34RSR-ffO1hFOaNYL850HRFChA39qoG5iE9QH1b9QGD19RamMM1MwRl_nQ-RKlO_feWxNw3jfdy2bKTMfL8Pv3gunr-p28Ttx6gf7mWBuaoKR57X_lJQp77tMC_UXwZP6BoIYUkbmZdgayGYKk-tLMmQhemtUz6FgGgdGCG6IZojYcahLj3yv04va1fefOoKJHntBDY9GMWcdgPQOdM7akib1zh0y5KuWY4GpnJxGcm4tSjYkih1lWr8SMLC8C41NIh9AabTDIoSj0AqCw7cen-Cjm3hFxb2XpgWsvawLTjHEs_mDnizj-siyS5sDElLkvLrMXRGcLgOQb7spe7X2bPCHiQTpNBpXot1VKt29RseRPsg5ETwQUNSBj5aaJ7lYR0FbP5isY_nFf0VT5dLhWN2mVDx1icrcZ4XwyyLZ3jot2RGYYBiIOCgx0bHDSisp-FB5MFWU.%26ch%3DAQEAEAABABQn3yvP2icW-ONZ-V34b25zKZTZuEwJKIo.%26v%3D3%26pg%3DLQHAUNOQLZGPXMRM6GLEJGYO74
+.netflix.com	TRUE	/	FALSE	1817825639	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+09+2026+12%3A33%3A59+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f02129a4-c3dd-4146-b42e-c90f7a3353f8&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1781206435550&geolocation=BR%3BMG
+.netflix.com	TRUE	/	TRUE	1817825635	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTI7IgUZVCS_mPSFcxSdXs4dSNfMtpW6mw.%26dt%3D1786289626172
+.netflix.com	TRUE	/	FALSE	1794065639	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794065639	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794065639	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1791127876	profilesNewSession	0
