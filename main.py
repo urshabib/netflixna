@@ -2,6 +2,7 @@ import json
 import os
 import re
 import urllib.parse
+import uuid
 from datetime import datetime
 import requests
 from urllib3.exceptions import InsecureRequestWarning
@@ -255,6 +256,68 @@ def ensure_input_file(filepath):
     except FileNotFoundError:
         return None
 
+
+# ------------------------------------------------------------------
+# NEW FINAL VERIFICATION LAYER
+# ------------------------------------------------------------------
+def check_for_update_payment_method(cookie_dict):
+    """
+    Sends a POST to Netflix's GraphQL endpoint (as seen in the network tab).
+    Returns True if the response contains 'UPDATE_PAYMENT_METHOD' (meaning the
+    account is in a state we want to reject), False otherwise.
+    """
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Content-Type": "application/json",
+        "Origin": "https://www.netflix.com",
+        "Referer": "https://www.netflix.com/account",
+        "x-netflix.context.app-version": "v55381b7b",
+        "x-netflix.context.hawkins-version": "5.27.0",
+        "x-netflix.context.locales": "en-US",
+        "x-netflix.context.operation-name": "CLCSInterstitialAccountPages",
+        "x-netflix.context.ui-flavor": "akira",
+        "x-netflix.request.attempt": "1",
+        "x-netflix.request.client.context": '{"action":"clcsInterstitialAccountPages","appstate":"foreground"}',
+        "x-netflix.request.id": str(uuid.uuid4()),
+        "x-netflix.request.originating.url": "https://www.netflix.com/account",
+        "x-netflix.request.toplevel.uuid": str(uuid.uuid4()),
+    }
+
+    # Build Cookie header from our extracted cookies
+    cookie_parts = []
+    for key in ["NetflixId", "SecureNetflixId", "nfvdid"]:
+        if key in cookie_dict:
+            cookie_parts.append(f"{key}={cookie_dict[key]}")
+    if cookie_parts:
+        headers["Cookie"] = "; ".join(cookie_parts)
+
+    # The GraphQL request body.
+    # !!! PASTE YOUR ACTUAL GraphQL QUERY STRING BELOW !!!
+    body = {
+        "operationName": "CLCSInterstitialAccountPages",
+        "variables": {},
+        "query": "{"operationName":"CLCSInterstitialAccountPages","variables":{"format":"HTML","resolutionMode":"WEB_1X","accountSubpage":"/account"},"extensions":{"persistedQuery":{"id":"69f3556e-0089-4a31-a234-7763a048795f","version":102}}}"
+    }
+
+    try:
+        response = requests.post(
+            "https://www.netflix.com/graphql",
+            headers=headers,
+            json=body,
+            timeout=15,
+            verify=False  # SSL verification already disabled globally
+        )
+        response.raise_for_status()
+        return "UPDATE_PAYMENT_METHOD" in response.text
+    except requests.exceptions.RequestException as e:
+        print(f"GraphQL check error: {e}")
+        # On error, treat as pass (do not reject)
+        return False
+# ------------------------------------------------------------------
+
+
 # --- Your Original Logic (Now a standalone processor) ---
 def process_single_file(filepath, filename, db2_data):
     """
@@ -290,14 +353,23 @@ def process_single_file(filepath, filename, db2_data):
         print("Login URL: " + login_url)
         
         if check_link_redirect(login_url):
-            # <--- SAVE TO DB2 if it passes
-            new_record = {
-                "source_file": filename, 
-                "url": login_url,
-                "generated_on": datetime.now().isoformat()
-            }
-            db2_data.append(new_record)
-            print(f"Success! Saved to DB2 from {filename}.")
+            # --- NEW FINAL LAYER: GraphQL check ---
+            if check_for_update_payment_method(cookie_dict):
+                print(f"Rejected {filename}: UPDATE_PAYMENT_METHOD detected.")
+                try:
+                    os.remove(filepath)
+                    print(f"Deleted {filename} from raw folder.")
+                except OSError:
+                    pass
+            else:
+                # --- SAVE TO DB2 if it passes all checks ---
+                new_record = {
+                    "source_file": filename, 
+                    "url": login_url,
+                    "generated_on": datetime.now().isoformat()
+                }
+                db2_data.append(new_record)
+                print(f"Success! Saved to DB2 from {filename}.")
         else:
             # <--- DELETE DEAD FILE if it fails redirect
             os.remove(filepath) 
