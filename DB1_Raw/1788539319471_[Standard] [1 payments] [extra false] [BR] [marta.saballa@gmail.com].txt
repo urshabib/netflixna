@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: marta.saballa@gmail.com
+– Verified: false
+– Profile: Giovane\x20Giovanella
+– Plan: Standard
+– Next billing: 29 de setembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 3121)
+– Cookies: Admin @logslead
+
+.netflix.com	TRUE	/	FALSE	1808342183	OptanonAlertBoxClosed	2026-04-21T21:16:23.097Z
+.netflix.com	TRUE	/	FALSE	1808342216	nfvdid	BQFmAAEBEGF0Hoxxo_fCxY3V2TUOZ2lgxU76IncODq4D5V1p6HzZodD-toDH9aKJPTgTSGI_9dIS9-cD_3KsemnFo47NrZc9eYW2b7vgKjsPYE4gEZsgC01EXKny7JD2is-QdynrVZ-vuycmFxd-0EyE5QX5Q_4p
+.netflix.com	TRUE	/	TRUE	1791127876	gsid	f6803860-c7fb-45c3-ae9d-276197726bc5
+.netflix.com	TRUE	/	FALSE	1813681776	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+22+2026+13%3A29%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db0947b2-cb43-467b-b006-866239b1c59c&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1776806172825&geolocation=BR%3BRS&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1789921776	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789921776	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789921776	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1813693840	NetflixId	ct%3DBgjHlOvcAxKQBAZhTS3n-83CaeA9sm5UBKFo3ExJRIiXB9k9tBuVeJ23Tvcl58W0T3bM2iqXgsui3KG_SVDRKJh4CXN11vtmRX_y6bIzx1_6q4wrhAQCap-QDdQ1rmugXRJrUE2pj1SvgE6BVyTg0ErbY_eVoRKg3ZWC6c23Y1NUS1Uwk6ILIjyx2dwdipNInisJdx3tfcDEZpKvZgp3LEdf8HGtxa4SDigBFTYV04mBb5Rt9Mh4r11NcDSSciPqxwfK6LcZMUkeHNpXMRppb7SIV5O0bpk_xK2qj_Hem2ERg2e0jwEL0D5xfFD1gp7wzqikWuFHmEZrMhcIN45bRZFyg9HjiH8cGo5bXty917ETZk5T0jd17kZdSbUMW_xPzCxSOCtQSONFqW9tqYpbmxbjxzZmNMeBhxxwvKXQMQC3DNU4JaLYPbcLhYs4iwwePQFnlZAFqMlYt8kSoELmZKSASnnB7I3tHyhBohMYmsa-1J2Y_aeP_yBTQWp0KAq_jLmCX3TpVmResW2hcF7nHr0Dlyh5jERjzOWijpNW95m1rn2t_Qt3GbyO2QitV-xU3a1WgG0SA5kSvHUU-72_rhVlrJELXUC1MF2AaANsCLzy7hEAAAolP7A8H-KUIeCnv4rs5Q6WcAVW0BdmXMl4mywWqIgi-rP2V3F_myEIoe-yaJWNIfKgxUF_iN3neu8B-Jw7bQk-hCoKGBgGIg4KDPqilGp9Wan7oI8NPQ..%26ch%3DAQEAEAABABQpmPWmKzyWlqwihsUFzsFIOHraR7z7gRo.%26v%3D3%26pg%3D6JEONTG5OFAKRAJL4FDZRFBHVI
+.netflix.com	TRUE	/	TRUE	1813693840	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRljuH-yRkAe4ytbAeT4Ksthr5tIdE9z5w.%26dt%3D1782157836292
+.netflix.com	TRUE	/	FALSE	1791127876	profilesNewSession	0
