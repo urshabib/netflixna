@@ -177,8 +177,8 @@
     "username": "hasan",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 3,
+    "links_claimed": 4,
     "has_limit": false,
-    "last_claimed_at": "2026-09-05T16:28:34.480Z"
+    "last_claimed_at": "2026-09-05T16:35:29.344Z"
   }
 ]
