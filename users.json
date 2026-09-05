@@ -151,14 +151,6 @@
     "last_claimed_at": "2026-07-31T13:32:00.994Z"
   },
   {
-    "username": "xxx",
-    "password_hash": "123",
-    "is_admin": false,
-    "links_claimed": 12,
-    "has_limit": false,
-    "last_claimed_at": "2026-08-08T19:26:26.337Z"
-  },
-  {
     "username": "abc",
     "password_hash": "112233",
     "is_admin": false,
