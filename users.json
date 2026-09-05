@@ -172,5 +172,12 @@
     "links_claimed": 4,
     "has_limit": false,
     "last_claimed_at": "2026-08-24T04:22:49.884Z"
+  },
+  {
+    "username": "hasan",
+    "password_hash": "123",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
