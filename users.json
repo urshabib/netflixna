@@ -194,8 +194,8 @@
     "username": "haitham",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 5,
+    "links_claimed": 6,
     "has_limit": false,
-    "last_claimed_at": "2026-09-17T16:13:41.375Z"
+    "last_claimed_at": "2026-09-17T16:16:28.443Z"
   }
 ]
