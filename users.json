@@ -178,9 +178,9 @@
     "username": "Mrabet",
     "password_hash": "aaa",
     "is_admin": false,
-    "links_claimed": 40,
+    "links_claimed": 41,
     "has_limit": false,
-    "last_claimed_at": "2026-09-18T22:39:34.487Z"
+    "last_claimed_at": "2026-09-18T22:43:30.962Z"
   },
   {
     "username": "douday",
