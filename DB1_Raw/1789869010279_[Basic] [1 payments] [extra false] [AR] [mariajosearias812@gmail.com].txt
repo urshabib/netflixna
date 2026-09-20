@@ -1,0 +1,20 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: mariajosearias812@gmail.com
+– Verified: false
+– Profile: Tomas
+– Plan: Basic
+– Next billing: 8 de septiembre de 2026
+– Extra members: false
+– Country: AR
+– Payments: 1 | CC (VISA 5891)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[AR]_TG - @FATETRAFFIC_2026_09_19_41350994\Edge\Default\Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1813024391	nfvdid	BQFmAAEBEKH2NKcZy-GjdTnQkCspWlZgHW8Kvm51OyuNCUlBiAcYtNHV-jzAd52KjKwn_Vz2_ikBmyX9zE_omerLHyRguomKZgxWqple-BojtYZUO6YG5ukKWpZJ6lnsxDe4pIBQo5Edwh1aHIGlbRNQfthrs9uP
+.netflix.com	TRUE	/	TRUE	1814044497	NetflixId	ct%3DBgjHlOvcAxL_A-4CDZIVePkIcMmiqUmrHNekubW744_hEYQEdscf1h1hEBTF6u-f5zrkyJV7Y31hV1iThk_ZpU9DzRglFL6vtpRdyOI4FvKEYKKVlm1a7TfCF8PvqV1Ll32TcB9bTVDj8gZ-9pU6M7QP-4nL8W7gMXIWCw3Pjv7kAJtIHDddSou-PrWcq799a_gJCl5t_DEwYg_xgd2alsxVT5tnB2oU4_KQspbUP6RqkK6F_C4A_jfmIvwR3F2VdQ2ipuhejpJP8vXGI1j5P-iLUrGj3cymMMBjQ_kfoYXkvraAmWF_WcSRSF6xcqder5nynHLvHqczyXV1AJui00eGzLWOl0zgqBKquDiA_rWPwmemuHM6kl4P8tQrIYH4Y57HtEAwmRV3U_SL3tUU8GR3Ukdm2DQ88FPHg46LhFXd_OWQg5kTCWAuNtArDuLQM2-9GOZ3g1BCmBzaLO9POIsVL4Xjqpg92xnsBIk5623OelNdZtG82yEm2g4aioFByIPzGNPPQ5xD7QwvksHlGuFI0KU5esdB-u1lSxR2P-C62O6eKKgV8MNVN9S36Skq9fDLE-UKVXvsmCTtoir1OJiaVixxhAZHOsm4AaZijjsAstNEIqZPT5062tyO1Yx5BzpjDuaStdHGK-EW-Q_CdxS_wbihV2PTSFw3o1FJWGy20wqqKE-GL3cYBiIOCgzvUD5AJA4ahhEhno0.%26ch%3DAQEAEAABABSn7BYNNu7e3aOtWRPqw34QlPA2o0tnRbw.%26v%3D3%26pg%3D3QBLQNCN5NH5BO3JIMQ3EG7LL4
+.netflix.com	TRUE	/	TRUE	1814044497	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT9JLfo9uItlws_zmIlHQakgw-CdnaU0ug.%26dt%3D1782508497301
+.netflix.com	TRUE	/	FALSE	1814051431	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+26+2026+20%3A10%3A31+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=aa238c39-70cd-47e9-8065-f1bc61e3a621&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781230435706&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1790291432	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790291432	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790291432	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
