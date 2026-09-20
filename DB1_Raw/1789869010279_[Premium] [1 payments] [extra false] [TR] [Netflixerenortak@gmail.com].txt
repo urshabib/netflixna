@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: Netflixerenortak@gmail.com
+– Verified: false
+– Profile: Yunus\x20emre
+– Plan: Premium
+– Next billing: 28 Eylül 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (TROY 8067)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[TR]_TG - @FATETRAFFIC_2026_09_19_41206857\Chrome\Profile 1\Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1792458652	nfvdid	BQFmAAEBEKswcEeZvrP5Ky4iqGY_3V1gxt9-5C9C3KH2b4AaBt5rHr69Em17rok8lqhnC5gDUIjUg8PHutWFRRi-QZd5OZBt_iQvn-jM-ibrnWef6Wvja_ryHM4BPbks5MlO7ogKDS03FTA_jfkLhtgmO-aFQtxH
+.netflix.com	TRUE	/	FALSE	1792458652	OptanonAlertBoxClosed	2024-06-23T10:41:15.216Z
+.netflix.com	TRUE	/	TRUE	1792458652	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AhxzO2HF8JrSJT6LjaMxc5-tNb5wGbIjGOYiXCMvpRms2nBUwBeRD_SqRVeT5VRZvInN426rfXxCSff0rctWxc21p40ARvhRL2Cm6E81BEhQj1_7aW9nU7MUI3JZ2UjpgfFGOq73N-DJv1OhaqzTCi3DwCtEmwmdnANi0lOd7EFntnuZtQzUn1jDOhQpAKyZmcPhnj4QKxaIa2yPIyiaMVaJ5lt0rC-ERzCVdf6qd9YmuhLQmHBLVyJrtJCzQJqCVi4tgtTOE_8naCrBGPowWAJCmEId48rEj_Ee8jwSCWcUb10iTXdYIjZuDkCFMhKY5GU3VmXc9O-iJi4Pi3f02VUzSuZy2DbYTXJ_OLCCftqA_mbxgLpAJLouf9GtL0B6dN5hV-SEx2SZDRj-e14mU7-DZrrdC9PaIZNvnIaa7D1bEzYSD3yxJa6N7L_SZqyFRublaY4tP_TT1fxRCZhJ4nLANSqj7sN_IMyuiKhmeuxqyLVALVQYBiIOCgyv31wT8stcCANFkq4.%26ch%3DAQEAEAABABRYyvp8GlCXmVgsAz4QV3qm65O9AvzkMjE.
+.netflix.com	TRUE	/	FALSE	1792458652	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+01+2025+23%3A03%3A14+GMT%2B0300+(GMT%2B03%3A00)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=15d7270c-8509-4e9c-b55a-b2da10ed19d7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B34&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1792458652	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSHtfjb-02BJz2tYC0tporEdLTD-UXEvvc.%26dt%3D1748808193824
+.netflix.com	TRUE	/	FALSE	1792458652	dsca	customer
+.netflix.com	TRUE	/	FALSE	1792458652	flwssn	b87d19e3-6eac-48b4-967f-7bd38286d371
+.netflix.com	TRUE	/	TRUE	1792458652	gsid	d04bd4c5-c6c9-4df6-a52f-8efe36734f32
