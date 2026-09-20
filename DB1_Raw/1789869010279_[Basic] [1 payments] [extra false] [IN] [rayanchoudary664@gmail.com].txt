@@ -1,0 +1,23 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: rayanchoudary664@gmail.com
+– Verified: false
+– Profile: rayanchoudary664
+– Plan: Basic
+– Next billing: 18 September 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 8***@ybl)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[IN]_TG - @FATETRAFFIC_2026_09_19_37164455\[Simple Checker] Netflix Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1806471916	nfvdid	BQFmAAEBEFrTM03yCuQpKXYhqdI6wJtgm-e76lto4-NyC56k4xbUDw1Nmj3C2yVGdcHgTpQwy4ZefvmtMDSNBgaecMzCl9Gpz5H5Iosydv7dP1PX4qMhZ7_oZC3UywJH1n0D-L4EE2MhtNAv-NGkOcLe08tlp0BV
+.netflix.com	TRUE	/	TRUE	1815980391	NetflixId	ct%3DBgjHlOvcAxLQA_148XgGroVeMS66FInnLJ6ci-Ys7IeXewGUS4cKkv0B-fw9aUkgUUSQ6sHlZeNn167xzQnJWhvcvntUZawo75Yy3X_z8tRM_dq5CaKJRXQJNcM4t6GoIuCFagKSVDw9vVBzoo6fjzWXPaui0KECDv4qbumo-Kjb-SMbmdFu-4k5Qr5GXk7JiiCGfvtF0sNMm_JwG6x-63_H5tOT6SuMWKGCKF8zIsX-adkydioPCMo6lEpQxgLFrmy1BjRtl3opGoPJvjvwVA2yRiPtBL32y-yzmHcXKBwOsBXcd18N57BDacAO0pq5HZIiWo6SjSsS-jxJnoz-EnU1eTuQU-DyCAZSdiOf8oMPNdGBHdZyWW768i47RYH98DvuylX76M2xOuUXuFdygOpnmXUF7XPhz27VDw4WZM1kwu8txBWnkIxJZb13p7BoCk16yFDW_yazazCDmZS1xT79x-ROjwFJYSnGm-8Z9tcQRJHul5KCgDk1-2ZgnQla19a4pMT2eVpqEvCNfuHISc8jwraJfsdVe2rq1wD6vChcUIjfD1InKle_malkd8N34NYde-CUhN8TsI_jmRx8zlDa7SzvOdzx8Oddq7LLXikz5aXtjINqoWe-GAYiDgoMyYKLxkw9-k2gS1jS%26ch%3DAQEAEAABABSsr1Uc2baIzLQp6iIKdEsIdI4ocf4zq2M.%26v%3D3%26pg%3DP74XLAWZYNBH7A6KENJM6MWBDI
+.netflix.com	TRUE	/	TRUE	1815980391	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7Lzj7fYN9pd9tQd5rOYxYKZGsYH7v46c.%26dt%3D1784444390144
+.netflix.com	TRUE	/	TRUE	1792355197	gsid	89a38383-91dd-45f2-a35a-cccc77319615
+.netflix.com	TRUE	/	FALSE	1792355197	flwssn	534760bc-06a9-49c7-881a-db01a3964baa
+.netflix.com	TRUE	/	FALSE	1815980944	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+19+2026+12%3A39%3A04+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=39df7de3-ddf3-4b1d-b40f-2ebbf11583ad&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774935681444&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1792220943	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792220943	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792220954	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1792355197	profilesNewSession	0
