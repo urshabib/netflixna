@@ -1,0 +1,18 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: rafa_monty@hotmail.com
+– Verified: false
+– Profile: GoKo
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: ES
+– Payments: 1 | ORANGE_SPAIN_BILLED ( )
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[ES]_TG - @FATETRAFFIC_2026_09_19_25040481\Chrome\Default\Cookies.txt
+
+.netflix.com	TRUE	/	TRUE	1795033618	dsca	true
+.netflix.com	TRUE	/	FALSE	1792009718	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+14+2025+22%3A28%3A38+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=21e8e519-7743-4657-b035-8e9f84626f98&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BAN&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1792009716	nfvdid	BQFmAAEBEBhdMLBFGUNFL8tysLlMok1gq0KOXD2Edyt5HgIeKD73QdZJxAEaXaeU-5tYOOdB9VucPd-rm6hfPo_Sp5gHqqPUowmHPew91Z5L9tDo7GZJQH0d2F17lC2Yf2tgC83JG-KNW1MBMBwk3scOuptqdZ1i
+.netflix.com	TRUE	/	TRUE	1799393716	NetflixId	ct%3DBgjHlOvcAxLwA31PHpfzGzJtQZlr4MMw-ciBqLuLvHqnMDI417ESwrEKV3MRvBucTVE6j5DIk5ABcgIjwl1t8ZPFDObsF49qdE0a9h29Vj7n72Oh1fWwLJhYN_IpdbxF5G-nsTwfyK-4kAJUf-UveIx4HT-Zyy_po9hoVp-xeCvLiwQbP6xSYn1Ef5GtQTuopJdbq4K0pSrnZWE7CrkgwGRRcW5ot622qY2yXyd6CkIKn67zXlDtGBPsaYbWeJZ-08c7DtMCD9suqFYkMOhtFgjEZSTNw9nRU3qrjaoPYxP-p-eP6iUoRSx08Z6aVkZyt_kzYDqaGmnqu-EF8dPpqJm584Y8NWvekf6y7cBux1tOBnC_rrMRNgP2wOFXzoFYBwjhlsPTdx9OCd15bVA9kZUexbXgR2Wcbf2PJvJxGn2tnTFC1Wx30fu6lFIVUUnIZZmoROwOwdsF26rbP8v-Kr_1568_DocBpZ7nZ-6QiOmJ3c9h3BSz7GkzNdzi6LLCW813qKjz9K5Hj_xsiZDhRokyyoD49CoBpXPWKVnyAaZb2CeTaMlWTo9S9nu2to3gWv4RZjazha4yGYq9v4ZNCpDvEpYFF7LyJOEErjnoWwZaavNuWD9DlYwBFXPDZUpdmrRvHytx-YH3Akq0KkMSz0YYjK13RLTImSEYBiIOCgyGP88ppmiz0DyPbtI.%26ch%3DAQEAEAABABSegcCKvN1WxDkExmAC9hCw8Md16P-Wyeo.%26v%3D3%26pg%3DNG3ERBUZ7RBTJBJ4M5GENZQMUI
+.netflix.com	TRUE	/	TRUE	1799393716	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZsf33vXUoqqelPefk10-7-zvDNxjj0qs.%26dt%3D1767857710008
