@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: royalgemini333@gmail.com
+– Verified: false
+– Profile: Tessie
+– Plan: Standard
+– Next billing: October 13, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****16283)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[PH]_TG - @FATETRAFFIC_2026_09_19_37872523\[Simple Checker] Netflix Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1814068388	nfvdid	BQFmAAEBEEPxJOBXi6ydneq10JWqBtBgo0ELHRGuCuqOAOtZ_1XkV9hJkZMXSvzcqe_KkxpU7073jmxo76yLEdnBsOim37mXzABFg7wiVdDxgylzLsQg5HzoMxtg733FoeXAuIzWBB3dT8OZtc96hEa2B9_-CVGY
+.netflix.com	TRUE	/	TRUE	1815607056	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXAzW7AatwEarYwUOLCQ-uUaAVdZ-M26DdiBxihf7da2Cv2GAsvn--ssmYrOFJSmLcTdMmp5ctCD9QMO2f7QpEqsl5XcGvw9osFcBCHRHOn-aQL1Ql69fESeyRn5dG_kbulfgNRM3ukPHlrc-y7ndVBnEcZ0y9kO6EF4bQxceJEAOB4ivVotP6jg8YmONpI4H3GWwGjalFKPZ949O5t2kst1q1UQ04Jq68W8zvrYp-80YNTc4xsxdJQH0n-VMnc2jsc8VhbSE0okYem9Ya1tr8P8aSqO6QP61TocA59zlZVarVv_13hqzym7bP4JUKA2JlvOYgEEuvG76gRdjvvezM2yBQt6aBnUkR9u5LQ0N4sEmCSi1NquOv-eczl9_kX_GI6Vwt2OqJsv3nd1WoYsw9SLNRw99U-74GrT_ynQVW8CjbvEiXDBh9bkqRD4DIqzaqWjDGJY0lM7C7z5nChMLxcjuVWj9Xnkq6yBMZp_FNhIg5-rbRfvktyA7sXYlNDTmi9LfHNBccHb2356LWUC4rKoPRfdz52qYsGAYiDgoMW3xSSxSBnd-nYM-q%26pg%3DY5B7VBEYRZHIPLW2I2E326UJWE%26ch%3DAQEAEAABABSVv03mA2mbh7czYMqJc2UxLSQJ47z5WOU.
+.netflix.com	TRUE	/	FALSE	1815607058	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+15+2026+07%3A17%3A38+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ec2eb3c2-813c-46c0-88b5-43b05794a237&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1782532303615&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1815607056	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwpSOaflXOu9k6yo7TBdVNwTWDJP0WRAk.%26dt%3D1784071058920
+.netflix.com	TRUE	/	FALSE	1791847058	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791847058	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791847058	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1792355198	profilesNewSession	0
