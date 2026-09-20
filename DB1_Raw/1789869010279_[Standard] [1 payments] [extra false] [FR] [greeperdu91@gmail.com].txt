@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: greeperdu91@gmail.com
+– Verified: false
+– Profile: chris
+– Plan: Standard
+– Next billing: 22 septembre 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 4544)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[FR]_TG - @FATETRAFFIC_2026_09_19_58537004\Cookies\Opera_0.txt
+
+.netflix.com	TRUE	/	FALSE	1813910882	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+25+2026+10%3A08%3A02+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5064b765-c807-4826-b8a0-790e4173218d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1790150879	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790150879	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790150879	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1790734473	OptanonAlertBoxClosed	2025-09-30T02:14:33.846Z
+.netflix.com	TRUE	/	FALSE	1790734476	nfvdid	BQFmAAEBEDla2tVfrFhfBS3JT2vn2FxgvwUf0bHryDrXbb1wHbI97zvyH6D21IJD3xgUteHYhreRkSEp1akfmKMYQA8N74CFgzdPIlwxBMXNVe71PkAGFgMzzBX-XUB5Wd-KwxuZ1cXKFv1oJtYOKGmspJ9-7cM4
+.netflix.com	TRUE	/	TRUE	1813963527	NetflixId	ct%3DBgjHlOvcAxL-A6t8kUN3Wnv-dvVQGDx5cmCmVAcl4QVCWuaap_ZuDy1JhX518l0dgTk8rp8agEgVQAYD8MusGo1Myb8Bw8IWUH_Zow93VoTSI5eaiEcsemgcEZ6Fuy7dU1e5BGNK7f8shio6D20R7Ey8jVySC0C4cMe2tnbSfbAJCE8la0RPyGXlz_JAV_4sRkxkj9Lita0vk4wrDWs4rGgfLgg-fOVIjCjn_1iCXV8C6rLZ2uGopYySjeltFbtoqD9dWJVy7Gbe3rCckQHSvklaRxcRSMpY8mpuDGOlnJh0qLp61UKT7ZpljXWJiP0P3PXA0qR9GqxmxY0_sw2hyw9IZki8w32vG2jFjgF-jjqevke7L6FZAAMfUkE7RcdWphnwEqMiBdGCZjl1Y99oNqqCzX5WakWHv1hAsuDxiWT9zhq8znMO9IGfCRyXXGevRxI9Aey5ddnVx52y-GfYmC-VxUvy4Y_aAoVkemtVqDUZnvq8J3HSPa3caDmwqdrW_BD5HkU5qprjenEBrosyBgYX10uFJY0dT6cpme9IUDb2CqFBMaD4w44DR4HgViQbucFKbu9I7IN6TUJiGHrDi-lrcoWqm73cbu2gTz8anuApvNYkkqqJGfe-2po6slcP6-Lp5a8Jn2Gm05_EmNmS-K8c_-9P2md5yNn891MP7qLACpgUyeSh8RgGIg4KDP5_XaiYKzqdGQYA4Q..%26ch%3DAQEAEAABABRJ__1gbXGedqsaCOXFCZf17Oh9KfJFveM.%26v%3D3%26pg%3DWUBE5NLKDFALZNJ24QORPDEMHI
+.netflix.com	TRUE	/	TRUE	1813963527	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJtBQ9eCk_gNAp8avgFsFMxJ9jIMKVtbA.%26dt%3D1782427527045
+.netflix.com	TRUE	/	FALSE	1792458652	profilesNewSession	0
