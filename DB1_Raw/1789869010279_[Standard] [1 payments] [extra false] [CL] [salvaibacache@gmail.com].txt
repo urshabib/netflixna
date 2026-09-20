@@ -1,0 +1,20 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: salvaibacache@gmail.com
+– Verified: false
+– Profile: Aynoa
+– Plan: Standard
+– Next billing: 4 de octubre de 2026
+– Extra members: false
+– Country: CL
+– Payments: 1 | CC (VISA 9384)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[CL]_TG - @FATETRAFFIC_2026_09_19_51045123\Cookies\Chrome_2.txt
+
+.netflix.com	TRUE	/	TRUE	1792458652	gsid	1bb69e92-d130-46ce-a157-daa2befa1194
+.netflix.com	TRUE	/	TRUE	1814887509	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiAyuvnenPCzImDBlYl5bg6JAnmu9enYaKRtM7TXb3YKoe0ZhPX77wcNvxdaDn2kVcYEgZheReXLSbOd0xcXNAGEbd3n8tluiU_CptMI9gzQPapH4YKSJOiEeubYGdvjuuyGpeiWNn1YE0FxDfi4zSCKEuyVlNY4PSDbi9Ie5Vjei7ar33osxlTb7mg-ssSRxNXHkkupC60ZHtoAgCu-_xrXfnDCBu-MQYJ8LNe4q97XY0wlLCIPB4eMjXNY_xuHJeM4AjjMJu1gu27-DikjlwWNRuwBl8j_SgfUJvKLYINJggmX2bBkRMgNYpcyLLowjl9sK3QevEWFLVznk2i78VLc97g9tO8jF9G5jUPtmH-mmhr1dr7STQyrLbT5S5etfpQNCRYMlTP5uKQ39NYZkhwAIZrj0j5wR2vvdkFlZrH92ECXtqTVzDCaflWEUo9R9g33xTyMxiVKiZ8sRwYoPtjpA6AEdU5W5icSxzRl-6cxf7rWCqKiYBN4DwC1FoaSLR_yusya2EoYWQR3emZnTA6SZs4BsGqnRS1IjhJmd-WG4cZA4YBiIOCgztgs3r6vK9FAFXftI.%26pg%3DVZPWLGFBKJAI3PGVHL3PHJ65KE%26ch%3DAQEAEAABABTXOWqKrRpX2EBqSnmFHfm8iIp0BBwbiRA.
+.netflix.com	TRUE	/	TRUE	1814887509	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRfxZMsnULkkZ-8fo0IEuuc1a2TH1abMBQ.%26dt%3D1783351509719
+.netflix.com	TRUE	/	FALSE	1814887509	nfvdid	BQFmAAEBEIPM7CJywBAMQUNKesF3jC5go8-LS2c82KmcA8DPsb2gbbvx2fYIEBbZFvL-CpP-CL0WOCEfXeXbPakvWgcZZE2WCUgM8rgGVFKRLQGaDpJau_gZiZVYlJgIDRBLqQdwTEQMxQRP9U1cT1S7lGW3QmZf
+.netflix.com	TRUE	/	FALSE	1814887647	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+06+2026+11%3A27%3A27+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1724ee22-ed45-449f-bce5-7bca841b1780&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1783351421531&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1791127646	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791127646	netflix-sans-normal-3-loaded	true
