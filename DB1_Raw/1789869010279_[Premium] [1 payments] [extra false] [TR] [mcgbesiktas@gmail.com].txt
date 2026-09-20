@@ -1,0 +1,18 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: mcgbesiktas@gmail.com
+– Verified: false
+– Profile: Can
+– Plan: Premium
+– Next billing: 26 Eylül 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | DCB (TURKCELL 9202)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[TR]_TG - @FATETRAFFIC_2026_09_19_33993955\[Simple Checker] Netflix Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1791882694	OptanonAlertBoxClosed	2025-10-13T09:11:34.557Z
+.netflix.com	TRUE	/	FALSE	1791882799	nfvdid	BQFmAAEBEHuvzrcHhvSfs0fZtl7uxWNg85v6GRiycHp8bjjC7SQN0gShvJ6n0WkyQAHTN1anJRkpdkwjx4-Bf8wi7ni8u6HXbXHDMpyjS4-zdqg0e2GDdW2SVVWVjsqs5KMTh4gRqJqnEHckQImTctxDXu7BoxC5
+.netflix.com	TRUE	/	TRUE	1800743616	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AoUU8YYnprJjZnlRbSPMIp_OnsR8-bHYLyvvJBINicnNkmUUNkzQ38fxPtdnSV90t3cDXee_Pv9ch9boDPgYN9-oRiU9eClH3V2I_-nCghDac31pfVVaAqMmnlpOYWxgNCr19ZHRFX2uUrMd8Z4GG-S8OkrYR1AXewAMqj0btcZmXV7UftWCR3B102AZ0vz0y4Iqw7pPnHNmFicIVEKmqiFqUZAqenbSVqy0B3qkY9jja3k7_uIhzaruDB077sEd2QVBW0EX_PTifTDmX3H12RzAgYl0ww-cm6KysuMjppqX6n8c-jpbNOV4y-RQ7KSlF9rqJBwSYxlPd1FDRut5pFB7GFSeTSBlDv-bpnDrNwZFTBrRYE8qxZTDzZ-uPd3S2q7sx06IxvKH0WtFe_jXTiuuBkkhkhtk1kGPexSiKD3yHp-OqYwRk0lnYPZ3Vi0NOriEZ3kyggigWl6kpw6G4Sc-FebrIwGolVG4NjxNS0MjfvoGcsbkgTWIAexQGAYiDgoMlJGlu65qZ_6REpVR%26pg%3DE4KWRBOZW5EPRLKKMQRHKQHEOE%26ch%3DAQEAEAABABSYQ6ILX6pfXgzg3Xt7hG8NFhBoKpfCIwk.
+.netflix.com	TRUE	/	FALSE	1800743617	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+24+2026+01%3A33%3A37+GMT%2B0300+(GMT%2B03%3A00)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8e128883-4a35-4e4d-acc5-30aad3b2b4b2&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B34
+.netflix.com	TRUE	/	TRUE	1800743616	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJCf-_-mTV0Wo9TRbPNNUYeP8JVXHChOE.%26dt%3D1769207616174
