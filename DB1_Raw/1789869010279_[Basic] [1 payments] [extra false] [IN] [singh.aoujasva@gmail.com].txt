@@ -1,0 +1,20 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: singh.aoujasva@gmail.com
+– Verified: false
+– Profile: Aoujasva
+– Plan: Basic
+– Next billing: 
+– Extra members: false
+– Country: IN
+– Payments: 1 | RELIANCE_JIO_PI_BILLED ( )
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[IN]_TG - @FATETRAFFIC_2026_09_19_29434856\Chrome\Profile 1\Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1808026399	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+11%3A03%3A19+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0b3bad4c-27ec-4004-aae6-be11d310c271&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1812538068	nfvdid	BQFmAAEBEPmYjNyTDUW4JhqFCZtFIWdgmhlVhGYtN2kBdIgXaowH-zg_uSUSH8pd6nkSgNtyfIJvaIqGEmvbn98DuvTbeKt6BB95elXEPSR79YhOMeEwdoRpXy6oymrw25bMQ0Uw_L6cj06yGRzhpXIrnIXLXb2F
+.netflix.com	TRUE	/	TRUE	1814982495	NetflixId	ct%3DBgjHlOvcAxKGBJTMNklisDeNLcq3ml7zEkzjoWWquMlL7f3U9zHEUh6KS7RCEI7sd57qv7xqzG3PmlneY09CY9cEWXObPiIOD0Hp-bSoh30xZ50LlZ3-IJ9oRnqeQXfXbN0BsU_ZUhyCikBWJMmgzIjg6poCRuM7x6yCezvh6kd-sQz-FXAVykAEElxF3Brs64KKfYq10LmLyBlfNrhGy963Ax0MOhon_JAx2prp6gH_IgRH49vQjeSQQ9P_NEToQoPK343tD7dnSqUu3pGM95IpHPMEadezGzNLWFStLCKDf3oBYwqO053hR-rlQ4AnUw0_lOqbspIdl5pBAWF7HdIgrPdTKCllh4S49UKiWuGiejy77Di-3xrkhQRRVdXmafxTO6DjdmNdhQBpGVj4-E7fJ4jv0By7l7F18prtru0bEZuNVtsBHf54sjyOD6GTk0ysmBg8tSO81qpkq-NIO8adPf9AxMhALFG8MHU53I9Mkp4LL8vQWb9lm2vhDxLqpGLZCO-tgH6rnoWN_oGB1bch9qZjYL4D70nzcEtewh5rwDJkU4H6FQLbUGRQ29-96AaZtsXg7ON_CyMEyNLur1tNipsn6gHDomRbZjn0niQz6qr9USqpIE2fd4xtQqdkAxGDBy1R4yxbcE3Up7k_A-hLfkRTVfjG_Gr7B76zSAJ1f6020WE3sdFmxdMMlop_GAYiDgoMF8-ZO9T-G11WwKFC%26ch%3DAQEAEAABABTU84a4B7qTZq2XsTUys8jFzZ2CpMs-QE8.%26v%3D3%26pg%3D4TSXDMQJGVGUJEOT5OBC2W2SPM
+.netflix.com	TRUE	/	TRUE	1814982495	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKmBeon6LmA07oJkMgY8srKY8YDD14MkE.%26dt%3D1783446942522
+.netflix.com	TRUE	/	FALSE	1791222495	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791222495	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791222495	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
