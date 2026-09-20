@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: johnmkeya06@icloud.com
+– Verified: false
+– Profile: 4L13NX
+– Plan: Premium
+– Next billing: 23 de septiembre de 2026
+– Extra members: false
+– Country: TZ
+– Payments: 1 | CC (VISA 9471)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[XX]_TG - @FATETRAFFIC_2026_09_19_75258537\Chrome\Default\Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1816503841	nfvdid	BQFmAAEBEJM_Dcqlcl9yM2pOVyMLpF1gRhesL4OP630gldafufwOZ_qXyFjCGgH6WCtZsKWCoylGS5KGWqlBLJUnxDOe7uKRVZ2eqXmwi5udi2L6HYX1fUdAph6s1LZHuCGHonbhrCPWKJ0IxqD8wKOTB_RLBJa8
+.netflix.com	TRUE	/	TRUE	1818057508	NetflixId	ct%3DBgjHlOvcAxKABGACU3eyHDaX-JzTzbBZLcNPY8lN_eH3huOJTGaB7ZnyYCbKjUAFZnTNvMVDSRMZFPox50efWAdFVSn_sEkUicq_lq3G-vNEz9fg4aWI3VQic7tz4zbvVxoF5eJrD09m84uEuaZb1JcxYgDEjp9W1NZUQSRDIyk3ZU--TWrHG483FCnMbyto21XF3_UbUibXnUGMrhd0gE1GxDcpS0mEEwxUXBgIwvnV0iEmEoh7hxPDIs2OCze5iWdcEehO_F5ocwFlbl819tU_tHkVVJECVrFZE4gb3Vs3-GAoIuP-ab8N3oaDYmcAbNy-UgqBbO4xeeZBcir5f3zjRUIo96TvBA7OHmXKiHNCx-rvycDidikg9cIKSu52tZLwXI-nN1iISom3xARDjbNNalkRjC1lYTczfISyoyXbHGPnZ_360A8d6A4tbBVGnfCajMsjVmSmE1d3aCqeXSXc_nMdPGMn6KLCRzU30HeTTr27Vy4Pfe9vwjoFKaBmF989z82RgX98LWRFESFRzbtgU5K90JhNxdMqSZJk5NGJotYSdNl7SXzEn-Nm6Ln2aE2apwqHulxZvZAKUrivFqV3-Yh1_DtZilQMuADMLxmnyAtdQxFucLNWjiI_x09Jzkqre3U-AsKg63invGv712ggLgyqYQ5VsH_q1ALgu41j9rJyFixf8XsKGAYiDgoMK3r3LTokXEp8SJC2%26ch%3DAQEAEAABABT5lR1DBO3vJnpc-CuKIW2vi_6QE1QgEKU.%26v%3D3%26pg%3DG6XXIMDUBNHRZMP3MHL7IL6GPE
+.netflix.com	TRUE	/	FALSE	1818057511	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+12+2026+10%3A58%3A31+GMT%2B0300+(East+Africa+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8b98e994-49b1-468d-aa57-364d8137c564&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1784967605821&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1818057508	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQLyYhLH-LtYdKzJKg_Sqx5LsizvPdKNqw.%26dt%3D1786521507486
+.netflix.com	TRUE	/	TRUE	1792458652	gsid	8bfef9a2-cd8c-4976-a715-1c713cdc9fbc
+.netflix.com	TRUE	/	FALSE	1794297510	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794297510	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792458652	profilesNewSession	0
