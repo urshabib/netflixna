@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: renansantosss@hotmail.com
+– Verified: false
+– Profile: Renan
+– Plan: Standard with ads
+– Next billing: 14 de outubro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 9323)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[BR]_TG - @FATETRAFFIC_2026_09_19_37931678\Chrome\Default\Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1807979092	OptanonAlertBoxClosed	2026-04-17T16:24:52.569Z
+.netflix.com	TRUE	/	FALSE	1807979233	nfvdid	BQFmAAEBEDD-Cx3TBFnVNP438A_d5oNgpFQtafNyQtVTHf8Ow8OvNIsjbZ5YGUP-CHMO7RDXCXwRuVDK6uC9WQk9w6lC5_0hxGlBNWJC-wAIb5bwBPCARmn1V1fwRD_6B-HligwwD8IWSwp-v14EgZJX2ENdXdsi
+.netflix.com	TRUE	/	FALSE	1811096135	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+15%3A15%3A35+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=587c4ba4-5720-4264-a501-d218f29db24d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776443093422&geolocation=BR%3BMG&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1816009828	NetflixId	ct%3DBgjHlOvcAxL-Ax3T7oTqYj8fIiE9P2_HvA4UB3IK-wf4VsOm8FPs9Ljm3q5rfGLFiYboyO6LYBQk3CvCGRMGFaXp1PLUMxZWy5R7xJZPrye3EfYmH8MNEo10r6bNPM2bbG-mENfpMHjePpl1hL61RqhiB-XqH3WpppBwChMeDmeWP6rN1qQ5A8rHKxbsMOO4XA7FWcl91MmMnuKFTSo7HsB-soNMt0LG4wvHl_K3d5macIjmEHYixFNWb6a3qqsCJL5uPbBPezxjgNqyuE4QfuqIOMXVsanKt9u31PI2RjAqcz79WDYWu204rkZ-G7KIE46dLnfLBFj0NRa4snuV-JNDVKuwmmAoGvHg1XY5opaEcpFK4cXZsWUZsCWCA7IC0UJ0YFbFb_g2t5RQtZuFVbZhZaq0p7oAxNv_feUV5IZBnazCQRj64C1iBxJQD0ZDAtHdjqh-xbPBMQS7cWO6SXdOYCv1BaoUmcJdpSOIsmJF8NCztKRtTkDkBoB_FL2-_G0fN5gwGWJO3N4cqGGOObXACFln9zRZobPxIwXs-SC6IISXf2ygkFxJNxMYY7RoDP988Q2NQTAYv91PNbO38vQLKdOS6DAwUkVZJDAL7w_Nk1U34cr8B1A3gEM9OaTlX1vghaVplNswpv41ChzHR4DGMCx0anIPhsSv90HmX3yNcMRYP6AkVhgGIg4KDEe0_QmPAPl3-rHyHA..%26ch%3DAQEAEAABABSweuwFzCm2R_NSuKssSlkxax6eEDdDfDk.%26v%3D3%26pg%3DB5GFOXTNQZFM5A63QEUIGFINTQ
+.netflix.com	TRUE	/	TRUE	1816009828	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSH2ootThWHEGbPeUaklqzIy8jfiKVChQ4.%26dt%3D1784473828431
+.netflix.com	TRUE	/	TRUE	1792458652	gsid	d800b48b-2888-40d2-acb2-14fb7f5e031b
+.netflix.com	TRUE	/	TRUE	1819033828	nap	BgjHvOvcAxJJfcfva--F4s3RBApDGRxRUzlloCaHyjRSg5lj6tBs7UoCla7YUu_HucTvDONk5GLsTxnArv8zQDZS0H8NDdm_4tb8eMUxfpmAABgGIg4KDIt5j3F8o7EHN5kecQ..
+.netflix.com	TRUE	/	FALSE	1792249828	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792249828	netflix-sans-normal-3-loaded	true
