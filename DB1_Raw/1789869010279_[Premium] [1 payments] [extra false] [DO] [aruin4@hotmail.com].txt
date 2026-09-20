@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: aruin4@hotmail.com
+– Verified: false
+– Profile: Christopher
+– Plan: Premium
+– Next billing: 28 de septiembre de 2026
+– Extra members: false
+– Country: DO
+– Payments: 1 | CC (VISA 4054)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[DO]_TG - @FATETRAFFIC_2026_09_19_72490556\Edge\Default\Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1796624811	nfvdid	BQFmAAEBELzUMjVJ3oit-_vKYJgv3lVgghhX_j6O1gtjYXogkcXByUB3i5d3NvWp6DpEryJzZwDTq65LpcXaHl5nlLNfOiNkQMwiMbZQeAqK0r4cTgUn9lC5zua5bxDJigYoYlG_LuEasJs3hE4YhJVGEU7to6OO
+.netflix.com	TRUE	/	FALSE	1812407835	OptanonAlertBoxClosed	2026-06-07T22:37:15.374Z
+.netflix.com	TRUE	/	TRUE	1792458652	gsid	c778d6f0-5698-419e-9e34-fdcf1f22366e
+.netflix.com	TRUE	/	TRUE	1816027967	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfAy8eZzNL3xnIzvJxxLcivxG4NYjjDBmKzVSCrBUi-TQSulVP5zt8xlD2Ui81y0B1zf8OTaLVaBD3IlJu5aKOu3tVwS6amRJvwsX-ZeWHhxlf6KuTTGQVTzXon3ojyY6J_ewWjRSrmWLYKCSy3_F03bLuS6sarPYTiStftauYq4z3piIOZXhQl6O--zLtTtqyfwZd4tLUoe48g5bRfgWTU9XlrlE5PnZ91lt0ZI2Xdz4SqsAMJGnSH635Y4o0XyhNlqJr7kSKe6P3sCYUC3qv03bwWSpURHiEy_hrgdSmWLju_BV5nBt4nQCuJsV8a1z1wXSXmlG9jS_4T1NqigbPXQ15kBpKBB52fV6aSORrR53V5gC1aPT2u7EDhBGmU2ykQqvYK4EJrgdi18VL-1E9aAxruwGSHA49ud3eEmFHdveA0nN76l3Ld7TXPrS6zkG0I01tch-lRJg1coaObyzwPk2K_NLZpgLsXhFaEb9wAFwlXFoLCX7aoh1sAiesA1Fwz9QPmZdKV-aZy9ihDWUucO6q2OPWoTOqkPI3QuzVRUYYBiIOCgzNBk3vCGKX-iWXPN0.%26pg%3D2ADMYJEMFJFYXJIRLTWD2IONYA%26ch%3DAQEAEAABABSKMKScuFvXD9msgFEjK3FuhACTMpRv_lE.
+.netflix.com	TRUE	/	FALSE	1816027969	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+19+2026+16%3A12%3A49+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=be45fce3-f5fe-40f8-a7d3-4825c643ff34&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0&fclco=&intType=3&crTime=1780871836117&geolocation=DO%3B01
+.netflix.com	TRUE	/	TRUE	1816027967	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTW0ZpeWL0INGWrDcYW4tnAejSupT_Ynyg.%26dt%3D1784491968199
+.netflix.com	TRUE	/	FALSE	1792267969	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792267969	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792267969	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
