@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: animeshapurva007@gmail.com
+– Verified: false
+– Profile: Adamya
+– Plan: Basic
+– Next billing: 
+– Extra members: false
+– Country: IN
+– Payments: 1 | RELIANCE_JIO_PI_BILLED ( )
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[IN]_TG - @FATETRAFFIC_2026_09_19_34744115\[Simple Checker] Netflix Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1809875548	nfvdid	BQFmAAEBEFR1f72dVGMazbwE5TC8f6pgaoLK0qT6XjsFO-QhbSUlK7khVJvMDb8yRak_vif_qZ2jwr19gIcD_no0V3L4AvIPkQPTmGM-5agZgegtiQJwrum2xX8-Jg9EPvgbE80_iDqIw90MAfL_8u73m3yT29Ww
+.netflix.com	TRUE	/	TRUE	1815910924	NetflixId	ct%3DBgjHlOvcAxKCBCB9DWJ88joLPrU-UGWBNCQCYq0FNnZV1DKBAeSg_xzfTgCVzi_gbj-L9oIKsEDQ7rP9WJzbHrh-bxqcAHSXCjMSdbWlmsv7gHN8JxrxuPMkba5oxuHx8d3Oc5Xliaaws4UGYWyvS9FZCcu3JRc1ffGzQL0GxPCqEuZgUMq7TiZTDaSxj3ZUil0SllVn1d8hzxgsbtXYWZEkd4z6i4iIyOIo-rfa9SWWt3OEw2yn_AltVAq7NjmHzvoRb7TTEb_NeKv2erqoH3eD4ZS4ziCjqbD-1Ed_lr9tj3FpYq6WqXcuSVbrkHXF0NIOcGxCrIZ4ojXNujDZ63AtEZoJwXI-lT2c-WRtjq8xqTC2aqdo5dFJ9uaZv0Gl7yW7k6URRKBEpZYGYEYLUnbu9I5FXtvlnBhPqh6nPtv1xrYc_cfaduyZbiOsKObfLUErCbGoBQeK3H9UlcYg_8QZTVAB96cFbVepFsKeCOcg-QupBytP5hk7uKYj97Pl3i8o042jFW3XAZgtOWf4bdw7rJlFBTsJI5_hqg3vNpbeO7bEv3R9dmSeD6RasTdosL6XYMXRbmIVsrCPRrn2p5Ki25x6sdPPYNWkKXq79EzvxlOnLABBTZ6HRm5aIKIrydw4dLYkt0H0tpzsTZdaUfIcUGzlP6WkXxGsxIj0OyxmAV_dapR8LRafLCkYBiIOCgwhqEbrp9OF4pFpdhg.%26ch%3DAQEAEAABABSHaxMXk8Cofk__bj7D0rSim-VNpaZz3Jk.%26v%3D3%26pg%3DSAEOB2U7MBE7XFCGYJIEJVFUSQ
+.netflix.com	TRUE	/	FALSE	1815910926	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+18+2026+17%3A12%3A06+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5e75dad7-32a4-434d-b0c5-c0d4a0c00164&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1815910924	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSHZgT79PiM94M8FAAhWEKSXExxLf-Hjbw.%26dt%3D1784374924713
+.netflix.com	TRUE	/	TRUE	1792355197	gsid	66e179ab-5a04-4951-8b6d-2ab66a369e02
+.netflix.com	TRUE	/	FALSE	1792150926	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792150926	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792150926	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1792355197	profilesNewSession	0
