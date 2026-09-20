@@ -1,0 +1,24 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: vatin.maeva@orange.fr
+– Verified: false
+– Profile: zozo
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | ORANGE_V2_BILLED ( )
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[FR]_TG - @FATETRAFFIC_2026_09_19_14762864\Cookies\Microsoft Edge_Profile 65.txt
+
+.netflix.com	TRUE	/	FALSE	1813946887	OptanonAlertBoxClosed	2026-06-25T18:08:07.270Z
+.netflix.com	TRUE	/	TRUE	1816970995	dsca	true
+.netflix.com	TRUE	/	FALSE	1813946995	nfvdid	BQFmAAEBEPwo5gXQLB41izZbuoXZQaRgI9xmNBJd9oQVYrdCZFoVC2jrVyEI5287qt4PnGY7YG9C_bLuEXzQ5vz7VHc1D341ZzUia5zyNFXGjrrbv76pbxAP2J9fA1oylFii1nLCcn9IdvxRvoAGK_ajxHnyoKT0
+.netflix.com	TRUE	/	TRUE	1821040308	NetflixId	ct%3DBgjHlOvcAxKEBLA7ojvjqh4H2Lt_3Fl5jz1HvVWrOfrWXaeOHiaaZpSO5zyW1OGigD8gEtv_LrNzimib3NvevMiCKGymBK1I9QFpoR-xP_R0u5NicRCQvdNuc_zrAlXq0vZk6r9EXRxRDEtKsobZZvKzRqodYWJokBaOSB4Hg7YUxAkFB8eimfMLrfgwq0KnOb6CbKAuVygf8xGInINW42CnGpNb1jDlMHOjhNA5jpjzw6m1D-9It4BhK4WcRqMSt4Fl6VciNcs2gftWFJ6uA_YQDjJAVajpGI0z6z4FB7B_nt1DLaV3tMvGIZkrtZNosuWFYnZSc6Z-Wtw7wuQRf1VqM2tzQdtoH0dv961Lft2m0OFCecUlzg_tH8WT4AVhcqLh49OFB3ATD3wbSSwgQovkCDWUTjPKpv-uOu_gol4iEUOarN2DsRW82N7HoVz9ZlK0iYOYX5_TLn0UWuxNGbUiGlHYix_jW9jKx9r4ZOvuWn5lftUxIBMD56RF9LCevZheiRmXCJPieaTwdslTaq_laKgWrS_nNIItZMlF4Fzov8u8ZR-PVI0-TNUErsiDxc3uh4cmbnTwRP3Ti-EAunxuhBjWUJy_bnWKFtgjlPLHmbp4O5kdF4hiaY3ww8zbYFaoaneYAPP7j3nckQRtCdEzPaoCMS_Mx-D8pdOBPnuANvvyX2zqlVSfvJiAhxgGIg4KDNn0h2ag4b0sh_76HQ..%26ch%3DAQEAEAABABRhDWqGIgx2D27G2eRKFw7JuPwQoVI6JC8.%26v%3D3%26pg%3D65Q7LT5755GCLKFWKIERMWLDSM
+.netflix.com	TRUE	/	TRUE	1821040308	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSjAVTLryKF0d_o8bh6d5Qj5nLJiuvLZaA.%26dt%3D1789504307821
+.netflix.com	TRUE	/	FALSE	1797280310	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1792458652	gsid	8dee5dd0-aa94-43c5-a0c8-9aa4ce97b343
+.netflix.com	TRUE	/	FALSE	1797280310	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797280310	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1792458652	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1821040311	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+15+2026+22%3A31%3A51+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ddbfff23-bf14-415b-b122-37ef12c4fb51&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=3&crTime=1782410887885&geolocation=FR%3BHDF&AwaitingReconsent=false
