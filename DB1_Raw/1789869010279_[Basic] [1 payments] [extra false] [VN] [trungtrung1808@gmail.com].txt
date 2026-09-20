@@ -1,0 +1,20 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: trungtrung1808@gmail.com
+– Verified: false
+– Profile: TienDang
+– Plan: Basic
+– Next billing: 26 tháng 9, 2026
+– Extra members: false
+– Country: VN
+– Payments: 1 | MOBILE_WALLET (MOMOPAY *******8866)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[VN]_TG - @FATETRAFFIC_2026_09_19_62137461\[Simple Checker] Netflix Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1806848752	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+21%3A25%3A52+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=82520f40-9067-4d60-8a3c-881aa9e9cf58&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1813597568	nfvdid	BQFmAAEBEEty5jB0K4qoL6vMDu-S8FxggiMa95J8KZbWCbrm204v48Js0hyj3rh35LRuqq5E-FkrDdRy3fCDJ3RT6ylItmG1nQqkpIbyDY17eSvceK1Q74Rvs-mn-RkJ5G9wE36XVBjhZvhrjholhcPRaLz1yVsz
+.netflix.com	TRUE	/	TRUE	1792355199	gsid	25f70fca-4765-4192-ac5d-03d4925481ac
+.netflix.com	TRUE	/	TRUE	1814781637	NetflixId	ct%3DBgjHlOvcAxKEBCxg2mxXuWmkh-GyQ_sZapsKGbf3VqVdUqup-AZiXcCI53DZtqiFFcgoSWQ6au0fUAli-vNUNpOVHfXRvvduVIjjoqDxkGN_93itF0LppuE0Xm-9ZN-UlCvr9PhN2smGrcMDOyT5HvV4y8JQ1fXnojz7_2hJriCqVCRTd31Vl8ptAyDjsnehruJpHYzqQwZSuNLmDFlC8Unt3rZH_lSyNMPZNqhshrZn__ks7SP6uJxDcQ4h-DnmFrY2Cq8UF7rzp7qKO4P5ZkxVZb6uO5OqL1JJAfjB5-3ZmJgfIZRG8fjivRd9NDby9m4A1VgZnVRkFKFgwsGhvU-sfI7gd1Y55oLyOfBnKkufe-63nNW4dclfhpzslSzaHraQ9PJu_PgxJCClJzq_2XNAq2GlG54nOCPsU3rOUS9fdBdAetN2nZAbhtJW-oq6hh76gu7mx3Qn6DIKiludT-1G3gtROygPAc8dB8Y9yCTDXdhf77N8CXTbvSLLs5O5fggqQ953PsJtGcwXXckRuBEpUIQ5dYDmNCPQ_WEH7BRRAAvy6ZdzDpG8kCKPkS3N07yXmqpGAQer5raYYkBhvr3dMfXO3ziVcYtwxDgSsLfV19tpzrZ6DukovTABfmjU40YmQUlkHJFrZwVmfD-O4uGKOuu6nIgdqI90XkaM_GPYegxaS5OavBjEksUJyhgGIg4KDMEaf7mA_h2BnU_eag..%26ch%3DAQEAEAABABSTP80tuh-_nKzavgYI_bb4xPfbaGnMFJI.%26v%3D3%26pg%3DNWNM4IKP4BBZZAERMBYRK6TY7A
+.netflix.com	TRUE	/	TRUE	1814781637	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsQ36OzKefpjC9yTh7APKopOYaFe98lM0.%26dt%3D1783245625177
+.netflix.com	TRUE	/	FALSE	1791021638	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791021638	netflix-sans-normal-3-loaded	true
