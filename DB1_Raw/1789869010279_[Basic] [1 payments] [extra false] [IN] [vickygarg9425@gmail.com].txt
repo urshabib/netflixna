@@ -1,0 +1,23 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: vickygarg9425@gmail.com
+– Verified: false
+– Profile: vickygarg9425
+– Plan: Basic
+– Next billing: 29 September 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 8***@axl)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[IN]_TG - @FATETRAFFIC_2026_09_19_71951709\Cookies\Microsoft Edge_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1813500935	nfvdid	BQFmAAEBEBt0bf-HBhQZ5vQXOX8CP2hgwFfsnmdouxPU5Z-Cs45rbTk8zW2bPhDYptjOs7iSHJkZmoyOoytAhqBYjSjF5TDetQngIwaFmtTDAD8N6XymD8ydWi2CSzIquzMIbuJEpQIaTFgLtNGTCvCRXmttmlK9
+.netflix.com	TRUE	/	TRUE	1792458652	gsid	a86da77c-ce95-40bb-8296-11968b390b6d
+.netflix.com	TRUE	/	FALSE	1792458652	flwssn	90ab0e41-c8cf-46e5-bf38-64bab586e2b6
+.netflix.com	TRUE	/	TRUE	1820855971	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRQZdjh67ci_HPwR9cRjc8W1-V1-L1BFEo.%26dt%3D1789319971613
+.netflix.com	TRUE	/	FALSE	1797095973	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1820855971	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA9_CxrUjzzUd60lP2Pc1gLDXbom9GXuRaQaZw1csTJq6DcNvJxP24SC9l2H96dXrDrF-BZudPhmIt3B0s_K4DYN0tCF5H9N-OLJLX7oSaW9GxY1DdAfE2esyN-iGFYqL-9zBBr5uBgtAftjwC1fxR3f4-BDTOnDgRXr4gbfcvmdCY6vR9Q9-fRBI_dkJuF7DKxjkikE0M3NKTYNslePeXACJQsiivPWLI-jXdSgU0DeyXsqPfDbhJc-nDWdd1EptJ2-Q9FK_nERIwuc7De4X9fvFuxprI7bxPaM9MHjOPYnp0p1yx0PbUk-pcvPQ-ZrUsW-mrJF4hue1K721XMonL8hybNTcL84MaAymMraE7Rrxn4R6axmWmPXXBU_sMJnKJMDjxN9EML6bcmshDlRAJGud2RVCr3-VI5DNJ_GylY3vXhBc5pBbuwDZtJTShK0baDA3zka_Bsq9aaxU5iECBJ_WiIiWGwt1Dk22U4_8WEbEkHQPnG3Q9IZduqlKMGkjaPoo5xLJtdVzR6SPUSiNS5fOmCehpiKHGAYiDgoMFDZMO_rKuXWQtLyF%26pg%3DLVEN54SW6FAGZEXCJ3F5LC4CYE%26ch%3DAQEAEAABABQU-FwgsmKBUzDwUedpv_ERfSM267t05nQ.
+.netflix.com	TRUE	/	FALSE	1820855974	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+13+2026+10%3A19%3A34+GMT-0700+(Pacific+Daylight+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=af6dca5a-2afb-421e-8959-0b2a9aefa846&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1797095973	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797095973	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1792458652	profilesNewSession	0
