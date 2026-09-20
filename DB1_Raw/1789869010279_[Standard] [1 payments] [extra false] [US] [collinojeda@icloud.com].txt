@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: collinojeda@icloud.com
+– Verified: false
+– Profile: Collin
+– Plan: Standard
+– Next billing: October 12, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 5218)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[US]_TG - @FATETRAFFIC_2026_09_19_99713099\Cookies\Microsoft Edge_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1816825725	nfvdid	BQFmAAEBEC3BSLHCyfJEwKR1jMOTOnNgRUezFHMzP7DldJ024Mor_qhe1Mkh_1nyWwZvAqKu1OgNus00zkJ2LPPeX9KyFEiZOldClPpYGmUfZowMd9TTYkk0VTZTpbiyyKWhxO9yRZWpNbTiz5kzBLAck53YfTBN
+.netflix.com	TRUE	/	TRUE	1820383345	NetflixId	ct%3DBgjHlOvcAxKCBMDO_dowRGTXsaTPgxOGQCRgduSQ2im0USZr6R1xKLphhrQnhdi2WB4H_5Wmb6sFpQaGa_IvMFTvZJ1lBRwFNquedntSWTkZyzBU2NZ75-Bxi3pdI_ugmnWjMTIjk4YkmVFbpy89b2uAxtqIno_wXArOTv0ZKJ0DLo9NaHBKytf5gT11x249WR1Xtz9QkjvJr6YNYoX071_vLnu7o4obX1QiqUs11Y_67jbWfIfqH640_DQsHdPpRCvWaxBZ6JIXFBpUlfbz6dWiUXwpLiHhg699o45n_Coj9sQuJ8_Se2rVdUdPnctddGMQd5mXqjQEoW5JLbys7m7mcNeneaZ6id1ao9JVIll39XSqEcJQksCA8KqILNcr168S1fuKqKzJWO1dSns3Ew0dPMALTOfl2GfphzRVxfcCKdp4lT_l8A-BmDp_bdsUptepiVteuNhAChFnOrUitMqPO9HQ-FMAXKInvLBUmMJ1C-XFqAJy5cmjyxqnwcfpEJi57Xl08Kk_sa0rKZEkYY4LLnSbl4mu37I_JUFTCsrHjNMzefDQRrx9z5STSjoVoBGoiyNQR7HdXiJ9dGfF61pIKUcEMdUqHKlSY40Lp-EWARVYRLMHtEebYw05z89wOegXXyCMh1PpkHOBLb-8rgnTntuDVFeVG7DahHeVqUj6AydkR6Gxw5xta6IYBiIOCgya7X68-45DDpSpd-Q.%26ch%3DAQEAEAABABQ9ToLwWooJ72cgeMqnRv_6LhVoy3pW7ig.%26v%3D3%26pg%3D5KNCRGOKIVAE7FVWJCRL5HCYGU
+.netflix.com	TRUE	/	TRUE	1820383345	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJr_IBEzBW8flfy9EgonObcRoJKKYObHw.%26dt%3D1788847342695
+.netflix.com	TRUE	/	TRUE	1792458652	gsid	ed16399d-f2dd-428c-993c-749793e2ed68
+.netflix.com	TRUE	/	FALSE	1796623348	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796623348	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1820383351	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+08+2026+02%3A02%3A31+GMT-0400+(Eastern+Daylight+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1d698f15-59df-426c-846b-cc0359d18c94&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1785247287460&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1796623348	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
