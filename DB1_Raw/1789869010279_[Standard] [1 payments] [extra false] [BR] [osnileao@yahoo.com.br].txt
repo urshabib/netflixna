@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: osnileao@yahoo.com.br
+– Verified: false
+– Profile: this\x20is\x20NGRT
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TELEFONICA_B_PI_BILLED ( )
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[BR]_TG - @FATETRAFFIC_2026_09_19_38607080\Cookies\Opera_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1815441921	OptanonAlertBoxClosed	2026-07-13T01:25:21.249Z
+.netflix.com	TRUE	/	FALSE	1815441922	nfvdid	BQFmAAEBEGWuXpuCTLpzuEve15PhgqNgXuIVoYYHfF5VtOeCSpxYrxNUwI7suS-5rCf8DP2Eg-PwQCKrNALgSpQkACNbFb_UH_g244ol8P6bmVAog6DWKHD-v-wwKKxqJC5wXMeqs7__OSIL-DO--QGQbplunOxH
+.netflix.com	TRUE	/	FALSE	1820622124	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+10+2026+21%3A22%3A04+GMT-0300+(Brasilia+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7a01aac2-75e5-4470-8b8d-78ba593ed784&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1783905921599&geolocation=BR%3BBA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1820622121	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTu0SbXmB_mli0WxRbkJ8W624kHN4nZjuI.%26dt%3D1789086121743
+.netflix.com	TRUE	/	TRUE	1820622121	NetflixId	ct%3DBgjHlOvcAxKKBMou3NSLlHXt2-acMNzN7D6K-j_mdPDtKILAU2Ypk5lB-_aJ86J9f_0dqDPAL9qau-fmXH1TDmn2nEh-tZcj0pZCsKTjY863hLrIaSxS_1S2kQ6gliN4dw0Sc9RVDvz3VGghYqQusy-FtUSoPofUZlCil_VBKhlGAWwuvE00d24Eau9gIcSqtyuDHUtMrmadn5zZqN_5-NUpncitv80iJ9t-VGm965fdlcrgSBE5S88DP163hnxe8m54iHUGCsGTym2Lb_BvKuxAHQiPEfsxfssCt_Ezj1ms7iIkyH3YfPfIee1Ks1Ivh-BsXAKrY3mW3p5VznlRv1hLYZ0C4G8x0OTXT9RXAi4Q1hoa5LzBRRRKWijtT6AvkBGlbW5HvYKjTet7pjrrwzjvoGaw8ct6SrfQhkin4UBAu1kUzUZQioYpauf1qDE2KMzLJ90KT4eX_bZ7qJ9hLVk-TgUUFmDc3xSLby4g5woGk3Vj0Z9H6HklNw-ivxHJeqnXgYxYnJWGGLrtNIqgSVvRUOpocwvvKDJnft099NrzFhmwbroRTmXVFXePRnBy_g96WcHbgducdQIv3Z6QXwTZqYDEVa3XSWrUVhsGwICCua53xFR4VTEIYn8IXhIQUemTBGLTLaqg_1uV0SM1c5CTY0u24znh8ML9UcrIiqFQkh3W5gJ89fseNTUJk7Mh-A1j3hgGIg4KDPnLccInWoKLO7ABJg..%26ch%3DAQEAEAABABQAQFTjGk6pDCjDjDwqIe225wdqJ3W8OHU.%26v%3D3%26pg%3D4V5LQNLDLVB2FD4FJTICPAHE4I
+.netflix.com	TRUE	/	FALSE	1796862123	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796862123	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1792458652	gsid	e4ef6669-ee51-4a35-8f08-9f41c0647733
+.netflix.com	TRUE	/	FALSE	1792458652	profilesNewSession	0
