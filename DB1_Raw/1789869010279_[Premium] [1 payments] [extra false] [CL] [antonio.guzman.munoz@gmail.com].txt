@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: antonio.guzman.munoz@gmail.com
+– Verified: false
+– Profile: Marti
+– Plan: Premium
+– Next billing: 5 de octubre de 2026
+– Extra members: false
+– Country: CL
+– Payments: 1 | CC (MASTERCARD 8259)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\sdsd\[CL]_TG - @FATETRAFFIC_2026_09_19_86968521\Cookies\Edge_0.txt
+
+.netflix.com	TRUE	/	FALSE	1809720643	nfvdid	BQFmAAEBECB6m1uLNXJOv-w2ebDKxv1gTvXfoa2Oty1cycVKFSK_0Boabgzpm4HHgSmPAMAiBU0oyDUdbDEapa8BUtmqO1wWz_z2W0denIGPNlKV43eQOeG2dIEcq6Hl9e7H6SOdHj7eyi1IteyALB5ClkQYYOko
+.netflix.com	TRUE	/	TRUE	1813932885	NetflixId	ct%3DBgjHlOvcAxLnA4lfwAo76C5A1hQzj_agudRTRkwuy_szSDYTJIbIuypEpdn-PaIR-DRpvJauabjQ6MJlcsrwAAV5UsXD136RoBKAF_eoI5Vsmoc2WgF5igtE2rvpl00Y4jwCGOZwbZ_-Yxn7UsTekcD7zXR8FRsNk4kRM4baFal9oz5E59q7HM7rUJP0CIMV9fCf2eLXhi1kbtRWOZnDH4fCrjTdohYdH67v-ljXS9zd4L43JEoq3cf8VbgCqIg-jjTJLTJpQnJtdE69Ln6PHogog1ISImSk3AWwfj0FQkQ1EjS_aXQtO7SAAfZDydraVewoKANYgly-ghWosFYTSwHAbJW_6J6BmdXatNm23nwNSWHEWOWlkgId62GTrcPSiRIBFFbhSIF_p7rbVOWz6KycVlJaUdI7zQEojD-wR4CoN9mwfd6uMVs0V6Iuins_4M3TdpsQBg06N2WmV8HwFA8-7f6oOCrqgTxZcDy6O9Tlv2z2UJDHnpG-ulSCYCq1pm3mfC2Bwsr8ghEKoOBAgdwZXXbJYrlvKNe9BRW-SxHYhMYblsKU3__wICdaJ8BqlKt-_D6AtbjEkVXhoKojmM-EuYJdZ1RFKu-BhB8PBksTBm7U3lRXv4W0zwPz4R3ylXgSotExmp8wpraS1gDBN68YBiIOCgwXtl66u9HaR7MKrbk.%26ch%3DAQEAEAABABQ2AudWFnUeEx-tAyQrYExcbOl5m99EgHI.%26v%3D3%26pg%3DGMI2G2XYPBBJTP3G46ELLC23KM
+.netflix.com	TRUE	/	TRUE	1813932885	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGDjI0clSCoLzPmKIthiKD864k-nuYB3A.%26dt%3D1782396885042
+.netflix.com	TRUE	/	TRUE	1792458652	gsid	7584d4ff-3934-46aa-8f21-e5723f017a5c
+.netflix.com	TRUE	/	FALSE	1813960096	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+25+2026+17%3A48%3A16+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e65e54ba-fb87-477f-bf70-c849dbfeb82c&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778169800356&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1790200091	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790200091	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790200091	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
