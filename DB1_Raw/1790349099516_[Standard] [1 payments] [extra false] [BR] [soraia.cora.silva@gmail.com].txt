@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: soraia.cora.silva@gmail.com
+– Verified: false
+– Profile: Isaac
+– Plan: Standard
+– Next billing: 17 de outubro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 5725)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1808263203	OptanonAlertBoxClosed	2026-04-20T23:20:03.907Z
+.netflix.com	TRUE	/	FALSE	1808263618	nfvdid	BQFmAAEBEA1XKJ3tEBUZpsmwexwdIfBgd_vTNFfhU_AswZTvTJtnB6h5qSDIgNGMV_Pcr7zG7z_kSsG9fvxz_orFMiSCzI4YujNRVjQISC33n5-j4Eb7OLg2gxzgNLYuzk2G7cdaFB7WlMyLwzwA8PaHahAIsQ4V
+.netflix.com	TRUE	/	TRUE	1811086355	NetflixId	ct%3DBgjHlOvcAxLnA3Neb1IlI73EA6fq-OBcg73kmc09mgT6jO1nB3QAErHZj_MFD7lnvvXHJiUo1gM2Aah98F3vKWxFnypwGw_DSoELC_KbzU-doicIX4wjsmvU4LrGGOewsajv0Z479ExE-Woujgy-BhkQsCk6K3o4HAKImB0KiRxH-U3wJqvg5KynUy5bPP0joZBmqFNcLRLM8k_63t2h26JIlvCGXUEKVYHSO_CrUpXeT6IIlMa3cx3Ic0MfxijqbYIQ7XizyL_1uhMj8gC-gwSBF8sgWj7RUTNRUkcQwad4kpBraP--fwmq_IBE7NAlIxueeWjY2EwL49_ZMl0kpD_u6SLmFg1f4NGri2itFWod10AZ2EI7HaExdndAkHoyrcTz1eh6wSopUCHDpGdF8ev5muAXW0YddgIVc8IfIkJt1lS4NHRM64Ooc-U_tQIgCYbOza0AdDqUMhdAZo78X5n-kBO7S_5reqd9n50eXQflprbiqbmzS5mQZ1UZL5ZBt65G7fVk1jLWDuAc5VCB6rgBtPFrvTDwJqar0bzHZFWuD0vEENmzsNT7G_TPJdHU2eP13OsCpd7H5e4QLyXPVCeMNsJK5Z1FJ6q8Bpf-13n0tNf46-KySLK5sGPI5LOhCqCEs6-scqx9VQTsY-Q5hFQYBiIOCgxdSe51nyfv42TeVtQ.%26ch%3DAQEAEAABABTMf6-8T453wx3-6Wwmxe3ELCPyd77SRTk.%26v%3D3%26pg%3DRY4YIU4TPRD7XFLHKIPVDTRHUY
+.netflix.com	TRUE	/	FALSE	1811086356	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+12%3A32%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=804702d4-1868-47d2-a5c9-586d539e06d6&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1776727204304&geolocation=BR%3BSP&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811086355	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4xRX6c-yq4f6-xcXqFSYSQcuDspmjOb8.%26dt%3D1779550266253
+.netflix.com	TRUE	/	TRUE	1792672977	gsid	4b3111d3-4a11-4cb9-b3f9-b7a4343f9d61
+.netflix.com	TRUE	/	FALSE	1792672977	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792672977	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792672977	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1792672977	profilesNewSession	0
