@@ -179,7 +179,7 @@
     "password_hash": "aaa",
     "is_admin": false,
     "links_claimed": 42,
-    "has_limit": false,
+    "has_limit": true,
     "last_claimed_at": "2026-09-28T20:15:54.871Z"
   },
   {
