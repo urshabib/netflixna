@@ -1,0 +1,23 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: carina.streuff@googlemail.com
+– Verified: false
+– Profile: athena
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: DE
+– Payments: 1 | DT_GERMANY_BILLED ( )
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Logs_12 October\DE[0ORXE8UK3N0RX5MMH1XK7XBVND0T74G8TD][2026-10-12T85_47_16]\Cookies\Chrome_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1802366704	OptanonAlertBoxClosed	2026-02-11T17:25:04.198Z
+.netflix.com	TRUE	/	FALSE	1802531547	nfvdid	BQFmAAEBEFGvKmFMW8ipnLsvkzN7jyRgRfRcu581EjpstVFwzazkwRmC8bwXNRXHgFyPoDthvy8ASoKQf5LrMueXSRbOfkZjuF1X3drQsXknjplL5I8O1acuezYY_dnAjTHEYKsLDun4X4m-pzv8W9pzZskLxtl9
+.netflix.com	TRUE	/	TRUE	1808654022	NetflixId	ct%3DBgjHlOvcAxKCBEfXF2R_j9yAgNNBXqD-DlEo9b9e65SO7vhptEckAHCKF-CDw-GwdIaI2CoJaDZf1xUpA5yr60Y1x_8dnVL3go8osr3qHSIIyv8tuW0P2T7l3RAiTBPUZNko8yf0l3KlQxJ7f_r6IL4MlYiRoITKUp_ZvF6mT5ButiqI-BUD-O8JTi_kTN5sjKqiMTKT56d0Bb7ABV_X50YFx6XOCXjEAE9GVOjtRP_QvNK_68y0K8RKTpwDHg0P6C5iKxpl8sCIS2hO1p6YDZZrkY0dO2Hg4jflEC4_x57pWhnDdR5YWwda3cPPPOiBL6bi1feFfEXEYQLRonGg7VnLd3mPBZljiWvtpjXa26VWU4gPIHGZMOF3SN-p7FnQvR3rTassWW1FXFRYNyfYgYvLoJ8rT3ycmYGocLkem53C7BlFaGDJtMXuaZfBL02l12_HdoZDR6sfTxq4co4Kx6cyX5UsisbM_SO-Q3eC4JpWNBggziggaKcDbHSbC-kpD__AMnbigRGbTyoIronKs88nga4mrHXkdhu0LrLIsS7LzA2oVkWmlYZAc7-5ENf24hjehf0lohKjOWOTBm5D_xLJkimQOSjxr5jSqj6w8oxDgm1j_cH-ZxTXUQCVQueYda0frkUTTNbCxPfXmsvq3keE2QCLMQi2T7RfHK0oUFTKarD63EDa4Z9O1_oYBiIOCgxnnGsnuEG3UCeqTs0.%26ch%3DAQEAEAABABQ035F4GJyH0pIAi0lZgI0SnJTOBMJgaPM.%26v%3D3%26pg%3DVMT6JJUFKNBDBN3M2NU3Q6MC6Y
+.netflix.com	TRUE	/	FALSE	1808654022	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+13%3A53%3A42+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a2bb54bf-c05a-4166-a0e5-b569da06810f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770830704728&AwaitingReconsent=false&intType=1&geolocation=DE%3BNW&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808654022	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQD-RPzuxwSdlUEnQeCi6LQFfb1ztHDb28.%26dt%3D1777118039337
+.netflix.com	TRUE	/	TRUE	1811678022	dsca	true
+.netflix.com	TRUE	/	FALSE	1794431498	flwssn	72efbfaf-94da-4aef-8398-9658723cc686
+.netflix.com	TRUE	/	TRUE	1794431498	gsid	543d18a1-df6e-4463-811e-fa08bb0fdddd
+.netflix.com	TRUE	/	FALSE	1794431498	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794431498	netflix-sans-normal-3-loaded	true
