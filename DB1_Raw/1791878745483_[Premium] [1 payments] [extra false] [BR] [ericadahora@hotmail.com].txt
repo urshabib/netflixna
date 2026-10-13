@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: ericadahora@hotmail.com
+– Verified: false
+– Profile: Cris
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( )
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1794402140	OptanonAlertBoxClosed	2025-10-11T23:52:34.642Z
+.netflix.com	TRUE	/	FALSE	1794402140	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+11+2025+20%3A52%3A53+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4f2c229b-fa1b-4a2d-946f-4abe67eca8fe&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPE&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1794402140	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794402140	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794402140	nfvdid	BQFmAAEBEGoaiuG7LTRDPU9F_tB8tetgXPzgjU3fXfc0Pu-kPycPEAI5v8w6ZxQNg8LWXyW4rMX2DbUB-R2PFD49WhtVJ6_gliVimX28fonX6QrHu9MaTzeNcdG_fDp2VeeAA5tczb7_a4TziieJyHyyoGKBaw84
+.netflix.com	TRUE	/	TRUE	1794160843	NetflixId	ct%3DBgjHlOvcAxK9A3aJSYhszhUQH77XNaRT9QGWRvgXdT38W6ul9XSt_xqh57x4nP49rvJESKYnlFFJ4AUa_SLG0sYfpzrKsa9FJLb7aOGQ9Os8S6meSPtL3oC6YzuF91tY-rmdodA9jpkttIYV4v9StlzN69xpypdlrdAv2YUNsAAKwuBUSSuMHo2xJ39zrQ1gzEcB7vAvJCWhaCB5c7Yr_9xQUGCYdSjA3e4dOVhemzUGUwp3x7kn4GKV-S1LwG-izOzNcKZ5rbzFhoshWS7CR26Y7P9jKhEhDn925vJOYQ726SHjt9dxba3ArBTPYPw5hzJkcYCqmMMmM59r0qoodZxTU3FL4LXdJ4_V97Uzt5ynkZdcmjhE59044ABzoG-eyNNxtCVai0u4K8sYq2qxRSURt_oc43ymm0ApfeYAPdJTUyNfC3fC4POEzUYsX8C94oMFXOWkd6HCkp3lvZbN2mH4aKBLs9ZmcLPG4Bmqv-0KEYG7o5ILgwBGceGVLSQ4s8G_scQlc4wCGBtvaQwVvrUfPfkd6IpdXDXuRhzS73RWbPaDraP7a8xLZzxk4vdzJBpd-2MyiyPNeS9P9GWoOuU_t4V1Z-AYBiIOCgzFOdi-NwMw2WooJZc.%26ch%3DAQEAEAABABSSAlf5MmLXIcv9GNbPGagf-PIFLCArBpc.%26v%3D3%26pg%3DXAKLHXD4UJF7BOZPF4AK6ASMP4
+.netflix.com	TRUE	/	TRUE	1794160843	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQgNavA4iNgZbHPehUeIQRWDkpQN9R5s-A.%26dt%3D1762624848242
