@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: antonioshibery@hotmail.com
+– Verified: false
+– Profile: 1
+– Plan: Standard
+– Next billing: 24 tháng 10, 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (MASTERCARD 5005)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1813341154	OptanonAlertBoxClosed	2026-06-18T17:52:34.472Z
+.netflix.com	TRUE	/	FALSE	1813341153	nfvdid	BQFmAAEBEJgiCAOPkvYF0TQafTbqjs1g3G__H_6xulDWy8ETOfIjYvyMzjqnqv_y4cyMFyLexLJRBOOLAvi092me8lIO95TWykWNT5g1LMMZFJqOXP7zZwWfewNsNS8fTKOB6oBjyvQgJWnpk1bjCih4GFeQi4OQ
+.netflix.com	TRUE	/	FALSE	1818713916	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+20+2026+00%3A18%3A36+GMT%2B0200+(Hora+de+ver%C3%A3o+da+Europa+Central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a897e64e-34ad-4a09-a8ee-79f4e27dc331&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781805154788&AwaitingReconsent=false&fclco=&intType=1&geolocation=FR%3BPAC
+.netflix.com	TRUE	/	TRUE	1818971605	NetflixId	ct%3DBgjHlOvcAxKPBP9ZrfRqdyQJCrNyAHe9j80hI7s-Kpz6ViGwZsS7hCpsToRZaLWacDc5vGqtOsEhjbEF6NE0Li_B6vmRg-FYbMRB4AfujxXhrdKwaEdaplBZWn-6oQGR6dbxxB08naLCG0tqWML_60ZWvNgtiW3Kp4h_McILKHupKYM54FvgyC7o5PB3RcZ43RuuIbJ95j-NAztbcl0aLG92piLFwaRzmIHAIVAwvML3jPyzstGoUXO3jIFW7JDOnSUk_K4ZqBiNY2UGFe0DnXCeJ1_PIKd-iUBZJpPeF4xqWVYuUOyCimJO1YMogFVmyXowp9jRlA9GRkl4NxYVZEpiizsv2UC5gZ7WizK132jmAoOmJerd2hcl7Yf45FgdLDJvjxwpA_h6-dZfLbgXjHmXBv627RyajrMqqPoxrT0O89H5LWj_hiGB2MB2rnGRuXnYONmTbN9SAovQvuHwnzcjnGDlIP4fcn8o_UyZ9CNPVwuFAFHxy_t_g1cd7p4BG-soGAn8RkLImEufOnU-2mrusH673onKCKUssu_2saa67VYBZ2qt2FkxZdzvNAUsh_eC1RCqWt-2N30iN7tdWhg1UlwwT2Ekel4VcFTmhDRA3TixXeXrzueewsWGiaqPP25vRJPVxQs_HugVlTBbZ5WxklmoAY3bb1bZi32Oq6RTdPfMWYNxhLIX7dUgW3weZwZkPmhWSl4LGAYiDgoModAcbt8FQSoLrNgy%26ch%3DAQEAEAABABRXNlRiLgldyfngU6JIo95K-dKvqnUS1NU.%26v%3D3%26pg%3DKVEFC2YGJNBMNC4LAHWUWVI5VI
+.netflix.com	TRUE	/	TRUE	1818971605	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSiAo4jALnoEzClTchYqTquw4mNk8qeWhw.%26dt%3D1787435605766
+.netflix.com	TRUE	/	TRUE	1794402140	gsid	88b85843-13d7-4e10-96ca-f76c8fc0c64a
+.netflix.com	TRUE	/	FALSE	1794402140	flwssn	a7aac3d8-2733-4059-aa03-519518448649
+.netflix.com	TRUE	/	FALSE	1795211620	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1795211620	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1795211620	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1794402140	profilesNewSession	0
