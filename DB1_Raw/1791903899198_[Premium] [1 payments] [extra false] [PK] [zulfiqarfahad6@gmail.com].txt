@@ -1,0 +1,20 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: zulfiqarfahad6@gmail.com
+– Verified: false
+– Profile: FAHAD
+– Plan: Premium
+– Next billing: October 21, 2026
+– Extra members: false
+– Country: PK
+– Payments: 1 | CC (VISA 2399)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Nouveau dossier\5595_PK_39.43.119.63_11-10-26\Chrome\Default\Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1794495847	nfvdid	BQFmAAEBEOOf20Ej-_7vcCpWsyT77aJg6ad4nobdTnmOWwJ0aOLBBlj245F-hrq1ONw82AE65BpKjhP69iUTGF5LO8YuwRc57xRJqp9lqZrN85DPqE2bB2SANUR7oF5MsAklz6U9BQwJagN6hX_eLEmY6p_gkX0M
+.netflix.com	TRUE	/	TRUE	1794495847	NetflixId	ct%3DBgjHlOvcAxKVA2mGDGZ4fs2DEnfmNLB_w2-LIgFqypfK9kA3CiGkAps_QJbYDhxSf7YeyLa0xx6ifg00f6ATO9frNW31KHgBX232yNadE2KyBAxBivnJVnNz60HuCcxX6ddAX-l4q1B7_Rbcda7Cfi8TMF3mZ-9OPn6R9QSKpe3WsAtR7tmVV5ZBH-l20BvM1p9DcXxGykISuqmFj55U5xUU0ML5iI8Zh6fbtuAV6mnHpgBZqCK-6dhNyDT5NAw7Jk__nfmi5tZW8z18UusVGJCe5YyeA5MsZJq6x91Ih3zmjprmEBW15-zfzdSdHo19wTL7Y7k1OrkHhmD7P_BXbS1ZxX_M_GfFTkYgyyo0UD9LtEkrS65zIZslUJu_nKacPtUe5HsneWL0jS9xby_a6-wUsjdG0Hr0FxWzLB-1hbOGtDy3CfTTeXsM3eZwRSKPBOfdydAjnsM20zVoMnvy9meB031954onq6nidp6ugtEVGWcrgNe5NJds9aSfWdl8WpbRfqI5m9S-qffGLuylbYTs9htBASdmMfC-g_pd3BgGIg4KDHTR0Wz6MwEb34OfMw..%26ch%3DAQEAEAABABQq_PktFfRmBXnelh7ClWiL17g7z1eBqLE.%26v%3D3%26pg%3DUDJDHQFPGZDETPBBI5Y4ZJSOZM
+.netflix.com	TRUE	/	TRUE	1794495847	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZ0q4F7JAnvC1lyuPKBGWQ-Zzjb7DDN20.%26dt%3D1749994888312
+.netflix.com	TRUE	/	FALSE	1794495847	flwssn	a9a48916-1b79-4492-ab40-6819f54da8fc
+.netflix.com	TRUE	/	TRUE	1794495847	gsid	14d9b0cd-7e22-410c-aaf9-d30c99edcaf7
+.netflix.com	TRUE	/	FALSE	1794495847	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+15+2025+18%3A41%3A34+GMT%2B0500+(Pakistan+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=49122de6-13ee-42c5-af3d-615560f5a91c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1794495847	netflix-sans-normal-3-loaded	true
