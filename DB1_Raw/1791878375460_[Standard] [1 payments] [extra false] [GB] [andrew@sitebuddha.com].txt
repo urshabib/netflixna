@@ -1,0 +1,19 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: andrew@sitebuddha.com
+– Verified: false
+– Profile: Jacob\x20
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: GB
+– Payments: 1 | VIRGIN_MEDIA_BILLED ( )
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Logs_12 October\GB[K73O1UKA4B2D0CX4NUPLQ2ICC8NYSZ5L16][2026-10-12T79_5_33]\Cookies\Opera_GX_0.txt
+
+.netflix.com	TRUE	/	FALSE	1796504938	dsca	customer
+.netflix.com	TRUE	/	FALSE	1799174369	nfvdid	BQFmAAEBEO62uNhJ5CP_JI4yFpzddJZg7Ruu8GVRj1etzdg20B7r1atzLLCUf16Lth_tbB2USirMW4crPgarJy7BSFcfYQX0iqxVf2IL5WM2Mt3HSxWyAsRmrN7FwlgU2G8F9aSwwEf-uoQsywhr2R5H_sUHXkdQ
+.netflix.com	TRUE	/	FALSE	1817891131	OptanonAlertBoxClosed	2026-08-10T09:45:31.290Z
+.netflix.com	TRUE	/	TRUE	1822308139	NetflixId	ct%3DBgjHlOvcAxL8A5BdWTlrtCT57RXOdQ40_9A7VKAyWtyYuYfBlstWBJUSnXXAivmlGWygpr01XdAgzKvfygOLGjUrvJCwzBBGOW-kdPVPYzT9vreXt-czVkzxNwiNi65OgRVOvp52qCDQM4IMXo_8V6mE_LTwl_j4yKCg90xR1tcKv0kg0ACmRGYHRnGOO1rEkzbCqa1smuB26ib85sRu0V3rQulwZ7qV0yBQQO24ed5X5q1FRGu2x1BNuZ8SLwsIYLXdwmjmH_xtO-Ju-GXUY6p_4dwzwWmdikEYrqiLiK5Ud0cr6wFPRzB4FcIWycN7XXekQl0KlP7Tq2Exp_JIRSkS-mAUr6gKn9beQTpwW_7oWJTGsDptdMtDvJRqgPUVfo5vZIXBNrKnd3EmP79lWqQf_i0MGqjzT6szCQ1y1a3lJcJ7WPcYcynZN_pTx2ZMlFq4m-1_hH-cXnYr5TvgiWGGFOOktquufcwwBI8oUf9_Ea7j2sG8n0B5us4TGjQp_ar9mbL13rwvmzsLfPHCWzanjAz8E1byP9U62YU5DW59n5kRFuiDH00fe3SMWJKz38-BBEWKWl3NIGStHxzb2Um0MGVMKIHHmDjoZ_UMTmvZI9m7ftGaAKwn-kF8uEymsmNKBmnArZ6YP8GMdMozWMmivLDGgFZ138Zc-SO-ezX5uXeBaZkYBiIOCgyZrfCgLuyVfT3Tigs.%26ch%3DAQEAEAABABR8sEj23VpJk3rqs_V0MQ04DN73Zv4aZLw.%26v%3D3%26pg%3DO6QIGMAONRAVFPXYN65WPJEDYM
+.netflix.com	TRUE	/	TRUE	1822308139	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQofQWGeZBTkUu8uXoYdTw_QH4fwaz1YLs.%26dt%3D1790771179265
+.netflix.com	TRUE	/	FALSE	1822341826	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+30+2026+23%3A03%3A46+GMT%2B0100+(British+Summer+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0fd1af40-9f1f-471f-9f67-071cbb66904d&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BSCT&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0&fclco=&crTime=1786355131714
