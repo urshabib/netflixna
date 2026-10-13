@@ -1,0 +1,20 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: prakshharshit@gmail.com
+– Verified: false
+– Profile: 2
+– Plan: Premium
+– Next billing: 17 October 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 6***@ptyes)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Logs_12 October\IN[1ND70MZ9LZM1JCTWXN8QOQTZO9A3JZ4MDF][2026-10-12T5_36_30]\Cookies\Google Chrome_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1822536765	nfvdid	BQFmAAEBECqjdM_AeR25E7dnuV0zkupgMfsxEorwRH4LAGJ6y8xULjRvVKQOv1K53Rf6wVZ6sdpzH9ODO8p4tDq-ffdPceAiVFKrMaCiJGvwJ38fcKOfmoOEc8SeyekMUwIkChu9AUpfJ2k4s7wpgzUaZ-OQ_Tyi
+.netflix.com	TRUE	/	TRUE	1822662728	NetflixId	ct%3DBgjHlOvcAxLRA7QhXeJ3fxz8TgAyyBH2ueSXPR_mzLuGd2dWTO8Fx8oimBLqVJyYSf3SfeZim8khrWS7tPqwcet4Kus5GrQLr05h90qL2Ov11roqUkBPWCzKl3UPEfGjdfJvZ8ltOpU62AXTufFK0QVcgS06owiFnhvn9EihadZ2PE03vj9auEqW1a1ltzpvhwWE3t7n6ZHWHeFfylGBktYm5YbC2gcwVClAiPY5DmxxEpaxUdFl_pwOAzWVaN5p9NWU_Bj-7G6XaEbBHsCpOKn0Z2gfTl4BpbEwFwGSf5xXUQxZJpX0YWqN8Pb8iQ1g8JcOmMeFHtLpComqQ09VZNjVhRsC7Iv4aUpRLlzceS7be9U_124__2T4FNRAU6patifboQblCDWhckPEKkjjv0zQHTQKfKj0-isyS6L1SXoRAn7CCIIWL10yGGjYkVukHoEo1V572X771B4Jr8WvmqaOZpNX2Vapve6mr1FRQc_cXPB93eloIG8QEe1lSvljxa62aJ2utcx8LD2QIeD7m4wdbpfe4Rv28wW6X9Oox5WvoZZOaaJ1aeD61LWIz1933KNbbBGVSkZvWDQynd-sO9EvcWeArBYPHjRct6Y4E19o5e2rrZbr1PrQlBgGIg4KDKFcteWI7MIam7e-Gg..%26ch%3DAQEAEAABABT1TEjAbVnslEi2NJWCMlcL0yc7sKdxFYs.%26v%3D3%26pg%3DA7W7Q4PWABBQXPU4XMGPBVN55Y
+.netflix.com	TRUE	/	FALSE	1822662731	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+04+2026+20%3A42%3A11+GMT%2B0530+(India+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=20dcce51-b435-4934-93a5-86d21f4ce9ef&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1791000130067&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1822662728	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9VdANDcdlSfds49yt1jM6k3bfD1fo3PU.%26dt%3D1791126728890
+.netflix.com	TRUE	/	TRUE	1794431498	gsid	2704c620-13de-416e-871e-f609aa285c32
+.netflix.com	TRUE	/	FALSE	1798902730	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798902730	netflix-sans-normal-3-loaded	true
