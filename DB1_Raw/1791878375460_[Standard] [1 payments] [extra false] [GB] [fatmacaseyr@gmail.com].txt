@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: fatmacaseyr@gmail.com
+– Verified: false
+– Profile: Musa
+– Plan: Standard
+– Next billing: November 2, 2026
+– Extra members: false
+– Country: GB
+– Payments: 1 | CC (VISA 4072)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Logs_12 October\GB[WGT5JZLHEY82F3RC1WNHSB07CBDTGDB86K][2026-10-12T33_32_7]\Cookies\Edge_0.txt
+
+.netflix.com	TRUE	/	FALSE	1812480197	OptanonAlertBoxClosed	2026-06-08T18:43:17.391Z
+.netflix.com	TRUE	/	FALSE	1812481181	nfvdid	BQFmAAEBEDVf6Oxec9xH1ppw2301GvdgFu2A17XYHFcsoO-pfBpc-s7lcrPzBA0h_9TdqY959faknFZsNNGJfr7Lirq8tqrpxsiobB1u0ZSButffU18Va6dRXWKK8eqeht4zXyikciDacZkaWsp8NldNzTKQvuep
+.netflix.com	TRUE	/	TRUE	1815506118	dsca	true
+.netflix.com	TRUE	/	TRUE	1818448066	NetflixId	ct%3DBgjHlOvcAxKyA41TnbZxtoIbuvzYOnU1E7KXu--QcUbh07SuymK7U8MCu1T54JU9EfU4oKjhoSZqgdRR0Gkjh2z-N70KFwlx-bu-FjnBRJkTPCFNUQIhp7fsy1ucQzlbKwMIdQyk47BhBydDgQSWO06lGy53gXaGo1WIi8LiMKDu4-GAoZ0OOvQYG3htkgXiT5IAHSLQZanHBh-VFV7HwHAcfoE8E-qR790DNQgY1qjkHJtf0PjuGxCmHKaEfCU-bftjLAcDjS7-DRHupU_4-Bpn0UNon5ndxUWZdzANTe_KwxAao73_BBaVzTmIC2d2ZSJuLx9NoacEcXcMfN5DDsYleNgoDF98d61o3Z9N1E6jzXCIZbliXxdp4RWYoi6PVle61U8OdC11doSly1lXtTcYa2pLFMGx8-VnFCBB1Tc-OE0mKXcaj6VTAqZKxRQvDl5hRd9DH6S7oU_LKDbDRomdqYrPfHjq4HdxfZ2LGJE3lJpBfBDMU38Po4Oi3KO41SkOtf3y4HE1KJc5n07tQtDVhe29wwMYGX1VViJBu2lG2oRO-TOlcp5VwS0Spls6JmNlTcw-DTgfMdO7GAYiDgoM6Z9zdu9S_oJwuMzB%26ch%3DAQEAEAABABRgsJTkIUp20GRFRwPnVWXxGHu-CnUh6-w.%26v%3D3%26pg%3DZKGVNVG6X5HKHBIVXXNT7TQ7BQ
+.netflix.com	TRUE	/	FALSE	1818448069	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+16+2026+21%3A27%3A49+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=9efcad98-a612-4daa-ac03-ed24d6a82f1f&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780944197710&AwaitingReconsent=false&fclco=&intType=1&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1818448066	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTti6_M2KQOrYjCVWgwzHQTRyxc7y9bMSc.%26dt%3D1786912068333
+.netflix.com	TRUE	/	FALSE	1794688069	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794688069	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794688069	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
