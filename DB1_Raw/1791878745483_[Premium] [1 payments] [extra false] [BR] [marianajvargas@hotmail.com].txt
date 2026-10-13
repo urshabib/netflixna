@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: marianajvargas@hotmail.com
+– Verified: false
+– Profile: Manu
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( )
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1814060374	OptanonAlertBoxClosed	2026-06-27T01:39:34.050Z
+.netflix.com	TRUE	/	FALSE	1814060569	nfvdid	BQFmAAEBEMILu436r00Zg2KoCBTNrWhgYKgGtHAnikHsnOn5PAmChbg18PItd5GDUb22No6mfxqsEYwCJCwIG2fxaUAiAsvK5uwJsHUUcYhgjFa1FnKLp8BV24OHQIaO1yll_EnGWfo8ToLjGSs6FPw0O4QuStzc
+.netflix.com	TRUE	/	FALSE	1814103822	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+27+2026+10%3A43%3A42+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f63b48a1-c740-46fd-b5e0-5b957940958c&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1782524374593&geolocation=BR%3BRS
+.netflix.com	TRUE	/	FALSE	1794402140	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794402140	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794402140	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1814104320	NetflixId	ct%3DBgjHlOvcAxKyA5pAqZvLGrhqvFtMgn4E004WrMzleclbHTt93XdftDeAq7i1UaJEclpxTUtL5tDcOdRe19DvBGhtF28aO4l9A5DnVN2j4vg6cVuEGt-t2iIR1BaIhvN8fiIo3KUovRIJImc5EIltlkuwDVrDSXTjmTIi-4ETRnoESN53xKtZ93UyaW3-b8WsJIgpbuYTNZRklI2ZUmSOzNSADiuXXq5uZWXj7yBTDOAvkNCOaQFrmCM049L73hq5j3oWk_Y_HhV78kdNouqO1jzo1rPjAwtX3qcjEESAtgtMtWLV17hYAWFBVqLlQuHEIveS9GhmYFY2Aje5axX4FaWLBR1WwPPl7_RCJSkCZ-m0qvTd4Lq9BusZ4fA29BtKlp5PyuxBl5NxSHHNjvOIxeVrWXRxvvs5gJAuG0v8NQn69Kynh0oZ67RVF_DRnIuOXvfw9xMvD5zDLYGcLga01YvpYXGGwhRi1F1yXwZh7ILU9TzdwgUz253KuYcJbAIF38RyNgKxALdjEzEP8nvS-DMUI5SQKLezOxkugF_hmS8YtQBZOVrWnOSpG_RExIumeTS7fXazfBNeIZfnGAYiDgoMSioXZPL83vWPq8ed%26ch%3DAQEAEAABABSOUWqgRhnlc2cH74ktii0P11r9a9b9nP4.%26v%3D3%26pg%3DFQSL25ADLVAYRPTIKXDMJ67EVM
+.netflix.com	TRUE	/	TRUE	1814104320	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQERERTyJ0-7txlg5eEavydfn6GE3SRhr8.%26dt%3D1782568319046
