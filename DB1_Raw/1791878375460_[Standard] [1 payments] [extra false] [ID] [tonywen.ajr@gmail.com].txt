@@ -1,0 +1,17 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: tonywen.ajr@gmail.com
+– Verified: false
+– Profile: Tony
+– Plan: Standard
+– Next billing: 11 November 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | CC (VISA 4646)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Logs_12 October\ID[IMJCIKYD1MB5HMS24J0RNVMWFNL06WYCXQ][2026-10-12T69_49_36]\Cookies\Chrome_0.txt
+
+.netflix.com	TRUE	/	FALSE	1792603414	nfvdid	BQFmAAEBEALYW6n65MMW0Y7eqogAWEhgH7xBcDYSamVicoGNf0riINZROFkxgnk_ZuhDhse9Zyu0z3ZXiaS-GyM62-kMzjV6Mr7RlvgHkGR7lzFMAQ0EV9F1vvjjZqn0u4wH7Y6K7NBtA0nIe9PcJhzcn0JvzptL
+.netflix.com	TRUE	/	FALSE	1792603551	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+22+2025+00%3A25%3A51+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f384a9fc-4b98-4e19-a95e-d308dfbc1efe&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793434843	NetflixId	ct%3DBgjHlOvcAxLaA7bBAqx4CZ2xMIqWpuBxjMLnGtcJSEIOmZqW_bjpl3YKAwBOACejXhyxqHDAJVlJDK-H-A9XNnLdZcN63AOhBgQwbwBwBBoVEg6Rm5PULJyGRHKrJENpEg3e01nRVa2P1CURX4HLc8nSp7UKQvN3OuzcnTy0fpIP-V-XuZeAx_kJ7CBGK4epLjbdHMZMdsd9n53fCIQVjdGob8cfGqVYRNTt-Zv1isMbZb6XsXtk8CqExVOB3eP2vB2_OJQru5TVdmQ2xlk4Rf-Ku9sk7d5VFzqNeShgS3AIIdqRQZum3TJ25PCUueMd4f37Twze7_5HfXtOQdCIX_KFNs4ZwqYf29lnu5gXOlZ7fls4fXlTrHVc3-AZgMmZsHXhng59NcT7DGunr7AItSGiXosjPZdgH7mKC58lVzjNXc77r-ylmRKvLZZHDSxI8wcnH4Jtv6bf2rh9DxTMRK4lCUyF3kRslJ-8_lVJOUndQbR-ThT9LJOE6_1EzP56a4tfICzggay3Tw05VsqAdfHl-uhK-I97v9rODw8C_yEwqlLkP3gI4C3xBHWvweIANDSNyKUjCB9SpnIAInu5kzZ4LpiUxJ-2d2PjRK8uVftHHqM47b4UQ_7aw9BAAV2WZI5x4hgGIg4KDH7ZLQDT_j8UMmP2og..%26ch%3DAQEAEAABABSA2WhU4YX2x5Y74jGXM74gc_8lQ8BPMOs.%26v%3D3%26pg%3D5D3FNS5HPJF6FDNU2KOC3G5XF4
+.netflix.com	TRUE	/	TRUE	1793434843	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRIgw03vSB7GV0Z_zoXJ6p1SLXLH4BCt_U.%26dt%3D1761898849523
