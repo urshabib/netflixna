@@ -1,0 +1,18 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: jburniealt@gmail.com
+– Verified: false
+– Profile: jburnie
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: AU
+– Payments: 1 | PAYPAL ( ja***@gmail.com)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Logs_12 October\AU[OZB2I8AXW1LMPTMOVADDP4FDCJTGIKBJBK][2026-10-12T42_31_32]\Cookies\Opera_GX_0.txt
+
+.netflix.com	TRUE	/	FALSE	1812272089	nfvdid	BQFmAAEBEHF-SNgINBKadNomC5CpzpVg15e9mXqmHgeS8TtcauQS471zX4fKt5QjhthBb4lAVdRZeKclvnXYsd1RBFfaaHFGE6WhM9ro2icuC6oz_BZ2yD3Z9BSG0JJc626saHWDzW0yEhJB7FZWgoJ7tapDUSJ7
+.netflix.com	TRUE	/	TRUE	1812339300	NetflixId	ct%3DBgjHlOvcAxKKBB5dlq-RQhJ6ud4BFGl3MZGUqGo66derZDwFvUZgd5dVzcpAcLH7mm0IzZW25KAW_ehifXKYLSohMTU0FZFHNAPUFi7Sm-_PBYgQky14eoo0PmGDo1Pc2tUOJy5GAhP42Gfq-QHBtDxfjq442CJjBrghkToAvydAyGS01cq5O-Z1p771BnkalSGsKKOEx-kqpu5CiKxeQqvwzuyH2LgP1CcZYfTSaue0XrMOtYQfMmJjsM6aNzqNyCmPgjNiJfTEVJ_8tNACxQ7z1amt0vGEEtaPvntbOwip-n_CGwfkwAuSEOc2Sw6pDq93FH0-7JHou3tCp_F1qJYYWS3ofn5_f1tOO8VWi4DR8qhPG_GU5fl5uscnA33NLq48pmNPDqaRmBCY4h-oMSPdi2N1p5dYZgF4QzoECUXJvyNTZiDq2RwEGvMs4xo2Un1qqwq8eNgxzQcYB4S6BFWEz2MDi8jRJoqYImtDPPo4fuWVhWOUz3ZJcmxHA20Sy6uwJOudb1eorv4LttFd3U0sfNiu226qSBTNhIsV9vbDzJUeWsLrC6jyBpl2Bbezr14V09dl187YWiujvUA-Nf4KJMsyEbqtcOCQ0rZYjFgFy1qvYH939P0CwlGyoAWIgA91IzLj8LoYfYP8ZKqWoqXdtbxinKxuffakhJ4yLR2ULbD3xwdTa-Wmqc4uWhOqDF7aJBgGIg4KDGlojOJFaY6RteGLzQ..%26ch%3DAQEAEAABABS7WLnrTC9VySl5a1gch5XpDmd_8lmmp4c.%26v%3D3%26pg%3D6MVY7JCM4JC5HGUSVTZDIMH4XE
+.netflix.com	TRUE	/	FALSE	1812339301	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+13%3A35%3A01+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a3678a43-ff0e-4606-9a16-5a70a588680c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1812339300	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQK2_LE3iv_CNPREIsMmZtm6vQiLWq0XzQ.%26dt%3D1780803300545
+.netflix.com	TRUE	/	FALSE	1794431498	profilesNewSession	0
