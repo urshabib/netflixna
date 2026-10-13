@@ -1,0 +1,19 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: kacper.chochla@gmail.com
+– Verified: false
+– Profile: Kacper
+– Plan: Standard
+– Next billing: 8 novembre 2026
+– Extra members: false
+– Country: PL
+– Payments: 1 | CC (VISA 6012)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Logs_12 October\PL[9Q50SL65YVV40C54YOSFH4U1VMQW3NBGT3][2026-10-12T76_14_17]\Brave\Default\Cookies.txt
+
+.netflix.com	FALSE	/	TRUE	1794431498	gsid	01491c9d-b81e-424c-84bb-64d79c5b3309
+.netflix.com	FALSE	/	FALSE	1794431498	nfvdid	BQFmAAEBEOaXJuxbwPW7xuJl2iGvc4xgflvmbeC2Yf6aEad8gsuUnSdqWjsS0TJYubvIzMSP_EmeuBUcGM8kQ77BR72dG9X3xrZcsQy1YuI4WRlhBJ9vD8hcTvlTzxG_cFpSy0gNNGuPZALze6dwfnNwMQxCURTk
+.netflix.com	FALSE	/	TRUE	1794431498	NetflixId	ct%3DBgjHlOvcAxK_A2xmJDlqqWIHLE2YvBDfTTL9PsPLGBKsdaBYUNFoZ7Y83grKAX9unBy0-tLkYwbgcpyfuw_UkkZA84Q26qM5zg4QfOcFL_739-4z2x13hdxc8c5pRIym2y8IXlpLDrVbJOsox6y_wVz4aTeaMQJ_XPfAlmWItvY4D7wFOwLOgNeqO0MZvMjwT91YYE-r90nmnuH1M1t9MNxiJFUXuzgwZO1nfbcKqwjKk0MeUTHAWo4Nn9UAmA-GHB-A-SsojA-Lb6uRGDjo0H0RfkJO9dDUfEJfr87xWnBtCA734qrM_i6YyuNR9c0jqF5tJn9r3kY3kwEQ7yj95WasHBuAAylmnOmnWThVX1FhA2fObpQhE8AQZQSMSpaAARLjdM5dgg-U9cZa_GMq7B-sVKFXeANtwQ10BvWwDq640dUIf4HbGx8-OI4H3NwPrmgD2qxBI5V4xzNLHbB-oXYy1LyN0ElTFLzYBwuD0r_7XtZEAPjUJhoWSi6-O2Ow8BJTidH5NOOmMUJhT_A0F0O41K-8vILRXWCiXFC7TsC67U41h-isNBGtK0plTNOWQLS7NQptNHOA1rjRO6Uu6iJmXRo7bDLoYhgGIg4KDMZ_JXQdcKfeUx2GrQ..%26ch%3DAQEAEAABABS9D2tGBd4B01E7MhEjPMmPNM-sE389H98.%26v%3D3%26pg%3DMG63NEYFZFB6XB567CFU4OZ5PU
+.netflix.com	FALSE	/	TRUE	1794431498	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTr5phbWt5obnh_UCXcSi3wBwdjUEhBmew.%26dt%3D1790424884599
+.netflix.com	FALSE	/	FALSE	1794431498	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1794431498	netflix-sans-normal-3-loaded	true
