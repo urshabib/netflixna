@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: thaynabrito0605@gmail.com
+– Verified: false
+– Profile: Thaguinas
+– Plan: Standard
+– Next billing: 14 de outubro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 8152)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Logs_12 October\BR[SGZJZGP1GUCCRDRDO5O8YMDQDERKR1RESX][2026-10-12T2_11_58]\Browsers\Cookies_Edge_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1794431498	OptanonAlertBoxClosed	2026-05-09T16:18:49.873Z
+.netflix.com	TRUE	/	FALSE	1794431498	nfvdid	BQFmAAEBEIrDAg8twRfsiMJHcwyKZblgorQPNq4cdvLGNfi3xTo9ZyJD-WUdrOFRtEegPI8Y4zKHmtwSTMjV4NG4mAeGJMVizrhQMWegbbeJGiNAR5P0zZYvrczoBvDpFqnbsc8aQ4yKLEiKZ3lPYa1FWvET3y0E
+.netflix.com	TRUE	/	FALSE	1794431498	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA1O5L8V5D4JzBu2Le-SdY9zjl-iZt8kr5w1NxlmvceGcrhWBKXJQdiFypSBJLM4PaPGNoxAKejVBvjxN8wYew5os4lF2QRB4bv6DjnzPVcdufmFKUfvOLCq_uF7sIlNrrSbHznBkgalpro_YhZPzOx155PVwlp78ZhJIzl4uqadLGzTw7n2xbXanGxkYKdB3kswUPKW-U2gXMK6HxtrTgZgriIkh1WNHO1Fi7wYHQkdGiMEweNQcEf1UoE46DY2tooSlH5xbWuqLadbwcJCT1k_-0lVit65ylJQ443TxE-jUtZRzFGg4W6mlajZEL4WEQKde3ovx5_H-0BfwKbsV9tXndN11H4oIsyU7SQ-DY5F6qfdDiiJFt0BDV1X0khsjs0aHvAW4fgBRgw-ssE-1VUXVXC6vGCQ58sHv63OXh6oE0kwsOIyaAbtKbVuDoWKshcpcGp2FwjXMEJ-9LaTxajhy2QDjs-SYzJqWZJwgjhnrPqEZQRhv4kKuK8hhOJP6vq20bkZtKCOg_Q2BtredgOHD04zE1nFysw3VUhgGIg4KDHHM0MKMfIr2GFuI3A..%26pg%3DZOALH4DYBBASDPH7HUITCNN2IA%26ch%3DAQEAEAABABSOKoUDRThu9Img7KjLMT1hBJGORDaU_mA.
+.netflix.com	TRUE	/	FALSE	1794431498	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfkoeCs8ZiYB4byxgsZOMBl2H9nEw-0p8.%26dt%3D1787940437597
+.netflix.com	TRUE	/	FALSE	1794431498	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+29+2026+00%3A47%3A17+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ef74ebed-ec1e-4bc1-b3e8-1266331d9d66&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1778343530335&geolocation=BR%3BMG
+.netflix.com	TRUE	/	FALSE	1794431498	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794431498	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794431498	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
