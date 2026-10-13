@@ -1,0 +1,24 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: nicole.osterberg@gmail.com
+– Verified: false
+– Profile: Nicole
+– Plan: Standard
+– Next billing: 10 November 2026
+– Extra members: false
+– Country: SE
+– Payments: 1 | CC (MASTERCARD 2796)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Logs_12 October\SE[GXD1VAYT9JJRD8N63H21S3BGS1S6T8XVB6][2026-10-12T35_0_40]\Cookies\Chrome_Default_Cookies.txt
+
+.netflix.com	TRUE	/	FALSE	1794431498	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1822331583	OptanonConsent	isIABGlobal=false&datestamp=Wed+Sep+30+2026+21%3A13%3A03+GMT%2B0200+(Central+European+Summer+Time)&version=202607.1.0&consentId=14e31673-9711-4c3f-8c05-e6a37438bea9&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=SE%3BC&isAnonUser=1&intType=1&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1794431498	gsid	354f5ee8-cf6b-4b67-af52-b99b95b492f0
+.netflix.com	TRUE	/	TRUE	1822331387	NetflixId	ct%3DBgjHlOvcAxKBBIcplgxJgTgiFG0TqGk2o4Ygcxbx2JuAavTiNDLZVPwPaQ4c0LVx6tGOtUhqZ_CNXvhfd2D6zGJfXs1GpJArIHUW4APNXVMoWjc2y01Bbxj7viiFdN6vfFuKDNxJI8k0XHvSBGiXqfBtClugdAxEcV2447qTz0xNfmJWN1Riv7bMVyM7iN9fMjctcteErF3a6k5JoRgqMKRyHXBIV1X8b1JCccKqSYv0-pjIC6AOj2NRY9cvX-Cf2OEFLWTXin_yx-AHz1iZGeKVOU5ouf6QBT9UxPFfEObWDSkyriIIP7eh9ocZsXuW5SSyp9hvUymwHcKykOrxZf2QYYP7a0x8OhQli9lx1SQyhxdUlFBDj8-xedE2xg08kTMmvVr1h6s_EjfJM7ooc-MXwsXAwYiSsNK0tMuoKoCNAn5DlNKr22-sl-cisQZrqb4gyISKIUoqLoY2iYfN3xKN5SgxMo9N0ofQqR0MsiQJBD2Rrhho3rYTxHPX0p9Wq-RQwo9QWMoOcGXNbBfKhmIkatySZDqI8u-Y_ZFexZLhaEDhHjRNI9IWUGXKcAFn96zos4bDQmdx58zKxklOwPeUVkCFkiZBMnWtHJ9LjuKNkM2GY7wMZTlM4igCJiB0NPwqcRosX_qrt8oYDkRp-RCuSUuZwLwqlA1Jzi5DjyFRV4tst-G-ggZWmBgGIg4KDD5t9Vg_3WfleqlDGg..%26ch%3DAQEAEAABABR0tJ-fGBHyNX9INjlqHiKOuADFr8czH5Q.%26v%3D3%26pg%3DCUKOU5VMXFAXZB4L5HVJYJDH7U
+.netflix.com	TRUE	/	TRUE	1822331387	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRbkdEr5fCJGRj-CEh1KAqpSI2H7BacvP8.%26dt%3D1790795387275
+.netflix.com	TRUE	/	TRUE	1820517157	dsca	true
+.netflix.com	TRUE	/	FALSE	1798571583	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1802456732	OptanonAlertBoxClosed	2026-02-12T18:25:32.861Z
+.netflix.com	TRUE	/	FALSE	1793646173	nfvdid	BQFmAAEBEFir1eQuYQDbVeeQuWIdT8xg6xb0U6RnPRzl2WfaTEI5VqdXBTQ58WxRbfUa1ZGB5S76IlkzKFdzkvRc-TRkuGBm3fx31eRE8AdX2xsC22q9RJe3k8OdOiWeJ_5b1nBUjJFXBk2tEekqR4Zw5E0yIVWX
+.netflix.com	TRUE	/	FALSE	1798571583	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798571583	netflix-sans-normal-3-loaded	true
