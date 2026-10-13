@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: dianefletcher389105@outlook.my
+– Verified: false
+– Profile: Sarilestari
+– Plan: Standard
+– Next billing: 20 October 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (DANA 62-878****9000)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Nouveau dossier\1582_ID_120.188.174.222_11-10-26\Cookies\Chrome_7.txt
+
+.netflix.com	TRUE	/	TRUE	1794495847	gsid	629f63f2-cef1-414f-913b-8dcc29e0fce6
+.netflix.com	TRUE	/	FALSE	1804392535	nfvdid	BQFmAAEBEMVYV7_gVfuaLF3WK9tslfhgRm_mUyRfUUBoFWiCaZX9jp1VNyiJGb5pA5zQ5ZzRtQTM4ulQND8CAHsRJGJDEjPJ0PiLBcZS3y90F18CTPyHM1isCQ_-srzkMht7gM5w4DJNrfV_bwUNo0qzySmB16o_
+.netflix.com	TRUE	/	TRUE	1804392632	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA6DaZzu7lUyA_ipebhZCATLdYlKjYYd00bPO_oKXuYTJlx5iRObP95khVqO5ovgFcvpR3ERUaQN3ZGjz5D-UG1Z_I8zeiSqpOZByrb5v6Y91F5nokRtTkJGLuavvUFkxJ4_gZFybWE404L-KDmLePfmjbkqWWXCZR9fC7CAKC92XpalTqyIKQiHppvRrSiIpAY3_MCth1dPkfI5lqKwZ8wnctuax7wI0iXzOZOPhMpuppiFdBZlefenz4bb9K_Ec06Yqze9-KA8WbwdSCnsStvsJq6he6KjMqv71xONw9fpPndvKNGAcHe_q33Inf_aykELWcFmfVl5cntW9FfDaoysL_RvBkVO0-bMcqhQRF2sn7fd7q4sK6c0tXMAaKTrqUos0vItq6Yqlsc6-c8-g86jE_jgVlziqoNFkvafJIbTetopoeSMQ-xJXgHcLyPHvBPbHVLrpkUZnOcdGXeAFqv9LM5m-UMZEfyMIEtb66uaOrWFvgwGNpuBXmq5YYsGHdnjd3hemIKOtOa4TG_RKK76fJaIdFBgGIg4KDIRXWea5DhehPsIvRA..%26pg%3D3DRVTPCMENCBNBP3YMAEROKF4I%26ch%3DAQEAEAABABQ9t9dnWLXtKZs6Vqsz8KcJqmWlC8xQcRs.
+.netflix.com	TRUE	/	FALSE	1804392630	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+11%3A10%3A30+GMT%2B0700+(Western+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=582bc922-bf80-45b3-8bab-36a59c17525c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772856535332&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804392632	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS5L7XQAV8MHCGZl-O0pmIWXQmEIJtLqbs.%26dt%3D1772856631480
+.netflix.com	TRUE	/	FALSE	1794495847	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794495847	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794495847	flwssn	79a2fabb-bd58-4daa-9541-50e13ffe3a32
