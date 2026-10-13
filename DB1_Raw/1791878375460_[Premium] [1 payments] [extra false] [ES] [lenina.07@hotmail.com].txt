@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: lenina.07@hotmail.com
+– Verified: false
+– Profile: Ricardo
+– Plan: Premium
+– Next billing: 4 de noviembre de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (VISA 2853)
+– Cookies: C:\Users\WDAGUtilityAccount\Desktop\Logs_12 October\ID[8SKO0IXEKO6R21UK9599G2Q140X8NW9U6S][2026-10-12T21_3_26]\Browsers\Brave-Browser\Default\Cookies.txt
+
+.netflix.com	TRUE	/	TRUE	1806427481	dsca	true
+.netflix.com	TRUE	/	TRUE	1794431498	gsid	508a77af-3651-47f2-a5de-711288b08a8f
+.netflix.com	TRUE	/	TRUE	1806623955	NetflixId	ct%3DBgjHlOvcAxLpAxTgEJWduSBsQKI_4AactNWz0SijEYcHv4OvrW7-9SFE3Pyeernb0nSQ068b70DE3qhLVEt69JJt8Hap3xkKK-RdooCPsNAw6ZCdfBw4y7z21MJ4xfyHhhbyU9tWkAkw6Hk-7ZvT9hu5Jq9YuCYv3c2NMF1yBNnXbu0bBPCv5NGehjrKpKr7FAPmw21XkYGb08f1Q4TNM7BnFE7EHAIrl1DqsLGHwbSR0w9wW0KBbNUKmpj61Mmgc9FNhjGQ2P8scIAOoHyL-mD_6jMSVRUYV5AIUmHuw3Qzyvnr6oQAdmRSOFng0Gy9T8mv3JREokVe2fSr4VPWZt3Gcc07qpGE7XSOEWMc2f-8aGg_uBK-5xtVLrUMMTspYpfAWWA7urhfGK2FJKU5Ntlc7h8qjFE5xVkeJ_g3_6eu1QezBZ40_Rr4os7NjcxocupR8j6zGS_1fKDMLFG3b5aKnkm1ZKvvoN0UDzNWvXDOWMpIaqyDYhmLB_pxy3Bii1DizwufzoiWb53iFrOua3im9xvAdvi_wdq7Tdd65IJkGugdpD1mqClWfScVn5A4_6QgpfsOleNRRltfc5k9BYufdEjC5VKQGcnaKxrnR58pi1enFs0q1unCJd5Wyo0GIAPJmaaMVS6wpe7jfHKoVBGBlRgGIg4KDPP3e7pNF42pC8dhfA..%26ch%3DAQEAEAABABRDRnoE3BoIRDmMHA5vqpPs5p9lL7e5rBI.%26v%3D3%26pg%3DH35A4VWVD5H4BGD4K2MI5LBB74
+.netflix.com	TRUE	/	FALSE	1798848083	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798848083	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806427479	nfvdid	BQFmAAEBEGZB9q_BMCgtlCXbkv2SV5hgymSlSvTBp2kaWpTBsaUsj1mX8lXDkItUTxcKjXGfsyH8FsPH_IHwHrCTelI0lnR2tj7t387OZtM6lD-QA47Nw_Qi0JTG4LKxcnOowX2434U1jkPCQY1xYiyLdLTfWYoM
+.netflix.com	TRUE	/	FALSE	1794431498	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1806623955	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ8MuamcrXBUwBlFNmGxRS-F8gPjAWNsUM.%26dt%3D1791071955533
