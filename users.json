@@ -194,7 +194,8 @@
     "username": "Omarmarzouki",
     "password_hash": "Omarmarzouki",
     "is_admin": false,
-    "links_claimed": 0,
-    "has_limit": false
+    "links_claimed": 1,
+    "has_limit": false,
+    "last_claimed_at": "2026-10-15T18:38:54.557Z"
   }
 ]
