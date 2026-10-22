@@ -1,0 +1,25 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: priiscilla.vasconcelos@gmail.com
+– Verified: false
+– Profile: Bernardo\x20
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TIM_PI_BILLED ( )
+– Cookies: Adm @logslead
+
+.netflix.com	FALSE	/	FALSE	1797537865	nfvdid	BQFmAAEBEJVIWtBa4rgavccxog1-jbdg_QLPXZDAYHqAcr3jz_0wQrK01lS5QbwXU9I5YALcXQzmvI9yeYDKVLJ6DJLBdogOcnQ6PberHefPjDf4iidyaMwTSWr0V_riRNFT7BAjvOH92TKY2I0N9KUITejLQw7t
+.netflix.com	FALSE	/	FALSE	1797538267	OptanonAlertBoxClosed	2025-12-17T20:11:07.926Z
+.netflix.com	FALSE	/	FALSE	1818893600	dsca	customer
+.netflix.com	TRUE	/	TRUE	1817861728	NetflixId	ct%3DBgjHlOvcAxLPAwZ7G7ds64DBjPSr5PM_AvxOpXWZzhWXaxi-76kLm6SrLxCuadcTaANHIcIukPUED4NajJ9F278o0PjG89PDjkxrIO5hlcyxkGyHM0Wg_Xuup-YgKWyP1jPhtZl5l5UKZNkQKtwXiNpiWHNEYzSgv5MxiN9hgrrW9Y-Rq_C0hMsssk4bb0KGMEmCJkHkRJuu65YlWcB7o8Tm6BmS4LxYfZ0--0vJcuJeDAgAItjWCn5G0eVpzRvg_kRwHaBpX0NuZ_Cimwk-JlEFLrPbkiEDhQQB-WWs7FuIpgxkhIg1PyIYFJYIWz0_dONpz6r2RZWpP_yFHjn6vP060uLRIKMZt4hv6yxCqeLbRg1TjnZDycAd4AxG_Gwc3sRLqVk8ODuznjeStwMm5dxvktRxHj13TqWOcxPb9ZesFmO_7HD50R9I_S8eL_y40hwFGZ6cF96RlRbEnOLw8JjoSO0Z68J41CH4Tmdia7QvSgoyQRW6cstU_K0DyAWBjruh8uTiCJhUkD6qIKylEXTDqS2PTb9BTjshM2FFX3uG-eUoV3fuqdZ04D7c0tspqglpmcpQ0WhVTxpbakqdWqZBKKCJ7f-5g6h18K_nUDwQzBZjFIjSd3MYBiIOCgynywsVtDS4_w3PFQQ.%26ch%3DAQEAEAABABRZ0kzIjqn-CxRaHcFpYmn2rFS_eBEaSI4.%26v%3D3%26pg%3DCTRFJA4PH5G4RH43IAT7ZBDLQQ
+.netflix.com	TRUE	/	TRUE	1817861728	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSSLhjzLLzuxSwVk7rfyXetsneK0NnsUNI.%26dt%3D1786325728388
+.netflix.com	TRUE	/	TRUE	1795272711	gsid	ed3aaf2f-9cd4-4633-8bcd-43efc6dfe9d3
+.netflix.com	TRUE	/	TRUE	1820885730	nap	BgjvvevcAxJJfg64aQ1MzxfISXSzgw_e60H4diy8bSkRRJ_kPxplsW14829uD26TRQ0SS4IIt8YSj7hZa97F39uKewS98Mffdg92psNJCBygTBgGIg4KDKBeM6UvBXzhV8rv3w..
+.netflix.com	FALSE	/	FALSE	1817861799	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+09+2026+22%3A36%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a582eb33-2050-4003-a4b4-ce3335ca8d0b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ&prevHadToken=0&isDntEnabled=0
+.netflix.com	FALSE	/	FALSE	1794101799	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1794101799	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1794101799	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	FALSE	/	FALSE	1795272711	profilesNewSession	0
