@@ -162,9 +162,9 @@
     "username": "hasan",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 45,
+    "links_claimed": 46,
     "has_limit": false,
-    "last_claimed_at": "2026-10-22T06:17:07.582Z"
+    "last_claimed_at": "2026-10-22T12:11:58.719Z"
   },
   {
     "username": "Mrabet",
