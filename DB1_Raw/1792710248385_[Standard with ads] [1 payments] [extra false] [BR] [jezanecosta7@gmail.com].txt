@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: jezanecosta7@gmail.com
+– Verified: false
+– Profile: Luan
+– Plan: Standard with ads
+– Next billing: 20 de novembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 6409)
+– Cookies: Adm @logslead
+
+.netflix.com	TRUE	/	FALSE	1814672418	OptanonAlertBoxClosed	2026-07-04T03:40:18.400Z
+.netflix.com	TRUE	/	FALSE	1814672433	nfvdid	BQFmAAEBEBKUYUA7jjesOnYn2tT-SQZgTIzlpLvwH9-muRIa17Ot4IdV_ipGdbfYn_FX3yKvgOQuY6b-uUfm06tBSPdwztgBgmcN7S8QvR75OWPXKidDW3ADfsaoM4VgLaWdJWMFrVpMtcBElwAlyT5VhR4-s0IR
+.netflix.com	TRUE	/	TRUE	1822281203	dsca	true
+.netflix.com	TRUE	/	TRUE	1823180396	NetflixId	ct%3DBgjHlOvcAxKCBNWyj5kL7ibB2ExEqenC4PgVeaCNkvn9DqCoowW7sx0sOvfiHlI-5wTwvCMT9DpBNCTM_Uz8Feq-mF9H8W0cdPe3WMkvmid09h62NCm3_3fKvHFObYrcFqjWw262jVmWDZteGU0A3djeiWbxfmiX-gm9O2Oj9X6Ct0jZlPX4_ykC5Pnd7r0oI2wayWLu6fjm8h3ZnysrHmGXXqZwR6BWYFMdAAQ0-gnusKRVhZcWvxncST-uRnzr2lUAmqc3bomhdEcIVxYHCGhZT1nhSjTR8QgblsUBWZNhsGadbd-_m2lXYK2fzM7dIQGM31ymxMpY3WKQGx95B7UFx697SXXl_If45uMmgCySQSnOMdnhhd-WhBSDvl0COwqzOhm5yQtLhtdIjD8F_bWYz5gDDlu9JuztszFhDNFxAmHslF-PdjHlAluLbPfqhMjStpLmKmGaNgnyixpt66ZnIDiLb71zsybivJefIhkCugQoBH7gmu2KKq--IWoRIBvRDrlVElz3gWCGAE5K7_nitM2VfKxyH9p8gn3NLvAJ70h_BVF03M1pzfiY9vf7ygMtGXTAVxVDSdIsQTH6K5jO8ffD0rwJf0nOTQ0JU2PiLC4o4xtPpJahwI-c2eO18cqKOF7tV6UxecNO0PqTkQA-KJ53TOijeVpFx74CMNujcAKMGz84Bzcs9ksYBiIOCgxjAQikoQDFFZjVGp8.%26ch%3DAQEAEAABABThMSrRYhW-K2rfRFeFIpA0WB9CagYCmeo.%26v%3D3%26pg%3DOVZ4T6P5H5CKNBXDDGRD6UW5O4
+.netflix.com	TRUE	/	TRUE	1823180396	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ6JM2wLECB0ASq8trDHAFnjVvDLYGSR68.%26dt%3D1791644396586
+.netflix.com	TRUE	/	FALSE	1823183431	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+10+2026+11%3A50%3A31+GMT-0400+(Hor%C3%A1rio+Padr%C3%A3o+do+Amazonas)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4b4f10f9-be3f-48ca-a3de-3403a47734ce&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1783136413364&geolocation=BR%3BRO
+.netflix.com	TRUE	/	FALSE	1799423430	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799423430	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799423430	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
