@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: dionesneves76@gmail.com
+– Verified: false
+– Profile: dionesneves76
+– Plan: Standard with ads
+– Next billing: 5 de novembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 6032)
+– Cookies: Admin @logslead
+
+.netflix.com	TRUE	/	FALSE	1823908368	OptanonAlertBoxClosed	2026-10-19T01:12:48.113Z
+.netflix.com	TRUE	/	FALSE	1795458760	flwssn	de1b017b-f6ff-4bb6-993f-97ecf5a06c37
+.netflix.com	TRUE	/	TRUE	1795458760	gsid	38ca0ece-4e5f-4cf8-b614-e7aab534a005
+.netflix.com	TRUE	/	TRUE	1823908531	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdmaA8BIMBjNcYgm9RdknUo0xcnUf45uA.%26dt%3D1792372531356
+.netflix.com	TRUE	/	TRUE	1823908531	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKmA4yD3Lg4L-INUXYPg2ftfCclFqmxH3b7S2NYaBvx4CQOmmaxxWJpYt5KOGe5yQ-KYh9ddR6V_-rjA4sVa_M9kZXdagqs9ck7g21KQPAqDSYznqf3Hfqcp0maVDHgESjpGz9gUoEsRUI08fQ2bGTorHHzoO-AtOXcSKIcS5_M8zN_qFtdh27G4POGIbX0IXjTg4fAEWpLHwwrxjxSlv9gEBccEH7IZ8bmlD8hYiT8DJv7OwXLroyGZMzs6z_TL_uFEZMnO32olcpbkAKHmkF39nN6pDOisvUHdfrTY-4XtAquPfKsEHeAy3bFMo55mvia67c3eIWItbdftBAvFbfb6Bee-AjcTT4IQe7u5V_AXBUGyrCHR5IUTd7VIrOFcK4LuEqzW5wKNbFXaj4b-qIXxJeAJdcabCSvxlmv7gmGgWdAd51MH6Ra9hfMp_lrf73b5FdPx7dh9O-m6KTErnhh-3NBX02N71CzU64VIj57SHZd7UblVXrrMVhlxuCL88hIo0bnoADehSlYFVs-I5e3RFpR_xuq7QZ6imA90NCsnL3vunkRY2BIGAYiDgoMnv9A9VgaSZTa5Z3W%26pg%3DT4TM5WCL45GX7GFVEQE67UQCLM%26ch%3DAQEAEAABABSDGHqrK1H-21H_-fH6in_i2EjsPgY20JU.
+.netflix.com	TRUE	/	TRUE	1826932533	nap	BgimwOvcAxJJ8naexvq7IogJicfdTYgEeDpTKE1c2M906__agoSs506_ksU_TyeaqiLMuwp4AzBp0Rr37JBjc6_afAzaMOMAn-jaEFML1Isc-xgGIg4KDAAloex0e6xCDg3FHA..
+.netflix.com	TRUE	/	FALSE	1823908531	nfvdid	BQFmAAEBEOvjuLF0NcU9xaHI6CTcwj5g0eVR78tujr9yrabHOsJjjvkrEfVJK31_oPcF2PDZWP41ROZiVR2yAbiM52rX_fc1Km44EbfPkcmrVWFCDe8D4kPizSCwmaq-iC5igwlk8tAlcxQqr4L-jDxwL8BW5ITg
+.netflix.com	TRUE	/	FALSE	1823909937	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+18+2026+22%3A38%3A57+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202609.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4675ff3f-18a4-4b66-b8b7-33276d97f817&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&lastConsentTs=1792372368&intType=3&crTime=1792372368965&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1800149936	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800149936	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1795458760	profilesNewSession	0
