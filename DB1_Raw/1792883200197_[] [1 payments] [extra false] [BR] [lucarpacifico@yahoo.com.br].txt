@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: lucarpacifico@yahoo.com.br
+– Verified: false
+– Profile: Luis\x20Carlos
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 7772)
+– Cookies: Admin @logslead
+
+.netflix.com	TRUE	/	FALSE	1807294100	OptanonAlertBoxClosed	2026-04-09T18:08:20.180Z
+.netflix.com	TRUE	/	FALSE	1807295067	nfvdid	BQFmAAEBEADzAQaO6QQXBOCGqFXU3aFguZRjf5eYllZoUgQOT3joF6jJbkfdpnzl3a_xhC5iGVxFdJ47N6m7BTuDmzgLie58LUn1UT5vfPJP4I2e5BebaM2ccHrX1wSulKg_J0e5aU0j_bn_jcWSMLwAIqcjion6
+.netflix.com	TRUE	/	TRUE	1819590569	dsca	true
+.netflix.com	TRUE	/	FALSE	1816786628	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+28+2026+11%3A57%3A08+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=739853a4-2d51-43ab-a0e3-333de43c62fb&interactionCount=4&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1775758093899&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPE&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1793026628	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793026628	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793026628	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1816863226	NetflixId	ct%3DBgjHlOvcAxLRA7hkUTpDGA4Ej6daWysd6_eGTW7c4Nx_zaGydBIcJvOYtjLJxfmkg728Ok-OAAHEKTLrjQ2if0ilIka85BAU5wGS3eNeVZZurVgq94VFbuWt1AA5l9JR3xqosodIIOtiS3_tNb9BQFdYmISDVeuEyma8SxQRyAgqjxSg6AcKf6AId5lIPDH5Q9yN7btt287Dq4wHSFqWJtvTetJK-BWUPN67Yoqn4K2ofGwYBGvzdl5MHj7dsYl5yT692bpnnZWFWR7Q1ZoVyPs-44SVX7IxTgj2-oG91vNrJMlVOTaYrj7LvdBoeBvISaQTL1YiUuLS-5P_4He2IvRQSHIa1j0iLJogXCXLeyh7iR8RX2SdWYFF5-HnuI-1aTNr3sL-K9wg9ysxjp2bIk7Uyw-5IzyHUPcGL95bUD54dP9xXr_hRepyRpL_ygGryDnc2VbKtou3Mpz-yW9eFzkNNaQ-g2JoTLSImQcF-exg0bheH12artaBtV2hICSKf6bXNFK_JJhU0HmbBRV8o9TSfXu9Mei-4R22OzfJbxXxaGp6khDgFj8lgQR2C6SdzCFQV7-jGBg7EFGFjcGhzNpssYIk9XqTTZZ91wFBeK9U3qCBstccctXTPhgGIg4KDH6eALdQO2lX-seTeQ..%26ch%3DAQEAEAABABQdBbKFfkZTvsuL5wRn2CnaX7U_GIgkYvU.%26v%3D3%26pg%3DHSMQF3Q4NRFUTGJG7RG64YHBTY
+.netflix.com	TRUE	/	TRUE	1816863226	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9426Q92hBha-s2efdZRZ67zP99IgFyVQ.%26dt%3D1785327229789
