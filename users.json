@@ -202,8 +202,8 @@
     "username": "fourati",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 4,
+    "links_claimed": 5,
     "has_limit": false,
-    "last_claimed_at": "2026-10-24T13:51:13.289Z"
+    "last_claimed_at": "2026-10-25T14:15:44.641Z"
   }
 ]
