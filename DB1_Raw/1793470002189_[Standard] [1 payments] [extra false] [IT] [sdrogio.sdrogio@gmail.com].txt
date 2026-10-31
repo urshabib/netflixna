@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: sdrogio.sdrogio@gmail.com
+– Verified: false
+– Profile: sdrogio.sdrogio
+– Plan: Standard
+– Next billing: 3 de novembro de 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (VISA 6319)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1809848548	OptanonAlertBoxClosed	2026-05-09T07:42:28.648Z
+.netflix.com	TRUE	/	FALSE	1809848621	nfvdid	BQFmAAEBEIfDf90quEpmzIiLxGLv0j9gVKwF92utXuBpAUBhKdDx2BVqY-xZnMSlTPHww1PrEoavWbp0uSKXNnpfzk3uhWOcwJ70_MHkEqZpRP5eY7vaIfeoBKxAJ5ZNLI_p6jVd7fuh6InO85fNioJcqrCIJKlY
+.netflix.com	TRUE	/	TRUE	1820850748	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA6soRd0nux8_bpoxblpzjRQO_AJhK0FxLwZwe8knADpDbqa26CuQQ7c5qSJs-RyFWIvjTw941mGd8L0FeVFVqSlLMPexoPuNxAuj0HG93OMx1ZcBBiz72NsxQsLIsFIm_O9B6Ss-Ypu7M494IqsiSR1XVfXU0THitW6jGyECErpd1OyDahDsWKW4trULFxurFMlaEQj78uQWMzlPT7QyAF6f94Em3bWn3rO_F-tkAai4iTWTZFSLSBJz_TTYvFCRObhqqXyX1bAv4TXB_brp97p3X6G-UXM1NUnWU6rbZpjsADUx6510QPm7DFr307vggtRVc9mVxWVAaS8nT8yZJromAaFD0v47m3vYQ1hmEIrIFGH-zilGQiSvr_uFg-NUDamoEcusH8dAS0_CiiXDYdgj57W6CT6SaMT2kexw21Sr_OKPVBSqmYfhs7YVj1f0wAGQ2czfAp0LKm8yZE9j6GRoCgB4s_Roj5QlX_4H0RIiiJVMsuRdNyapeNkUakS8tWseaG0_Uo8G1ZzRHJp2iyfhktnYJzGkKDB2jINIEvV9oDqAGAYiDgoM5laqtSoox0c9sNHS%26pg%3DD23AAQQCOZBXPI6RBB4OXFM2C4%26ch%3DAQEAEAABABQUaEajsQA8DaLCXYJA1BvrDkvdfmwMr94.
+.netflix.com	TRUE	/	FALSE	1820850750	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+13+2026+17%3A52%3A30+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=69c71d11-9ba0-4f91-b09d-8923036454d4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1778312549133&geolocation=IT%3B45&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1820850748	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRmqTlpWyYpx_GtRLGe35haT6Q9-17RRRc.%26dt%3D1789314747654
+.netflix.com	TRUE	/	TRUE	1795896904	gsid	6ed08595-2fb8-484f-8151-56a937f2b9aa
+.netflix.com	TRUE	/	FALSE	1797090750	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797090750	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797090750	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1795896904	profilesNewSession	0
