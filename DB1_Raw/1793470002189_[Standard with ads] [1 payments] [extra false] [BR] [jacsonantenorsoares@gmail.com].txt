@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: jacsonantenorsoares@gmail.com
+– Verified: false
+– Profile: andrei
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( )
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1818718304	OptanonAlertBoxClosed	2026-08-19T23:31:44.782Z
+.netflix.com	TRUE	/	FALSE	1818721883	nfvdid	BQFmAAEBEAu0g8vduR9Wvn68zpzk02JgOz3L_3KEVNf4oyAzTo-R-STcZ0dYw0NRxvyjUpsMiNgyFoBc-cxQYSu8nCtq_u-7pniWDa2Ed_JjyAgFaOervjlevZDGBFBoEHPoIh47MdsxO-EkIeVy2OBzVLknclAh
+.netflix.com	TRUE	/	FALSE	1819667462	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+30+2026+20%3A11%3A02+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0a508717-27ba-483b-82f7-882aefe8ab7d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&lastConsentTs=1787182304&intType=3&crTime=1787182307462&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1822691461	dsca	true
+.netflix.com	TRUE	/	FALSE	1795907459	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1795907459	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1821104910	NetflixId	ct%3DBgjHlOvcAxLKA4XNgOEpZRJafr1o3i_Hs8NVSKbu_mP48whgNW4f-moLvC6a6faMhXsm-DBNDY1bejfHaQmMNpJkUbExOf3idyne-wpgMYp0ryPoDK-Ge-YkBo5VkPS5iwMS405FtpocfTXos49OZt4P0OQCvC6CBypK0qtVWYvmT88b5EzY4FbVLukZiCE8MJ9biaVmcCyPF3_N55tqcgpP1KKlurZLhkFqXqCfzEqjwd7KlwB2BbptMyU80a899HkENkyr-ieVYCZ1OgcABrCM-918PF-ihp-IuYyKjpHftRlUvAv8aJ1yBSanCocRs_SE5QxyEU2ikNbHLtp6H_ZzWgdAR_TqC-4nEBuEOONeabELd1gBleoEm5eyvx1v7z_Qaz8l9TpSaRnWW3VSAKBdZY7O8PXycL9qsTZ8BgNOQlphYK9HJJnqOt49RGQ8jyl8by5S8GpD5hCNa2F7islX65p2Ny8AgyE1ZVlMLlwCF64jzSC0gjZGDnx68EOk6lE2_hAtTHZiHPParFAVKH4HBl8Gh162fxYkvC7xlP_De7bFJ5gPMnumAE4E-gM4yY6sRLuosBPsEtYMFVMYStCnJvtt7X7Avs6bHc7HjuUMCHQBGAYiDgoM5IQWmzfCTLyr3J-g%26ch%3DAQEAEAABABR_JUum1MuKB8E18PjfjKZ0Nzp15IRnLIk.%26v%3D3%26pg%3DF4BQZVR5CBGJ3J5F6GIKORX4JY
+.netflix.com	TRUE	/	TRUE	1821104910	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRsOOSiMOV7udWCRvIHAxJMXpbKnvTGBQk.%26dt%3D1789568910116
+.netflix.com	TRUE	/	TRUE	1824128910	nap	BgiJv-vcAxJJsuFzuund-yloBJGO9824itgK2mq7yZx9oVHfeTlXkSbqb3AJzNOrx0ckAU9MvWZOGHkYMyHP9I5OEL7OC27HcKPu2HcKW1MtlRgGIg4KDBf9kY4wm9igdCvc7Q..
