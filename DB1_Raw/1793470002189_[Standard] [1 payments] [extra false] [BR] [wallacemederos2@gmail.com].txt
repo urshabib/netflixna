@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: wallacemederos2@gmail.com
+– Verified: false
+– Profile: Wua
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( )
+– Cookies: Adm @logslead
+
+.netflix.com	TRUE	/	FALSE	1816740877	OptanonAlertBoxClosed	2026-07-28T02:14:37.061Z
+.netflix.com	TRUE	/	FALSE	1816740887	nfvdid	BQFmAAEBEJw7xQ9gKKda0GeY7ZUD-VFg4IOrMcLGN9zVc43JXhuUMyylmzY2sYUt61lz2q0h_z64lmB6m1DOyhH6CdzzmTixvfRfPJyMTGRLsNcC66XujsG6L--HsSTCyM43lIezIYVZSLizs_DWRDSBmgV0bIF6
+.netflix.com	TRUE	/	TRUE	1818470540	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXAzAN99xQvv_8DQT2ax3lLGBNoVbdPzhAHQ-mIaILk5zGmBNefXBAfbh86kT68Ap2CtORJ9-uKWOu3zQ_xtyHZPnkyvZFNvLST-HUlIEOCgiEN26PhLcvpOK1850mDmfjxxxQ3XFyXmkaoswV34LtmfmiBpgS7jSiAiTxdSIzKPTfE659NfvKjYg8Nka--EONzY0CApyF6wvaoBl7G9FrJygVL_TQnqpjQ3bhai6BHDF1uMkqQvMZ5yV5tcSxvkKcJ5Z6yf4fjl2vtJ3etCcFBPBpDnsEk-QKTKHfy95HOUBocc66CAwL8FUmJjnC9beL4JZH8QiR9mIQfxnVRORpPUz1B8NKE-G5HQDk7Nbpcz50DvNqY-12N1d1EFruL_AY_FJh0BeV_Mpu4K7I5UFjrRvKJXZ6FfE66coZ6FC880paMOYftdCHCHjQhoMQpqnqCeeOW3qTALk3WdgJO9j6eGk6xBej0946rxQ9gzcXB9hmxuWRI9Z5rxD4KCTgK2XpgBD3K2aIqRUj2XjFtFCo3EB4EsDLtheUGAYiDgoMv_aboL0m6pWuV_DJ%26pg%3D4MCPP3EH7VFKNFMPEMBYZS3SCU%26ch%3DAQEAEAABABQ3qIPeol7osGQPZ7Y0SWr24_phqJlSaPc.
+.netflix.com	TRUE	/	FALSE	1818470542	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+16+2026+23%3A42%3A22+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e4579bd1-752f-403d-ac59-6382b0e5321b&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1785204877459&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BRJ
+.netflix.com	TRUE	/	TRUE	1818470540	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR_KyF3vYOVW6dGy8Gf3foVaSn7IeuhPvc.%26dt%3D1786934540940
+.netflix.com	TRUE	/	TRUE	1821494538	dsca	true
+.netflix.com	TRUE	/	TRUE	1795503670	gsid	96ff6875-9454-4095-955b-8099db4a08f5
+.netflix.com	TRUE	/	TRUE	1821494538	nap	BgjvvevcAxJJ8Vae-k4xUDZm_kdSSlAw0Xsvt1KEqB6_n-MYsdksZCr4WhBbvNZS1j0tMWY3uLcoDUIRfa1RWC2tq0oH_e_zLnlP3hIeXBX-iRgGIg4KDB-ZCHuLW4P1sP9ScQ..
+.netflix.com	TRUE	/	FALSE	1794710542	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794710542	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1795503670	profilesNewSession	0
