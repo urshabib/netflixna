@@ -186,9 +186,9 @@
     "username": "haitham",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 20,
+    "links_claimed": 21,
     "has_limit": false,
-    "last_claimed_at": "2026-10-16T14:17:59.788Z"
+    "last_claimed_at": "2026-10-31T17:28:07.036Z"
   },
   {
     "username": "Omarmarzouki",
