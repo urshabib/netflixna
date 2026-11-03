@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.eth (Use Brave browser)
+
+– Email: domenicortella@gmail.com
+– Verified: false
+– Profile: DOMENICO
+– Plan: Standard with ads
+– Next billing: 1 dicembre 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 4218)
+– Cookies: Adm @logslead
+
+.netflix.com	TRUE	/	FALSE	1796230768	OptanonAlertBoxClosed	2025-08-23T21:43:47.362Z
+.netflix.com	TRUE	/	FALSE	1796230768	nfvdid	BQFmAAEBECfrPCM-sSP-K2uphtix_11gjJ67Cg-e11MuRHw8lRoRhivw3HG2nrYWKRmC5yAqHp85x0KnQU-CJSlDEelXvDrKk2uzFktASL9ZOXEliYW8DLy0l3oVI_b11yDpoBOOLNWji5FnJxpsljUu2wMwqoCi
+.netflix.com	TRUE	/title	TRUE	1813333670	dsca	true
+.netflix.com	TRUE	/	TRUE	1814511212	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA5Gc7XlZDAmrmcDNFH5fb1OuYjmngWLRQ_x0_-Wa8IkfpnlNbcFe6BIYQ1xQPo5AnAIrGb1uwEESh41REbyIZiX3-m7KJEDaZ6aFRSFwqBsBQOfCpNJ9HXnka8xe22GfCcHA_SPjC_buKYblvwSlL-luM8Z9K5XVDYBx4knyGkBreEx8ePqQNOUyrcC5l46h_UDWIUNIIUs6VxxclsvHVmQLcQw-ziOLED3oEv9EwmjSoCKSFWXXstZkJkSFYEfy6jLCfMTKOn2hdF2uy9lzljd1AvQ8K6GTJiFsajOkzbSAKSTZJAJqYPGfSWAA1BkTsTMTSnDji2n3OhwpBNiYf58lTzPM1DfXpJSjJqTZZL1FA1vqGWdTsEoE9nHKcfuGtq6PpwL60nHlPWAOY5mcdUXovloa9-Yksq0MNQaVpQXXbHq0IOsQgxNQn_JiTAvdR4kzOsfr_QbJsWiY3RZ3AdRZAuz6N5wsspKi8RK9TzkYfjWjSDoyGQk7A-jOhOpUK83IOlZ24YGFxb8qSJ1Wuothz6-K8BgGIg4KDPyjageOh20RztWhXA..%26pg%3DK7ORBMMGB5EEVDYANTLRKDQAUI%26ch%3DAQEAEAABABRaCKLFJbrreV5i_hZLbykV7ebfdgCg0oA.
+.netflix.com	TRUE	/	FALSE	1814511216	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+02+2026+08%3A53%3A36+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a3764259-ab57-4652-9b24-9cd65ebd4f02&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B55&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1814511212	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQs32WSBl8cOuJfCUDkf3_7oTvjU4I1jOw.%26dt%3D1782975212108
+.netflix.com	TRUE	/	FALSE	1817535212	dsca	customer
+.netflix.com	TRUE	/	FALSE	1796230768	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796230768	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796230768	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
