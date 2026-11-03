@@ -205,5 +205,12 @@
     "links_claimed": 10,
     "has_limit": false,
     "last_claimed_at": "2026-11-03T11:19:32.064Z"
+  },
+  {
+    "username": "zaineb",
+    "password_hash": "123",
+    "is_admin": false,
+    "links_claimed": 0,
+    "has_limit": false
   }
 ]
