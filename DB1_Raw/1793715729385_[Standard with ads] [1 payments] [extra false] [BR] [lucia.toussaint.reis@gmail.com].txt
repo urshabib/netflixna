@@ -1,0 +1,25 @@
+Valid Cookie / Every day!
+https://russia34.eth (Use Brave browser)
+
+– Email: lucia.toussaint.reis@gmail.com
+– Verified: false
+– Profile: Visita
+– Plan: Standard with ads
+– Next billing: 10 de novembro de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 5634)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1803180712	OptanonAlertBoxClosed	2026-02-21T03:31:52.342Z
+.netflix.com	TRUE	/	FALSE	1815350583	dsca	customer
+.netflix.com	TRUE	/	FALSE	1812327396	nfvdid	BQFmAAEBEHDZYOl_BeI5V7Wn3Wj1awlg38_ZcR_ohHOsv2AN-7B7PBkOVHfdGbE0eQXb7cp9EW7-wcANf-hWu51XA8uEoLsUoaysu1MtxfG4vqikIyWpKqG1t0a_yy8owIc3PC73uXkxxRRNvOZWLnZawciePSYv
+.netflix.com	TRUE	/	TRUE	1814744314	NetflixId	ct%3DBgjHlOvcAxKyA1B_-Gk4Uy4ybG2DfBpl91BxaknauKUJ9p-AL8r3RH9XlrKQtQYP8oAo_gfYfT2Vr_NK9xD3J8D5IiF1zBOHeUuhhltEH76MhqzW0tPZuyoAH47VoPtHT7iSwanzyuC1eO_6LP8b7rLgiUm5rr7XJCKe2w0C63gVmfs02k4odAfv7oIsW7g6CJxY4zEIkeq3zYoLQKcWude2_iHYVlMSOvBr0OT8SmbzRkJv5QDYTndzf5ZL0scGAh2Fxox7n1jP805_cPl9uOYJe4UdsM6bGa8xHA28UD7G6zUvGaCYidXewxVVZNd5rqt06ZxvzecmskBcpGoU_Ort_D9dvbpVLnWamPW2TvAK0RIEYb5PRGdj5-cCASkm9C6FhgXJaXp3jc8CWQHfwEpYKoXIynkyebmXnla45HMwP837KTiCoKcIMQ-noQpBRqbO_hOt3FAqYmgtRktorwJz04XKP4yJH1Ew0AdMkyA0KMxDXzrQ-Ch-yFnPVfazVFEvW6aTDFxpZIO2GZzxfqmj0U429yS-jdhs0VrahEfwbQV00rTLfjWDpCOgAOp_8W5Izgf7RsonuF06GAYiDgoM5uKG-oLcdHcdsmJE%26ch%3DAQEAEAABABSXxN7AKXlM0pqF-oWvVjjc-aS7RMehsgs.%26v%3D3%26pg%3D4TQMBPGTBZHXJHOZZ5EC4Z6HPA
+.netflix.com	TRUE	/	FALSE	1814744316	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+04+2026+20%3A38%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3cfa740a-5122-4cda-a0ed-47673fdeae0a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771644712979&geolocation=BR%3BMG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1814744314	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSqsozfIBP7XFn8DsguI_9-66IH2yXDyRM.%26dt%3D1783208308912
+.netflix.com	TRUE	/	TRUE	1796230767	gsid	588148ec-3778-4b6d-9bb8-d6a48b3b4b50
+.netflix.com	TRUE	/	FALSE	1796230767	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1817768315	nap	BgiPu-vcAxJJmyAEqByyUxbLlFj2VJFpgokjxEcfe6qrs5xlIasuUcWtjJcJGtuCNB1LIbsoC_5NYrcVAW9DI_rBpcNEigyW34nYO75xTslDtxgGIg4KDOhk-UUgOkqU3B5xog..
+.netflix.com	TRUE	/	FALSE	1796230767	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796230767	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1796230767	profilesNewSession	0
