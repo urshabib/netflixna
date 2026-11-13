@@ -1,0 +1,21 @@
+-INTEL CHECKER : https://t.me/+5BazMmN2_mtmZDAy
+-SUPPORT : https://t.me/intelsup
+-BUY : https://t.me/intelchecker_bot
+
+– Email: mdisrafilmia329175@gmail.com
+– Profile: mdisrafilmia329175
+– Plan: Standard
+– Country: BD
+– Profiles: 1
+– Max Streams: 2
+– Cookies: C:\Users\Tysrnkmk2006\Desktop\asba\[BD]_TG - @FATETRAFFIC_2026_11_10_67737586\Cookies\Google Chrome_Default.txt
+
+www.netflix.com	FALSE	/	FALSE	1778757224	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1778757222	gsid	4e0ab552-4ca0-4971-a1e2-31b5246f721e
+.netflix.com	TRUE	/	TRUE	1810206860	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5hClkb6zv7BLrw8qhVhNLt6DSwlBRrKo.%26dt%3D1778670862065
+.netflix.com	TRUE	/	FALSE	1810206860	nfvdid	BQFmAAEBEBgv38JIYS8N5Cf429mJlxtgpHGhozfkR8Gl5UKHa4RSiIVknuNrxAJj62YstouoXea6544YFNgQQD20IV-8x7gK-Dk3svMYMp3C6SQ05wyGiGEE5pO1vs_2S7O4ZhZvEESY0VO1QT723UsixLtnjdHe
+.netflix.com	TRUE	/	TRUE	1810206860	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlA7jbJ1O_PvaWSYPoyT0F4mNASf3LpDlO5EojbbaCGTeng5QbEFchhFhfD0eBOdXhO53idRbcS5aU3G4kSatdCSWW0lqsUimpqIisMP8rWSXmQfDzSQYAHte0TTEdLgYboWSbn4PtfKgFbFkWkUwS85PsMZp6mFJPG1xGwN0juolI1xJU84iqSJQAWzpjbqv1il1_G_9jE3of4wVuN1Vn0s1qDU1nlODfd0Fa6H2BuG-yjzesEfEl-i3s-PSuPe59Y6JzYAT4DlfKNAx4ydbQ2in4dTcQLFiLd4h8xm3QTh-Ix-E2tybZmGj3zpjCjj29L2kuTpTi5GET7spPOnEmdlcGc_ic4R16W4G2MXq--8NnyrZkIiQ4vn7nByQ-ebx7tmUfuRLdR3B8K48vtSazNmWlei2rQmleBKuFRCXuU7ENFHBtZ2kGgV7bdxxT9mIpd8aaCNJvy2GTWiJJeNJSBCaLgVXWCRo596TJnpxKGbeht0Osi1izRnxY205DMO8zydHuw69UtDetwQTBQfmE7o2rBTt5G_w8_XCHlYPypLDa0SFmHVUYBiIOCgyNdxBHWfleTQ0N2Fw.%26pg%3D4U5FKE4RERAAVO35TWISKBXWJY%26ch%3DAQEAEAABABRbQZmGVQPGWlVTH-tnmBUpQ-sB0n2WCus.
+.netflix.com	TRUE	/	FALSE	1810206876	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+04%3A14%3A36+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4b8ec9eb-0588-4f6f-95db-efe5fe9de207&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778670868866&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1778681676	flwssn	62a41635-251b-495e-85f7-36e877829785
+.netflix.com	TRUE	/	FALSE	1786446876	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786446876	netflix-sans-normal-3-loaded	true
