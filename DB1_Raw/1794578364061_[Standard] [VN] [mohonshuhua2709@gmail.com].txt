@@ -1,0 +1,21 @@
+-INTEL CHECKER : https://t.me/+5BazMmN2_mtmZDAy
+-SUPPORT : https://t.me/intelsup
+-BUY : https://t.me/intelchecker_bot
+
+– Email: mohonshuhua2709@gmail.com
+– Profile: mohonshuhua2709
+– Plan: Standard
+– Country: VN
+– Profiles: 1
+– Max Streams: 2
+– Cookies: C:\Users\Tysrnkmk2006\Desktop\asba\[VN]_TG - @FATETRAFFIC_2026_11_10_95500608\Cookies\Google Chrome_Profile 1.txt
+
+www.netflix.com	FALSE	/	FALSE	1786331522	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1786331520	gsid	dd6349c5-a8f7-4af0-bdc4-3db6209e3dbd
+.netflix.com	TRUE	/	TRUE	1817781217	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRpwz5LVI56lTSfSNLGiKiRTHF8EOBr6V0.%26dt%3D1786244595410
+.netflix.com	TRUE	/	FALSE	1817781217	nfvdid	BQFmAAEBEDpd2xQEmlXyWyFOQjgq9epgsN8IvaNmVTIHYipQvxYtdXA-f_Hw8l5B54rJZW55EYyu0RuUkdIo1kV1_Wr9RAOMTnak37RA0sgIgGhDtWxhel6LYSuKbsg-9IVdKU5a7b7Y2MeVaBoPk5NHzNSpLU51
+.netflix.com	TRUE	/	FALSE	1817781243	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+09+2026+10%3A14%3A03+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7e8191e6-4b90-4709-b96b-f4cc7fbce511&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1786245153341&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1817781217	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA6FkEGu9kjDwa0IF4q6kPHR_GNV6dUHBpL4r_e0d8q3GQndfslVV3XQSXUwL3fvjVq0DVosmTqSsbSkTmO2e8BIvocXTX-QzkrL6_oWJ928dvq3sTzEDuCJS209ICcyTBC9kR2kfY7CC90olkwKzyN8S_z2zQGrk3AISJbggsj8yhlgMIo7CW6f3YdvGQX9aXC-dESXWYaX5OHFl5jVEp3dzQMMDc9pYoW3FakOoZjZRZ1x1fRjZecGZUf8QEOPyLAC5a7bufWKRfx3cDkY056BzMIGns2vsPMGpX75NVAUTz1-Rs_uQzhD_nJfy-o6R2TTEYc89gxiJU1dA0Lt-jGS8yi0YHRC7PU1HfDTgTJ7zv2lNk-xQANPcPYY8vqUZeCmpwm4gwIhi3Eh0ryAlAgW3G3XLHuRuDzio9FQQUMudgAtEAqYGUqigczBp2VrEET6CUHVlJ66u3DTbQci9WeJ9a5IagDZ90IAXKSv1X2rg0WYKFbczsrSuSmLZFGqtVnRLRlyT4ZfvWMGT6F9degeW_qJAk8iA-xDSzBrwjKuntYsYBiIOCgyXCP7TisL7eQ9GD04.%26pg%3DD5FXHQBO3FEXRFM54GC3BLFM44%26ch%3DAQEAEAABABTCwTMV245YwumVX-GPwYhUjfFqOv90oqE.
+.netflix.com	TRUE	/	FALSE	1794021243	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786256043	flwssn	b4d13cfa-e70a-4698-95eb-6a42cbf87d5a
+.netflix.com	TRUE	/	FALSE	1794021243	netflix-sans-normal-3-loaded	true
