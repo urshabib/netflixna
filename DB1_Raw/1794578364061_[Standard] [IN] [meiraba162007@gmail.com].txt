@@ -1,0 +1,20 @@
+-INTEL CHECKER : https://t.me/+5BazMmN2_mtmZDAy
+-SUPPORT : https://t.me/intelsup
+-BUY : https://t.me/intelchecker_bot
+
+– Email: meiraba162007@gmail.com
+– Profile: meiraba162007
+– Plan: Standard
+– Country: IN
+– Profiles: 1
+– Max Streams: 2
+– Cookies: C:\Users\Tysrnkmk2006\Desktop\asba\[IN]_TG - @FATETRAFFIC_2026_11_10_61497229\Cookies\Microsoft Edge_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1807281465	nfvdid	BQFmAAEBEPH4CXr0IZCnlORZ6lNnv7FgIXTrG_Y1JuVLduXMuiUM5psZd0S9sc2mYUoqJxA7MnoKweCwpaC2hIqMiRtKru53dRwYhhSOgHD6G-tGdx4jTXHKZs-CJOaRjmrnT4NkGcFJzjvDTCpKEseLp9YCuLiE
+secured.netflix.com	FALSE	/	TRUE	1810305484	thx_guid	33b2b04037c1c1f430d99832439c1dcb
+secured.netflix.com	FALSE	/	TRUE	1810305599	tmx_guid	AAxY5g9A6glu6Yx6KaKulEFxJ5s4IuRliM98hewX3c4iq957mX3zTHy7BORm-MDyNlDUANhD2L1KqUluEbn8cq9y3BMpKw
+.netflix.com	TRUE	/	FALSE	1824203818	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+22+2026+16%3A46%3A58+GMT%2B0530+(India+Standard+Time)&version=202609.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d934e066-0f50-4293-aa7d-9bc5e095e239&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1824203814	NetflixId	ct%3DBgjHlOvcAxKKBNo0eGcTtezGTl_LQT4miFYVqbZHzTLnSz8iqcjgCsM9A-0E8GD26mO4adkNwDYzuV-kZxtxiNUrRbewXGBc2Ryi7TgTXNLvIDU9AhnIPeQSGY8ticnGT01rOP3mgMdrgxCBQRveCZTTIXOxFwX3OUGPMzK3kO0vh93dg4cEjEIcOzd4X-r4bJeeXknZOM2vd6pWIM1qQnKBuFDqO3bBVURpXUTwGaDhsIm1tkfsvDfLM04fgJVD1WDuOLyL7z9WQ6p8eB7v5W77wrvNURDFF2Lai7YoJ0La2VdObInPCFoWZY0dKmTCLJ4_DEemLDArGQDmgx6LuH6WUMguItwmABu7_5dH5oNp7Sf8H7xLFgTu4RBsVTdujRIIy84ct-Ke9jyPIVqGOsEYGWD4BWjR1TU5pSIIA_ujJLUVhaINv5WQKHOuhaKiGvXXZA0QWWCPSEaL3wDKtJ_EP2ApLfMaAvrLhHErFI-nWqPykBTxmpgS9V39RtLRpKtFjBhoAJVOnrhRT4WB9UDEPkY9S_pEF0QjcXNoH490mws0_u4VMPOM1BysuxUzJOXx9B6TmtMSLytk4guJrduvU4fgpffu4nVqrDOJIyqE7gVb6aPwoGbNo-npXsPNQFUxwNKKKxqOkw-WGdCVe2VEaK_I4kVbko2T55oaITELirK7-1bdXu__diZYioWhyw7InBgGIg4KDL2uQY13goE_apTXew..%26ch%3DAQEAEAABABQ51kyLq3_Vm27v0HWFtKy55-XOw92FrVs.%26v%3D3%26pg%3D27KGW3L66BHP7LCJG5RZSOXDPA
+.netflix.com	TRUE	/	TRUE	1824203814	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRaK4jsDnFeeXLnIu1TX7b3mVWzoidC82Q.%26dt%3D1792667811036
+.netflix.com	TRUE	/	FALSE	1800443817	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800443817	netflix-sans-bold-3-loaded	true
