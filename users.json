@@ -202,9 +202,9 @@
     "username": "fourati",
     "password_hash": "123",
     "is_admin": false,
-    "links_claimed": 20,
+    "links_claimed": 21,
     "has_limit": false,
-    "last_claimed_at": "2026-11-15T20:26:12.257Z"
+    "last_claimed_at": "2026-11-19T21:33:35.920Z"
   },
   {
     "username": "zaineb",
