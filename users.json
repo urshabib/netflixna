@@ -178,9 +178,9 @@
     "username": "douday",
     "password_hash": "1234",
     "is_admin": false,
-    "links_claimed": 1,
+    "links_claimed": 2,
     "has_limit": false,
-    "last_claimed_at": "2026-09-07T19:02:24.998Z"
+    "last_claimed_at": "2026-11-20T18:44:51.586Z"
   },
   {
     "username": "haitham",
